@@ -1,0 +1,2 @@
+class Prosecution < Notice
+end

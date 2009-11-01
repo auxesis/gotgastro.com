@@ -1,0 +1,28 @@
+--- 
+:action_date: "2008-05-15"
+:offence_date: "2008-02-14"
+:pursued_by: North Sydney Council
+:notes: ""
+:url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-sea-treasure-seafood-restaurant
+:offence_description: 
+- "Breach of Section 21(1) of the Food Act 2003: Failure to comply with the Food Standards Code in relation to the conduct of food business or to food intended for sale or food for sale:"
+- (1) Food Standards Code 3.2.2 19(1) Failure to maintain the floors of the food premises to a standard of cleanliness.
+- (2) Food Standards Code 3.2.2 19(2) Failure to maintain equipment, having regard to its use, to a standard of cleanliness.
+- (3) Food Standards Code 3.2.2 21(1) Failure to maintain the walls of the food premises in good state of repair.
+- (4) Food Standards Code 3.2.2 24(1)(c) and (d) Failure to take all practicable measures to prevent pests entering the food premises and to eradicate and prevent the harbourage of pests on the food premises.
+- (5)Food Standards Code 3.2.2 6(1)(a) failure to store food in such a way that it is protected from the likelihood of contamination.
+:prosecution_decision: Guilty, conviction recorded
+:latitude: -33.826335
+:trading_name: Sea Treasure Seafood Restaurant
+:court: Downing Centre Local Court
+:penalty_amount: |-
+  $2,500 for each offence 19(1), 19(2), 21 and 24(1)
+              $500 for 6(1)
+              Total - $10,500
+              Council awarded professional costs - $2,211
+:address: 46 Willoughby Road Crows Nest NSW 2065
+:longitude: 151.200601
+:id: sea-treasure-seafood-restaurant
+:served_to: Sea Treasure Pty Ltd
+:prosecution_decision_description: Not available online
+:council_area: North Sydney

@@ -1,0 +1,21 @@
+--- 
+:action_date: "2007-12-13"
+:offence_date: "2007-03-16"
+:pursued_by: NSW Food Authority
+:notes: Person convicted no longer operates the business
+:url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-obo-fresh-chicken
+:offence_description: 
+- Sold chicken mince that contained the preservative Sulphur Dioxide, contrary to the Food Standards Code (Standard 1.3.1 cl. 2) and section 21(2) of the Food Act 2003.
+:prosecution_decision: Guilty, conviction recorded
+:latitude: -33.885786
+:trading_name: OBO Fresh Chicken
+:court: Chief Industrial Magistrates Court, Sydney
+:penalty_amount: |-
+  $8,500 fine
+              $3,470.30 professional costs awarded
+:address: Shop 10-11 Ashfield Mall Ashfield NSW 2166
+:longitude: 151.122829
+:id: obo-fresh-chicken
+:served_to: OBO Trading Pty Ltd
+:prosecution_decision_description: Judgment not available online
+:council_area: Ashfield

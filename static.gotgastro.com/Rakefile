@@ -1,0 +1,58 @@
+require 'rubygems'
+Gem.path << File.expand_path(File.join(File.dirname(__FILE__), '..', 'gems'))
+
+Dir['tasks/**/*.rake'].sort.each { |rakefile| load rakefile }
+
+desc 'build site'
+task :build do
+  puts 'building'
+  system("rm -rf output/")
+  system("nanoc co")
+end
+
+desc 'deploy site'
+task :deploy => :build do 
+  puts 'deploying'
+  system("rsync -auv --delete -e ssh output/* p:/srv/www/gotgastro.com/root/")
+end
+
+
+require 'dm-core'
+require File.join(File.dirname(__FILE__), '..', 'scraper')
+DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), '..', 'gastro.db'))}")
+require File.join(File.dirname(__FILE__), 'lib', 'models', 'notice')
+require File.join(File.dirname(__FILE__), 'lib', 'models', 'penalty')
+require File.join(File.dirname(__FILE__), 'lib', 'models', 'prosecution')
+
+desc "create database to store penalties + prosecutions"
+task :create_database do 
+  DataMapper.auto_migrate!
+end
+
+desc "create penalties in database from geocoded data"
+task :create_penalties do
+  puts("Destroying existing penalties.")
+  Penalty.all.destroy!
+
+  penalties = read_yaml(:type => :penalties, :base => 'geocoded')
+  puts("Have #{penalties.size} penalty notices to create.")
+  sleep 2
+  penalties.each do |notice|
+    puts("Creating #{notice[:id]}")
+    Penalty.create(notice)
+  end
+end
+
+desc "create prosecutions in database from geocoded data"
+task :create_prosecutions do
+  puts("Destroying existing prosecutions.")
+  Prosecution.all.destroy!
+
+  prosecutions = read_yaml(:type => :prosecutions, :base => 'geocoded')
+  puts("Have #{prosecutions.size} prosecution notices to create.")
+  sleep 2
+  prosecutions.each do |notice|
+    puts("Creating #{notice[:id]}")
+    Prosecution.create(notice)
+  end
+end

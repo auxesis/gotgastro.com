@@ -1,0 +1,25 @@
+--- 
+:action_date: "2009-03-03"
+:offence_date: "2008-08-04"
+:pursued_by: North Sydney Council
+:notes: ""
+:url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-ridge-street-cafe
+:offence_description: 
+- "Failure to comply with Section 21(1) of the Food Act 2003, Food Standards Code 3.2.2 Clause 19 (2) Unclean Equipment:"
+- Failure to maintain all fixtures, fittings and equipment, having regard to its use, and those parts of vehicles that are used to transport food, to a standard of cleanliness where there is no accumulation of food waste, dirt, grease or other visible matter.
+- "- Food waste, dirt, grease and other visible matter had accumulated on utensils located below the hot plate, the external surface of the deep fryer, the white cupboard located next to the deep fryer, the shelves located next to the dishwasher and on the shelves located inside the white cupboards in the front service area and on the lights located in the rear cooking area."
+:prosecution_decision: Guilty, conviction recorded
+:latitude: -33.833739
+:trading_name: Ridge Street Cafe
+:court: Downing Centre Local Court
+:penalty_amount: |-
+  Clause 19(2) - $500
+              Court costs - $70
+              Court costs awarded to North Sydney Council - $500
+              Total - $1070
+:address: 35 Ridge Street North Sydney NSW 2060
+:longitude: 151.207101
+:id: ridge-street-cafe
+:served_to: Inte-wide Pty Ltd
+:prosecution_decision_description: Judgement not available online
+:council_area: North Sydney

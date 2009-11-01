@@ -1,0 +1,24 @@
+--- 
+:action_date: "2008-04-23"
+:offence_date: "2007-09-24"
+:pursued_by: NSW Food Authority
+:notes: ""
+:url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-lurnea-noureddine-butchery
+:offence_description: 
+- (1) Sale of Lamb Minced Meat contained Sulphur Dioxide preservative.
+- (2) Sale of Lamb Sausages containing excess Sulphur Dioxide preservative.
+- (3) Sale of Lamb Sausages contained excess proportion o fat.
+:prosecution_decision: Guilty, conviction recorded
+:latitude: -33.931329
+:trading_name: Lurnea Noureddine Butchery
+:court: Chief Industrial Magistrate's Court, Sydney
+:penalty_amount: |-
+  Sulphur dioxide charges (1 & 2 above) Fine $2250 was combined into one.
+              Excess fat charge was fined $1,500
+              Total fines of $3,750 plus $1749 professional costs
+:address: Shop 2, 63-69 Hil Rd, Lurnea NSW
+:longitude: 150.895907
+:id: lurnea-noureddine-butchery
+:served_to: Ahmad Noureddine
+:prosecution_decision_description: Not available online
+:council_area: Campbelltown

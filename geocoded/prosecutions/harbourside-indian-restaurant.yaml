@@ -1,0 +1,30 @@
+--- 
+:action_date: "2008-09-23"
+:offence_date: "2008-03-12"
+:pursued_by: North Sydney Council
+:notes: ""
+:url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-harbourside-indian-restaurant
+:offence_description: 
+- Failure to comply with Food Act 2003, Section 21(1) Food Standards Code 3.2.2
+- 19 (1) Unclean Premises - Failure to maintain food premises to a standard Code breached) 11 of cleanliness where there is no accumulation of food waste, dirt, grease or other visible matter.
+- 19 (2) Unclean Equipment - Failure to maintain all fixtures, fittings and equipment, having regard to its use, and those parts of vehicles that are used to transport food, to a standard of cleanliness where there is no accumulation of food waste, dirt, grease or other visible matter.
+- |-
+  24 (1) (c)(d) Animals and Pests - Failure to take all practicable measures to prevent pests entering the food premises; and take all practicable measures to eradicate and prevent the harbourage of pests on the food premises.
+              6 (1) (a) Food Storage - A food business must, when storing food, store it in such a way that: it is protected from the likelihood of contamination.
+:prosecution_decision: Guilty, conviction recorded
+:latitude: -33.843236
+:trading_name: Harbourside Indian Restaurant
+:court: Downing Centre Local Courts
+:penalty_amount: |-
+  Clause 19(1) - $1,000
+              Clause 19(2) - $2,200
+              Clause 21(1)(c)(d) - $5,000
+              Clause 6(1)(a) - $2,000
+              Court costs awarded to North Sydney Council - $1,683
+              Defendant ordered to pay a total of $11,883
+:address: 5 Walker Street North Sydney NSW 2060
+:longitude: 151.208143
+:id: harbourside-indian-restaurant
+:served_to: Kanakaila Pty Ltd
+:prosecution_decision_description: Judgment not available online
+:council_area: North Sydney Council

@@ -1,0 +1,7 @@
+gastro/log/**/*
+gastro/*.db
+tmp/**/*
+static.gotgastro.com/output/
+gems/**/*
+gastro.db
+.bzr/

@@ -1,0 +1,67 @@
+
+%div#header
+  %div#status
+    loading...
+  = link_to image_tag('gastro.gif', :class => 'logo', :alt => 'Gastro logo', :title => 'Gastro'), 'http://gotgastro.com/'
+
+%div#container 
+  
+  %div#map{:style => "width: 800px; height: 490px;"}
+
+  %div#info
+    %div#what.info
+      %h2 What
+      %p 
+        Gastro is a 
+        = link_to "Google Maps", "http://maps.google.com"
+        mashup of the
+        = link_to "NSW Food Authority's", "http://www.foodauthority.nsw.gov.au/"
+        name-and-shame lists. 
+      %p 
+        It collates the 
+        = link_to "Register of Offences", "http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/", :class => 'prosecution'
+        and the
+        = link_to "Register of Penalty Notices", "http://www.foodauthority.nsw.gov.au/penalty-notices/", :class => 'penalty'
+        and displays the location of offending restaurants on a map.
+        
+    %div#latest.info
+      %h2 
+        Latest
+        %span.updated-at
+          (as of 
+          = Time.now.strftime("%Y/%m/%d") + ')'
+      %ul 
+        - @notices = Notice.all(:latitude.not => nil, :order => [:offence_date.desc], :limit => 10)
+        - @notices.each do |n|
+          %li
+            - offence_type = n.type.to_s.downcase == "prosecution" ? "prosecution" : "" # highlight prosecutions
+            %a{:href => n.url, :target => '_blank', :class => offence_type}
+              = n.action_date.to_s + ':'
+              = n.trading_name
+      = link_to '(feed)', '/notices.rss'
+          
+    %div#related.info
+      %h2 Related
+      - if @site.config[:environment] == "production" 
+        %br
+        = partial 'adwords'
+      - else
+        %p adwords go here!
+    
+    %div#meta.info
+      %h2 Meta
+      %ul
+        %li 
+          = link_to 'JSON', '/notices.json'
+          notices.
+        %li 
+          = link_to 'GeoRSS', '/notices.rss'
+          feed. (you can paste this directly into Google Maps)
+        %li 
+          Check out the code at 
+          = link_to('code.gotgastro.com', 'http://code.gotgastro.com/') 
+    
+
+%script{:type => "text/javascript"}
+  = "<!-- \n notices = #{partial 'data', :format => 'json'} \n -->"
+

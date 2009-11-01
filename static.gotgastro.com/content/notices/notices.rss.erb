@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" 
+     xmlns:georss="http://www.georss.org/georss">
+  <title>Gastro</title>
+  <subtitle>NSW food authority penalty notices</subtitle>
+	<% base_url = @site.config[:base_url] -%>
+  <link href="<%= base_url %>/"/>
+  <link href="<%= base_url %>/notices.rss" rel="self" type="application/rss+xml" />
+  <% @notices = Notice.all(:latitude.not => nil, :order => [:action_date.desc], :limit => 20) -%>
+  <updated><%= @page.mtime.strftime("%Y-%m-%dT%H:%M:%S+10:00") %></updated>
+  <author>
+    <name>Gastro</name>
+    <email>gastro@unstated.net</email>
+  </author>
+  <id><%= base_url %>/</id>
+  <% @notices.each do |n| -%>
+  <entry>
+    <title><%= escape(n.trading_name) %></title>
+    <link href="<%= escape(n.url) %>"/>
+    <id><%= escape(n.url) %></id>
+    <updated><%= n.action_date.strftime("%Y-%m-%dT00:00:00-00:00") %></updated>
+    <summary><%= escape(n.offence_description) %></summary>
+    <content>
+      <![CDATA[
+      <p><%= escape(n.offence_code) %></p>
+      <p><%= escape(n.offence_description) %></p>
+      ]]>
+    </content>
+    <georss:point><%= n.latitude%> <%= n.longitude %></georss:point>
+  </entry>
+  <% end -%>
+</feed>
+

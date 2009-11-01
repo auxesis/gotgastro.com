@@ -1,0 +1,4 @@
+reps:
+  default: 
+    filters_pre: ['erubis']
+    layout: none

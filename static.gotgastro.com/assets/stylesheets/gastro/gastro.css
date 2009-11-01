@@ -1,0 +1,151 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body { 
+  font-size: 2em;
+  background-color: #1F2226;
+}
+
+a { 
+  text-decoration: none; 
+  color: #15227F;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin-top: 0.8em;
+}
+
+div#header {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+div#container {
+  width: 850px;
+  margin: auto; 
+  clear: both;
+}
+
+div#status {
+  display: block;
+  float: right;
+  margin-top: 90px;
+  color: white;
+}
+
+div#map {
+  margin: 0.5em auto 0.5em auto;
+  border: 8px solid #8A2E00;
+}
+
+div#exception {
+  background-color: white;
+  padding: 1em;
+}
+
+div.notice {
+  font-family: sans-serif;
+  font-size: 0.9em;
+}
+
+div#latest li {
+  font-size: 0.9em;
+  margin-bottom: 0.2em;
+}
+
+div#info {
+  margin: auto;
+  width: 750px;
+}
+
+div.info { 
+  float: left;
+  background-color: white;
+  padding: 1em;
+  width: 320px;
+  margin: 0.5em 0.3em 1em 0.3em;
+}
+
+div#info span.updated-at {
+  font-size: small;
+  font-weight: bold;
+}
+
+div#related {
+  font-size: 0.9em;
+}
+
+h2 {
+  margin-bottom: 0.2em;
+  font-family: sans-serif;
+}
+
+div#info a {
+  padding: 2px;
+}
+
+a.prosecution {
+  background-color: #B170B1;
+}
+
+a.penalty {
+  background-color: #E86C1F;
+}
+
+li { margin-left: 1em; }
+li:hover { list-style-type: circle; }
+
+img.logo {
+  margin-top: 1em;
+}
+
+a img.logo {
+  border: none;
+}
+
+div.notice.marker {
+  padding: 0.4em;
+}
+
+div.notice.marker p {
+  margin-top: 0.3em;
+}
+
+div.notice.marker p.prosecution-description {
+  font-size: 0.8em;
+}
+
+div#month-slider {
+  color: white;
+  text-align: center;
+}
+
+div.slider {
+  width: 600px;
+  height: 16px;
+  background-color: #E5E3DF;
+  margin: auto;
+  margin-bottom: 0.3em;
+}
+
+div.slider div.knob {
+  background-color: #13BD51;
+  width: 32px;
+  height: 16px;
+  cursor: move;
+}
+
+.bold {
+  font-weight: bold;
+}

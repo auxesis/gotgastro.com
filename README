@@ -1,0 +1,15 @@
+
+== Overview
+web app lives under gastro/
+crawler/geocoder/extrator is scraper.rb
+scraper takes a bunch of arguments, see --help
+
+(lame) tests in spec/
+You can run specs with:
+	rake spec
+
+You'll probably want to cd into gastro/ and run 
+	bin/thor merb:gem:redeploy
+
+== optimising logo image
+  convert -colors 7 gastro.png gastro.gif

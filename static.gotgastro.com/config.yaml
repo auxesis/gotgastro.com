@@ -1,0 +1,13 @@
+output_dir:  "output"
+data_source: "resourceish"
+router:      "resourceish"
+
+#environment: "development"
+#gmaps_api_key: "ABQIAAAAJnEPEbxIS9MoAOCah-uOuhR_of6B7cl4R8DrxaHcYwAWc8LK2hS9A7ngHfqHlvz91dKjTo-_C2KaJQ"
+#base_url:    "http://localhost:3000"
+
+base_url:    "http://gotgastro.com"
+environment: "production"
+gmaps_api_key: "ABQIAAAAJnEPEbxIS9MoAOCah-uOuhTfI78dZ8RaNU1N6AMWWeZtpKLxhhTaMtxOm53RkuCD6xiYo1XYkT1azA"               
+ga_api_key: "UA-388962-4"
+
