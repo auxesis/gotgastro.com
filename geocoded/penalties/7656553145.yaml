@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553145
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.374429
 :trading_name: THE BAKEHOUSE CAFE
 :penalty_amount: $660.00
 :address: SHOP  58, 12 BAY VILLAGE RD BATEAU BAY 2261
+:longitude: 151.472999
 :id: "7656553145"
 :served_to: THE BAKEHOUSE CAFE NSW P/L
 :council_area: WYONG

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501711
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - unclean fridge handles, fridge shelving, and meat slicer
+:latitude: -33.864413
 :trading_name: MAXWELLS COFFEE SHOP
 :penalty_amount: $330.00
 :address: 60 PITT STREET SYDNEY 2000
+:longitude: 151.209074
 :id: "7250501711"
 :served_to: POULOS, NICOLE
 :council_area: SYDNEY

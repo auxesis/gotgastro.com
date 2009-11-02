@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576024
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - There was an accumulation of rodent droppings on the food premises
+:latitude: -33.744686
 :trading_name: BFD'S TAKE AWAY
 :penalty_amount: $330.00
 :address: 12/12-14 SEVERN STREET ST MARYS 2760
+:longitude: 150.773698
 :id: "3013576024"
 :served_to: BAILEY, SCOTT
 :council_area: PENRITH

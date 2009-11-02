@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267512
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.766622
 :trading_name: CHARLIE'S SANDWICH CLUB
 :penalty_amount: $330.00
 :address: 49 NORTH PD MT DRUITT 2770
+:longitude: 150.819436
 :id: "3015267512"
 :served_to: ZHENG, YONG KANG
 :council_area: BLACKTOWN

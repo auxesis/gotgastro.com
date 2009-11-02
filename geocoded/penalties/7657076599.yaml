@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076599
 :offence_description: Fail to maintain food premises, fixtures, fittings, equipment in a good state of repair and working order
+:latitude: -36.394166
 :trading_name: NIKKI'S KIOSK
 :penalty_amount: $330.00
 :address: SMIGGIN HOLES 2624
+:longitude: 148.428644
 :id: "7657076599"
 :served_to: BOHL, BREEZE
 :council_area: Kosciuszko

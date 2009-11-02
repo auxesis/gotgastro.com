@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242350
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
+:latitude: -33.773042
 :trading_name: GOLDEN MA LUN CHINESE
 :penalty_amount: $330.00
 :address: 164 MAIN STREET BLACKTOWN 2148
+:longitude: 150.913261
 :id: "3015242350"
 :served_to: WU, DAVID
 :council_area: BLACKTOWN

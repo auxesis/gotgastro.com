@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659180834
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - raw chicken defrosting in tin shed, cooked chicken stored in double bowl sink next to dirty dishes
+:latitude: -33.755079
 :trading_name: MAYVIEW CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 58 MAY ROAD NARRAWEENA 2099
+:longitude: 151.275461
 :id: "7659180834"
 :served_to: CHENG, ALLEN
 :council_area: WARRINGAH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461696
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.880995
 :trading_name: ANNANDALE BREAD & CAKES
 :penalty_amount: $330.00
 :address: 119-121 JOHNSTON STREET ANNANDALE 2038
+:longitude: 151.171197
 :id: "7675461696"
 :served_to: BUI, VAN HUY
 :council_area: LEICHHARDT

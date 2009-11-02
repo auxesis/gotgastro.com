@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096315
 :offence_description: Fail to have a temperature measuring device at the food premises that is readily accessible
+:latitude: -33.258068
 :trading_name: GOLDEN LAKE CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 82 WALLARAH ROAD GOROKAN 2263
+:longitude: 151.511132
 :id: "3003096315"
 :served_to: LEE, KEITH
 :council_area: WYONG

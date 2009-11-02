@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514112
 :offence_description: Fail to comply with the requirements of a Food Safety Scheme - temperature of meat displayed for retail sale exceeds 5C
+:latitude: -36.046561
 :trading_name: THE HAUS OF MEAT
 :penalty_amount: $660.00
 :address: SHOP 60 CENTRO, GRIFFITH ROAD LAVINGTON 2641
+:longitude: 146.939246
 :id: "3013514112"
 :served_to: BOMAIN PTY LTD
 :council_area: ALBURY

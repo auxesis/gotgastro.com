@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017041684
 :offence_description: Fail to display potentially hazardous food under temperature control - pate displayed for sale at 10.8C, chicken at 10C, and pork at 8C
+:latitude: -33.836742
 :trading_name: PHAT KY CAKE & BREADSHOP
 :penalty_amount: $330.00
 :address: 188 MERRYLANDS ROAD MERRYLANDS 2160
+:longitude: 150.989639
 :id: "3017041684"
 :served_to: NGUYEN, VAN THU
 :council_area: HOLROYD

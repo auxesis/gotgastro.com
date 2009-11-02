@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537355
 :offence_description: Fail to display potentially hazardous food under temperature control - chicken pide displayed at a temperature of 30C
+:latitude: -33.849815
 :trading_name: AUBURN KEBAB HOUSE
 :penalty_amount: $660.00
 :address: 77 RAWSON STREET AUBURN 2144
+:longitude: 151.035163
 :id: "7672537355"
 :served_to: AUBURN KEBAB HOUSE PTY LTD
 :council_area: AUBURN

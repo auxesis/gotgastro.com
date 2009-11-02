@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461797
 :offence_description: Fail to maintain food premises in a clean condition and protect food from likely contamination
+:latitude: -33.856881
 :trading_name: CIRCLE CAFE
 :penalty_amount: $330.00
 :address: 344 Darling Street BALMAIN
+:longitude: 151.178748
 :id: "7675461797"
 :served_to: JACOBS, MARTIN JULIAN
 :council_area: LEICHHARDT

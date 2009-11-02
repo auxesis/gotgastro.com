@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553136
 :offence_description: Fail to maintain premises in a clean condition
+:latitude: -33.2432444
 :trading_name: SUBWAY LAKEHAVEN
 :penalty_amount: $660.00
 :address: 1/14 BANNISTER DR LAKE HAVEN 2263
+:longitude: 151.5062675
 :id: "7656553136"
 :served_to: WEBBSTAR P/L
 :council_area: WYONG

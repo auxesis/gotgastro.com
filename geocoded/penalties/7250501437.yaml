@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501437
 :offence_description: Fail to maintain easily accessible hand washing facilities on the food premises
+:latitude: -33.8636827
 :trading_name: NORTHS SANDWICHES
 :penalty_amount: $660.00
 :address: SHOP 1A, 2 BRIDGE STREET SYDNEY 2000
+:longitude: 151.2076163
 :id: "7250501437"
 :served_to: MINH AND DAO PTY LTD
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307725
 :offence_description: Fail to maintain a clean food premises, food and grease on floors below surfaces and equipment
+:latitude: -33.865626
 :trading_name: BAKEHOUSE GOURMET
 :penalty_amount: $660.00
 :address: 296 GEORGE ST SYDNEY 2000
+:longitude: 151.207486
 :id: "3002307725"
 :served_to: BAKEHOUSE GOURMET P/L
 :council_area: SYDNEY

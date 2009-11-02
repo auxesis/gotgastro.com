@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307871
 :offence_description: Fail to maintain food premises in a clean condition - unclean floors, walls, equipment legs, pipework
+:latitude: 38.8120591
 :trading_name: SILKROAD CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: SHOP QG13 8 QUAY ST HAYMARKET
+:longitude: -77.6363806
 :id: "3002307871"
 :served_to: SILK ROAD HOLDINGS P/L
 :council_area: SYDNEY

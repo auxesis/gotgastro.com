@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440053
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.777344
 :trading_name: SAMANTHA'S CAFE
 :penalty_amount: $330.00
 :address: 6/213 NORTH ROCKS RD NORTH ROCKS
+:longitude: 151.01224
 :id: "7653440053"
 :served_to: CHEN, LING
 :council_area: BAULKHAM HILLS

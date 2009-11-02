@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513398
 :offence_description: Fail to maintain records in accordance with the food safety program
+:latitude: -33.919539
 :trading_name: FARM FRESH MEATS
 :penalty_amount: $660.00
 :address: SHOP FF 9/10 CENTRO SHOPPING CENTRE BANKSTOWN 2200
+:longitude: 151.034909
 :id: "3013513398"
 :served_to: IMPOSETE PTY LTD
 :council_area: BANKSTOWN

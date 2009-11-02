@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096250
 :offence_description: Failure to take all practicable measures to prevent pests entering the food premises - Evidence of rodent activity in the food handling area and fridge
+:latitude: -33.344648
 :trading_name: THE ENTRANCE OCEAN BATHS (KIOSK)
 :penalty_amount: $660.00
 :address: 92CR OCEAN PARADE THE ENTRANCE 2261
+:longitude: 151.496394
 :id: "3003096250"
 :served_to: YOUNG MENS CHRISTIAN ASSOCIATION OF SYDNEY
 :council_area: WYONG

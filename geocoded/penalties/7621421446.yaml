@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621421446
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, grease and other visible matter on the floor
+:latitude: -33.903105
 :trading_name: BANKSTOWN STATION TAKEAWAY
 :penalty_amount: $330.00
 :address: SHOP 1, 130 BANKSTOWN PLAZA BANKSTOWN 2200
+:longitude: 151.052641
 :id: "7621421446"
 :served_to: XU, DE
 :council_area: BANKSTOWN

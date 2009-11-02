@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282285
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition - unclean appliances and eqipment
+:latitude: -33.718839
 :trading_name: REST EASY MOTEL
 :penalty_amount: $660.00
 :address: 3-7 OLD BATHURST RD WENTWORTH FALLS 2782
+:longitude: 150.383428
 :id: "7652282285"
 :served_to: OMR HOLDINGS PTY LTD
 :council_area: BLUE MOUNTAINS

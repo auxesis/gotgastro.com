@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012142
 :offence_description: Fail to provide hand washing facility within the premises
+:latitude: -33.7629833
 :trading_name: ST MARYS BAKERY
 :penalty_amount: $330.00
 :address: 14 QUEEN ST ST MARYS 2760
+:longitude: 150.7746454
 :id: "7673012142"
 :served_to: TRAN, THANH PHUOC
 :council_area: PENRITH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013473807
 :offence_description: Fail to store potentially hazardous food under temperature control - chicken at 45oC, chicken schnitzel at 53oC, pies at 20oC, battered fish at 35oC
+:latitude: -33.826662
 :trading_name: HILLTOP TAKEAWAY
 :penalty_amount: $330.00
 :address: 10F HILLTOP RD MERRYLANDS 2160
+:longitude: 150.982531
 :id: "3013473807"
 :served_to: CHING, TANG KHEANG
 :council_area: HOLROYD

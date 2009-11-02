@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016727542
 :offence_description: Fail to provide required labelling on food for retail sale - food products included biscuits and cakes
+:latitude: -33.301268
 :trading_name: WEST GOSFORD BAKEHOUSE
 :penalty_amount: $660.00
 :address: 1 WARATAH ROAD MANGROVE MOUNTAIN 2250
+:longitude: 151.191694
 :id: "3016727542"
 :served_to: GOSFORD BAKEHOUSE PTY LTD
 :council_area: GOSFORD

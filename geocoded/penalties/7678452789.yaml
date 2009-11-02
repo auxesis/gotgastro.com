@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452789
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination -  food being stored and prepared in rear room, which is not approved for food storage & preparation
+:latitude: -33.826247
 :trading_name: SUSHI TOWN
 :penalty_amount: $660.00
 :address: 43 WILLOUGHBY ROAD CROWS NEST 2065
+:longitude: 151.201195
 :id: "7678452789"
 :served_to: HANKKI PTY LTD
 :council_area: NORTH SYDNEY

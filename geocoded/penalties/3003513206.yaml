@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513206
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of garbage, food waste, dirt, grease and other visible matter
+:latitude: -33.975667
 :trading_name: LUGARNO DELICATESSEN
 :penalty_amount: $330.00
 :address: 1022 FOREST ROAD LUGARNO 2210
+:longitude: 151.047378
 :id: "3003513206"
 :served_to: KASTANIAS, RITA
 :council_area: HURSTVILLE

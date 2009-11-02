@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184544
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, grease and grime throughout the kitchen
+:latitude: -33.889481
 :trading_name: ASHFIELD BBQ KOREAN RESTAURANT
 :penalty_amount: $330.00
 :address: 207 LIVERPOOL ROAD ASHFIELD 2131
+:longitude: 151.126672
 :id: "3014184544"
 :served_to: KIM, MYUNG KYUN
 :council_area: ASHFIELD

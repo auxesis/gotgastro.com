@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672233223
 :offence_description: Fail to maintain a clean food premises
+:latitude: -34.050847
 :trading_name: WOKSTAR
 :penalty_amount: $660.00
 :address: 9-11 KINGSWAY CRONULLA 2230
+:longitude: 151.153148
 :id: "7672233223"
 :served_to: WOKSTAR RESTAURANT & BAR P/L
 :council_area: SUTHERLAND

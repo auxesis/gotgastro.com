@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184829
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of grease and grime throughout the food preparation area
+:latitude: -33.888305
 :trading_name: SHANGHAI FOOD HOUSE
 :penalty_amount: $330.00
 :address: 267C LIVERPOOL ROAD ASHFIELD 2131
+:longitude: 151.124574
 :id: "3014184829"
 :served_to: HENG, QIN CHEN
 :council_area: ASHFIELD

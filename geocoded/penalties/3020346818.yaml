@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346818
 :offence_description: Fail to provide warm running potable water to hand wash facility - McCafe section
+:latitude: -33.839661
 :trading_name: MCDONALD'S
 :penalty_amount: $660.00
 :address: PARRAMATTA RD AUBURN 2144
+:longitude: 151.031274
 :id: "3020346818"
 :served_to: MCDONALDS PROPERTIES AUSTRALIA
 :council_area: AUBURN

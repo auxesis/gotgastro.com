@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645938
 :offence_description: Fail to take all practicable measures to protect the food from the likelihood of contamination
+:latitude: -33.91515
 :trading_name: ROYAL SALADS
 :penalty_amount: $330.00
 :address: KIOSK 12, 73-109 BELMORE RD RANDWICK 2031
+:longitude: 151.240913
 :id: "7621645938"
 :served_to: GUERRERA, CLAUDIO
 :council_area: RANDWICK

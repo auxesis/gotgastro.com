@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172880
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - evidence of cockroach activity
+:latitude: -33.7970426
 :trading_name: MANLY BAKERY
 :penalty_amount: $330.00
 :address: 2/31 SYDNEY RD MANLY 2095
+:longitude: 151.2860674
 :id: "7641172880"
 :served_to: AING, SOKUN
 :council_area: MANLY

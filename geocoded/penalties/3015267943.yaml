@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267943
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.734125
 :trading_name: BAKER'S WORLD
 :penalty_amount: $330.00
 :address: 60 GLENWOOD PARK DRIVE GLENWOOD 2768
+:longitude: 150.928147
 :id: "3015267943"
 :served_to: TU, SANH NGOC
 :council_area: BLACKTOWN

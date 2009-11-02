@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013575539
 :offence_description: Handle food in a manner that will render, or is likely to render, the food unsafe - piece of sharp plastic found in food purchsed by customer
+:latitude: -33.794943
 :trading_name: ST CLAIR KEBAB & PIDE
 :penalty_amount: $660.00
 :address: SHOP 14/4 ENDEAVOUR AVE ST CLAIR
+:longitude: 150.788991
 :id: "3013575539"
 :served_to: TASDEMIR, SELATTIN
 :council_area: PENRITH

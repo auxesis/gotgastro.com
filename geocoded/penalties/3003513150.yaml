@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513150
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Cockroaches, fruit flies and ants were observed
+:latitude: -33.965851
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 309B FOREST ROAD HURSTVILLE 2220
+:longitude: 151.100279
 :id: "3003513150"
 :served_to: QSR PTY LTD
 :council_area: HURSTVILLE

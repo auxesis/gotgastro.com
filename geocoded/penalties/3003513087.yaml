@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513087
 :offence_description: Food premises sold food that was unsuitable - A teriyaki chicken roll sold was found to be contaminated with insect lavae
+:latitude: -33.965858
 :trading_name: SU-SHI WORLD
 :penalty_amount: $1100.00
 :address: SHOP 432 WESTFIELD SHOPPING TOWN 3 CROSS STREET HURSTVILLE 2220
+:longitude: 151.105954
 :id: "3003513087"
 :served_to: KEEJU PTY LTD
 :council_area: HURSTVILLE

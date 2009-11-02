@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663153
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.635581
 :trading_name: AVALON CHARCOAL CHICKEN
 :penalty_amount: $330.00
 :address: 8/40 AVALON PDE AVALON 2107
+:longitude: 151.328182
 :id: "3002663153"
 :served_to: LEO, MAISIE
 :council_area: PITTWATER

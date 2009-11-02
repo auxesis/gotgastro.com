@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077742
 :offence_description: Fail to label food for retail sale
+:latitude: -33.919603
 :trading_name: AL-AMIN GROCERY
 :penalty_amount: $330.00
 :address: 52 RAILWAY PARADE LAKEMBA 2195
+:longitude: 151.075586
 :id: "7633077742"
 :served_to: ALAM, MD GAUSUL
 :council_area: CANTERBURY

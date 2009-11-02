@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567968
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
+:latitude: -33.770754
 :trading_name: HAPPY CHICKEN SHOP
 :penalty_amount: $330.00
 :address: 38 FLUSHCOMBE ROAD BLACKTOWN 2148
+:longitude: 150.908705
 :id: "3014567968"
 :served_to: VU, MANH HA
 :council_area: BLACKTOWN

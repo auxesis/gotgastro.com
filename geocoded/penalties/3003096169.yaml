@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096169
 :offence_description: Failed to maintain food premises to the required standard of cleanliness - Excessive accumulation of garbage and recycled matter in outside waste area
+:latitude: -33.206113
 :trading_name: ELIZABETH BAY BEACH STORE
 :penalty_amount: $330.00
 :address: 1 ELIZABETH BAY DRIVE LAKE MUNMORAH 2259
+:longitude: 151.586581
 :id: "3003096169"
 :served_to: FINDWATER, JOSHUA
 :council_area: WYONG

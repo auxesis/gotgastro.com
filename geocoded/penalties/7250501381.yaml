@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501381
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.880561
 :trading_name: BATTUTA
 :penalty_amount: $330.00
 :address: 179 OXFORD STREET DARLINGHURST 2010
+:longitude: 151.216345
 :id: "7250501381"
 :served_to: BONACCI, FERRUCCIO
 :council_area: SYDNEY

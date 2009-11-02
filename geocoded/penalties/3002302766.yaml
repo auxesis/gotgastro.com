@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302766
 :offence_description: Fail to store potentially hazardous food under temperature control
+:latitude: -33.878327
 :trading_name: SUPERBOWL RESTAURANT
 :penalty_amount: $660.00
 :address: 41 DIXON ST HAYMARKET 2000
+:longitude: 151.203853
 :id: "3002302766"
 :served_to: SUPERTHREE PTY LTD
 :council_area: SYDNEY

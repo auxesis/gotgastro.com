@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651727
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - an accumulation of food waste, dirt, grease and other visible matter on floor, walls and ceiling
+:latitude: -33.796333
 :trading_name: TIM'S BBQ KITCHEN
 :penalty_amount: $660.00
 :address: 21 SPRING STREET CHATSWOOD 2067
+:longitude: 151.184611
 :id: "7671651727"
 :served_to: CALIBUS PTY LTD
 :council_area: WILLOUGHBY

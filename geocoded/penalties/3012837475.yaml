@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3012837475
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests on the food premises  - weevils and larvae observed in flour waste
+:latitude: -33.834699
 :trading_name: COWRA HOT BAKE
 :penalty_amount: $330.00
 :address: 67 KENDAL ST COWRA
+:longitude: 148.689444
 :id: "3012837475"
 :served_to: LYNCH, BRIAN JOHN
 :council_area: COWRA

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513361
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.971738
 :trading_name: MORTDALE BRASSERIE
 :penalty_amount: $660.00
 :address: 1 PITT STREET MORTDALE 2223
+:longitude: 151.080087
 :id: "3003513361"
 :served_to: MORTDALE BRASSERIE PTY LTD
 :council_area: HURSTVILLE

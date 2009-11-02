@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096104
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.3763315
 :trading_name: THE ENTRANCE LEAGUES CLUB
 :penalty_amount: $660.00
 :address: 3 BAY VILLAGE RD BATEAU BAY 2261
+:longitude: 151.4738558
 :id: "3003096104"
 :served_to: THE ENTRANCE LEAGUES CLUB LTD
 :council_area: WYONG

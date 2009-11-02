@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188684
 :offence_description: Fail to maintain food premises in a clean condition  - unclean walls, display cabinet and exhaust canopy
+:latitude: -28.84845
 :trading_name: TRIDENT FISH BAR
 :penalty_amount: $330.00
 :address: PACIFIC HWY BALLINA
+:longitude: 153.547516
 :id: "7652188684"
 :served_to: LAWFORD, PETER
 :council_area: BALLINA

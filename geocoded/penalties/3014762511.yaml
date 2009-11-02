@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762511
 :offence_description: Fail to maintain food premises in a clean condition  - unclean floors
+:latitude: -33.429517
 :trading_name: WEST GOSFORD CAKE & BREAD SHOP
 :penalty_amount: $660.00
 :address: SHOP 7 299 BRISBANE WATER DRIVE WEST GOSFORD 2250
+:longitude: 151.316586
 :id: "3014762511"
 :served_to: GOSFORD BAKE HOUSE PTY LTD
 :council_area: GOSFORD

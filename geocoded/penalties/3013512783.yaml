@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512783
 :offence_description: Sale of food that is labelled in contravention of Food Standards Code - no date marking
+:latitude: -33.834963
 :trading_name: COSTA FINE FOODS
 :penalty_amount: $660.00
 :address: 133 SILVERWATER RD SILVERWATER
+:longitude: 151.048676
 :id: "3013512783"
 :served_to: ANDASABI PTY LTD
 :council_area: AUBURN

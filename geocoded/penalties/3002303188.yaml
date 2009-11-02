@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303188
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.870441
 :trading_name: ENTHAISING
 :penalty_amount: $660.00
 :address: 184 PITT ST SYDNEY 2000
+:longitude: 151.208887
 :id: "3002303188"
 :served_to: LEX HOLDINGS P/L
 :council_area: SYDNEY

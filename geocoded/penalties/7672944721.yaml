@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944721
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - fresh food stacked on top of garbage bin
+:latitude: -33.889099
 :trading_name: ASHFIELD FRUIT MARKET
 :penalty_amount: $660.00
 :address: 254 LIVERPOOL ROAD ASHFIELD 2131
+:longitude: 151.124592
 :id: "7672944721"
 :served_to: CHEN, DONG, DLC INTERNATIONAL PTY LTD
 :council_area: ASHFIELD

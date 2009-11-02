@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650838
 :offence_description: Fail to maintain a clean food premises - accumulation of dirt, dust, grease, foodwaste
+:latitude: -33.794496
 :trading_name: SWEET DELIGHT BAKERY
 :penalty_amount: $330.00
 :address: 224 VICTORIA AVE CHATSWOOD 2068
+:longitude: 151.18974
 :id: "7671650838"
 :served_to: DAO, THI VAN ANH
 :council_area: WILLOUGHBY

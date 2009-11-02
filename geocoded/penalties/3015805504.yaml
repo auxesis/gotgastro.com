@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015805504
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - sewage on floor
+:latitude: -33.960303
 :trading_name: PEAKHURST INN HOTEL
 :penalty_amount: $660.00
 :address: 705 FOREST ROAD PEAKHURST 2210
+:longitude: 151.062851
 :id: "3015805504"
 :served_to: PEAKHURST INN TRADING PTY LTD
 :council_area: HURSTVILLE

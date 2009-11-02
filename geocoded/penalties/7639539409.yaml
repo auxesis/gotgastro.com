@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539409
 :offence_description: Fail to maintain food premises in a clean condition - grease, grime and deteriorating food matter on piping, floors and walls
+:latitude: -33.891739
 :trading_name: THAI RIFFIC
 :penalty_amount: $660.00
 :address: KIOSK FCK 05 500 OXFORD ST BONDI JUNCTION
+:longitude: 151.250217
 :id: "7639539409"
 :served_to: THAIRIFFIC BONDI JUNCTION PTY LTD
 :council_area: WAVERLEY

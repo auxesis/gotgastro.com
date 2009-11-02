@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7640083139
 :offence_description: Fail to take all necessary steps when processing food to prevent the likelihood of food being contaminated
+:latitude: -32.834499
 :trading_name: HONG SING RESTAURANT
 :penalty_amount: $330.00
 :address: 46 VINCENT ST CESSNOCK 2325
+:longitude: 151.356711
 :id: "7640083139"
 :served_to: HUANG, JOHN
 :council_area: CESSNOCK

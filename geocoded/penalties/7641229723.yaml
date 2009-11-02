@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641229723
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.799351
 :trading_name: MANLY PIER RESTAURANT
 :penalty_amount: $330.00
 :address: COMMONWEALTH PDE MANLY 2095
+:longitude: 151.279654
 :id: "7641229723"
 :served_to: VESCIO, NICK
 :council_area: MANLY

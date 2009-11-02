@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302793
 :offence_description: Fail to provide hand wash facility in premises
+:latitude: -33.874156
 :trading_name: FRUIT SENSATIONS
 :penalty_amount: $330.00
 :address: SHOP 141 20 DARLING DR SYDNEY 2000
+:longitude: 151.199687
 :id: "3002302793"
 :served_to: BARBAXIS, ANTONIOS
 :council_area: SYDNEY

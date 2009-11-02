@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016812013
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - rodent and bird excreta were observed on the premises
+:latitude: -33.779448
 :trading_name: JUSCO SUPERMARKET
 :penalty_amount: $660.00
 :address: SHOP G1/372 PENNANT HILLS ROAD CARLINGFORD 2118
+:longitude: 151.053134
 :id: "3016812013"
 :served_to: JUSCO SUPERMARKET PTY LTD
 :council_area: PARRAMATTA

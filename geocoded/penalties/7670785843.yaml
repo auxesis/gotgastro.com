@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785843
 :offence_description: Operate a meat processing plant without a licence
+:latitude: -33.909757
 :trading_name: FISHBOY P/L
 :penalty_amount: $660.00
 :address: 20 FITZROY ST MARRICKVILLE 2204
+:longitude: 151.165011
 :id: "7670785843"
 :served_to: FISHBOY P/L
 :council_area: MARRICKVILLE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242396
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.74316
 :trading_name: JIN XIU CHINESE TAKEAWAY
 :penalty_amount: $330.00
 :address: SHOP 5, EMERTON VILLAGE SHOPPING CENTRE 40 JERSEY ROAD EMERTON 2770
+:longitude: 150.809171
 :id: "3015242396"
 :served_to: SU, JIN QUAN
 :council_area: BLACKTOWN

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303224
 :offence_description: Fail to provide, at or near each hand washing facility, single use towels or other means of effectively drying hands
+:latitude: -33.8943258
 :trading_name: TANDOORI GRILL
 :penalty_amount: $660.00
 :address: 181 KING ST NEWTOWN 2042
+:longitude: 151.1826066
 :id: "3002303224"
 :served_to: SPICE N CHILLI PTY LTD
 :council_area: SYDNEY

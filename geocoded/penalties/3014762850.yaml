@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762850
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of food waste, dirt, grease and other visible matter
+:latitude: -33.425329
 :trading_name: SOUTH SEA SANDWICHES
 :penalty_amount: $330.00
 :address: SHOP 128, 171 MANN STREET GOSFORD 2250
+:longitude: 151.343023
 :id: "3014762850"
 :served_to: LU, FENG
 :council_area: GOSFORD

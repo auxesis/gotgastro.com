@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576116
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt and grease on the ceiling, and food waste under benches
+:latitude: -33.75738
 :trading_name: NEPEAN PATISSERIE
 :penalty_amount: $330.00
 :address: NEPEAN CENTRO SHOP 43/122 STATION STREET PENRITH 2750
+:longitude: 150.69243
 :id: "3013576116"
 :served_to: POLES, DARIO
 :council_area: PENRITH

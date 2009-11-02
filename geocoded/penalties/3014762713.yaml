@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762713
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste and grease on the floor
+:latitude: -33.405019
 :trading_name: FELIX'S
 :penalty_amount: $330.00
 :address: 495 PACIFIC HIGHWAY WYOMING 2250
+:longitude: 151.351783
 :id: "3014762713"
 :served_to: CHEN, YI WEI
 :council_area: GOSFORD

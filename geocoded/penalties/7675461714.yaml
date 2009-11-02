@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461714
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.8572545
 :trading_name: DARLING PIES AND CAKES
 :penalty_amount: $330.00
 :address: Darling Street BALMAIN
+:longitude: 151.1804125
 :id: "7675461714"
 :served_to: NGUYEN, THI TRANG
 :council_area: LEICHHARDT

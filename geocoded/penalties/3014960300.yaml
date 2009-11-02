@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960300
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt, grease and other visible matter throughout the premises
+:latitude: -33.952147
 :trading_name: SUN'S NOODLE
 :penalty_amount: $330.00
 :address: SHOP 9/2-4 KING STREET ROCKDALE 2216
+:longitude: 151.138583
 :id: "3014960300"
 :served_to: MA, CHAO HUA
 :council_area: ROCKDALE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307880
 :offence_description: Failure to maintain food premises and fixtures in a good state of repair
+:latitude: -33.877561
 :trading_name: STRAWBERRY CREAM
 :penalty_amount: $330.00
 :address: 336 VICTORIA STREET DARLINGHURST 2010
+:longitude: 151.221799
 :id: "3002307880"
 :served_to: REID, GEOFFREY COLIN
 :council_area: SYDNEY

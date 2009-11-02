@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016370060
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt and other visible matter under shelving and in rear rooms
+:latitude: -33.903105
 :trading_name: BEST VALUE SUPERMARKET
 :penalty_amount: $330.00
 :address: 32/34 BANKSTOWN CITY PLAZA BANKSTOWN 2200
+:longitude: 151.052641
 :id: "3016370060"
 :served_to: LU, JOHN
 :council_area: BANKSTOWN

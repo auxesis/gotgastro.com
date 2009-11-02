@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267613
 :offence_description: Fail to have a temperature measuring device at the premises where potentially hazardous food is handled
+:latitude: -33.74316
 :trading_name: FARMHOUSE BAKERY
 :penalty_amount: $330.00
 :address: SHOP 31, EMERTON VILLAGE SHOPPING CENTRE 40 JERSEY ROAD EMERTON 2770
+:longitude: 150.809171
 :id: "3015267613"
 :served_to: LUU, VAN MUOI
 :council_area: BLACKTOWN

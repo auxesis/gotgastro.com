@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501895
 :offence_description: Fail to display potentially hazardous food under temperature control - filled croissant stored at 19.7C, hot chicken stored at 42.1C
+:latitude: -33.857748
 :trading_name: CARVE AT THE SQUARE
 :penalty_amount: $660.00
 :address: 47 GEORGE STREET SYDNEY 2000
+:longitude: 151.208583
 :id: "7250501895"
 :served_to: HOCHEN PTY LTD
 :council_area: SYDNEY

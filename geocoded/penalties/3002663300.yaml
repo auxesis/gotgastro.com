@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663300
 :offence_description: Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - bowl of lettuce and umbrella observed in hand wash basin
+:latitude: -33.676746
 :trading_name: CAFE ROSH
 :penalty_amount: $330.00
 :address: 4/19 BUNGAN ST MONA VALE 2103
+:longitude: 151.302195
 :id: "3002663300"
 :served_to: AVRICCHIO, ANGELO
 :council_area: PITTWATER

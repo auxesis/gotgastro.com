@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645956
 :offence_description: Fail to maintain a clean food premises - unsatisfactory conditions, accumulation of food waste, dirt and grease
+:latitude: -33.945454
 :trading_name: NEW BEACH VIEW CAFE
 :penalty_amount: $330.00
 :address: 53 MCKEON ST MAROUBRA 2035
+:longitude: 151.255319
 :id: "7621645956"
 :served_to: ISHAYA, TAWER ZOMAYA
 :council_area: RANDWICK

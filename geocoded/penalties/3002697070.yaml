@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697070
 :offence_description: Failed to maintain food premises to the required standard of cleanliness
+:latitude: -33.7135437
 :trading_name: STOCKMARKET CAFE
 :penalty_amount: $660.00
 :address: 179 LEURA MALL LEURA 2780
+:longitude: 150.3309659
 :id: "3002697070"
 :served_to: STOCKMARKET CAFE PTY LTD
 :council_area: BLUE MOUNTAINS

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332280
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.824005
 :trading_name: BILLY'S CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 22 SPIT ROAD MOSMAN 2088
+:longitude: 151.241079
 :id: "7641332280"
 :served_to: ZHANG, JASON
 :council_area: MOSMAN

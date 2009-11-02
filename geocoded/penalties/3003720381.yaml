@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003720381
 :offence_description: Unclean premises, inadequate handwashing facility, food not protected, and inadequate pest control.
+:latitude: -34.546582
 :trading_name: ROBERTSON COUNTRY BAKEHOUSE
 :penalty_amount: $330.00
 :address: SHOP 1 WILLOW DR MOSS VALE 2577
+:longitude: 150.362019
 :id: "3003720381"
 :served_to: FITZGERALD, MATTHEW
 :council_area: WINGECARRIBEE

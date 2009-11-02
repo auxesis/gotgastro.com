@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644003456
 :offence_description: Sold food past its use-by date
+:latitude: -33.748733
 :trading_name: IGA EXPRESS
 :penalty_amount: $330.00
 :address: 8 HANNAH ST BEECROFT 2119
+:longitude: 151.065716
 :id: "7644003456"
 :served_to: GIAKOUMELOS, TOM
 :council_area: HORNSBY

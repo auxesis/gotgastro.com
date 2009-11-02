@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012371
 :offence_description: Fail to maintain utensils and food containers is in a clean and sanitary condition
+:latitude: -33.753761
 :trading_name: PAN NOODLE
 :penalty_amount: $330.00
 :address: 442 HIGH ST PENRITH 2750
+:longitude: 150.696925
 :id: "7673012371"
 :served_to: XIE, PING
 :council_area: PENRITH

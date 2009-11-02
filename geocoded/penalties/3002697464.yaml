@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697464
 :offence_description: Fail to store potentially hazardous food under temperature control - ham stored in fridge at 11.9C, ham stored in cabinet at 18.6C, chicken stored on bench at 25.4C
+:latitude: -33.720043
 :trading_name: LAWSON PIZZA
 :penalty_amount: $330.00
 :address: 293 GREAT WESTERN HIGHWAY LAWSON 2783
+:longitude: 150.429209
 :id: "3002697464"
 :served_to: CHRISTMAN, IZABELA
 :council_area: BLUE MOUNTAINS

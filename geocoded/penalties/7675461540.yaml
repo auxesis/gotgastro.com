@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461540
 :offence_description: Failed to store potentially hazardous food under temperature control - Food stored in garage for three hours without temperature control
+:latitude: -33.856008
 :trading_name: ALL INDIA RESTAURANT
 :penalty_amount: $660.00
 :address: 1/2A ROWNTREE STREET BALMAIN 2041
+:longitude: 151.177976
 :id: "7675461540"
 :served_to: TRANS-SOFT TECHNOLOGIES PTY LTD
 :council_area: LEICHHARDT

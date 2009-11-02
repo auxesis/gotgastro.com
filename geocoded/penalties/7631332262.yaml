@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332262
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - Foods stored were stacked uncovered and raw meats were stored over cooked product containers
+:latitude: -35.371334
 :trading_name: DIAMOND CHINESE
 :penalty_amount: $330.00
 :address: SHOP 18/34 QUEENBAR ROAD KARABAR 2620
+:longitude: 149.232131
 :id: "7631332262"
 :served_to: CHAN, BOON FAN
 :council_area: QUEANBEYAN

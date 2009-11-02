@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944831
 :offence_description: Failure to maintain food premises to the required standard of cleanliness - There was an accumulation of grease and grime throughout the premises
+:latitude: -33.88812
 :trading_name: HERCULES BBQ
 :penalty_amount: $330.00
 :address: 7 HERCULES STREET ASHFIELD 2131
+:longitude: 151.125285
 :id: "7672944831"
 :served_to: SHI, YA
 :council_area: ASHFIELD

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461934
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.883966
 :trading_name: OCEAN KINGDOM SEAFOOD
 :penalty_amount: $330.00
 :address: 209 MARION STREET LEICHHARDT 2040
+:longitude: 151.147754
 :id: "7675461934"
 :served_to: TRAN, TUAN VIET
 :council_area: LEICHHARDT

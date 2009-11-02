@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651250
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food stored in unclean containers without lids and in close proximity to cockroaches
+:latitude: -33.79291
 :trading_name: ORION CONTINENTAL FOODS
 :penalty_amount: $330.00
 :address: 327 PENSHURST STREET NORTH WILLOUGHBY 2068
+:longitude: 151.196089
 :id: "7671651250"
 :served_to: HAYKAL, SABAH
 :council_area: WILLOUGHBY

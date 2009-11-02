@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015052646
 :offence_description: Fail to store potentially hazardous food under temperature control
+:latitude: -33.894662
 :trading_name: ALWAYS GREENER FRUIT AND GROCERIES
 :penalty_amount: $330.00
 :address: SHOP 13-14 101-103 JOHN ST CABRAMATTA
+:longitude: 150.935143
 :id: "3015052646"
 :served_to: NGUYEN, THI THUY TRANG
 :council_area: FAIRFIELD

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002300520
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Dead cockroach found in flour and evidence of cockroach activity in the kitchen observed
+:latitude: -33.859079
 :trading_name: LOWENBRAU KELLER
 :penalty_amount: $660.00
 :address: 18 ARGYLE STREET THE ROCKS 2000
+:longitude: 151.207838
 :id: "3002300520"
 :served_to: BAVARIAN HOSPITALITY GROUP PTY LTD
 :council_area: SYDNEY

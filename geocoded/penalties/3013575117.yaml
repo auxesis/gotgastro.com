@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013575117
 :offence_description: Fail to maintain, at or near each hand washing facility, a supply of soap or other items that may be used to thoroughly clean hands
+:latitude: -33.753628
 :trading_name: THEODORES CAFE
 :penalty_amount: $660.00
 :address: SHOP 10 472-474 HIGH ST PENRITH 2750
+:longitude: 150.695964
 :id: "3013575117"
 :served_to: KAFIZAS TRADING PTY LTD
 :council_area: PENRITH

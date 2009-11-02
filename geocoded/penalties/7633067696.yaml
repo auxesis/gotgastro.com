@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633067696
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste, dirt and grease on the floors and walls
+:latitude: -33.905091
 :trading_name: POONG NAB DONG KOREAN BBQ RESTAURANT
 :penalty_amount: $330.00
 :address: 716 NEW CANTERBURY ROAD HURLSTONE PARK 2193
+:longitude: 151.128601
 :id: "7633067696"
 :served_to: SUN, CHI HUNG
 :council_area: CANTERBURY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513086
 :offence_description: Fail to maintain records to verify food safety program
+:latitude: -33.762408
 :trading_name: SAUSAGE SPECIALIST MEAT EMPORIUM
 :penalty_amount: $660.00
 :address: SHOP 23 THE CENTRE FORESTVILLE  2087
+:longitude: 151.215528
 :id: "3013513086"
 :served_to: ALDOS PRIDE PTY LTD
 :council_area: WARRINGAH

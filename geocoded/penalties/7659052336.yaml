@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659052336
 :offence_description: Fail to maintain food premises in a clean condition  - unclean floors, walls and ceiling
+:latitude: -33.774972
 :trading_name: FUJI JAPANESE BAKERY
 :penalty_amount: $330.00
 :address: 5/5 TRAMORE PLACE KILLARNEY HEIGHTS
+:longitude: 151.2173159
 :id: "7659052336"
 :served_to: MIYAMOTO, YUTAKA
 :council_area: WARRINGAH

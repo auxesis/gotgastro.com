@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501830
 :offence_description: Fail to maintain at or near each hand washing facility a supply of warm running water
+:latitude: -33.8838973
 :trading_name: MCDONALD'S
 :penalty_amount: $660.00
 :address: 863 GEORGE STREET ULTIMO 2007
+:longitude: 151.2025007
 :id: "7250501830"
 :served_to: MCDONALDS AUSTRALIA LIMITED
 :council_area: SYDNEY

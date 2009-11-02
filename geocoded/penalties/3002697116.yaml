@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697116
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.709069
 :trading_name: CONDITOREI PATISSERIE
 :penalty_amount: $660.00
 :address: SHOP 1 30 STATION ST WENTWORTH FALLS
+:longitude: 150.375542
 :id: "3002697116"
 :served_to: A & C SCHWARZ PTY LTD
 :council_area: BLUE MOUNTAINS

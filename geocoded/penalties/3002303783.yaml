@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303783
 :offence_description: Fail to display potentially hazardous food (cooked chicken wraps) under temperature control - previous warnings given
+:latitude: -33.867911
 :trading_name: CCINO'S CAFE
 :penalty_amount: $660.00
 :address: SHOP 6.31/19-29 MARTIN PL SYDNEY
+:longitude: 151.209606
 :id: "3002303783"
 :served_to: MAZZA CAFFE NO 1 P/L
 :council_area: SYDNEY

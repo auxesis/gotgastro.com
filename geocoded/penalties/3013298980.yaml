@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298980
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.766434
 :trading_name: BM ORIENTAL FOOD HOUSE
 :penalty_amount: $330.00
 :address: SHOP 9 MOUNT DRUITT WESTFIELDS 49 NORTH PDE MT DRUITT 2770
+:longitude: 150.816989
 :id: "3013298980"
 :served_to: TAGLE, PABLO
 :council_area: BLACKTOWN

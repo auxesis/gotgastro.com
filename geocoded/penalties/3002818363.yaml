@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818363
 :offence_description: Fail to maintain easily accessible hand washing facilities
+:latitude: -33.703339
 :trading_name: SUSHI WORLD
 :penalty_amount: $660.00
 :address: SHOP K102, WESTFIELD SHOPPING CENTRE 236 PACIFIC HIGHWAY HORNSBY 2077
+:longitude: 151.097699
 :id: "3002818363"
 :served_to: STATEWIDE MANAGEMENT CONSULTING PTY LTD
 :council_area: HORNSBY

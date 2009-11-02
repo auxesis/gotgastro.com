@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631966
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, and grease
+:latitude: -33.97844
 :trading_name: MODERN GRILL BRASSERIE
 :penalty_amount: $660.00
 :address: 72 CONNELLS POINT ROAD SOUTH HURSTVILLE 2221
+:longitude: 151.104749
 :id: "7641631966"
 :served_to: MODERN KITCHEN CATERING PTY LTD
 :council_area: KOGARAH

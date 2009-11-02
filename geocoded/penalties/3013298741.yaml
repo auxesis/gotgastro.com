@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298741
 :offence_description: Fail to provide hand washing facilities
+:latitude: -33.77089
 :trading_name: FRESH SEAFOOD MARKET
 :penalty_amount: $660.00
 :address: SHOP 4/111 MAIN ST BLACKTOWN 2148
+:longitude: 150.910741
 :id: "3013298741"
 :served_to: HAI SHANG XIAN P/L
 :council_area: BLACKTOWN

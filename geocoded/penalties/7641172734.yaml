@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172734
 :offence_description: Fail to store potentially hazardous food under temperature control
+:latitude: -33.797949
 :trading_name: HUNGRY JACK'S
 :penalty_amount: $660.00
 :address: 74-78 THE CORSO MANLY
+:longitude: 151.287318
 :id: "7641172734"
 :served_to: HUNGRY JACKS PTY LTD
 :council_area: MANLY

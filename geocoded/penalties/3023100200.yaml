@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023100200
 :offence_description: Failed to take all practicable measures to prevent pests entering the food premises - Flies were present inside the cold food display
+:latitude: -33.87664
 :trading_name: BURWOOD SEAFOOD
 :penalty_amount: $330.00
 :address: 115 BURWOOD ROAD BURWOOD 2134
+:longitude: 151.103505
 :id: "3023100200"
 :served_to: CHUNG, SHIN CHAN
 :council_area: BURWOOD

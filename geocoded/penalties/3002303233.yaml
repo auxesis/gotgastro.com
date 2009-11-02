@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303233
 :offence_description: Food displayed for sale past its use-by date
+:latitude: -33.8958384
 :trading_name: IGA (WATERLOO)
 :penalty_amount: $660.00
 :address: 13 BOTANY RD WATERLOO 2017
+:longitude: 151.1989977
 :id: "3002303233"
 :served_to: HARRLEE PTY LTD
 :council_area: SYDNEY

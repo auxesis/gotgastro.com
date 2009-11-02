@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502115
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap and single use towels
+:latitude: -33.876448
 :trading_name: LA CAMPANA
 :penalty_amount: $660.00
 :address: 53-55 LIVERPOOL STREET SYDNEY 2000
+:longitude: 151.20497
 :id: "7250502115"
 :served_to: A M MADRID PTY LTD
 :council_area: SYDNEY

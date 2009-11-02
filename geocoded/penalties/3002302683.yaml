@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302683
 :offence_description: Fail to maintain easily accessible hand washing facilities
+:latitude: -33.872254
 :trading_name: KEBAB KINGDOM
 :penalty_amount: $660.00
 :address: SHOP 9 LOWER GROUND FLOOR (TGV)  500 GEORGE ST SYDNEY 2000
+:longitude: 151.206965
 :id: "3002302683"
 :served_to: K & B DEVELOPMENT CO.
 :council_area: SYDNEY

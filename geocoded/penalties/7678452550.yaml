@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452550
 :offence_description: Fail to maintain a clean food premises - unclean floors and walls in food preparation area
+:latitude: -33.828117
 :trading_name: PARADOX RESTAURANT
 :penalty_amount: $330.00
 :address: 98 FALCON STREET CROWS NEST 2065
+:longitude: 151.205008
 :id: "7678452550"
 :served_to: DELCOUR, MICHEL
 :council_area: NORTH SYDNEY

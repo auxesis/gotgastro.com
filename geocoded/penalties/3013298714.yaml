@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298714
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.769237
 :trading_name: F & S DISCOUNT BULK FOOD AND SPICES
 :penalty_amount: $330.00
 :address: 22 MAIN ST BLACKTOWN 2148
+:longitude: 150.90756
 :id: "3013298714"
 :served_to: AHMED, FEROZ
 :council_area: BLACKTOWN

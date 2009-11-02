@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659052363
 :offence_description: Fail to maintain food premises in a clean condition  - unclean floor and walls
+:latitude: -33.761759
 :trading_name: CRABBY'S NIP INN
 :penalty_amount: $330.00
 :address: 212 HARBORD ROAD BROOKVALE
+:longitude: 151.279698
 :id: "7659052363"
 :served_to: CHEUNG, DANIEL
 :council_area: WARRINGAH

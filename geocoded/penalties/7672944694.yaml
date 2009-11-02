@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944694
 :offence_description: Fail to maintain a clean food premises (build up of grime in food prep area, floors, wall, stove)
+:latitude: -33.887821
 :trading_name: TASTY HOUSE CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 297 LIVERPOOL RD ASHFIELD 2131
+:longitude: 151.123777
 :id: "7672944694"
 :served_to: NGOC, HUAGTA
 :council_area: ASHFIELD

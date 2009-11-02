@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513012
 :offence_description: Unlicensed operation of meat processing plant
+:latitude: -34.404853
 :trading_name: UNCLE FRANK'S DISTRIBUTIONS
 :penalty_amount: $660.00
 :address: 3/81 MONTAGUE ST NORTH WOLLONGONG 2500
+:longitude: 150.89564
 :id: "3013513012"
 :served_to: UNCLE FRANK'S DISTRIBUTIONS P/L
 :council_area: WOLLONGONG

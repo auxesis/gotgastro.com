@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631874
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt and grease
+:latitude: -33.991095
 :trading_name: RICE REPUBLIC
 :penalty_amount: $330.00
 :address: 335 ROCKY POINT ROAD SANS SOUCI 2219
+:longitude: 151.132427
 :id: "7641631874"
 :served_to: CHANDLER, P N
 :council_area: KOGARAH

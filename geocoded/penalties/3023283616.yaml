@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023283616
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - the floors, walls, ceilings, benches, shelves and cool room were observed as unclean
+:latitude: -33.878674
 :trading_name: GOLDEN GLOBE SEAFOOD RESTAURANT
 :penalty_amount: $660.00
 :address: 206-208 BURWOOD ROAD BURWOOD 2134
+:longitude: 151.103878
 :id: "3023283616"
 :served_to: TERI INVESTMENT PTY LTD
 :council_area: BURWOOD

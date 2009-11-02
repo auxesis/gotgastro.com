@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502216
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - rodent droppings were observed around food in the dry store area
+:latitude: -33.888043
 :trading_name: AAMZAH CATERING
 :penalty_amount: $330.00
 :address: 51 MISSENDEN ROAD CAMPERDOWN 2050
+:longitude: 151.180631
 :id: "7250502216"
 :served_to: HAMZAH, RUSLI
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645745
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.913051
 :trading_name: INDIAN HOME DINER RANDWICK
 :penalty_amount: $330.00
 :address: 139-145 AVOCA ST RANDWICK 2031
+:longitude: 151.242411
 :id: "7621645745"
 :served_to: JAHANGIR, MAZED
 :council_area: RANDWICK

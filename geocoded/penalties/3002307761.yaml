@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307761
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.876055
 :trading_name: SUSHI ON STANLEY
 :penalty_amount: $330.00
 :address: 85 STANLEY ST DARLINGHURST 2010
+:longitude: 151.215722
 :id: "3002307761"
 :served_to: KIM, WON SIK
 :council_area: SYDNEY

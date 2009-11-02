@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512747
 :offence_description: Did operate a food business without a license - manufacture of cheese
+:latitude: -28.634469
 :trading_name: BARAKA FOODS
 :penalty_amount: $660.00
 :address: 71 BANKSIA DR BYRON BAY
+:longitude: 153.584471
 :id: "3013512747"
 :served_to: BARAKA FOODS PTY LTD
 :council_area: BYRON

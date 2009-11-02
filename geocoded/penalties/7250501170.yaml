@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501170
 :offence_description: Failed to display potentially hazardous foods under temperature control - Ham, cheese, chorizo and pancetta displayed at temperatures of 19C-20C
+:latitude: -33.889428
 :trading_name: BOURKE STREET BAKERY CAFE
 :penalty_amount: $660.00
 :address: 633 BOURKE STREET SURRY HILLS 2010
+:longitude: 151.214837
 :id: "7250501170"
 :served_to: BOURKE STREET BAKERY PTY LTD
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671477651
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.80209
 :trading_name: DAN'S PENDLE HILL TAKEAWAY
 :penalty_amount: $330.00
 :address: SHOP 10/7 JOYCE ST PENDLE HILL 2145
+:longitude: 150.95632
 :id: "7671477651"
 :served_to: RAJARATNAM, BERTY
 :council_area: HOLROYD

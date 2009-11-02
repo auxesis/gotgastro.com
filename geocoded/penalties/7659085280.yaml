@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659085280
 :offence_description: Fail to store food so that it is protected from the likelihood of contamination - food defrosting in bin outside premises
+:latitude: -33.77889
 :trading_name: HARBORD CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 16A-16B Lawrence Street HARBORD
+:longitude: 151.2845178
 :id: "7659085280"
 :served_to: LO, KA CHEONG
 :council_area: WARRINGAH

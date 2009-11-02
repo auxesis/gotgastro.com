@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076662
 :offence_description: Fail to maintain fixtures, fittings and equipment in good working order
+:latitude: -36.504289
 :trading_name: SANTE RESTAURANT
 :penalty_amount: $330.00
 :address: MOWAMBA PL THREDBO VILLAGE 2625
+:longitude: 148.305587
 :id: "7657076662"
 :served_to: DRAGOVICH
 :council_area: Kosciuszko

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513334
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.964841
 :trading_name: THAI ROONG RUANG
 :penalty_amount: $330.00
 :address: SHOP 4/33 PENSHURST ST PENSHURST 2222
+:longitude: 151.087671
 :id: "3003513334"
 :served_to: SAITHONG, KWANTA
 :council_area: HURSTVILLE

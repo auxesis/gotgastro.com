@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298678
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.734125
 :trading_name: TOPNET KITCHEN
 :penalty_amount: $660.00
 :address: 60 GLENWOOD PARK DRIVE GLENWOOD 2768
+:longitude: 150.928147
 :id: "3013298678"
 :served_to: LIANG HONG P/L
 :council_area: BLACKTOWN

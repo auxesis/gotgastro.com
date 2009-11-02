@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302748
 :offence_description: Failure to maintain food premises in a clean condition
+:latitude: -33.874156
 :trading_name: DARLING HARBOUR SAKURA JAPANESE RESTAURANT
 :penalty_amount: $660.00
 :address: SHOP 143/20 DARLING DR SYDNEY 2000
+:longitude: 151.199687
 :id: "3002302748"
 :served_to: TIMFORD INTERNATIONAL P/L
 :council_area: SYDNEY

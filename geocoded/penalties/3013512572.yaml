@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512572
 :offence_description: Fail to maintain food premises and equipment in a good state of repair
+:latitude: -34.42635
 :trading_name: WOLLONGONG BAKERY
 :penalty_amount: $330.00
 :address: 9/341 CROWN ST WOLLONGONG
+:longitude: 150.887769
 :id: "3013512572"
 :served_to: CARUSO, RAFFAELLE
 :council_area: WOLLONGONG

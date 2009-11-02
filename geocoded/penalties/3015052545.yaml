@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015052545
 :offence_description: Fail to maintain food premises in a good state of repair and working order - hole in kitchen floor accumulating dirt and food scraps
+:latitude: -33.851101
 :trading_name: HUNGRY JACK'S
 :penalty_amount: $660.00
 :address: 16 SMITHFIELD RD SMITHFIELD 2164
+:longitude: 150.942884
 :id: "3015052545"
 :served_to: HUNGRY JACKS PTY LTD
 :council_area: FAIRFIELD

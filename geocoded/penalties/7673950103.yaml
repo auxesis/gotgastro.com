@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673950103
 :offence_description: Fail to maintain food premises in a clean condition  - unclean walls, floors and food equipment
+:latitude: -31.90791
 :trading_name: THAI TARNI RESTAURANT
 :penalty_amount: $330.00
 :address: SHOPS 1 AND 2 ALBERT ST TAREE
+:longitude: 152.466137
 :id: "7673950103"
 :served_to: KITYANYONG, PREECHA
 :council_area: GREATER TAREE

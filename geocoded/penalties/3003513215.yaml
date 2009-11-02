@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513215
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.95146
 :trading_name: LOAF N BUN HOT BREAD
 :penalty_amount: $330.00
 :address: 467 KING GEORGES ROAD BEVERLY HILLS 2209
+:longitude: 151.082037
 :id: "3003513215"
 :served_to: MARTINS, JOSE FRANCISCO COELHA
 :council_area: HURSTVILLE

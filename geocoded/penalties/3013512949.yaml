@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512949
 :offence_description: Fail to comply with the Food Standards Code - sale of mince containing sulphur dioxide preservative
+:latitude: -33.925083
 :trading_name: AL-HAZZAH SABAH HALAL BUTCHERY
 :penalty_amount: $330.00
 :address: SHOP 12, 297 MACQUARIE STREET LIVERPOOL 2170
+:longitude: 150.922285
 :id: "3013512949"
 :served_to: AL HAZZAH, SABAH
 :council_area: LIVERPOOL

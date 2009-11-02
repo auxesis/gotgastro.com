@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7622968605
 :offence_description: Fail to maintain clean food premises, equipment and utensils
+:latitude: -33.949423
 :trading_name: BRIGHTON PIZZA
 :penalty_amount: $330.00
 :address: 333 BELMORE RD RIVERWOOD 2210
+:longitude: 151.052306
 :id: "7622968605"
 :served_to: JIA, LIN KOU
 :council_area: HURSTVILLE

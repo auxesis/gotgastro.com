@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530553
 :offence_description: Fail to maintain a clean food premises - accumulation of grease, grime and food matter on floors, walls and under equipment
+:latitude: -33.892947
 :trading_name: VINA BAKEHOUSE
 :penalty_amount: $330.00
 :address: LEVEL 1 SHOP 15 55-91 SPRING ST BONDI JUNCTION 2022
+:longitude: 151.248035
 :id: "7639530553"
 :served_to: DAO, CHI
 :council_area: WAVERLEY

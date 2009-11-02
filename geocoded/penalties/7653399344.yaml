@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399344
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.734634
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
 :address: 259B OLD NORTHERN RD CASTLE HILL 2154
+:longitude: 151.003705
 :id: "7653399344"
 :served_to: AZADY PTY LTD
 :council_area: BAULKHAM HILLS

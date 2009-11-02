@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513315
 :offence_description: Fail to comply with product testing requirements as required by the NSW Dairy Manual for dairy produce factory -  pasteurised liquid milk products
+:latitude: -31.294253
 :trading_name: MJ & LC ROSE (PEEL VALLEY MILK)
 :penalty_amount: $330.00
 :address: 2560 NUNDLE RD WOOLOMIN 2340
+:longitude: 151.151057
 :id: "3013513315"
 :served_to: ROSE, MALCOLM JOHN
 :council_area: TAMWORTH

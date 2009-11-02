@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7640083092
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -32.835108
 :trading_name: PIZZA HUT
 :penalty_amount: $660.00
 :address: 103-111 VINCENT ST CESSNOCK
+:longitude: 151.355781
 :id: "7640083092"
 :served_to: J A G BROKERAGE SERVICES P/L
 :council_area: CESSNOCK

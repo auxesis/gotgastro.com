@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303179
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.887672
 :trading_name: MICHAEL'S MALAYSIAN & CHINESE FAST FOOD
 :penalty_amount: $330.00
 :address: 66-70 REGENT ST CHIPPENDALE 2008
+:longitude: 151.201788
 :id: "3002303179"
 :served_to: FOON, KWAI-NIM
 :council_area: SYDNEY

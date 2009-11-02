@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539299
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.891452
 :trading_name: TAJ MAHAL
 :penalty_amount: $330.00
 :address: 370 OXFORD ST BONDI JUNCTION
+:longitude: 151.247083
 :id: "7639539299"
 :served_to: SHAFIQUR, MOHD
 :council_area: WAVERLEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762879
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - rodent droppings were observed on the floor in the rear storage container for food ingredients
+:latitude: -33.437025
 :trading_name: BARTO'S BAKEHOUSE
 :penalty_amount: $330.00
 :address: 101A VICTORIA STREET EAST GOSFORD 2250
+:longitude: 151.353356
 :id: "3014762879"
 :served_to: BARTON, JASON
 :council_area: GOSFORD

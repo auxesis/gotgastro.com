@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672058635
 :offence_description: Defective and damaged flooring
+:latitude: -33.799351
 :trading_name: MANLY PIER RESTAURANT
 :penalty_amount: $330.00
 :address: COMMONWEALTH PDE MANLY 2095
+:longitude: 151.279654
 :id: "7672058635"
 :served_to: VESCIO, NICK
 :council_area: MANLY

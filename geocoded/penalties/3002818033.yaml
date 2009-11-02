@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818033
 :offence_description: Fail to protect food from likelihood of contamination
+:latitude: -33.737622
 :trading_name: RELISH FOODS
 :penalty_amount: $330.00
 :address: 4 HILLCREST RD PENNANT HILLS 2120
+:longitude: 151.070973
 :id: "3002818033"
 :served_to: MATIJEVIC, MATTHEW
 :council_area: HORNSBY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012280
 :offence_description: Fail to maintain fixtures and fittings in a clean condition
+:latitude: -33.763192
 :trading_name: STATION HOUSE FOOD BAR
 :penalty_amount: $330.00
 :address: 112 STATION ST ST MARYS
+:longitude: 150.778483
 :id: "7673012280"
 :served_to: MEHMET, GURSEL
 :council_area: PENRITH

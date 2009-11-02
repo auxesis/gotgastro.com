@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787740
 :offence_description: Fail to store potentially hazardous food under temperature control - Cheese, meats and egg mayonaise were being stored at temperatures between 7.6C to 20.4C
+:latitude: -33.865902
 :trading_name: HUNGRY JACK'S
 :penalty_amount: $660.00
 :address: WYNYARD RAILWAY STATION 301 GEORGE STREET SYDNEY 2000
+:longitude: 151.207133
 :id: "7670787740"
 :served_to: HUNGRY JACKS PTY LTD
 :council_area: SYDNEY

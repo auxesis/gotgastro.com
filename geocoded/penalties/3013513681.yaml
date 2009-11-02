@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513681
 :offence_description: Fail to maintain records in accordance with the food safety program
+:latitude: -33.886099
 :trading_name: AC GOURMET POULTRY
 :penalty_amount: $660.00
 :address: SHOP 14/55 NORTON STREET LEICHHARDT 2040
+:longitude: 151.158259
 :id: "3013513681"
 :served_to: AC GOURMET POULTRY PTY LTD
 :council_area: LEICHHARDT

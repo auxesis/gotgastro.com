@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501327
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.8760919
 :trading_name: CAFE HERNANDEZ
 :penalty_amount: $660.00
 :address: 60 KINGS CROSS ROAD DARLINGHURST 2010
+:longitude: 151.2251871
 :id: "7250501327"
 :served_to: CAFE HERNANDEZ PTY LTD
 :council_area: SYDNEY

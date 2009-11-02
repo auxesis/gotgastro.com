@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302674
 :offence_description: Not keeping food under temperature control
+:latitude: -33.878828
 :trading_name: BIJOU CHINA
 :penalty_amount: $330.00
 :address: B01/413-415 SUSSEX ST HAYMARKET 2000
+:longitude: 151.204458
 :id: "3002302674"
 :served_to: BAI, XIAORUI
 :council_area: SYDNEY

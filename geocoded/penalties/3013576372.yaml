@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576372
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - flies were observed in the food preparation area
+:latitude: -33.785911
 :trading_name: COLYTON BAKERY
 :penalty_amount: $330.00
 :address: SHOP 10, 62 HEWITT STREET COLYTON 2760
+:longitude: 150.800129
 :id: "3013576372"
 :served_to: HUYNH, VAN QUOC
 :council_area: PENRITH

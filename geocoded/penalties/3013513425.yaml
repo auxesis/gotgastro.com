@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513425
 :offence_description: Operate a food business without a licence (retail meat premises)
+:latitude: -33.862087
 :trading_name: HADI'S BUTCHERY
 :penalty_amount: $330.00
 :address: 158 PARK RD AUBURN
+:longitude: 151.028194
 :id: "3013513425"
 :served_to: AL HEYOURY, HADI
 :council_area: AUBURN

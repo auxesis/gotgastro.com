@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502481
 :offence_description: Fail to maintain easily accessible hand washing facilities on the food premises
+:latitude: -33.884978
 :trading_name: GOLDEN FANG CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 8-10 CITY ROAD CHIPPENDALE 2008
+:longitude: 151.194887
 :id: "7250502481"
 :served_to: LEE, YIU-MOON
 :council_area: SYDNEY

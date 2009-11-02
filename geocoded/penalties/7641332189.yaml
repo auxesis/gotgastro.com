@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332189
 :offence_description: Sale of unsuitable food
+:latitude: -33.824652
 :trading_name: LEBRETON PATISSERIE
 :penalty_amount: $550.00
 :address: 519 MILITARY RD MOSMAN
+:longitude: 151.239094
 :id: "7641332189"
 :served_to: LEBRETON, DOMINIQUE
 :council_area: MOSMAN

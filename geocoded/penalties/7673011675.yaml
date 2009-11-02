@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011675
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.7549152
 :trading_name: WHITE SWAN
 :penalty_amount: $330.00
 :address: 269 HIGH ST PENRITH 2750
+:longitude: 150.703414
 :id: "7673011675"
 :served_to: PAYNE, JOHN
 :council_area: PENRITH

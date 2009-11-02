@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663263
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.678437
 :trading_name: KONNICHIWA SUSHI BAR
 :penalty_amount: $330.00
 :address: SH 2/1751 PITTWATER RD MONA VALE 2103
+:longitude: 151.3033439
 :id: "3002663263"
 :served_to: YOUNG, ONE
 :council_area: PITTWATER

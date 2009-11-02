@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944566
 :offence_description: Fail to provide a designated hand washing facility within the food premises
+:latitude: -33.887653
 :trading_name: EATON CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 313 LIVERPOOL RD ASHFIELD
+:longitude: 151.123329
 :id: "7672944566"
 :served_to: OZDEE SEAFOODS PTY LTD
 :council_area: ASHFIELD

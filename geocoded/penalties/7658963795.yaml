@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7658963795
 :offence_description: Fail to maintain clean equipment (build up of grease, grime and food waste on cooking equipment)
+:latitude: -33.7676816
 :trading_name: NAVIGATOR BRASSERIE
 :penalty_amount: $330.00
 :address: SHOP 105 WARRINGAH MALL PITTWATER ROAD BROOKVALE 2100
+:longitude: 151.2683372
 :id: "7658963795"
 :served_to: TABERDIAN, SILVA
 :council_area: WARRINGAH

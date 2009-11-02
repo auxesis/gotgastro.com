@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7646553889
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.952587
 :trading_name: LITTLE MO'S PIZZA
 :penalty_amount: $330.00
 :address: 28 FREDERICK ST ROCKDALE 2216
+:longitude: 151.134895
 :id: "7646553889"
 :served_to: ELZEIN, FATMEH
 :council_area: ROCKDALE

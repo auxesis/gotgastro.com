@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7603251554
 :offence_description: Fail to store potentially hazardous food under temperature control - Bench fridge had a temperature of 12C
+:latitude: -34.45615
 :trading_name: HORSE AND HOUND
 :penalty_amount: $330.00
 :address: 34 GOULBURN STREET CROOKWELL 2583
+:longitude: 149.468626
 :id: "7603251554"
 :served_to: UNTERRHEINER, TROY
 :council_area: Upper Lachlan

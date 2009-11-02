@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672233297
 :offence_description: Food displayed for sale with expired use-by date
+:latitude: -34.044325
 :trading_name: SOL'S SUPERMARKET
 :penalty_amount: $330.00
 :address: 374 PORT HACKING RD CARINGBAH 2229
+:longitude: 151.123756
 :id: "7672233297"
 :served_to: MANSOUR, SOLIMAN
 :council_area: SUTHERLAND

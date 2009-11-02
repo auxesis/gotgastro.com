@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621585941
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of garbage, food waste and grease throughout the premises
+:latitude: -32.180331
 :trading_name: REEF BAR GRILL
 :penalty_amount: $330.00
 :address: SHOP 1/2-6 WHARF STREET FORSTER 2428
+:longitude: 152.508675
 :id: "7621585941"
 :served_to: MCDONAGH, DARREN JAMES
 :council_area: GREAT LAKES

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303792
 :offence_description: Fail to maintain all fixtures, fittings and equipment in a clean condition - accumulation of  grease, dirt and foreign matter on ceilings, pots, walls and cooking equipment
+:latitude: -33.876584
 :trading_name: RISE RESTAURANT
 :penalty_amount: $660.00
 :address: 23 CRAIGEND ST DARLINGHURST 2010
+:longitude: 151.222696
 :id: "3002303792"
 :served_to: ACCA & T PTY LTD
 :council_area: SYDNEY

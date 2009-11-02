@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553282
 :offence_description: Fail to provide a temperature measuring device within the food premises
+:latitude: -33.366606
 :trading_name: RED PEPPER GOURMET PIZZA & PASTA
 :penalty_amount: $330.00
 :address: 2/118 WYONG RD KILLARNEY VALE 2261
+:longitude: 151.4633
 :id: "7656553282"
 :served_to: HABKOUK, GEORGE
 :council_area: WYONG

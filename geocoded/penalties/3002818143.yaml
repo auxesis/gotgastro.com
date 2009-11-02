@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818143
 :offence_description: Fail to protect stored food from the likelihood of contamination
+:latitude: -33.703339
 :trading_name: TOKYO RAMEN
 :penalty_amount: $660.00
 :address: SHOP 1042 236 PACIFIC HWY HORNSBY
+:longitude: 151.097699
 :id: "3002818143"
 :served_to: HASEGAWA & YE INTERNATIONAL P/L
 :council_area: HORNSBY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512930
 :offence_description: Fail to adequately identify and trace livestock
+:latitude: -34.214569
 :trading_name: WOLLONDILLY ABATTOIR
 :penalty_amount: $660.00
 :address: KOORNA RD PICTON
+:longitude: 150.610571
 :id: "3013512930"
 :served_to: WOLLONDILLY ABATTOIR PTY LTD
 :council_area: WOLLONDILLY

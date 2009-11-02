@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513004
 :offence_description: Fail to protect stored food from the likelihood of contamination
+:latitude: -33.967682
 :trading_name: THE GOOD KITCHEN
 :penalty_amount: $660.00
 :address: 171 FOREST RD HURSTVILLE 2220
+:longitude: 151.105713
 :id: "3003513004"
 :served_to: G & K TRADING PTY LTD
 :council_area: HURSTVILLE

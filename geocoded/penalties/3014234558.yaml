@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014234558
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - cockroaches observed on the food premises
+:latitude: -34.065775
 :trading_name: FAMILY BAKERY
 :penalty_amount: $330.00
 :address: SHOP 66, CHAMBERLAIN STREET CAMPBELLTOWN 2560
+:longitude: 150.825285
 :id: "3014234558"
 :served_to: VUONG, VAN CHIEN
 :council_area: CAMPBELLTOWN

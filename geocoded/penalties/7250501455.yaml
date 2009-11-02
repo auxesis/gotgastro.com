@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501455
 :offence_description: Fail to display potentially hazardous food under temperature control - food including cooked bacon and eggs displayed at temperatures between 16.4C to 17.8C
+:latitude: -33.865861
 :trading_name: BACCO WINE BAR
 :penalty_amount: $660.00
 :address: SHOP LG03 CHIFLEY PLAZA 2 CHIFLEY SQUARE SYDNEY 2000
+:longitude: 151.211741
 :id: "7250501455"
 :served_to: ROCKET MAN AUSTRALIA PTY LTD
 :council_area: SYDNEY

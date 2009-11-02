@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172871
 :offence_description: Fail to take all practicable measures to ensure all people on the food premises do not smoke
+:latitude: -33.797158
 :trading_name: NORTHERN BEACHES TAKEAWAY
 :penalty_amount: $330.00
 :address: 41 SYDNEY ROAD MANLY 2095
+:longitude: 151.285794
 :id: "7641172871"
 :served_to: CHEN, ALEN
 :council_area: MANLY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576648
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.789123
 :trading_name: GLENMORE CAKES AND PIES
 :penalty_amount: $330.00
 :address: KIOSK 1A GLENMORE PARK SHOPPING CENTRE 1 TOWN TERRACE GLENMORE PARK 2745
+:longitude: 150.669289
 :id: "3013576648"
 :served_to: SOY, TOM
 :council_area: PENRITH

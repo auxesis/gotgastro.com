@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669935460
 :offence_description: Fail to store potentially hazardous food under temperature control
+:latitude: -34.857392
 :trading_name: NORTH NOWRA TAVERN
 :penalty_amount: $660.00
 :address: 82 PAGE AVE NORTH NOWRA
+:longitude: 150.582483
 :id: "7669935460"
 :served_to: DILLON MANAGEMENT SERVICES PTY LTD
 :council_area: SHOALHAVEN

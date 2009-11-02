@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631737
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.963374
 :trading_name: KING CHEF CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 74 RAILWAY PARADE KOGARAH 2217
+:longitude: 151.132952
 :id: "7641631737"
 :served_to: HUANG, JIAN
 :council_area: KOGARAH

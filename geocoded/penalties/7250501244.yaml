@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501244
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.866181
 :trading_name: PHO HONG HAI
 :penalty_amount: $330.00
 :address: SHOP F13, 7 HUNTER STREET SYDNEY 2000
+:longitude: 151.207685
 :id: "7250501244"
 :served_to: VO, THI MINH NGUYET
 :council_area: SYDNEY

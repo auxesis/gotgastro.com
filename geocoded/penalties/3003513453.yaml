@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513453
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.967015
 :trading_name: SUNNY BARBEQUE RESTAURANT
 :penalty_amount: $660.00
 :address: SHOP 1/227 FOREST ROAD HURSTVILLE 2220
+:longitude: 151.102633
 :id: "3003513453"
 :served_to: SUNNY BARBEQUE RESTAURANT PTY LTD
 :council_area: HURSTVILLE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242066
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.768537
 :trading_name: WESTERN PIZZA & KEBAB
 :penalty_amount: $330.00
 :address: 10/14 SUNNYHOLT ROAD BLACKTOWN 2148
+:longitude: 150.912041
 :id: "3015242066"
 :served_to: ONCU, BURLENT
 :council_area: BLACKTOWN

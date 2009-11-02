@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673946354
 :offence_description: Fail to store food so that it is protected from the likelihood of contamination
+:latitude: -31.922118
 :trading_name: OATES CATERING
 :penalty_amount: $660.00
 :address: 116 EDINBURGH DR TAREE 2430
+:longitude: 152.438004
 :id: "7673946354"
 :served_to: SULTO PTY LTD
 :council_area: GREATER TAREE

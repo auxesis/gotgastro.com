@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653245032
 :offence_description: Fail to display potentially hazardous food under temperature control - potentially hazardous food left uncovered, outside, not under temperature control
+:latitude: -33.86559
 :trading_name: TOAN THANG RESTAURANT
 :penalty_amount: $330.00
 :address: SHOP 9  90-95 THE CRESCENT HOMEBUSH WEST 2140
+:longitude: 151.070888
 :id: "7653245032"
 :served_to: MAI, TUAN MINH
 :council_area: STRATHFIELD

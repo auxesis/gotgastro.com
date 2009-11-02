@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831132
 :offence_description: Fail to maintain easily accessible hand washing facilities
+:latitude: -33.839044
 :trading_name: VIENNA SANDWICHES
 :penalty_amount: $330.00
 :address: 83 MOUNT ST NORTH SYDNEY 2060
+:longitude: 151.207806
 :id: "3002831132"
 :served_to: KIM, WON HO
 :council_area: NORTH SYDNEY

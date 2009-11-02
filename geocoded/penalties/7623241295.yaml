@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623241295
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food for processing being contaminated
+:latitude: -33.483638
 :trading_name: LITHGOW CHICKEN SHOP
 :penalty_amount: $330.00
 :address: 275 MAIN STREET LITHGOW 2790
+:longitude: 150.147012
 :id: "7623241295"
 :served_to: KOUNTOUROGIANNIS, KOULA
 :council_area: LITHGOW

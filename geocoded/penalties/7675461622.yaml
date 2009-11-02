@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461622
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
+:latitude: -33.881355
 :trading_name: GO GO BURGERS
 :penalty_amount: $330.00
 :address: 109 JOHNSTON STREET ANNANDALE 2038
+:longitude: 151.171039
 :id: "7675461622"
 :served_to: DENG, YING-XIAN
 :council_area: LEICHHARDT

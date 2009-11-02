@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631746
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.97844
 :trading_name: MODERN GRILL BRASSERIE
 :penalty_amount: $660.00
 :address: 72 CONNELLS POINT ROAD SOUTH HURSTVILLE 2221
+:longitude: 151.104749
 :id: "7641631746"
 :served_to: MODERN KITCHEN CATERING PTY LTD
 :council_area: KOGARAH

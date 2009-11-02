@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242130
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.769642
 :trading_name: JJ FOOD BAR
 :penalty_amount: $330.00
 :address: 23 MOUNT DRUITT ROAD MT DRUITT 2770
+:longitude: 150.812305
 :id: "3015242130"
 :served_to: CHU, JAMES
 :council_area: BLACKTOWN

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944712
 :offence_description: Fail to maintain a clean food premises - grease and grime wall rear storage room
+:latitude: -33.887796
 :trading_name: SPICELAND SUPERMARKET
 :penalty_amount: $660.00
 :address: 303 LIVERPOOL RD ASHFIELD
+:longitude: 151.123565
 :id: "7672944712"
 :served_to: SPICELAND SUPERMARKETS PTY LTD
 :council_area: ASHFIELD

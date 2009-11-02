@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697262
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.6952042
 :trading_name: SPRINGWOOD SEAFOOD
 :penalty_amount: $330.00
 :address: 262 MACQUARIE ROAD SPRINGWOOD 2777
+:longitude: 150.5480496
 :id: "3002697262"
 :served_to: TRIKOULIS, DIMITRIOS
 :council_area: BLUE MOUNTAINS

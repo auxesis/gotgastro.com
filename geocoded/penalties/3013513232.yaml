@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513232
 :offence_description: Fail to ensure sale of suitable food (chicken was undercooked)
+:latitude: -33.024774
 :trading_name: RED ROOSTER
 :penalty_amount: $1100.00
 :address: 397 PACIFIC HWY BELMONT NORTH 2280
+:longitude: 151.663618
 :id: "3013513232"
 :served_to: NORTHERN RR P/L
 :council_area: LAKE MACQUARIE

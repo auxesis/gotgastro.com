@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513096
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of garbage, food waste, dirt, grease and other visible matter
+:latitude: -33.949477
 :trading_name: RIVERWOOD HOT BREAD
 :penalty_amount: $330.00
 :address: 331 BELMORE ROAD RIVERWOOD 2210
+:longitude: 151.052294
 :id: "3003513096"
 :served_to: NGOC, LINH LE
 :council_area: HURSTVILLE

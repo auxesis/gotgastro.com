@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697473
 :offence_description: Handle food intended for sale in a manner that is likely to render the food unsafe - food stored in mouldy fridge at unsafe temperature, rat poison & rodent faeces on the premises
+:latitude: -33.720043
 :trading_name: LAWSON PIZZA
 :penalty_amount: $660.00
 :address: 293 GREAT WESTERN HIGHWAY LAWSON 2783
+:longitude: 150.429209
 :id: "3002697473"
 :served_to: CHRISTMAN, IZABELA
 :council_area: BLUE MOUNTAINS

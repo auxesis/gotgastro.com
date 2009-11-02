@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659090441
 :offence_description: Failure to maintain food premises to the required standard of cleanliness - Walls and floors in the food preparation area were found to be unclean
+:latitude: -33.712786
 :trading_name: RICE HOUSE KITCHEN RESTAURANT
 :penalty_amount: $330.00
 :address: 57 WATERLOO STREET NARRABEEN 2101
+:longitude: 151.298071
 :id: "7659090441"
 :served_to: LI, REBECCA
 :council_area: WARRINGAH

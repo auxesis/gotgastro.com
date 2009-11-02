@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513179
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.975151
 :trading_name: LUGARNO CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 1014 FOREST RD LUGARNO 2210
+:longitude: 151.047484
 :id: "3003513179"
 :served_to: ZHENG, SUSAN
 :council_area: HURSTVILLE

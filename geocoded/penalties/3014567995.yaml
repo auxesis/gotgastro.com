@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567995
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.770105
 :trading_name: CRYSTAL SEAFOOD RESTAURANT
 :penalty_amount: $660.00
 :address: 17 PATRICK STREET BLACKTOWN 2148
+:longitude: 150.905183
 :id: "3014567995"
 :served_to: EVER BRIGHT SUN PTY LTD
 :council_area: BLACKTOWN

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659068093
 :offence_description: Fail to protect stored food from the likelihood of contamination
+:latitude: -33.73457
 :trading_name: CHIX ROTISSERIE CHICKENS
 :penalty_amount: $330.00
 :address: PITTWATER ROAD COLLAROY
+:longitude: 151.302067
 :id: "7659068093"
 :served_to: ACTYPIS, DANNY
 :council_area: WARRINGAH

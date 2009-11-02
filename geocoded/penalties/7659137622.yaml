@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137622
 :offence_description: Fail to maintain food premises, fixtures, fittings and equipment in a good state of repair and working order
+:latitude: -33.732545
 :trading_name: CHIX AT COLLAROY
 :penalty_amount: $330.00
 :address: 1105 PITTWATER ROAD COLLAROY 2097
+:longitude: 151.301143
 :id: "7659137622"
 :served_to: ACTYPIS, DANNY
 :council_area: WARRINGAH

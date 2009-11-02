@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016812004
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, mould and insect and rodent excreta
+:latitude: -33.779448
 :trading_name: JUSCO SUPERMARKET
 :penalty_amount: $660.00
 :address: SHOP G1/372 PENNANT HILLS ROAD CARLINGFORD 2118
+:longitude: 151.053134
 :id: "3016812004"
 :served_to: JUSCO SUPERMARKET PTY LTD
 :council_area: PARRAMATTA

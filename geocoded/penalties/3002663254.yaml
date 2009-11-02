@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663254
 :offence_description: Fail to have a temperature measuring device at the premises where potentially hazardous food is handled - previous warnings given
+:latitude: -33.644648
 :trading_name: PASADENA
 :penalty_amount: $330.00
 :address: 1860 PITTWATER ROAD CHURCH POINT 2105
+:longitude: 151.28408
 :id: "3002663254"
 :served_to: ROMEO, MARY
 :council_area: PITTWATER

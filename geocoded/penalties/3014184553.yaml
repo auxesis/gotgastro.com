@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184553
 :offence_description: Fail to display potentially hazardous food under temperature control - sushi for sale on counter with no temperature control
+:latitude: -33.8874639
 :trading_name: ASHFIELD KOREAN MART
 :penalty_amount: $330.00
 :address: 1/1 WOOD ST ASHFIELD 2131
+:longitude: 151.1264154
 :id: "3014184553"
 :served_to: AHN, JOON HUNG
 :council_area: ASHFIELD

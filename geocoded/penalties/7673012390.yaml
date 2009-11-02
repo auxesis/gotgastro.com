@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012390
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.762964
 :trading_name: EL PINOY
 :penalty_amount: $330.00
 :address: 8 QUEEN ST ST MARYS 2760
+:longitude: 150.774956
 :id: "7673012390"
 :served_to: BONIFACIO, WINONA
 :council_area: PENRITH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831050
 :offence_description: Fail to provide easily accessible hand wash facility within premises
+:latitude: -33.834691
 :trading_name: CAFE 4 YOU
 :penalty_amount: $330.00
 :address: SHOP 1/168 WALKER ST NORTH SYDNEY 2060
+:longitude: 151.209137
 :id: "3002831050"
 :served_to: SINGH, JAGDISHWAR AND DHANJAI KAMAL
 :council_area: NORTH SYDNEY

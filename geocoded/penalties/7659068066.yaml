@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659068066
 :offence_description: Fail to maintain easily accessible hand washing facilities and single use towels or other method of effectively drying hands
+:latitude: -33.732545
 :trading_name: CHIX ROTISSERIE CHICKENS
 :penalty_amount: $330.00
 :address: 1105 PITTWATER ROAD COLLAROY
+:longitude: 151.301143
 :id: "7659068066"
 :served_to: ACTYPIS, DANNY
 :council_area: WARRINGAH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298760
 :offence_description: Fail to mainatain a clean food premises (unclean walls, floors, fixtures and fittings)
+:latitude: -33.726407
 :trading_name: CHICKEN RUN
 :penalty_amount: $660.00
 :address: 2 DOUGLAS RD QUAKERS HILL 2763
+:longitude: 150.884851
 :id: "3013298760"
 :served_to: J AND H HO P/L
 :council_area: BLACKTOWN

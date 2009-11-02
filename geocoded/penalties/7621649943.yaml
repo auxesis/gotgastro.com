@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621649943
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt and grease on the premises
+:latitude: -33.919885
 :trading_name: SPOT ON CAKE SHOP
 :penalty_amount: $330.00
 :address: 49 PEROUSE ROAD RANDWICK 2031
+:longitude: 151.242914
 :id: "7621649943"
 :served_to: LEITE, ALLAN
 :council_area: RANDWICK

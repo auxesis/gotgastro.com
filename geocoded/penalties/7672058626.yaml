@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672058626
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.79571
 :trading_name: FAIRLIGHT KITCHEN
 :penalty_amount: $330.00
 :address: 144 SYDNEY RD FAIRLIGHT 2094
+:longitude: 151.276849
 :id: "7672058626"
 :served_to: NG, DAVID
 :council_area: MANLY

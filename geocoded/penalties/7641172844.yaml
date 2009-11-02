@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172844
 :offence_description: Fail to have an adequate supply of water for any of the activities conducted on the food premises - no hot water was available
+:latitude: -33.7985051
 :trading_name: CHAT THAI
 :penalty_amount: $660.00
 :address: SHOP 10, EAST ESPLANADE MANLY WHARF MANLY 2095
+:longitude: 151.2889468
 :id: "7641172844"
 :served_to: CHAT THAI PTY LTD
 :council_area: MANLY

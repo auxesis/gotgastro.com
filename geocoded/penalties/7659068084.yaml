@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659068084
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition - unclean shelving, freezer, pipes, mechanical ventilation
+:latitude: -33.732545
 :trading_name: CHIX ROTISSERIE CHICKENS
 :penalty_amount: $330.00
 :address: 1105 PITTWATER ROAD COLLAROY
+:longitude: 151.301143
 :id: "7659068084"
 :served_to: ACTYPIS, DANNY
 :council_area: WARRINGAH

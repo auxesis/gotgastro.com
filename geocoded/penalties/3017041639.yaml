@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017041639
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food stored in fridge uncovered, and newspaper used to drain oil from food
+:latitude: -33.802542
 :trading_name: KAAVERY
 :penalty_amount: $330.00
 :address: 120 PENDLE WAY PENDLE HILL 2145
+:longitude: 150.9551
 :id: "3017041639"
 :served_to: NELIATH, VINAYAK
 :council_area: HOLROYD

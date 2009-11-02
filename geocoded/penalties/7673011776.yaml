@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011776
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.769209
 :trading_name: SILVER PALACE RESTAURANT
 :penalty_amount: $330.00
 :address: 235 QUEEN ST ST MARYS 2760
+:longitude: 150.773282
 :id: "7673011776"
 :served_to: YOUNG, COLIN
 :council_area: PENRITH

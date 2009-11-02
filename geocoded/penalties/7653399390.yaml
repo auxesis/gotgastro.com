@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399390
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.730358
 :trading_name: HILLS LUNCH SHOP
 :penalty_amount: $330.00
 :address: 17/5 SALISBURY RD CASTLE HILL
+:longitude: 150.975322
 :id: "7653399390"
 :served_to: PONG, ONG CHOW
 :council_area: BAULKHAM HILLS

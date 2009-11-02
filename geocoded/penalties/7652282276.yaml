@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282276
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.713975
 :trading_name: TERRAFIRMA
 :penalty_amount: $330.00
 :address: SHOP 4/201 LEURA MALL LEURA
+:longitude: 150.330576
 :id: "7652282276"
 :served_to: MCGLYNN, VIRGINIA
 :council_area: BLUE MOUNTAINS

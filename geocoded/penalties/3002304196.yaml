@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002304196
 :offence_description: Fail to provide, at or near each hand washing facility, single use towels or other means of effectively drying hands
+:latitude: -33.890874
 :trading_name: INDIAN HOME DINER
 :penalty_amount: $660.00
 :address: 567 CROWN ST SURRY HILLS
+:longitude: 151.212729
 :id: "3002304196"
 :served_to: KAWELCH PTY LTD
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513013
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.967682
 :trading_name: THE GOOD KITCHEN
 :penalty_amount: $660.00
 :address: 171 FOREST RD HURSTVILLE 2220
+:longitude: 151.105713
 :id: "3003513013"
 :served_to: G & K TRADING PTY LTD
 :council_area: HURSTVILLE

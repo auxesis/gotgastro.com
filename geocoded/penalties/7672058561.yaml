@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672058561
 :offence_description: Fail to process potentially hazardous food under temperature control
+:latitude: -33.79421
 :trading_name: DUMPLING INN
 :penalty_amount: $330.00
 :address: 8/318 SYDNEY RD BALGOWLAH 2093
+:longitude: 151.265581
 :id: "7672058561"
 :served_to: LEE, JOHN
 :council_area: MANLY

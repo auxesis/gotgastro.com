@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014068283
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food for processing being contaminated - inadequately covered food
+:latitude: 36.102052
 :trading_name: JACK STYLE THAI RESTAURANT
 :penalty_amount: $660.00
 :address: SHOPS 1 & 2, CORNER OF STATION STREET AND BOOLWEY STREET BOWRAL 2576
+:longitude: -79.545821
 :id: "3014068283"
 :served_to: JACK STYLE PTY LTD
 :council_area: WINGECARRIBEE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206415
 :offence_description: Fail to take all neccessary steps when processing food to prevent the likelihood of food being contaminated
+:latitude: -33.8698992
 :trading_name: BUNDA KHAN
 :penalty_amount: $330.00
 :address: MARKET STALL  430-482 SMITHFIELD RD PRAIRIEWOOD
+:longitude: 150.9042565
 :id: "3013206415"
 :served_to: KHAN, KAMIL
 :council_area: FAIRFIELD

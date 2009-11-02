@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663162
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt, grease and other visible matter
+:latitude: 19.13948
 :trading_name: NARRABEAN ASIAN CUISINE
 :penalty_amount: $330.00
 :address: SHOP 5&6 1493 PITTWATER ROAD NARRABEEN 2101
+:longitude: -96.1088251
 :id: "3002663162"
 :served_to: LAU, FRED
 :council_area: PITTWATER

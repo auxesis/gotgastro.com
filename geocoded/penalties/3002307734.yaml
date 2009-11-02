@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307734
 :offence_description: Failure to maintain adequate hand washing facility with a hot water supply
+:latitude: -33.86889
 :trading_name: ARK SUSHI KING
 :penalty_amount: $330.00
 :address: 396 GEORGE ST SYDNEY
+:longitude: 151.207126
 :id: "3002307734"
 :served_to: YOUNG, PAE LEE
 :council_area: SYDNEY

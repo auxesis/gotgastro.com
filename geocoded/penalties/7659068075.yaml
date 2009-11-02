@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659068075
 :offence_description: Fail to maintain food premises in a clean condition - unclean walls, floors and ceiling
+:latitude: -33.732545
 :trading_name: CHIX ROTISSERIE CHICKENS
 :penalty_amount: $330.00
 :address: 1105 PITTWATER ROAD COLLAROY
+:longitude: 151.301143
 :id: "7659068075"
 :served_to: ACTYPIS, DANNY
 :council_area: WARRINGAH

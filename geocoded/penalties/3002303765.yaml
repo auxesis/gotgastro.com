@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303765
 :offence_description: Fail to maintain a clean food premises - accumulation of dirt and grease on walls, ceiling and cooking equipment
+:latitude: -33.877774
 :trading_name: DANIANG DUMPLING
 :penalty_amount: $660.00
 :address: 42 DIXON ST HAYMARKET 2000
+:longitude: 151.2039637
 :id: "3002303765"
 :served_to: AUSTRALIA DANIANG DUMPLING RESTAURANT PTY LTD
 :council_area: SYDNEY

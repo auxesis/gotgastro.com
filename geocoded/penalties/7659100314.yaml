@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659100314
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste and dirt
+:latitude: -33.786692
 :trading_name: NORTH BALGOWLAH BAKERY
 :penalty_amount: $330.00
 :address: 9/44 WOODBINE STREET NORTH BALGOWLAH 2093
+:longitude: 151.251263
 :id: "7659100314"
 :served_to: INGHAM, MATTHEW
 :council_area: WARRINGAH

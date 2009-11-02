@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653245041
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - uncovered cooked and raw foods stored side by side in fridge with risk of contamination
+:latitude: -33.86559
 :trading_name: TOAN THANG RESTAURANT
 :penalty_amount: $330.00
 :address: SHOP 9/90-95 THE CRESCENT HOMEBUSH WEST 2140
+:longitude: 151.070888
 :id: "7653245041"
 :served_to: MAI, TUAN MINH
 :council_area: STRATHFIELD

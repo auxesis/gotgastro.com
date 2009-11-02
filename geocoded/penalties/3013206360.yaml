@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206360
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition - unclean cooking equipment, fridge and shelving
+:latitude: -33.886303
 :trading_name: CLAM'S SEAFOOD RESTAURANT
 :penalty_amount: $330.00
 :address: 41 CANLEY VALE RD CANLEY VALE
+:longitude: 150.941847
 :id: "3013206360"
 :served_to: WONG, SIU LUN
 :council_area: FAIRFIELD

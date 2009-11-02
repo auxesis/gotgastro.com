@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576161
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - german cockroaches were observed on the premises
+:latitude: -33.757062
 :trading_name: KEA ISLAND STORE
 :penalty_amount: $330.00
 :address: 16-18 PARKLAWN PLACE NORTH ST MARYS 2760
+:longitude: 150.781545
 :id: "3013576161"
 :served_to: IVA, TASESA
 :council_area: PENRITH

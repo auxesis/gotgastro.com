@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553264
 :offence_description: Sale of unsuitable food (product contaminated with pest)
+:latitude: -33.352737
 :trading_name: LAKEDGE BAKERY
 :penalty_amount: $1100.00
 :address: 1/62 LAKEDGE AVE BERKELEY VALE 2261
+:longitude: 151.445477
 :id: "7656553264"
 :served_to: FELSROSS P/L
 :council_area: WYONG

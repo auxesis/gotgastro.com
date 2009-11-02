@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576666
 :offence_description: Fail to store potentially hazardous food under temperature control
+:latitude: -33.764411
 :trading_name: ST MARYS FISH MARKET
 :penalty_amount: $660.00
 :address: 67 QUEEN STREET ST MARYS 2760
+:longitude: 150.774028
 :id: "3013576666"
 :served_to: ST MARYS FISH MARKET PTY LTD
 :council_area: PENRITH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096140
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap or other items that may be used to thoroughly clean hands
+:latitude: -33.3763315
 :trading_name: THE COFFEE CLUB
 :penalty_amount: $660.00
 :address: 12 BAY VILLAGE RD BATEAU BAY
+:longitude: 151.4738558
 :id: "3003096140"
 :served_to: PARMAK PTY LTD
 :council_area: WYONG

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513040
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.967581
 :trading_name: DELIGHT DIM SIM
 :penalty_amount: $660.00
 :address: 121 FOREST RD HURSTVILLE
+:longitude: 151.107721
 :id: "3003513040"
 :served_to: DELIGHT DIM SIM PTY LTD
 :council_area: HURSTVILLE

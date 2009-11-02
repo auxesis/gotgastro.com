@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013422500
 :offence_description: Fail to maintain food premises in a clean condition  - grease, oil and visible matter present on floors and walls
+:latitude: -33.418527
 :trading_name: YUMMY NOODLE BOX
 :penalty_amount: $330.00
 :address: 96 WILLIAM ST BATHURST
+:longitude: 149.580734
 :id: "3013422500"
 :served_to: XU, XINTAI
 :council_area: BATHURST

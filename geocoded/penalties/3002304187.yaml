@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002304187
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.890874
 :trading_name: INDIAN HOME DINER
 :penalty_amount: $660.00
 :address: 567 CROWN ST SURRY HILLS
+:longitude: 151.212729
 :id: "3002304187"
 :served_to: KAWELCH PTY LTD
 :council_area: SYDNEY

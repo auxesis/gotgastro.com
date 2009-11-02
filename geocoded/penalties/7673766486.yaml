@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673766486
 :offence_description: Fail to maintain food premises to the required standard of cleanliness  - There was an accumulation grease, chicken pieces and bones
+:latitude: -33.409152
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 470 PACIFIC HIGHWAY WYOMING 2250
+:longitude: 151.349011
 :id: "7673766486"
 :served_to: YUM RESTAURANTS AUSTRALIA PTY LTD
 :council_area: GOSFORD

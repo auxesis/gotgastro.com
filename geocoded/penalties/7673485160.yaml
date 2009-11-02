@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485160
 :offence_description: Fail to take all practicable measures to eradicate and prevent harbourage of pests in food premises
+:latitude: -33.8168544
 :trading_name: MCDONALD'S
 :penalty_amount: $660.00
 :address: SHOP 3082 WESTFIELD 171 CHURCH ST PARRAMATTA 2150
+:longitude: 151.0034511
 :id: "7673485160"
 :served_to: MCDONALDS AUSTRALIA LTD
 :council_area: PARRAMATTA

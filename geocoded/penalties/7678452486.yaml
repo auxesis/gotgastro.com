@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452486
 :offence_description: Fail to provide a thermometer at a premises where potentially hazardous food is sold
+:latitude: -33.846023
 :trading_name: AINOYA
 :penalty_amount: $660.00
 :address: 34 Burton Street KIRRIBILLI
+:longitude: 151.213382
 :id: "7678452486"
 :served_to: W SONG PTY LTD
 :council_area: NORTH SYDNEY

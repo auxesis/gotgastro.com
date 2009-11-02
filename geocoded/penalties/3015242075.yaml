@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242075
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.77
 :trading_name: RONNIES PIZZA
 :penalty_amount: $330.00
 :address: 8 FLUSHCOMBE ROAD BLACKTOWN 2148
+:longitude: 150.908675
 :id: "3015242075"
 :served_to: BELCASTRO, RONNIE
 :council_area: BLACKTOWN

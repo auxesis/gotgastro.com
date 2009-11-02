@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671477890
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination  - raw meat stored above tomatoes
+:latitude: -33.813405
 :trading_name: NAVARRO'S KITCHEN
 :penalty_amount: $330.00
 :address: 9/74-100 HAWKESBURY RD WESTMEAD
+:longitude: 150.984787
 :id: "7671477890"
 :served_to: NAVARRO, TAMMY
 :council_area: HOLROYD

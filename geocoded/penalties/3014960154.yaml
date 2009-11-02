@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960154
 :offence_description: Fail to maintain food premises in a clean condition  - accumulation of food waste, dirt, grease and other visible matter
+:latitude: -33.931697
 :trading_name: LONGS JADE GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 5 HARTILL LAW AVE BARDWELL PARK
+:longitude: 151.125967
 :id: "3014960154"
 :served_to: LONG, YONG CHENG
 :council_area: ROCKDALE

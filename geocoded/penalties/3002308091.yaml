@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002308091
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
+:latitude: -33.864559
 :trading_name: GOSHU RAMEN TEI
 :penalty_amount: $660.00
 :address: SHOP 1, 5 YORK ST SYDNEY 2000
+:longitude: 151.205153
 :id: "3002308091"
 :served_to: YORK CORPORATION PTY LTD
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960190
 :offence_description: Fail to maintain fittings and equipment in a clean condition  - accumulation of food waste, dirt, grease and other visible matter
+:latitude: -33.949287
 :trading_name: PETE'S BAKERY
 :penalty_amount: $330.00
 :address: 449 FOREST RD BEXLEY
+:longitude: 151.126686
 :id: "3014960190"
 :served_to: STERGIOU, PETER
 :council_area: ROCKDALE

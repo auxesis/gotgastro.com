@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514379
 :offence_description: Fail to sell food that is suitable - infant formula for sale past its use-by date
+:latitude: -33.7889588
 :trading_name: IGA FOODBARN
 :penalty_amount: $1100.00
 :address: SHOP 11, 2 CAMPBELL STREET NORTHMEAD 2152
+:longitude: 150.996367
 :id: "3013514379"
 :served_to: TONGMA HOLDINGS PTY LTD
 :council_area: PARRAMATTA

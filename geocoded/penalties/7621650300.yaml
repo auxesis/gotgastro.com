@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650300
 :offence_description: Fail to maintain, at or near each hand washing facility, a supply of soap
+:latitude: -33.91515
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: SHOP 1/73-109 BELMORE ROAD RANDWICK 2031
+:longitude: 151.240913
 :id: "7621650300"
 :served_to: Q S R PTY LTD
 :council_area: RANDWICK

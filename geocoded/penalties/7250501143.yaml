@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501143
 :offence_description: Failed to display potentially hazardous food under temperature control - dumplings displayed at 48 degrees C
+:latitude: -33.8655068
 :trading_name: EAT WAY
 :penalty_amount: $330.00
 :address: SHOP 3/F14 HUNTER STREET SYDNEY 2000
+:longitude: 151.2074883
 :id: "7250501143"
 :served_to: FAN, JUN
 :council_area: SYDNEY

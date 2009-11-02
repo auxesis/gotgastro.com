@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315326
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food was stored uncovered
+:latitude: -33.893345
 :trading_name: GOLDEN FORTUNE CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 64 BROOMFIELD STREET CABRAMATTA 2166
+:longitude: 150.940062
 :id: "3015315326"
 :served_to: ZHOU, LIFEN
 :council_area: FAIRFIELD

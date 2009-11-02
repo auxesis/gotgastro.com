@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514213
 :offence_description: Fail to comply with a condition of licence - monitoring records incomplete
+:latitude: -31.508094
 :trading_name: ROBINSONS BUTCHERY
 :penalty_amount: $660.00
 :address: 83 HENRY ST QUIRINDI
+:longitude: 150.6815
 :id: "3013514213"
 :served_to: RENLEDA PTY LTD
 :council_area: QUIRINDI

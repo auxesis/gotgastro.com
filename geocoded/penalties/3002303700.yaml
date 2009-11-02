@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303700
 :offence_description: Food business did not have a temperature measuring device
+:latitude: -33.878691
 :trading_name: BILLS RESTAURANT
 :penalty_amount: $660.00
 :address: 433 LIVERPOOL ST DARLINGHURST 2010
+:longitude: 151.222678
 :id: "3002303700"
 :served_to: BILLS RESTAURANTS P/L
 :council_area: SYDNEY

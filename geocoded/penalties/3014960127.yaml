@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960127
 :offence_description: Fail to provide hand washing facilities that are connected to, or otherwise provided with a supply of warm running potable water
+:latitude: -33.985484
 :trading_name: LONGS GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 354A ROCKY POINT RD RAMSGATE
+:longitude: 151.136373
 :id: "3014960127"
 :served_to: CHAN, BING KEUNG
 :council_area: ROCKDALE

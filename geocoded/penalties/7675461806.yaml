@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461806
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
+:latitude: -33.857953
 :trading_name: MISS SAIGON
 :penalty_amount: $330.00
 :address: 248 DARLING STREET BALMAIN 2041
+:longitude: 151.182427
 :id: "7675461806"
 :served_to: NGUYEN, MY HANH
 :council_area: LEICHHARDT

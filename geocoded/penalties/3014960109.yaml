@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960109
 :offence_description: Failure to maintain the food premises to the required standard of cleanliness - There was an accumulation of dirt, grease and other visible matter
+:latitude: -33.99503
 :trading_name: LE BEACH HUT RESTAURANT
 :penalty_amount: $330.00
 :address: 179 RUSSELL AVENUE DOLLS POINT 2219
+:longitude: 151.145925
 :id: "3014960109"
 :served_to: SINGH, TEJINDER
 :council_area: ROCKDALE

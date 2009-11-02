@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7610523131
 :offence_description: Handled food intended for sale in a manner that will render it unsafe - leaving rice to cool overnight out of temperature control
+:latitude: -33.92183
 :trading_name: LAM & MAY CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 100 MONASH STREET WEST WYALONG 2671
+:longitude: 147.206967
 :id: "7610523131"
 :served_to: NE, LAM
 :council_area: BLAND

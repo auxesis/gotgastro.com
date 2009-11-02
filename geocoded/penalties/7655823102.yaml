@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7655823102
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - Food stored in the food preparation area, kept uncovered at room temperature
+:latitude: -33.930226
 :trading_name: HONG HA BAKERY
 :penalty_amount: $330.00
 :address: 1151 BOTANY ROAD MASCOT 2020
+:longitude: 151.194888
 :id: "7655823102"
 :served_to: PHUN, SAING LAI
 :council_area: BOTANY

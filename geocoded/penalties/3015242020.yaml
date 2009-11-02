@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242020
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.770704
 :trading_name: MEDITERRANEAN SEAFOOD
 :penalty_amount: $330.00
 :address: SHOP 2  31 ROOTY HILL ROAD ROOTY HILL 2766
+:longitude: 150.842811
 :id: "3015242020"
 :served_to: AWKAR, MADELAINE
 :council_area: BLACKTOWN

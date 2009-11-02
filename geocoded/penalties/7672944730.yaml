@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944730
 :offence_description: Fail to maintain a clean food premises - grease and grime in food preparation area
+:latitude: -33.888468
 :trading_name: TASTE OF SHANGHAI RESTAURANT
 :penalty_amount: $660.00
 :address: 264 LIVERPOOL RD ASHFIELD 2131
+:longitude: 151.123878
 :id: "7672944730"
 :served_to: PYLON INTERNATIONAL PTY LTD
 :council_area: ASHFIELD

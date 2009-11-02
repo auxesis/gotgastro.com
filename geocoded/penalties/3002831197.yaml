@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831197
 :offence_description: Fail to provide a supply of warm running potable water at hand washing facilities
+:latitude: -33.836546
 :trading_name: BERRY DELICIOUS
 :penalty_amount: $330.00
 :address: 14 BERRY ST NORTH SYDNEY 2055
+:longitude: 151.205002
 :id: "3002831197"
 :served_to: ZHOU, XIAO RONG
 :council_area: NORTH SYDNEY

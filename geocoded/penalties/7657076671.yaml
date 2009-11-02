@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076671
 :offence_description: Fail to maintain clean food premises and equipment - unclean floors, walls, ceilings, microwaves, fridges, freezers, handles, shelves, mould in coolroom
+:latitude: -36.504289
 :trading_name: SANTE RESTAURANT
 :penalty_amount: $330.00
 :address: MOWAMBA PL THREDBO VILLAGE 2625
+:longitude: 148.305587
 :id: "7657076671"
 :served_to: DRAGOVICH
 :council_area: Kosciuszko

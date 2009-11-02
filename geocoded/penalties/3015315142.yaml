@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315142
 :offence_description: Fail to when processing food take all necessary steps to prevent the likelihood of food being contaminated
+:latitude: -33.8698992
 :trading_name: NO TRADING NAME
 :penalty_amount: $330.00
 :address: 430-482 SMITHFIELD RD PRAIRIEWOOD
+:longitude: 150.9042565
 :id: "3015315142"
 :served_to: LAN, DINH
 :council_area: FAIRFIELD

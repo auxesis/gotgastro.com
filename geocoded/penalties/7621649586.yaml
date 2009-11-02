@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621649586
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.907963
 :trading_name: FRENCHMAN'S GOURMET CHICKENS
 :penalty_amount: $330.00
 :address: 55C FRENCHMANS RD RANDWICK 2031
+:longitude: 151.247856
 :id: "7621649586"
 :served_to: LIN, ZHI GANG
 :council_area: RANDWICK

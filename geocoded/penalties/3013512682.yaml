@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512682
 :offence_description: Fail to comply with the requirement of a Food Safety Scheme  - fail to maintain premises and prevent entry of pests
+:latitude: -33.877757
 :trading_name: GOOD LUCK BUTCHERY
 :penalty_amount: $660.00
 :address: 127-133 BURWOOD RD BURWOOD
+:longitude: 151.103199
 :id: "3013512682"
 :served_to: SUN'S UP ENTERPRISE PTY LTD
 :council_area: BURWOOD

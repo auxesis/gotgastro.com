@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547535
 :offence_description: Fail to comply with food standards code  - hand washing facility not repaired, unclean floor, evidence of pests, cross contamination
+:latitude: -28.86323
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 110-112 CENTRE ST CASINO
+:longitude: 153.045446
 :id: "3003547535"
 :served_to: Q S R PTY LTD
 :council_area: RICHMOND VALLEY COUNCIL

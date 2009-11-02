@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512628
 :offence_description: Sold food that fails to comply with the Food Standards Code - hamburger mince containing sulphur dioxide
+:latitude: 41.1412077
 :trading_name: HAMZE FAMILY BUTCHER
 :penalty_amount: $330.00
 :address: SHOP 39 THE CHASE SHOPPING CENTRE FAIRFIELD
+:longitude: -73.2637258
 :id: "3013512628"
 :served_to: HAMZE, SAMIR
 :council_area: FAIRFIELD

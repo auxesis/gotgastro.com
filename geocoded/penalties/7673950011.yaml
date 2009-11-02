@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673950011
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food being contaminated
+:latitude: -31.911714
 :trading_name: TAREE KEBABS
 :penalty_amount: $330.00
 :address: SHOP 22 TAREE CITY CENTRE MANNING ST TAREE 2430
+:longitude: 152.463871
 :id: "7673950011"
 :served_to: CEVIK, ISHIK
 :council_area: GREATER TAREE

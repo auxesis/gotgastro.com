@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576400
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean floors, walls, and ceiling
+:latitude: -33.778167
 :trading_name: MONFARVILLE BAKERY
 :penalty_amount: $330.00
 :address: 81 MONFARVILLE STREET ST MARYS 2760
+:longitude: 150.775412
 :id: "3013576400"
 :served_to: PHAM, VIET
 :council_area: PENRITH

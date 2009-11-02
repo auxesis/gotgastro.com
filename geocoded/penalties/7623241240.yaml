@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623241240
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
+:latitude: -33.4331502
 :trading_name: MCDONALD'S FAMILY RESTAURANT
 :penalty_amount: $660.00
 :address: CORNER GREAT WESTERN HIGHWAY & MAIN STREET LITHGOW 2790
+:longitude: 149.9076713
 :id: "7623241240"
 :served_to: LAMBAY HOLDINGS PTY LTD
 :council_area: LITHGOW

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501547
 :offence_description: Fail to store potentially hazardous food under temperature control - unpasteurised dip spread was stored on top of counter at ambient temperatures
+:latitude: -33.879983
 :trading_name: CYRIL'S DELICATESSEN
 :penalty_amount: $330.00
 :address: 181 HAY STREET HAYMARKET 2000
+:longitude: 151.205837
 :id: "7250501547"
 :served_to: VINCENC, CYRIL AND MILA
 :council_area: SYDNEY

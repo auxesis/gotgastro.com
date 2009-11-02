@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513141
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of litter, food waste, dirt, grease and other visible matter
+:latitude: -33.965851
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 309B FOREST ROAD HURSTVILLE 2220
+:longitude: 151.100279
 :id: "3003513141"
 :served_to: QSR PTY LTD
 :council_area: HURSTVILLE

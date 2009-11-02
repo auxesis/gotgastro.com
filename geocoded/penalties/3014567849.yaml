@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567849
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.769717
 :trading_name: DAILY HOT BREAD
 :penalty_amount: $330.00
 :address: 67 MAIN STREET BLACKTOWN 2148
+:longitude: 150.909452
 :id: "3014567849"
 :served_to: TRAN, VAN THO
 :council_area: BLACKTOWN

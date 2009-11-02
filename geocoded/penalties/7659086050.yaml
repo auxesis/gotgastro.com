@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659086050
 :offence_description: Fail to take all necessary steps when processing food to prevent the likelihood of contamination - renovation works being conducted around food handling areas whilst trading
+:latitude: -33.754046
 :trading_name: MC DONALDS
 :penalty_amount: $660.00
 :address: 164 WARRINGAH ROAD BEACON HILL
+:longitude: 151.260677
 :id: "7659086050"
 :served_to: KRISTOD PTY LTD
 :council_area: WARRINGAH

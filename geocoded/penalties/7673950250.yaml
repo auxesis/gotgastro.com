@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673950250
 :offence_description: Fail to store potentially hazardous food under temperature control - The coolroom was operating at a temperature of 10C and above
+:latitude: -31.9123549
 :trading_name: AESAAN THAI RESTAURANT
 :penalty_amount: $330.00
 :address: SHOP 6 103 VICTORIA STREET TAREE 2430
+:longitude: 152.4627811
 :id: "7673950250"
 :served_to: SOMBAT, NAKORNRACH
 :council_area: GREATER TAREE

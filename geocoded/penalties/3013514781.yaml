@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514781
 :offence_description: Sell food that fails to comply with the Food Standards Code - sale of meat described as beef mince containing illegal sulphur dioxide preservative
+:latitude: -33.919475
 :trading_name: AL-BASHARA BUTCHERY
 :penalty_amount: $330.00
 :address: 44 RAILWAY PARADE LAKEMBA 2195
+:longitude: 151.075981
 :id: "3013514781"
 :served_to: RASHID, HARUNUR
 :council_area: CANTERBURY

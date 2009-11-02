@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507550
 :offence_description: Fail to have hand washing facilities that are located where they can be easily accessed by food handlers - removed the only hand washing facility from the premises
+:latitude: -33.859176
 :trading_name: ARC CAFE
 :penalty_amount: $660.00
 :address: KIOSK I CIRCULAR QUAY EAST 1 MACQUARIE STREET SYDNEY 2000
+:longitude: 151.213165
 :id: "7250507550"
 :served_to: CIRCULAR QUAY RESTAURANTS PTY LTD
 :council_area: SYDNEY

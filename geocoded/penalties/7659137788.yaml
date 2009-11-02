@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137788
 :offence_description: Fail to store potentially hazardous food under temperature control - Food stored in the coolroom was not under temperature control
+:latitude: -33.75336
 :trading_name: YENS BAKER DOZEN
 :penalty_amount: $330.00
 :address: 10/17 HOWARD AVENUE DEE WHY 2099
+:longitude: 151.288137
 :id: "7659137788"
 :served_to: LUONG, YEN LAN
 :council_area: WARRINGAH

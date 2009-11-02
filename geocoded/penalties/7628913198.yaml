@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7628913198
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean floors, walls and ceilings. Previous warnings given.
+:latitude: -34.425504
 :trading_name: AUSSIE CUISINE CAFE
 :penalty_amount: $330.00
 :address: SHOP 5 151-161 CROWN ST WOLLONGONG
+:longitude: 150.895345
 :id: "7628913198"
 :served_to: ZHANG, YUN HONG
 :council_area: WOLLONGONG

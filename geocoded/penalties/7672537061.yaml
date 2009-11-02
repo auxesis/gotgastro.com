@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537061
 :offence_description: Fail to process or cool potentially hazardous food under temperature or time control
+:latitude: -33.843119
 :trading_name: SINTHU RESTAURANT
 :penalty_amount: $330.00
 :address: 164 PARRAMATTA RD AUBURN
+:longitude: 151.038606
 :id: "7672537061"
 :served_to: KANTHASAMY, THAVARAJAH
 :council_area: AUBURN

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539243
 :offence_description: Fail to maintain premises, fixtures, fittings and equipment in a clean condition - accumulation of grease, oil, dirt on shelves, walls, ceilings, surrounds of deep fryer, leads, doors
+:latitude: -33.891622
 :trading_name: GABBY'S CAFE
 :penalty_amount: $330.00
 :address: 90-94 CAMPBELL PDE BONDI BEACH 2026
+:longitude: 151.273136
 :id: "7639539243"
 :served_to: CHEN, DAVID
 :council_area: WAVERLEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7603251572
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -34.405567
 :trading_name: ARGYLE INN HOTEL
 :penalty_amount: $330.00
 :address: 80 ORCHARD STREET TARALGA 2580
+:longitude: 149.818683
 :id: "7603251572"
 :served_to: STARCEVICH, TERESA
 :council_area: Upper Lachlan

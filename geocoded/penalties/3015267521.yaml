@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267521
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food being contaminated
+:latitude: -33.768002
 :trading_name: MR PING'S EATERY
 :penalty_amount: $330.00
 :address: 1/24 FIRST AVENUE BLACKTOWN 2148
+:longitude: 150.909689
 :id: "3015267521"
 :served_to: CAI, XIAO PING
 :council_area: BLACKTOWN

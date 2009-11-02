@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096040
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.352737
 :trading_name: CAMO'S ON THE EDGE
 :penalty_amount: $330.00
 :address: 2/62 LAKEDGE AVE BERKELEY VALE
+:longitude: 151.445477
 :id: "3003096040"
 :served_to: CHENG, GRATIANO
 :council_area: WYONG

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576262
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.803789
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
 :address: SHOP 10, 184 SWALLOW DRIVE ERSKINE PARK 2759
+:longitude: 150.804336
 :id: "3013576262"
 :served_to: AUSTOTAL ENTERPRISE PARTNERS PTY LTD
 :council_area: PENRITH

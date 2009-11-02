@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096059
 :offence_description: Fail to provide a temperature measuring device that is accurate and readily accessible at a premises where potentially hazardous food is sold - previous warnings given
+:latitude: -33.286117
 :trading_name: ROYAL HOTEL BISTRO
 :penalty_amount: $330.00
 :address: 40-44 PACIFIC HWY WYONG
+:longitude: 151.423868
 :id: "3003096059"
 :served_to: MCKAY, JAMES
 :council_area: WYONG

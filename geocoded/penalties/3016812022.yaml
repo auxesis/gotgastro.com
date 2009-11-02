@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016812022
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - including unclean milk shake mixer, dish washing machine, benches, cabinet, utensil containers
+:latitude: -33.817697
 :trading_name: MILANO ESPRESSO
 :penalty_amount: $330.00
 :address: 64/14 HASSALL STREET PARRAMATTA 2150
+:longitude: 151.008522
 :id: "3016812022"
 :served_to: CONTARINO, ADRIAN
 :council_area: PARRAMATTA

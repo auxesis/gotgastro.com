@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7629209639
 :offence_description: Fail to maintain a clean food premises (unclean floors, walls, shelves of food shop and coolroom)
+:latitude: -33.921468
 :trading_name: GOURMET PALACE
 :penalty_amount: $330.00
 :address: 106 HALDON ST LAKEMBA 2195
+:longitude: 151.077562
 :id: "7629209639"
 :served_to: MATTAR, NABIL
 :council_area: CANTERBURY

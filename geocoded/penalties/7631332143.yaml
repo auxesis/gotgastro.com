@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332143
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste and grime on the floor throughout the premises
+:latitude: -35.371334
 :trading_name: KARABAR BAKERY
 :penalty_amount: $660.00
 :address: SHOP 1, 34 QUEENBAR STREET KARABAR 2620
+:longitude: 149.232131
 :id: "7631332143"
 :served_to: DHT BAKERIES PTY LTD
 :council_area: QUEANBEYAN

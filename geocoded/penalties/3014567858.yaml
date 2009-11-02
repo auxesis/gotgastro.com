@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567858
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - Food stored on an unclean floor
+:latitude: -33.77089
 :trading_name: WAN DA SUPERMARKET
 :penalty_amount: $330.00
 :address: 111 MAIN STREET BLACKTOWN 2148
+:longitude: 150.910741
 :id: "3014567858"
 :served_to: MIAN, KONG YAU
 :council_area: BLACKTOWN

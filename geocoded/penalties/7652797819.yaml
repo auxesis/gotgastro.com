@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797819
 :offence_description: Fail to maintain food premises in a clean condition  - foodwaste, grease and other visible matter
+:latitude: -33.859457
 :trading_name: PIZZA HUT
 :penalty_amount: $330.00
 :address: 294 LYONS RD RUSSELL LEA
+:longitude: 151.142023
 :id: "7652797819"
 :served_to: DUCKE, BRENDAN
 :council_area: CANADA BAY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502041
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt and grease on the floor
+:latitude: -33.8785289
 :trading_name: I SAN CITY
 :penalty_amount: $330.00
 :address: 413 PITT STREET SYDNEY 2000
+:longitude: 151.2073232
 :id: "7250502041"
 :served_to: THAENSA, YAOWALAK
 :council_area: SYDNEY

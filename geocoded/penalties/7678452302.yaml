@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452302
 :offence_description: Fail to maintain a clean food premises - unclean walls and floors
+:latitude: -33.825124
 :trading_name: C'NEST CHINESE CUISINE
 :penalty_amount: $660.00
 :address: 88 WILLOUGHBY ROAD CROWS NEST 2065
+:longitude: 151.200624
 :id: "7678452302"
 :served_to: GRAVY INTERNATIONAL PTY LTD
 :council_area: NORTH SYDNEY

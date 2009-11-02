@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332253
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - The walls, floors and coolroom were observed to be in an unclean condition
+:latitude: -35.371334
 :trading_name: DIAMOND CHINESE
 :penalty_amount: $330.00
 :address: SHOP 18/34 QUEENBAR ROAD KARABAR 2620
+:longitude: 149.232131
 :id: "7631332253"
 :served_to: CHAN, BOON FAN
 :council_area: QUEANBEYAN

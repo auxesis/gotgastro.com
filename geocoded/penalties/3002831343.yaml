@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831343
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of food waste, dirt and other visible matter
+:latitude: -33.831814
 :trading_name: MONDIAL BAKERY
 :penalty_amount: $330.00
 :address: SHOP 1, 185 MILITARY ROAD NEUTRAL BAY 2089
+:longitude: 151.223244
 :id: "3002831343"
 :served_to: TRAN, THI DAN
 :council_area: NORTH SYDNEY

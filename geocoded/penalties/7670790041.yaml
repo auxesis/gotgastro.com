@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790041
 :offence_description: Fail to maintain food premises in a clean condition  - presence of food waste, mould and grease
+:latitude: -33.922836
 :trading_name: TROP BIEN
 :penalty_amount: $330.00
 :address: 353 GARDENERS RD ROSEBERY
+:longitude: 151.20435
 :id: "7670790041"
 :served_to: ABBOUD, JACK
 :council_area: BOTANY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513800
 :offence_description: Fail to comply with the Food Standards Code - sale of lamb mince containing sulphur dioxide preservative
+:latitude: -33.910938
 :trading_name: THAI HUNG BUTCHERY
 :penalty_amount: $660.00
 :address: 282 MARRICKVILLE ROAD MARRICKVILLE
+:longitude: 151.156675
 :id: "3013513800"
 :served_to: THAI HUNG PTY LTD
 :council_area: MARRICKVILLE

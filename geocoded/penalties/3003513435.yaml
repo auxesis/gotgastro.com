@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513435
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.949852
 :trading_name: SUSHI BAR HIRO
 :penalty_amount: $330.00
 :address: 498A KING GEORGES ROAD BEVERLY HILLS 2209
+:longitude: 151.0816
 :id: "3003513435"
 :served_to: REKISHA, HIROSHI
 :council_area: HURSTVILLE

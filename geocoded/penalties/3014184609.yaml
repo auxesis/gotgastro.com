@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184609
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of grease and grime on walls, floor, shelves and other areas
+:latitude: -33.89175
 :trading_name: INDIAN HOME DINER
 :penalty_amount: $330.00
 :address: 50 LACKEY STREET SUMMER HILL 2130
+:longitude: 151.138398
 :id: "3014184609"
 :served_to: RUHUL, AMIN
 :council_area: ASHFIELD

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298788
 :offence_description: Fail to maintain floors, walls, fittings and fixtures in a clean condition.
+:latitude: -33.799186
 :trading_name: CHINA RESTAURANT
 :penalty_amount: $330.00
 :address: 4/1 ALDGATE ST PROSPECT 2533
+:longitude: 150.926391
 :id: "3013298788"
 :served_to: YAN, MIN
 :council_area: BLACKTOWN

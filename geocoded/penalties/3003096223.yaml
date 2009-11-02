@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096223
 :offence_description: Failure to maintain food premises fixtures and fittings in a good state of repair and working order - No hot water available for cleaning and hand washing, and for the 12 months prior
+:latitude: -33.28657
 :trading_name: CARMICHAEL'S CORNER STORE
 :penalty_amount: $330.00
 :address: 6 WARNER AVENUE WYONG 2259
+:longitude: 151.426518
 :id: "3003096223"
 :served_to: VAN MEETEREN, STEVEN
 :council_area: WYONG

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7622968880
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.950875
 :trading_name: PIZZA PARADISO
 :penalty_amount: $330.00
 :address: 416 STONEY CREEK RD KINGSGROVE
+:longitude: 151.092366
 :id: "7622968880"
 :served_to: HIJAZI, ALI
 :council_area: HURSTVILLE

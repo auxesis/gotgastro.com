@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657021552
 :offence_description: Fail to have a temperature measuring device at the premises where potentially hazardous food is handled
+:latitude: -33.798103
 :trading_name: YOK THAI
 :penalty_amount: $660.00
 :address: SOUTH STEYNE MANLY 2095
+:longitude: 151.288639
 :id: "7657021552"
 :served_to: YOK THAI RESTAURANT PTY LTD
 :council_area: MANLY

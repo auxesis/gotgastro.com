@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621585840
 :offence_description: Sale of unsuitable food - deteriorated and perished tomatoes
+:latitude: -32.179598
 :trading_name: WOOLWORTHS
 :penalty_amount: $1100.00
 :address: LOT 51 DP 635345 CNR BREESE PD FORSTER 2428
+:longitude: 152.511775
 :id: "7621585840"
 :served_to: WOOLWORTHS LTD
 :council_area: GREAT LAKES

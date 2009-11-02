@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307890
 :offence_description: Fail to display potentially hazardous food under temperature control - Meat filled croissants displayed in a cold cabinet at temperatures of around 16.5C
+:latitude: -33.874114
 :trading_name: WOOJOO
 :penalty_amount: $660.00
 :address: 1/107-109 DARLINGHURST ROAD POTTS POINT 2011
+:longitude: 151.222683
 :id: "3002307890"
 :served_to: MSH ENTERPRISE PTY LTD
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785632
 :offence_description: Fail to comply with food standards code - sold meat (kafta mince) containing preservative
+:latitude: -33.9204
 :trading_name: DARWICH BUTCHERY
 :penalty_amount: $660.00
 :address: 77 HALDON ST LAKEMBA 2195
+:longitude: 151.077791
 :id: "7670785632"
 :served_to: DARWICH BUTCHERY P/L
 :council_area: CANTERBURY

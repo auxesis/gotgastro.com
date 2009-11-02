@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332299
 :offence_description: Fail to maintain food premises, fixtures, fittings and equipment in a good state of repair - missing floor tiles, unclean walls & floors, mould on coolroom interior wall, previous warnings
+:latitude: -33.824005
 :trading_name: BILLY'S CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 22 SPIT ROAD MOSMAN 2088
+:longitude: 151.241079
 :id: "7641332299"
 :served_to: ZHANG, JASON
 :council_area: MOSMAN

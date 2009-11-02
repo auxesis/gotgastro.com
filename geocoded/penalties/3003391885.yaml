@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003391885
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.8345672
 :trading_name: GLOBAL PATISSERIE
 :penalty_amount: $330.00
 :address: SHOP 10G/191-201 PITT STREET MERRYLANDS 2160
+:longitude: 150.9919803
 :id: "3003391885"
 :served_to: LIM, VOUCH LENG
 :council_area: HOLROYD

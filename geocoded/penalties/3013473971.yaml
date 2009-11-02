@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013473971
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.850957
 :trading_name: GUILDFORD WEST CHINESE TAKEAWAY
 :penalty_amount: $330.00
 :address: 227 FOWLER ROAD GUILDFORD WEST 2161
+:longitude: 150.972029
 :id: "3013473971"
 :served_to: KE, BI FENG
 :council_area: HOLROYD

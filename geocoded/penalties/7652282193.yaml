@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282193
 :offence_description: Fail to store food so that it is protected from the likelihood of contamination - rat bait being stored directly above food
+:latitude: -33.71554
 :trading_name: FRENCH HOT BREAD SHOP
 :penalty_amount: $330.00
 :address: 135 KATOOMBA ST KATOOMBA
+:longitude: 150.310922
 :id: "7652282193"
 :served_to: NGUYEN, VAN DUC
 :council_area: BLUE MOUNTAINS

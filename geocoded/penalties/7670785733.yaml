@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785733
 :offence_description: Unlicensed operation of a dairy produce factory
+:latitude: -33.728715
 :trading_name: COUNTRY CLASSIC FOODS
 :penalty_amount: $330.00
 :address: CASTLE HILL FARMERS MARKET, CARRINGTON RD CASTLE HILL 2154
+:longitude: 150.9852775
 :id: "7670785733"
 :served_to: PULLEN, TIMOTHY DAVID
 :council_area: BAULKHAM HILLS

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537108
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.835712
 :trading_name: PAUL'S LUNCHBOX
 :penalty_amount: $660.00
 :address: 91 ASQUITH ST SILVERWATER
+:longitude: 151.036545
 :id: "7672537108"
 :served_to: 91 ASQUITH STREET PTY LTD
 :council_area: AUBURN

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960181
 :offence_description: Failure to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of food waste, dirt, grease and other visible matter
+:latitude: -33.949456
 :trading_name: DANNY'S HOT BREAD SHOP
 :penalty_amount: $330.00
 :address: 408 FOREST ROAD BEXLEY 2207
+:longitude: 151.12725
 :id: "3014960181"
 :served_to: NGUY, DAI NANG
 :council_area: ROCKDALE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011969
 :offence_description: Fail to take all practicable measures to eradicate and prevent harbourage of pests in food premises
+:latitude: -33.778275
 :trading_name: ANTONIO'S GOURMET PIZZA
 :penalty_amount: $330.00
 :address: 83A MONFARVILLE ST ST MARYS 2760
+:longitude: 150.775389
 :id: "7673011969"
 :served_to: ROBINSON, LISA
 :council_area: PENRITH

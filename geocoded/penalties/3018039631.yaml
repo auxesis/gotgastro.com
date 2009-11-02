@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3018039631
 :offence_description: Failed to maintain food premises to the required standard of cleanliness - Unclean walls, floors, cooking appliances, exhaust systems, fridges, benches and air condition units
+:latitude: -34.044456
 :trading_name: TOYAMA BBQ HOUSE
 :penalty_amount: $330.00
 :address: 365 PORT HACKING ROAD CARINGBAH 2229
+:longitude: 151.123048
 :id: "3018039631"
 :served_to: LEE, STEPHEN
 :council_area: SUTHERLAND

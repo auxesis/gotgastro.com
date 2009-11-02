@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307844
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests on the food premises - evidence of rodent activity
+:latitude: -33.873089
 :trading_name: FOUNTAIN CAFE
 :penalty_amount: $660.00
 :address: 18-21 DARLINGHURST RD POTTS POINT
+:longitude: 151.224513
 :id: "3002307844"
 :served_to: SLEIMAN TRADING PTY LTD
 :council_area: SYDNEY

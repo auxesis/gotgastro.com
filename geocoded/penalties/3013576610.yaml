@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576610
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.750111
 :trading_name: EMU PLAINS BAKERY
 :penalty_amount: $330.00
 :address: SHOP 1 LENNOX SHOPPING CENTRE PYRAMID STREET EMU PLAINS 2750
+:longitude: 150.654026
 :id: "3013576610"
 :served_to: LIN, MING ZHONG
 :council_area: PENRITH

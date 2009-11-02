@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307770
 :offence_description: Fail to provide a supply of warm running potable water to the hand wash facility
+:latitude: -33.874826
 :trading_name: HEALTH PIT
 :penalty_amount: $330.00
 :address: 97 CROWN ST DARLINGHURST 2010
+:longitude: 151.216003
 :id: "3002307770"
 :served_to: JIAN, LI
 :council_area: SYDNEY

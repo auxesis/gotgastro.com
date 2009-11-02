@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7645831959
 :offence_description: Fail to maintain a clean food premises - accumulation of grease, dirt and food waste on ceilings, walls, roller door, fridge hinges
+:latitude: -33.872999
 :trading_name: THE NEW WINDSOR HOTEL
 :penalty_amount: $660.00
 :address: 48 PARK ST SYDNEY 2000
+:longitude: 151.208968
 :id: "7645831959"
 :served_to: THE NEW WINDSOR HOTEL PTY LTD
 :council_area: SYDNEY

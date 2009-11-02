@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787924
 :offence_description: Fail to label on a package of food the name and business address of the supplier - sale of 'Nem Chua' without meeting labelling requirements
+:latitude: -33.9189032
 :trading_name: CHI THANH QUALITY MEATS
 :penalty_amount: $330.00
 :address: 319 CHAPEL ROAD BANKSTOWN SOUTH 2200
+:longitude: 151.032034
 :id: "7670787924"
 :served_to: LUU, SO NGHI
 :council_area: BANKSTOWN

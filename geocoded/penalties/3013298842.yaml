@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298842
 :offence_description: Fail to maintain, at or near each hand washing facility, a supply of warm running water
+:latitude: -33.678284
 :trading_name: LAE WAH CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 15 MARKET ST RIVERSTONE 2765
+:longitude: 150.86193
 :id: "3013298842"
 :served_to: HUANG, XING JIANG
 :council_area: BLACKTOWN

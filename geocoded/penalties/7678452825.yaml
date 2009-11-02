@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452825
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.826265
 :trading_name: SENTOSA RESTAURANT
 :penalty_amount: $660.00
 :address: 48 WILLOUGHBY ROAD CROWS NEST 2065
+:longitude: 151.200602
 :id: "7678452825"
 :served_to: SENTOSA RESTAURANT PTY LTD
 :council_area: NORTH SYDNEY

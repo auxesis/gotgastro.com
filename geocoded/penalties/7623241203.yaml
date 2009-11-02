@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623241203
 :offence_description: Failure to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.482248
 :trading_name: BLUE SKY CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 192 MAIN STREET LITHGOW 2790
+:longitude: 150.153403
 :id: "7623241203"
 :served_to: MA, ALLAN
 :council_area: LITHGOW

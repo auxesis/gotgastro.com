@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513370
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.971517
 :trading_name: PANCHO'S MEXICAN RESTAURANT
 :penalty_amount: $330.00
 :address: 26 PITT STREET MORTDALE 2223
+:longitude: 151.079623
 :id: "3003513370"
 :served_to: BEVAN, STEWART ALEXANDER
 :council_area: HURSTVILLE

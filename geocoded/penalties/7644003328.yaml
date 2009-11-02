@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644003328
 :offence_description: Fail to take all practicable measures to eradicate and prevent harbourage of pests in food premises
+:latitude: -33.641526
 :trading_name: STAR BURGER
 :penalty_amount: $330.00
 :address: 5/6 GUNDAH RD MT KURING GAI 2080
+:longitude: 151.132429
 :id: "7644003328"
 :served_to: HARRIS, DEBORAH
 :council_area: HORNSBY

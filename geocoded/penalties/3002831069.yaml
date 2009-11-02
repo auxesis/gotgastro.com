@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831069
 :offence_description: Unclean meat slicer
+:latitude: -33.834847
 :trading_name: RYDGES NORTH SYDNEY
 :penalty_amount: $660.00
 :address: 54 MCLAREN ST NORTH SYDNEY 2055
+:longitude: 151.208643
 :id: "3002831069"
 :served_to: RYDGES HOTEL LTD
 :council_area: NORTH SYDNEY

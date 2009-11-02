@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346863
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.854142
 :trading_name: OH YUM BAKERY
 :penalty_amount: $330.00
 :address: 123 AUBURN RD AUBURN 2144
+:longitude: 151.031885
 :id: "3020346863"
 :served_to: FAZIL, MOHAMMED
 :council_area: AUBURN

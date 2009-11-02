@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654740262
 :offence_description: Fail to provide hand washing facilities that are located where they can be easily accessed by food handlers
+:latitude: -33.767666
 :trading_name: IGA
 :penalty_amount: $660.00
 :address: SHOP 1-3, HUGHES PLACE EAST LINDFIELD 2070
+:longitude: 151.187541
 :id: "7654740262"
 :served_to: MALWA FOOD & LIQUOR PTY LTD
 :council_area: KU-RING-GAI

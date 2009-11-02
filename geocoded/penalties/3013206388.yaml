@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206388
 :offence_description: Unlabelled food  - Packaged and bottled food displayed for sale without any label
+:latitude: -33.87273
 :trading_name: AL GHADER SUPERMARKET
 :penalty_amount: $330.00
 :address: 33 THE CRESCENT FAIRFIELD
+:longitude: 150.955496
 :id: "3013206388"
 :served_to: KINANI, RAFED HUSSEIN INBAR AL
 :council_area: FAIRFIELD

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641229705
 :offence_description: Fail to maintain equipment in a clean and sanitary condition
+:latitude: -33.79712
 :trading_name: MALACCA STRAITS
 :penalty_amount: $330.00
 :address: 49 SYDNEY RD MANLY 2095
+:longitude: 151.285367
 :id: "7641229705"
 :served_to: TONG, LUCHUN
 :council_area: MANLY

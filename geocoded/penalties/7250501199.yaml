@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501199
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Evidence of rodent and cockroach activity on the premises
+:latitude: -33.876055
 :trading_name: SUSHI ON STANLEY
 :penalty_amount: $330.00
 :address: 85 STANLEY STREET DARLINGHURST 2010
+:longitude: 151.215722
 :id: "7250501199"
 :served_to: KIM, WON SIK
 :council_area: SYDNEY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461705
 :offence_description: Failure to maintain food premises to the required standard of cleanliness - There was an accumulation of vermin droppings
+:latitude: -33.88768
 :trading_name: LE COCO
 :penalty_amount: $660.00
 :address: 177 PARAMATTA ROAD ANNANDALE 2038
+:longitude: 151.173201
 :id: "7675461705"
 :served_to: LE COCO PTY LTD
 :council_area: LEICHHARDT

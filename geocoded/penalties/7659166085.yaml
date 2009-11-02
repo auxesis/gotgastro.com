@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659166085
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food stored in open metal cans in the fridge
+:latitude: -33.754641
 :trading_name: JADE CHOPSTICKS
 :penalty_amount: $330.00
 :address: 1-5 PACIFIC PARADE DEE WHY 2099
+:longitude: 151.284748
 :id: "7659166085"
 :served_to: CHEN, WEI WEN
 :council_area: WARRINGAH

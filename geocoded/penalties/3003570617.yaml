@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003570617
 :offence_description: Fail to maintain food premises, fixtures, fittings and equipment in a good state of repair and working order - holes in ceiling, leaking handwash basin and water pipes observed
+:latitude: -33.282892
 :trading_name: PARIS HOT BREAD
 :penalty_amount: $330.00
 :address: 127 SUMMER STREET ORANGE 2800
+:longitude: 149.096706
 :id: "3003570617"
 :served_to: NGUYEN, MANH HUNG
 :council_area: ORANGE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960017
 :offence_description: Fail to maintain food premises in a clean condition  - food waste and grease inside coolroom
+:latitude: -33.942629
 :trading_name: KINGSGROVE CHARCOAL CHICKEN
 :penalty_amount: $330.00
 :address: 292 KINGSGROVE RD KINGSGROVE
+:longitude: 151.101765
 :id: "3014960017"
 :served_to: LAI, YI XUAN
 :council_area: ROCKDALE

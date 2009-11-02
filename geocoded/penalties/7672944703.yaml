@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944703
 :offence_description: Fail to store food so that it is protected from the likelihood of contamination
+:latitude: -33.887796
 :trading_name: SPICELAND SUPERMARKET
 :penalty_amount: $660.00
 :address: 303 LIVERPOOL RD ASHFIELD
+:longitude: 151.123565
 :id: "7672944703"
 :served_to: SPICELAND SUPERMARKET PTY LTD
 :council_area: ASHFIELD

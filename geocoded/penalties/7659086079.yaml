@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659086079
 :offence_description: Fail to maintain a supply of warm running water to the hand washing facility
+:latitude: -33.754046
 :trading_name: MC DONALDS
 :penalty_amount: $660.00
 :address: 164 WARRINGAH ROAD BEACON HILL
+:longitude: 151.260677
 :id: "7659086079"
 :served_to: KRISTOD PTY LTD
 :council_area: WARRINGAH

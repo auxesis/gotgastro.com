@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096068
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap
+:latitude: -33.286117
 :trading_name: ROYAL HOTEL BISTRO
 :penalty_amount: $330.00
 :address: 40-44 PACIFIC HWY WYONG
+:longitude: 151.423868
 :id: "3003096068"
 :served_to: MCKAY, JAMES
 :council_area: WYONG

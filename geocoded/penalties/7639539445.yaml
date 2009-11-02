@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539445
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, grease, and grime on floors, walls, and under equipment
+:latitude: -33.874445
 :trading_name: GRANDMA MOSES
 :penalty_amount: $660.00
 :address: 513 OLD SOUTH HEAD ROAD ROSE BAY 2029
+:longitude: 151.273232
 :id: "7639539445"
 :served_to: HOVAN PTY LTD
 :council_area: WAVERLEY

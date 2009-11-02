@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818336
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap or single use towels
+:latitude: -33.773816
 :trading_name: JAVA JIVE
 :penalty_amount: $330.00
 :address: SHOP 1, EPPING RAILWAY STATION LANGSTON PLACE EPPING 2121
+:longitude: 151.083022
 :id: "3002818336"
 :served_to: LEE, HI
 :council_area: HORNSBY

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011812
 :offence_description: Fail to maintain food premises to a standard of cleanliness
+:latitude: -33.752406
 :trading_name: VIVA FRESH
 :penalty_amount: $330.00
 :address: SHOP E15 PENRITH WESTFIELD PLAZA PENRITH 2750
+:longitude: 150.692358
 :id: "7673011812"
 :served_to: ISLEK, SENOL
 :council_area: PENRITH

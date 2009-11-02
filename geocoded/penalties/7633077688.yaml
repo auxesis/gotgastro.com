@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077688
 :offence_description: Fail to maintain a clean food premises  - dirt, grease and food waste on walls and shelves
+:latitude: -33.909339
 :trading_name: NI BBQ HOUSE
 :penalty_amount: $330.00
 :address: 152 BEAMISH ST CAMPSIE
+:longitude: 151.103049
 :id: "7633077688"
 :served_to: CHENG, KIU
 :council_area: CANTERBURY

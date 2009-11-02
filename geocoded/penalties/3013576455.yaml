@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576455
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.792384
 :trading_name: SAM'S DOWN UNDER
 :penalty_amount: $330.00
 :address: SHOP 9, 31 MOORE STREET ST CLAIR 2759
+:longitude: 150.780506
 :id: "3013576455"
 :served_to: ISSA, SAM
 :council_area: PENRITH

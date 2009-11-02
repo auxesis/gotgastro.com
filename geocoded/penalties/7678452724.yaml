@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452724
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, and grease on the floors and walls
+:latitude: -33.829164
 :trading_name: THAI SPICE HOUSE
 :penalty_amount: $330.00
 :address: 6/271 MILITARY ROAD CREMORNE 2090
+:longitude: 151.228705
 :id: "7678452724"
 :served_to: SHEEHAN, SUPAPORN
 :council_area: NORTH SYDNEY

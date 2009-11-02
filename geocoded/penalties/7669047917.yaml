@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669047917
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.879214
 :trading_name: SYDNEY XIANG RESTAURANT
 :penalty_amount: $660.00
 :address: 177 Burwood  Road BURWOOD
+:longitude: 151.102975
 :id: "7669047917"
 :served_to: WINNER CULTURE PTY LTD
 :council_area: BURWOOD

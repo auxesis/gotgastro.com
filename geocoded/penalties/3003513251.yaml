@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513251
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.965858
 :trading_name: HOT WOKS TAKE AWAY
 :penalty_amount: $330.00
 :address: SHOP 486-488 WESTFIELD SHOPPINGTOWN 3 CROSS STREET HURSTVILLE 2220
+:longitude: 151.105954
 :id: "3003513251"
 :served_to: WONG, YIN KIT
 :council_area: HURSTVILLE

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818491
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - food waste & grease on food utensils, shelves, benches, slicer, food processors, chopping boards
+:latitude: -33.707876
 :trading_name: ANNAPOORNA INDIAN RESTAURANT
 :penalty_amount: $660.00
 :address: 188 PACIFIC HIGHWAY HORNSBY 2077
+:longitude: 151.098944
 :id: "3002818491"
 :served_to: TRANS SOFT TECHNOLOGIES PTY LTD
 :council_area: HORNSBY

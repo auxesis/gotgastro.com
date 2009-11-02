@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657021543
 :offence_description: Fail to display potentially hazardous food under temperature control
+:latitude: -33.798103
 :trading_name: YOK THAI
 :penalty_amount: $660.00
 :address: SOUTH STEYNE MANLY 2095
+:longitude: 151.288639
 :id: "7657021543"
 :served_to: YOK THAI RESTAURANT PTY LTD
 :council_area: MANLY

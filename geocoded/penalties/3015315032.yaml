@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315032
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap and single use towels
+:latitude: -33.893345
 :trading_name: GOLDEN FORTUNE CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 64 BROOMFIELD STREET CABRAMATTA 2166
+:longitude: 150.940062
 :id: "3015315032"
 :served_to: ZHOU, LIFEN
 :council_area: FAIRFIELD

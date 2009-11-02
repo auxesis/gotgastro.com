@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501601
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt and garbage observed on the premises
+:latitude: -33.8743623
 :trading_name: THE CAFE
 :penalty_amount: $660.00
 :address: 82-108 WILLIAM STREET WOOLLOOMOOLOO 2011
+:longitude: 151.2167796
 :id: "7250501601"
 :served_to: IDM ENTERPRISES PTY LTD
 :council_area: SYDNEY

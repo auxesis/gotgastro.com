@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513298
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.950215
 :trading_name: HUN KEE CHINESE AND THAI RESTAURANT
 :penalty_amount: $330.00
 :address: 258 BELMORE ROAD RIVERWOOD 2210
+:longitude: 151.052746
 :id: "3003513298"
 :served_to: GAU NGO, KIM
 :council_area: HURSTVILLE

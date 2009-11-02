@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501556
 :offence_description: Fail to store potentially hazardous food under temperature control - meat pies were being stored at a temperature of 51C
+:latitude: -33.880706
 :trading_name: HAYMARKET CONVENIENCE
 :penalty_amount: $660.00
 :address: SHOP 4/770 GEORGE STREET SYDNEY 2000
+:longitude: 151.20524
 :id: "7250501556"
 :served_to: A B CONVENIENCE STORES PTY LTD
 :council_area: SYDNEY

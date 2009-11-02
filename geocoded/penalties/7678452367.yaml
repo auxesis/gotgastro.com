@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452367
 :offence_description: Fail to have a temperature measuring device on the premises for measuring temperature of potentially hazardous foods
+:latitude: -33.844307
 :trading_name: BLUES POINT CAFE
 :penalty_amount: $330.00
 :address: 133-135 BLUES POINT ROAD MCMAHONS POINT 2060
+:longitude: 151.204636
 :id: "7678452367"
 :served_to: COLOSI, ANTONIO
 :council_area: NORTH SYDNEY

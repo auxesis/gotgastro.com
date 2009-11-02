@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567830
 :offence_description: Failed to display potentially hazardous food under temperature control
+:latitude: -33.7705766
 :trading_name: ASIAN GROCERIES
 :penalty_amount: $330.00
 :address: 93 MAIN STREET BLACKTOWN 2148
+:longitude: 150.9098216
 :id: "3014567830"
 :served_to: KEUM, OK
 :council_area: BLACKTOWN

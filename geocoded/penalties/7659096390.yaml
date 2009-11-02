@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659096390
 :offence_description: Failure to maintain easily acessible hand washing facilities - The handwash basin was obstructed and there were no soap or paper towels present
+:latitude: -33.763732
 :trading_name: JESTERS
 :penalty_amount: $660.00
 :address: SHOP 25 STARKEY STREET FORESTVILLE 2087
+:longitude: 151.216534
 :id: "7659096390"
 :served_to: JS366 PTY LTD
 :council_area: WARRINGAH

@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307799
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests on the food premises - live cockroaches evident in the kitchen
+:latitude: -33.8790455
 :trading_name: CAFE LUC
 :penalty_amount: $660.00
 :address: 19A BOUNDARY ST DARLINGHURST 2010
+:longitude: 151.2247925
 :id: "3002307799"
 :served_to: FOUR FLAVOURS PTY LTD
 :council_area: SYDNEY

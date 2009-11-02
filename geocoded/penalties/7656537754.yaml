@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656537754
 :offence_description: Fail to store potentially hazardous food under temperature control - Bacon and cheese stored at 14.5C - 15C
+:latitude: -34.04928
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 7-9 MAIN STREET MT ANNAN 2567
+:longitude: 150.75796
 :id: "7656537754"
 :served_to: MYKSPEN PTY LTD
 :council_area: CAMDEN

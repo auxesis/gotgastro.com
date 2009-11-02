@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023262862
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.87479
 :trading_name: CANTON NOODLE HOUSE
 :penalty_amount: $660.00
 :address: 45 BURWOOD ROAD BURWOOD 2134
+:longitude: 151.103929
 :id: "3023262862"
 :served_to: KALRID PTY LTD
 :council_area: BURWOOD

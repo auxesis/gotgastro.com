@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485243
 :offence_description: Fail to take all practicable measures to prevent pests entering the premises
+:latitude: -33.779448
 :trading_name: JUSCO SUPERMARKET
 :penalty_amount: $660.00
 :address: SHOP G1 372 PENNANT HILLS RD CARLINGFORD 2118
+:longitude: 151.053134
 :id: "7673485243"
 :served_to: JUSCO SUPERMARKET PTY LTD
 :council_area: PARRAMATTA

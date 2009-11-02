@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513078
 :offence_description: Fail to maintain food premises in a clean condition
+:latitude: -33.966109
 :trading_name: SUNNY HARBOUR SEAFOOD RESTAURANT
 :penalty_amount: $660.00
 :address: 9-11 CROFTS AVE HURSTVILLE
+:longitude: 151.102645
 :id: "3003513078"
 :served_to: SUNNY SUPERIOR SEAFOOD PTY LTD
 :council_area: HURSTVILLE

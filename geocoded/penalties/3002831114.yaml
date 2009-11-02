@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831114
 :offence_description: Fail to maintain a clean food premises (unclean floors)
+:latitude: -33.847485
 :trading_name: CHINESE CUISINE
 :penalty_amount: $330.00
 :address: SHOP 7/48-52 ALFRED ST MILSONS POINT 2061
+:longitude: 151.211072
 :id: "3002831114"
 :served_to: CHAN, HOI SHING DAVID
 :council_area: NORTH SYDNEY

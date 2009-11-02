@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7602130260
 :offence_description: Fail to maintain a clean food premises - accumulation of food waste grease and dirt
+:latitude: -32.736346
 :trading_name: RED SEA RESTAURANT
 :penalty_amount: $330.00
 :address: 309 HIGH ST MAITLAND 2320
+:longitude: 151.559499
 :id: "7602130260"
 :served_to: HO, FI CHUNG
 :council_area: MAITLAND

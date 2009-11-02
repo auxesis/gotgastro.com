@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282440
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
+:latitude: -33.727547
 :trading_name: SKYWAY RESTAURANT
 :penalty_amount: $660.00
 :address: 1 VIOLET STREET KATOOMBA 2780
+:longitude: 150.297715
 :id: "7652282440"
 :served_to: PELSAKE PTY LTD
 :council_area: BLUE MOUNTAINS

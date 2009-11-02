@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762530
 :offence_description: Failure to store potentially hazardous food under temperature control - Bacon stored without temperature control.  Pies and sausage rolls stored at 34C for up to 6 hours
+:latitude: -33.423807
 :trading_name: EDEN
 :penalty_amount: $660.00
 :address: GLENWORTH VALLEY ROAD GLENWORTH VALLEY 2250
+:longitude: 151.17688
 :id: "3014762530"
 :served_to: M R G EVENTS PTY LTD
 :council_area: GOSFORD

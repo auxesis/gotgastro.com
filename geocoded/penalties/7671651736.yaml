@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651736
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - unclean cooking appliances, hand basin, exhaust hood, fridges, shelves, cables, pots and pans
+:latitude: -33.796333
 :trading_name: TIM'S BBQ KITCHEN
 :penalty_amount: $660.00
 :address: 21 SPRING STREET CHATSWOOD 2067
+:longitude: 151.184611
 :id: "7671651736"
 :served_to: CALIBUS PTY LTD
 :council_area: WILLOUGHBY

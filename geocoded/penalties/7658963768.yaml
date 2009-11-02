@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7658963768
 :offence_description: Fail to maintain clean food premises (waste and rodent droppings on floors,shelving and containers)
+:latitude: -33.683111
 :trading_name: KAISER STUB'N AUSTRIAN RESTAURANT
 :penalty_amount: $330.00
 :address: 205 MONA VALE ROAD TERREY HILLS 2084
+:longitude: 151.230871
 :id: "7658963768"
 :served_to: BAIERL, ROBERT
 :council_area: WARRINGAH

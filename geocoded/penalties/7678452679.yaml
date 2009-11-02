@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452679
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - floor was observed as unclean
+:latitude: -33.831395
 :trading_name: CAFE ZO ZO
 :penalty_amount: $330.00
 :address: SHOP 3, 139 MILITARY ROAD NEUTRAL BAY 2089
+:longitude: 151.221327
 :id: "7678452679"
 :served_to: FRAME, ADRIENNE
 :council_area: NORTH SYDNEY

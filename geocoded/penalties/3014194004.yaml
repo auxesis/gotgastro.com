@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014194004
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.244331
 :trading_name: MUFFIN BREAK
 :penalty_amount: $660.00
 :address: LAKE HAVEN SHOPPING CENTRE 43 LAKE HAVEN DRIVE LAKE HAVEN 2263
+:longitude: 151.499304
 :id: "3014194004"
 :served_to: WATTELLIE PTY LTD
 :council_area: WYONG

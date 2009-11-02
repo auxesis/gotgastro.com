@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762897
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of food waste and other visible matter on the mixer and bread roller
+:latitude: -33.437025
 :trading_name: BARTO'S BAKEHOUSE
 :penalty_amount: $330.00
 :address: 101A VICTORIA STREET EAST GOSFORD 2250
+:longitude: 151.353356
 :id: "3014762897"
 :served_to: BARTON, JASON
 :council_area: GOSFORD

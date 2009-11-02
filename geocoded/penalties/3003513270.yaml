@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513270
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.963874
 :trading_name: PARK STREET TAKE AWAY
 :penalty_amount: $330.00
 :address: 4 PARK STREET PEAKHURST 2210
+:longitude: 151.057345
 :id: "3003513270"
 :served_to: LIU, MEIHUA
 :council_area: HURSTVILLE

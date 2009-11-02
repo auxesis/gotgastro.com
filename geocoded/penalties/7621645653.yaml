@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645653
 :offence_description: Fail to prevent pests entering food premises
+:latitude: -33.907781
 :trading_name: PONDOK BUYUNG
 :penalty_amount: $330.00
 :address: 118-124 ANZAC PDE KENSINGTON 2033
+:longitude: 151.224019
 :id: "7621645653"
 :served_to: SJARIET, PETER
 :council_area: RANDWICK

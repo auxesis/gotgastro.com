@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502418
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt and grease on floors and equipment
+:latitude: -33.864559
 :trading_name: RAMEN CONDOR
 :penalty_amount: $660.00
 :address: SHOP 1/5 YORK STREET SYDNEY 2000
+:longitude: 151.205153
 :id: "7250502418"
 :served_to: WAKANDA PTY LTD
 :council_area: SYDNEY

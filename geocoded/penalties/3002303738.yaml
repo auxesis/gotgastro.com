@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303738
 :offence_description: Fail to provide a temperature measuring device within the food premises
+:latitude: -33.877722
 :trading_name: EMRE'S DONER & CHICKEN KEBABS
 :penalty_amount: $330.00
 :address: 4/43 GOULBURN ST SYDNEY 2000
+:longitude: 151.2054167
 :id: "3002303738"
 :served_to: KAY, MEHMET ALI
 :council_area: SYDNEY

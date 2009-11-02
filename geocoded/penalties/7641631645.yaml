@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631645
 :offence_description: Failure to store food in such a way that it is protected from the likelihood of contamination
+:latitude: -33.9726337
 :trading_name: OCEAN KING HOUSE RESTAURANT
 :penalty_amount: $330.00
 :address: 247 PRINCES HIGWAY KOGARAH 2217
+:longitude: 151.1309693
 :id: "7641631645"
 :served_to: KWOK YING, ALBERT
 :council_area: KOGARAH

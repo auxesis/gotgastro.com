@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302720
 :offence_description: Fail to store potentially hazardous food under temperature control (prawns)
+:latitude: 33.9615407
 :trading_name: PORT ORIENT ENTERTAINMENT RESTAURANT & BAR LOUNGE
 :penalty_amount: $660.00
 :address: SHOP 449 & 451 HARBOURSIDE 2-20 DARLING DR SYDNEY 2000
+:longitude: -80.9888752
 :id: "3002302720"
 :served_to: HENSON TRAVEL P/L
 :council_area: SYDNEY

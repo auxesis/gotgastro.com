@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663218
 :offence_description: Fail to maintain a clean food premises
+:latitude: -33.6917082
 :trading_name: OCEANVIEW EATERY
 :penalty_amount: $330.00
 :address: SHOP 4/120 NARRABEEN PARK PDE WARRIEWOOD 2102
+:longitude: 151.307399
 :id: "3002663218"
 :served_to: CHAN, DANIEL
 :council_area: PITTWATER

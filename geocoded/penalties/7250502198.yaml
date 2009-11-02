@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502198
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap and single use towels
+:latitude: -33.868327
 :trading_name: VAULT HOTEL
 :penalty_amount: $660.00
 :address: 122 PITT STREET SYDNEY 2000
+:longitude: 151.208625
 :id: "7250502198"
 :served_to: UNIVERSAL 1919 PTY LIMITED
 :council_area: SYDNEY

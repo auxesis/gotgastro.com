@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641229714
 :offence_description: Fail to maintain premises in a clean condition
+:latitude: -33.797054
 :trading_name: EDO SUSHI
 :penalty_amount: $330.00
 :address: 2 SYDNEY RD MANLY 2095
+:longitude: 151.287345
 :id: "7641229714"
 :served_to: RA, AGNUS
 :council_area: MANLY

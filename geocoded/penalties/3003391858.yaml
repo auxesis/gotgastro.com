@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003391858
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - there were uncovered foods and open tin cans of food stored in the coolroom
+:latitude: -33.8345672
 :trading_name: GLOBAL PATISSERIE
 :penalty_amount: $330.00
 :address: SHOP 10G/191-201 PITT STREET MERRYLANDS 2160
+:longitude: 150.9919803
 :id: "3003391858"
 :served_to: LIM, MENG EANG
 :council_area: HOLROYD

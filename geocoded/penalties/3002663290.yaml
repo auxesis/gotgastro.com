@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663290
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste, dirt, grease and other visible matter
+:latitude: -33.659212
 :trading_name: NEWPORT MIRAGE HOTEL
 :penalty_amount: $660.00
 :address: 2 QUEENS PARADE, WEST NEWPORT NEWPORT 2106
+:longitude: 151.310034
 :id: "3002663290"
 :served_to: BAYFIELD HOTELS MIRAGE PTY LTD
 :council_area: PITTWATER

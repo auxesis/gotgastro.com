@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513325
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.9593002
 :trading_name: LITTLE CHILLI THAI
 :penalty_amount: $330.00
 :address: SHOP 7/802-820 FOREST ROAD PEAKHURST 2210
+:longitude: 151.0630048
 :id: "3003513325"
 :served_to: LY, MICHAEL
 :council_area: HURSTVILLE

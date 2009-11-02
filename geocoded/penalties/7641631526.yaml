@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631526
 :offence_description: Fail to maintain food premises in a clean condition  - food waste, dirt and grease
+:latitude: -33.963374
 :trading_name: KING CHEF CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 74 RAILWAY PDE KOGARAH
+:longitude: 151.132952
 :id: "7641631526"
 :served_to: HUANG, JIAN
 :council_area: KOGARAH

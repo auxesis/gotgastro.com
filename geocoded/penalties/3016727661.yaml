@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016727661
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of food waste and other visible matter in the pizza oven
+:latitude: -33.446602
 :trading_name: HUNGRY WOLF'S PIZZA & PASTA
 :penalty_amount: $330.00
 :address: 88 THE ESPLANADE TERRIGAL 2260
+:longitude: 151.443924
 :id: "3016727661"
 :served_to: MAISANO, DOMINIC
 :council_area: GOSFORD

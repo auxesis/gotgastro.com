@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513114
 :offence_description: Fail to provide hand washing facilities within areas where food handlers work
+:latitude: -33.965858
 :trading_name: GRANDPA'S
 :penalty_amount: $330.00
 :address: SHOP 113 WESTFIELD SHOPPING 3 CROSS STREET HURSTVILLE 2220
+:longitude: 151.105954
 :id: "3003513114"
 :served_to: ABOU CHEDID, WALLY
 :council_area: HURSTVILLE

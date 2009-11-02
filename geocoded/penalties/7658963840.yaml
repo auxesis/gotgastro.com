@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7658963840
 :offence_description: Fail to maintain a clean food premises (unclean floors and walls in food preparation area)
+:latitude: -33.76387
 :trading_name: BREAD OF FRANCE
 :penalty_amount: $660.00
 :address: SHOP 221 WARRINGAH MALL OLD PITTWATER ROAD BROOKVALE 2100
+:longitude: 151.263608
 :id: "7658963840"
 :served_to: J AND J NATIONALINE PTY LTD
 :council_area: WARRINGAH

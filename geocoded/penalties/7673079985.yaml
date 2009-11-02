@@ -6,9 +6,11 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673079985
 :offence_description: Fail to maintain a clean food premises (grease and grime on floors, walls and shelves)
+:latitude: -33.888158
 :trading_name: NEW SHANGHAI CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 273 LIVERPOOL RD ASHFIELD 2131
+:longitude: 151.124497
 :id: "7673079985"
 :served_to: F Q CHEN P/L
 :council_area: ASHFIELD
