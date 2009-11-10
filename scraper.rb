@@ -275,8 +275,14 @@ class Geocoder
         puts "has previously been geocoded! use --force to re-geocode."
         next
       end
-  
-      location = Ym4r::GoogleMaps::Geocoding.get(notice[:address]).first
+ 
+      tries = 3
+      begin 
+        location = Ym4r::GoogleMaps::Geocoding.get(notice[:address]).first
+      rescue OpenURI::HTTPError
+        retry if (tries =- 1) > 0
+      end
+
       if location
         puts "Successfully geocoded #{notice[:id]}"
         notice[:latitude] = location.latitude
