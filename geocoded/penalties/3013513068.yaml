@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.038287
 :action_date: "2008-07-02"
 :offence_date: "2008-04-11"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: WAL'S SEAFOOD
 :penalty_amount: $330.00
 :address: 2 MACKIE ST LEMON TREE PASSAGE 2319
-:longitude: 152.038287
 :id: "3013513068"
 :served_to: WARD, WALLACE JOHN
 :council_area: PORT STEPHENS

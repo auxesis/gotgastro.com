@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.044367
 :action_date: "2008-11-26"
 :offence_date: "2008-09-09"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: J R MEAT TRADE PTY LTD
 :penalty_amount: $660.00
 :address: 2 GREY ST SILVERWATER
-:longitude: 151.044367
 :id: "3013513535"
 :served_to: J R MEAT TRADE PTY LTD
 :council_area: AUBURN

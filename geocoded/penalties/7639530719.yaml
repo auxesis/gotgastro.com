@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.266377
 :action_date: "2009-05-15"
 :offence_date: "2009-05-14"
 :pursued_by: Waverley Council
@@ -10,7 +11,6 @@
 :trading_name: MANOHRA THAI RESTAURANT
 :penalty_amount: $330.00
 :address: 227 BONDI ROAD BONDI 2026
-:longitude: 151.266377
 :id: "7639530719"
 :served_to: SIRIKASEMLERT, BUNG ON
 :council_area: WAVERLEY

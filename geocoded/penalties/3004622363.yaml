@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.259409
 :action_date: "2009-02-04"
 :offence_date: "2009-02-04"
 :pursued_by: Woollahra Council
@@ -10,7 +11,6 @@
 :trading_name: JEWEL ON THE BAY
 :penalty_amount: $330.00
 :address: 637-641 NEW SOUTH HEAD ROAD ROSE BAY 2029
-:longitude: 151.259409
 :id: "3004622363"
 :served_to: MATTA, INDRANI
 :council_area: WOOLLAHRA

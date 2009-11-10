@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.077562
 :action_date: "2008-08-22"
 :offence_date: "2008-08-20"
 :pursued_by: City of Canterbury Council
@@ -10,7 +11,6 @@
 :trading_name: GOURMET PALACE
 :penalty_amount: $330.00
 :address: 106 HALDON ST LAKEMBA 2195
-:longitude: 151.077562
 :id: "7629209639"
 :served_to: MATTAR, NABIL
 :council_area: CANTERBURY

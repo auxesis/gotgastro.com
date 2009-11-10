@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.1870859
 :action_date: "2009-05-12"
 :offence_date: "2009-05-01"
 :pursued_by: Willoughby City Council
@@ -10,7 +11,6 @@
 :trading_name: RELISH CAFE
 :penalty_amount: $660.00
 :address: SHOP 36A 345 VICTORIA AVE CHATSWOOD
-:longitude: 151.1870859
 :id: "7671651379"
 :served_to: JURA HOLDING CO PTY LTD
 :council_area: WILLOUGHBY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.496394
 :action_date: "2009-01-09"
 :offence_date: "2008-12-30"
 :pursued_by: Wyong Shire Council
@@ -10,7 +11,6 @@
 :trading_name: THE ENTRANCE OCEAN BATHS (KIOSK)
 :penalty_amount: $660.00
 :address: 92CR OCEAN PARADE THE ENTRANCE 2261
-:longitude: 151.496394
 :id: "3003096250"
 :served_to: YOUNG MENS CHRISTIAN ASSOCIATION OF SYDNEY
 :council_area: WYONG

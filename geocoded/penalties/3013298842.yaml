@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.86193
 :action_date: "2008-08-19"
 :offence_date: "2008-08-15"
 :pursued_by: Blacktown City Council
@@ -10,7 +11,6 @@
 :trading_name: LAE WAH CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 15 MARKET ST RIVERSTONE 2765
-:longitude: 150.86193
 :id: "3013298842"
 :served_to: HUANG, XING JIANG
 :council_area: BLACKTOWN

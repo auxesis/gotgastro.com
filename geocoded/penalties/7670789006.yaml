@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.187939
 :action_date: "2008-10-02"
 :offence_date: "2008-09-25"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: NO TRADING NAME
 :penalty_amount: $330.00
 :address: SHOP 8 BANK ST PYRMONT 2009
-:longitude: 151.187939
 :id: "7670789006"
 :served_to: EXARHAKOS, ALEXANDROS
 :council_area: SYDNEY

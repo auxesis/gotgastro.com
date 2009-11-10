@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.129201
 :action_date: "2009-05-13"
 :offence_date: "2009-05-11"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: RIZZO'S CONTINENTAL DELICATESSEN
 :penalty_amount: $330.00
 :address: 105 GREAT NORTH ROAD FIVE DOCK 2046
-:longitude: 151.129201
 :id: "7652797882"
 :served_to: MAKKI, HALA
 :council_area: CANADA BAY

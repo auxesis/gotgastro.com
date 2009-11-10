@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.511132
 :action_date: "2009-02-20"
 :offence_date: "2009-02-04"
 :pursued_by: Wyong Shire Council
@@ -10,7 +11,6 @@
 :trading_name: GOLDEN LAKE CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 82 WALLARAH ROAD GOROKAN 2263
-:longitude: 151.511132
 :id: "3003096315"
 :served_to: LEE, KEITH
 :council_area: WYONG

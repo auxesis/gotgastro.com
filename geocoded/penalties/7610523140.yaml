@@ -1,4 +1,5 @@
 --- 
+:longitude: 147.206967
 :action_date: -00-00
 :offence_date: "2009-07-29"
 :pursued_by: Bland Shire Council
@@ -10,7 +11,6 @@
 :trading_name: LAM & MAY CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 100 MONASH STREET WEST WYALONG 2671
-:longitude: 147.206967
 :id: "7610523140"
 :served_to: NE, MAY
 :council_area: BLAND

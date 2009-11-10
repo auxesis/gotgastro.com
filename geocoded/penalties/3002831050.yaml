@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.209137
 :action_date: "2008-06-03"
 :offence_date: "2008-05-29"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: CAFE 4 YOU
 :penalty_amount: $330.00
 :address: SHOP 1/168 WALKER ST NORTH SYDNEY 2060
-:longitude: 151.209137
 :id: "3002831050"
 :served_to: SINGH, JAGDISHWAR AND DHANJAI KAMAL
 :council_area: NORTH SYDNEY

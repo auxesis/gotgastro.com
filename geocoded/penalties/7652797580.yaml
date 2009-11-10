@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.128924
 :action_date: "2008-07-23"
 :offence_date: "2008-07-22"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
 :address: 61 GREAT NORTH RD FIVE DOCK 2046
-:longitude: 151.128924
 :id: "7652797580"
 :served_to: ANTECELLO P/L
 :council_area: CANADA BAY

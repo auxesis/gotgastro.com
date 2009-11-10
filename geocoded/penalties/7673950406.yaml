@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.465834
 :action_date: "2009-02-16"
 :offence_date: "2009-02-12"
 :pursued_by: Greater Taree City Council
@@ -10,7 +11,6 @@
 :trading_name: BIRDLAND CHICKENS
 :penalty_amount: $660.00
 :address: 56-58 VICTORIA STREET TAREE 2430
-:longitude: 152.465834
 :id: "7673950406"
 :served_to: TAREE CHARCOAL CHICKEN PTY LTD
 :council_area: GREATER TAREE

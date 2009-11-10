@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.123913
 :action_date: "2009-01-22"
 :offence_date: "2009-01-22"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: JEMES FISH MARKET
 :penalty_amount: $330.00
 :address: 293 LIVERPOOL ROAD ASHFIELD 2131
-:longitude: 151.123913
 :id: "7672944905"
 :served_to: LIANG, LI
 :council_area: ASHFIELD

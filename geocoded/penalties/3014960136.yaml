@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.136373
 :action_date: "2008-12-08"
 :offence_date: "2008-12-04"
 :pursued_by: Rockdale City Council
@@ -10,7 +11,6 @@
 :trading_name: LONGS GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 354A ROCKY POINT RD RAMSGATE
-:longitude: 151.136373
 :id: "3014960136"
 :served_to: CHAN, BING KEUNG
 :council_area: ROCKDALE

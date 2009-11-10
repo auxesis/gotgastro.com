@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.285194
 :action_date: "2008-10-20"
 :offence_date: "2008-10-16"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: FRIARS TUCKER
 :penalty_amount: $330.00
 :address: 249 GREAT WESTERN HWY BLACKHEATH
-:longitude: 150.285194
 :id: "7652282294"
 :served_to: FRYER, WAYNE
 :council_area: BLUE MOUNTAINS

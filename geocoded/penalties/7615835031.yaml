@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.925011
 :action_date: "2008-08-29"
 :offence_date: "2008-08-25"
 :pursued_by: Liverpool City Council
@@ -10,7 +11,6 @@
 :trading_name: TIN'S GOURMET FOODS
 :penalty_amount: $330.00
 :address: SHOP 1011 WESTFIELDS LIVERPOOL 25 GEORGE STREET LIVERPOOL 2170
-:longitude: 150.925011
 :id: "7615835031"
 :served_to: YE, MING MING
 :council_area: LIVERPOOL

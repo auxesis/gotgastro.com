@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.107721
 :action_date: "2008-12-03"
 :offence_date: "2008-12-02"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: DELIGHT DIM SIM
 :penalty_amount: $660.00
 :address: 121 FOREST RD HURSTVILLE
-:longitude: 151.107721
 :id: "3003513031"
 :served_to: DELIGHT DIM SIM PTY LTD
 :council_area: HURSTVILLE

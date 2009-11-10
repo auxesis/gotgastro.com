@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.814564
 :action_date: "2008-11-28"
 :offence_date: "2008-11-27"
 :pursued_by: Campbelltown City Council
@@ -10,7 +11,6 @@
 :trading_name: NOODLE PARADISE
 :penalty_amount: $330.00
 :address: SHOP 3 135 QUEEN ST CAMPBELLTOWN
-:longitude: 150.814564
 :id: "7673922832"
 :served_to: LIU, HUILIN
 :council_area: CAMPBELLTOWN

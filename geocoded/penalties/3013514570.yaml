@@ -1,4 +1,5 @@
 --- 
+:longitude: 149.9110584
 :action_date: "2009-06-11"
 :offence_date: "2009-02-04"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: SNUG COVE SEAFOOD
 :penalty_amount: $660.00
 :address: UNIT 2/18-20 WEECOON STREET EDEN 2551
-:longitude: 149.9110584
 :id: "3013514570"
 :served_to: RODAHL, NAT A
 :council_area: BEGA VALLEY

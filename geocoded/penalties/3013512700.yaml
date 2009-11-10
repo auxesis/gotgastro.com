@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.103199
 :action_date: "2009-01-05"
 :offence_date: "2008-11-18"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: GOOD LUCK BUTCHERY
 :penalty_amount: $660.00
 :address: 127-133 BURWOOD RD BURWOOD
-:longitude: 151.103199
 :id: "3013512700"
 :served_to: SUN'S UP ENTERPRISE PTY LTD
 :council_area: BURWOOD

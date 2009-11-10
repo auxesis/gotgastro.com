@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.111975
 :action_date: "2009-02-12"
 :offence_date: "2009-02-11"
 :pursued_by: Ku-ring-gai Council
@@ -10,7 +11,6 @@
 :trading_name: THE GOLDEN BAKE HOUSE
 :penalty_amount: $330.00
 :address: 219C KISSING POINT ROAD TURRAMURRA 2074
-:longitude: 151.111975
 :id: "7655067732"
 :served_to: VO, NGHI THI QUOC
 :council_area: KU-RING-GAI

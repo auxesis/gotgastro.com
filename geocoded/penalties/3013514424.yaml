@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.202266
 :action_date: "2009-05-15"
 :offence_date: "2009-04-30"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: DAIKICHI FOODS
 :penalty_amount: $660.00
 :address: 55 REGENT STREET CHIPPENDALE 2008
-:longitude: 151.202266
 :id: "3013514424"
 :served_to: DAIKICHI FOODS PTY LTD
 :council_area: SYDNEY

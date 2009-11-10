@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.353356
 :action_date: "2009-04-29"
 :offence_date: "2009-04-28"
 :pursued_by: Gosford City Council
@@ -10,7 +11,6 @@
 :trading_name: BARTO'S BAKEHOUSE
 :penalty_amount: $330.00
 :address: 101A VICTORIA STREET EAST GOSFORD 2250
-:longitude: 151.353356
 :id: "3014762897"
 :served_to: BARTON, JASON
 :council_area: GOSFORD

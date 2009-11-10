@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.224077
 :action_date: "2009-03-31"
 :offence_date: "2009-03-23"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: THE INDIAN CURRY POINT
 :penalty_amount: $330.00
 :address: 25 DARLINGHURST ROAD POTTS POINT 2011
-:longitude: 151.224077
 :id: "7250501354"
 :served_to: KAZI, SHAMSUL ISLAM
 :council_area: SYDNEY

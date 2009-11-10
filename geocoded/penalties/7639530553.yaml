@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.248035
 :action_date: "2009-03-10"
 :offence_date: "2009-03-09"
 :pursued_by: Waverley Council
@@ -10,7 +11,6 @@
 :trading_name: VINA BAKEHOUSE
 :penalty_amount: $330.00
 :address: LEVEL 1 SHOP 15 55-91 SPRING ST BONDI JUNCTION 2022
-:longitude: 151.248035
 :id: "7639530553"
 :served_to: DAO, CHI
 :council_area: WAVERLEY

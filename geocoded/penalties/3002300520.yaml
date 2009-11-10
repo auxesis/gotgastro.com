@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.207838
 :action_date: "2009-01-09"
 :offence_date: "2009-01-08"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: LOWENBRAU KELLER
 :penalty_amount: $660.00
 :address: 18 ARGYLE STREET THE ROCKS 2000
-:longitude: 151.207838
 :id: "3002300520"
 :served_to: BAVARIAN HOSPITALITY GROUP PTY LTD
 :council_area: SYDNEY

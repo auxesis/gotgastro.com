@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.956758
 :action_date: "2009-02-26"
 :offence_date: "2009-01-27"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: JENMY CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 30 SMART STREET FAIRFIELD 2165
-:longitude: 150.956758
 :id: "3015052866"
 :served_to: WONDERFUL FOOD PTY LTD
 :council_area: FAIRFIELD

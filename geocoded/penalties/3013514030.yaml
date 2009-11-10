@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.02426
 :action_date: "2009-03-11"
 :offence_date: "2009-02-25"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: RABIH BUTCHERY
 :penalty_amount: $330.00
 :address: 453 HUME HIGHWAY YAGOONA 2199
-:longitude: 151.02426
 :id: "3013514030"
 :served_to: YAGHI, RABIH
 :council_area: BANKSTOWN

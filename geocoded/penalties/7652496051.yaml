@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.228402
 :action_date: "2009-05-22"
 :offence_date: "2009-03-31"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: TAPENADE
 :penalty_amount: $660.00
 :address: 2B HEELEY STREET PADDINGTON 2021
-:longitude: 151.228402
 :id: "7652496051"
 :served_to: W K F & SONS PTY LTD
 :council_area: WOOLLAHRA

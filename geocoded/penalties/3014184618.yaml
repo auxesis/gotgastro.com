@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.138398
 :action_date: "2009-05-01"
 :offence_date: "2009-04-22"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: INDIAN HOME DINER
 :penalty_amount: $330.00
 :address: 50 LACKEY STREET SUMMER HILL 2130
-:longitude: 151.138398
 :id: "3014184618"
 :served_to: RUHUL, AMIN
 :council_area: ASHFIELD

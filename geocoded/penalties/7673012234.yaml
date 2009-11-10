@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.671669
 :action_date: "2008-08-04"
 :offence_date: "2008-07-31"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: EMU PLAINS TAKEAWAY
 :penalty_amount: $330.00
 :address: LOT 1 4 MACKELLAR ST EMU PLAINS 2750
-:longitude: 150.671669
 :id: "7673012234"
 :served_to: GEORGAS, SEVASTI
 :council_area: PENRITH

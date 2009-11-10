@@ -1,4 +1,5 @@
 --- 
+:longitude: 153.547516
 :action_date: "2008-10-28"
 :offence_date: "2008-07-16"
 :pursued_by: Ballina Shire Council
@@ -10,7 +11,6 @@
 :trading_name: TRIDENT FISH BAR
 :penalty_amount: $330.00
 :address: PACIFIC HWY BALLINA
-:longitude: 153.547516
 :id: "7652188684"
 :served_to: LAWFORD, PETER
 :council_area: BALLINA

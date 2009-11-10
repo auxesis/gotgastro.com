@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.586581
 :action_date: "2008-12-04"
 :offence_date: "2008-11-27"
 :pursued_by: Wyong Shire Council
@@ -10,7 +11,6 @@
 :trading_name: ELIZABETH BAY BEACH STORE
 :penalty_amount: $330.00
 :address: 1 ELIZABETH BAY DRIVE LAKE MUNMORAH 2259
-:longitude: 151.586581
 :id: "3003096169"
 :served_to: FINDWATER, JOSHUA
 :council_area: WYONG

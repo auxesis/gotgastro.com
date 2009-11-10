@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.205222
 :action_date: "2008-11-20"
 :offence_date: "2008-11-19"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: LAVENDER BLUE CAFE
 :penalty_amount: $660.00
 :address: 165 BLUES POINT ROAD MCMAHONS POINT 2060
-:longitude: 151.205222
 :id: "7678452468"
 :served_to: GOURMET BLUE MARKETING PTY LTD
 :council_area: NORTH SYDNEY

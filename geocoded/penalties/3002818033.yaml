@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.070973
 :action_date: "2008-09-04"
 :offence_date: "2008-09-02"
 :pursued_by: Hornsby Shire Council
@@ -10,7 +11,6 @@
 :trading_name: RELISH FOODS
 :penalty_amount: $330.00
 :address: 4 HILLCREST RD PENNANT HILLS 2120
-:longitude: 151.070973
 :id: "3002818033"
 :served_to: MATIJEVIC, MATTHEW
 :council_area: HORNSBY

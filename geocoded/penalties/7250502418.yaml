@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.205153
 :action_date: "2009-07-27"
 :offence_date: "2009-07-21"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: RAMEN CONDOR
 :penalty_amount: $660.00
 :address: SHOP 1/5 YORK STREET SYDNEY 2000
-:longitude: 151.205153
 :id: "7250502418"
 :served_to: WAKANDA PTY LTD
 :council_area: SYDNEY

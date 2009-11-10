@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.911923
 :action_date: "2008-05-22"
 :offence_date: "2008-03-27"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: KINGS PARK CHICKEN
 :penalty_amount: $660.00
 :address: 15/12 GARLING RD KINGS PARK 2148
-:longitude: 150.911923
 :id: "7670785789"
 :served_to: KINGS PARK CHICKEN P/L
 :council_area: BLACKTOWN

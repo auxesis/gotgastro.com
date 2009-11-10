@@ -1,4 +1,5 @@
 --- 
+:longitude: 149.717322
 :action_date: -00-00
 :offence_date: "2009-04-08"
 :pursued_by: Goulburn Mulwaree Council
@@ -10,7 +11,6 @@
 :trading_name: DALAT BAKERY
 :penalty_amount: $330.00
 :address: 158 AUBURN STREET GOULBURN 2580
-:longitude: 149.717322
 :id: "7611463705"
 :served_to: DO, THI LAN CHAU
 :council_area: Goulburn Mulwaree

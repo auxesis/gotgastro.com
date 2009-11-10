@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.040821
 :action_date: "2009-02-18"
 :offence_date: "2009-02-03"
 :pursued_by: Bankstown City Council
@@ -10,7 +11,6 @@
 :trading_name: SABILLAS RESTAURANT & CAFE
 :penalty_amount: $330.00
 :address: SHOP TMG02A CENTRO BANKSTOWN 1 NORTH TERRACE BANKSTOWN 2200
-:longitude: 151.040821
 :id: "7621421253"
 :served_to: MUSTAPHA, LEWY
 :council_area: BANKSTOWN

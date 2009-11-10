@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.156402
 :action_date: "2009-06-16"
 :offence_date: "2009-06-10"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: ALL SEASONS AUSTRALIAN GOURMET PRODUCE
 :penalty_amount: $660.00
 :address: 20/28 CARRINGTON ROAD MARRICKVILLE 2204
-:longitude: 151.156402
 :id: "3013514653"
 :served_to: ALL SEASONS AUSTRALIAN GOURMET PRODUCE PTY LTD
 :council_area: MARRICKVILLE

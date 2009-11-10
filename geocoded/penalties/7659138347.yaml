@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.217127
 :action_date: "2009-05-13"
 :offence_date: "2009-04-27"
 :pursued_by: Warringah Council
@@ -10,7 +11,6 @@
 :trading_name: FUJI JAPANESE BAKERY
 :penalty_amount: $330.00
 :address: SHOP 5, 29 TRAMORE PLACE KILLARNEY HEIGHTS 2087
-:longitude: 151.217127
 :id: "7659138347"
 :served_to: MIYAMOTO, YUKATKA
 :council_area: WARRINGAH

@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.601408
 :action_date: "2009-06-12"
 :offence_date: "2009-04-28"
 :pursued_by: Shoalhaven City Council
@@ -10,7 +11,6 @@
 :trading_name: DINH HOT BREAD AND CAKE SHOP
 :penalty_amount: $330.00
 :address: SHOP 1 183 JACOBS DRIVE SUSSEX INLET 2540
-:longitude: 150.601408
 :id: "3016156541"
 :served_to: NGUYEN, DINH GIAO
 :council_area: SHOALHAVEN

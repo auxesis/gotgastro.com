@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.173201
 :action_date: "2009-02-06"
 :offence_date: "2009-01-09"
 :pursued_by: Leichhardt Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: LE COCO
 :penalty_amount: $660.00
 :address: 177 PARAMATTA ROAD ANNANDALE 2038
-:longitude: 151.173201
 :id: "7675461705"
 :served_to: LE COCO PTY LTD
 :council_area: LEICHHARDT

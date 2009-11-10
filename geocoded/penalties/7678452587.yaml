@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.201218
 :action_date: "2009-02-12"
 :offence_date: "2009-02-10"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: FUUKI JAPANESE RESTAURANT
 :penalty_amount: $330.00
 :address: 417 PACIFIC HIGHWAY CROWS NEST 2065
-:longitude: 151.201218
 :id: "7678452587"
 :served_to: PETERSON, CARL
 :council_area: NORTH SYDNEY

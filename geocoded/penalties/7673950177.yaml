@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.459653
 :action_date: "2009-01-06"
 :offence_date: "2009-01-05"
 :pursued_by: Greater Taree City Council
@@ -10,7 +11,6 @@
 :trading_name: FRENCH TASTE BAKERY OR PAUL & TRY'S BAKEHOUSE
 :penalty_amount: $330.00
 :address: 4/19 PULTENEY ST TAREE
-:longitude: 152.459653
 :id: "7673950177"
 :served_to: HENG, TRY
 :council_area: GREATER TAREE

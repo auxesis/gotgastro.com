@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.009266
 :action_date: "2008-07-02"
 :offence_date: "2008-04-02"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: DHAKA SUPERMARKET
 :penalty_amount: $330.00
 :address: 53B WIGRAM ST HARRIS PARK 2150
-:longitude: 151.009266
 :id: "3013513059"
 :served_to: KARIM, MD MUSTAFA
 :council_area: PARRAMATTA

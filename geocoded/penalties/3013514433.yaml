@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.008398
 :action_date: "2009-06-10"
 :offence_date: "2009-05-13"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: PERSIA BUTCHERY
 :penalty_amount: $660.00
 :address: 1/55 MARION STREET HARRIS PARK 2150
-:longitude: 151.008398
 :id: "3013514433"
 :served_to: GREEN FARM MEAT PRODUCTS PTY LTD
 :council_area: PARRAMATTA

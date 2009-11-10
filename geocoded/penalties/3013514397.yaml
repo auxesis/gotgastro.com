@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.90984
 :action_date: "2009-05-13"
 :offence_date: "2009-04-23"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: PORT MACQUARIE WHOLESALE MEATS
 :penalty_amount: $660.00
 :address: 5/56 LAKE ROAD PORT MACQUARIE 2444
-:longitude: 152.90984
 :id: "3013514397"
 :served_to: PORT MACQUARIE WHOLESALE MEATS PTY LTD
 :council_area: Port Macquarie - Hastings

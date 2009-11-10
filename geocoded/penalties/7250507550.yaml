@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.213165
 :action_date: "2009-09-04"
 :offence_date: "2009-09-03"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: ARC CAFE
 :penalty_amount: $660.00
 :address: KIOSK I CIRCULAR QUAY EAST 1 MACQUARIE STREET SYDNEY 2000
-:longitude: 151.213165
 :id: "7250507550"
 :served_to: CIRCULAR QUAY RESTAURANTS PTY LTD
 :council_area: SYDNEY

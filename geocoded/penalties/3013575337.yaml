@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.676078
 :action_date: "2008-11-03"
 :offence_date: "2008-10-31"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: RED ROOSTER
 :penalty_amount: $660.00
 :address: 130-132 MULGOA RD JAMISONTOWN
-:longitude: 150.676078
 :id: "3013575337"
 :served_to: RED ROOSTER FOODS PTY LTD
 :council_area: PENRITH

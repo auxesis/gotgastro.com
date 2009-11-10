@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.084558
 :action_date: "2008-05-21"
 :offence_date: "2008-05-19"
 :pursued_by: City of Canterbury Council
@@ -10,7 +11,6 @@
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 834-842 CANTERBURY RD LAKEMBA 2195
-:longitude: 151.084558
 :id: "7625419405"
 :served_to: KENTUCKY FRIED CHICKEN P/L
 :council_area: CANTERBURY

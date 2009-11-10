@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.239094
 :action_date: "2008-10-28"
 :offence_date: "2008-09-09"
 :pursued_by: Mosman Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: LEBRETON PATISSERIE
 :penalty_amount: $550.00
 :address: 519 MILITARY RD MOSMAN
-:longitude: 151.239094
 :id: "7641332189"
 :served_to: LEBRETON, DOMINIQUE
 :council_area: MOSMAN

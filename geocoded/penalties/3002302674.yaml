@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.204458
 :action_date: "2008-06-19"
 :offence_date: "2008-06-18"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: BIJOU CHINA
 :penalty_amount: $330.00
 :address: B01/413-415 SUSSEX ST HAYMARKET 2000
-:longitude: 151.204458
 :id: "3002302674"
 :served_to: BAI, XIAORUI
 :council_area: SYDNEY

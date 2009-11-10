@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.226432
 :action_date: "2008-11-07"
 :offence_date: "2008-11-06"
 :pursued_by: Hornsby Shire Council
@@ -10,7 +11,6 @@
 :trading_name: JOSHUA'S SEAFOOD BAR & CAFE
 :penalty_amount: $330.00
 :address: 5 BRIDGE STREET BROOKLYN 2083
-:longitude: 151.226432
 :id: "3002818226"
 :served_to: SMITH, JOSHUA JOSEPH
 :council_area: HORNSBY

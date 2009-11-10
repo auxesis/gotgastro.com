@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.937441
 :action_date: "2009-04-06"
 :offence_date: "2009-03-19"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
 :address: FREEDOM PLAZA, PARK ROAD CABRAMATTA 2166
-:longitude: 150.937441
 :id: "3015315270"
 :served_to: SAO, TUOCH
 :council_area: FAIRFIELD

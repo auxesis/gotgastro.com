@@ -1,4 +1,5 @@
 --- 
+:longitude: 148.305587
 :action_date: "2008-09-03"
 :offence_date: "2008-08-29"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
@@ -10,7 +11,6 @@
 :trading_name: SANTE RESTAURANT
 :penalty_amount: $330.00
 :address: MOWAMBA PL THREDBO VILLAGE 2625
-:longitude: 148.305587
 :id: "7657076662"
 :served_to: DRAGOVICH
 :council_area: Kosciuszko

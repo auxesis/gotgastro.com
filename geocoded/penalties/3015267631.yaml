@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.928147
 :action_date: "2009-04-24"
 :offence_date: "2009-04-09"
 :pursued_by: Blacktown City Council
@@ -10,7 +11,6 @@
 :trading_name: BAKERS WORLD
 :penalty_amount: $330.00
 :address: 60 GLENWOOD PARK DRIVE GLENWOOD 2768
-:longitude: 150.928147
 :id: "3015267631"
 :served_to: TU, SANH NGOC
 :council_area: BLACKTOWN

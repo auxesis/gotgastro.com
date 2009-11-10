@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.12417
 :action_date: "2009-05-01"
 :offence_date: "2009-04-22"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: NOODLE AT NOODLE INN
 :penalty_amount: $330.00
 :address: 287 LIVERPOOL ROAD ASHFIELD 2131
-:longitude: 151.12417
 :id: "3014184627"
 :served_to: SHI, JING
 :council_area: ASHFIELD

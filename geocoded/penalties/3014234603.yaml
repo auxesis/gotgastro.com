@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.866857
 :action_date: "2009-06-11"
 :offence_date: "2009-06-04"
 :pursued_by: Campbelltown City Council
@@ -10,7 +11,6 @@
 :trading_name: CHAN'S INN RESTAURANT
 :penalty_amount: $330.00
 :address: 49 OXFORD ROAD INGLEBURN 2565
-:longitude: 150.866857
 :id: "3014234603"
 :served_to: SU, ZHEN NI
 :council_area: CAMPBELLTOWN

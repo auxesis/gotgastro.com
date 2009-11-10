@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.103049
 :action_date: "2008-11-14"
 :offence_date: "2008-11-10"
 :pursued_by: City of Canterbury Council
@@ -10,7 +11,6 @@
 :trading_name: NI BBQ HOUSE
 :penalty_amount: $330.00
 :address: 152 BEAMISH ST CAMPSIE
-:longitude: 151.103049
 :id: "7633077688"
 :served_to: CHENG, KIU
 :council_area: CANTERBURY

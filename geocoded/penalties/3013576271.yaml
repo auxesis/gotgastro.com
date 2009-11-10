@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.770865
 :action_date: "2009-04-21"
 :offence_date: "2009-04-17"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: JACS CAFE
 :penalty_amount: $660.00
 :address: KIOSK 6, ST MARYS SHOPPING VILLAGE 10 CHARLES HACKETT DRIVE ST MARYS 2760
-:longitude: 150.770865
 :id: "3013576271"
 :served_to: THE DONUT COMPANY PTY LTD
 :council_area: PENRITH

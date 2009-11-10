@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.707434
 :action_date: "2009-06-26"
 :offence_date: "2009-06-19"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: STAFFORD'S TAKEAWAY
 :penalty_amount: $330.00
 :address: 112 STAFFORD STREET PENRITH 2750
-:longitude: 150.707434
 :id: "3013576583"
 :served_to: XU, FEI
 :council_area: PENRITH

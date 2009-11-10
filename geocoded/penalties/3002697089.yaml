@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.3309659
 :action_date: "2008-12-01"
 :offence_date: "2008-11-26"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: STOCKMARKET CAFE
 :penalty_amount: $660.00
 :address: 179 LEURA MALL LEURA 2780
-:longitude: 150.3309659
 :id: "3002697089"
 :served_to: STOCKMARKET CAFE PTY LTD
 :council_area: BLUE MOUNTAINS

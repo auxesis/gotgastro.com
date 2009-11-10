@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.559499
 :action_date: "2008-11-06"
 :offence_date: "2008-10-16"
 :pursued_by: Maitland City Council
@@ -10,7 +11,6 @@
 :trading_name: RED SEA RESTAURANT
 :penalty_amount: $330.00
 :address: 309 HIGH ST MAITLAND 2320
-:longitude: 151.559499
 :id: "7602130260"
 :served_to: HO, FI CHUNG
 :council_area: MAITLAND

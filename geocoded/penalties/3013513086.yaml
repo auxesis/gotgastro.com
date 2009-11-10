@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.215528
 :action_date: "2008-07-23"
 :offence_date: "2008-06-12"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: SAUSAGE SPECIALIST MEAT EMPORIUM
 :penalty_amount: $660.00
 :address: SHOP 23 THE CENTRE FORESTVILLE  2087
-:longitude: 151.215528
 :id: "3013513086"
 :served_to: ALDOS PRIDE PTY LTD
 :council_area: WARRINGAH

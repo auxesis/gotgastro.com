@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.4439364
 :action_date: "2008-05-22"
 :offence_date: "2008-05-21"
 :pursued_by: Wyong Shire Council
@@ -10,7 +11,6 @@
 :trading_name: MCDONALD'S
 :penalty_amount: $660.00
 :address: 4 MINGARA DR TUMBI UMBI 2261
-:longitude: 151.4439364
 :id: "7656553163"
 :served_to: MCDONALDS AUSTRALIA LTD
 :council_area: WYONG

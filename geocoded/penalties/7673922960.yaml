@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.827003
 :action_date: "2009-02-17"
 :offence_date: "2009-02-13"
 :pursued_by: Campbelltown City Council
@@ -10,7 +11,6 @@
 :trading_name: HUNGRY JACK'S
 :penalty_amount: $660.00
 :address: 1 HOLLYLEA ROAD LEUMEAH 2560
-:longitude: 150.827003
 :id: "7673922960"
 :served_to: HUNGRY JACK'S PTY LTD
 :council_area: CAMPBELLTOWN

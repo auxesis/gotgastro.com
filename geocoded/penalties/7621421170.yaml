@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.000164
 :action_date: "2009-01-20"
 :offence_date: "2009-01-14"
 :pursued_by: Bankstown City Council
@@ -10,7 +11,6 @@
 :trading_name: AUSTBAKE OVEN DOOR BAKERY
 :penalty_amount: $660.00
 :address: 172 WALDRON ROAD CHESTER HILL 2162
-:longitude: 151.000164
 :id: "7621421170"
 :served_to: G F C ENTERPRISES PTY LTD
 :council_area: BANKSTOWN

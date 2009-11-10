@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.204167
 :action_date: "2008-11-26"
 :offence_date: "2008-10-15"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: EMPERORS GARDEN CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: CNR DIXON ST AND HAY ST HAYMARKET
-:longitude: 151.204167
 :id: "3013513544"
 :served_to: EMPERORS GARDEN PTY LTD
 :council_area: SYDNEY

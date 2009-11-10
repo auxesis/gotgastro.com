@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.031885
 :action_date: "2008-08-29"
 :offence_date: "2008-08-26"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: OH YUM BAKERY
 :penalty_amount: $330.00
 :address: 123 AUBURN RD AUBURN 2144
-:longitude: 151.031885
 :id: "3020346872"
 :served_to: FAZIL, MOHAMMED
 :council_area: AUBURN

@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.299477
 :action_date: "2008-11-17"
 :offence_date: "2008-11-13"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: THE EDGE CINEMA RESTAURANT
 :penalty_amount: $660.00
 :address: GREAT WESTERN HWY KATOOMBA
-:longitude: 150.299477
 :id: "3002697033"
 :served_to: BLUE MOUNTAINS MEGACINEMA PTY LTD
 :council_area: BLUE MOUNTAINS

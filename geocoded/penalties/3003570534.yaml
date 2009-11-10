@@ -1,4 +1,5 @@
 --- 
+:longitude: -81.578416
 :action_date: "2009-06-25"
 :offence_date: "2009-06-23"
 :pursued_by: Orange City Council
@@ -10,7 +11,6 @@
 :trading_name: BAKERS DELIGHT
 :penalty_amount: $660.00
 :address: SHOP 20, ORANGE CENTRAL SUMMER STREET ORANGE 2800
-:longitude: -81.578416
 :id: "3003570534"
 :served_to: FREEDOM BAKERS PTY LTD
 :council_area: ORANGE

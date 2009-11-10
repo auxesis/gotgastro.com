@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.984215
 :action_date: "2008-09-29"
 :offence_date: "2008-09-23"
 :pursued_by: Holroyd City Council
@@ -10,7 +11,6 @@
 :trading_name: ELEMAN BAKERY
 :penalty_amount: $330.00
 :address: SHOP 364 GUILDFORD RD GUILDFORD 2161
-:longitude: 150.984215
 :id: "7671477963"
 :served_to: GHAZZAOUI, ABBOUD
 :council_area: HOLROYD

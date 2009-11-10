@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.3525039
 :action_date: "2009-05-28"
 :offence_date: "2009-05-26"
 :pursued_by: Greater Taree City Council
@@ -10,7 +11,6 @@
 :trading_name: GILSTED CATERING
 :penalty_amount: $330.00
 :address: 1295 GLOUCESTER ROAD WINGHAM 2429
-:longitude: 152.3525039
 :id: "3015976233"
 :served_to: SHAW, EDGAR
 :council_area: GREATER TAREE

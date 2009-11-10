@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.202279
 :action_date: "2008-08-01"
 :offence_date: "2008-07-30"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: PEACOCK GARDENS CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 100 Alexander Street CROWS NEST 2065
-:longitude: 151.202279
 :id: "7678452284"
 :served_to: PEACOCK GARDENS RESTAURANT P/L
 :council_area: NORTH SYDNEY

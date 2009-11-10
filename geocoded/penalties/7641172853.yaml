@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.2889468
 :action_date: "2009-05-01"
 :offence_date: "2009-04-23"
 :pursued_by: Manly Council
@@ -10,7 +11,6 @@
 :trading_name: CHAT THAI
 :penalty_amount: $660.00
 :address: SHOP 10, EAST ESPLANADE MANLY WHARF MANLY 2095
-:longitude: 151.2889468
 :id: "7641172853"
 :served_to: CHAT THAI PTY LTD
 :council_area: MANLY

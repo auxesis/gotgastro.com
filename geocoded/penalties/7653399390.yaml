@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.975322
 :action_date: "2008-10-02"
 :offence_date: "2008-09-30"
 :pursued_by: Baulkham Hills Shire Council
@@ -10,7 +11,6 @@
 :trading_name: HILLS LUNCH SHOP
 :penalty_amount: $330.00
 :address: 17/5 SALISBURY RD CASTLE HILL
-:longitude: 150.975322
 :id: "7653399390"
 :served_to: PONG, ONG CHOW
 :council_area: BAULKHAM HILLS

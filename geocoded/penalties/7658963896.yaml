@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.218185
 :action_date: "2008-08-06"
 :offence_date: "2008-07-30"
 :pursued_by: Warringah Council
@@ -10,7 +11,6 @@
 :trading_name: GOLDEN LOTUS RESTAURANT
 :penalty_amount: $330.00
 :address: SHOP 9  26 TRAMORE PLACE KILLARNEY HEIGHTS 2087
-:longitude: 151.218185
 :id: "7658963896"
 :served_to: WONG FAMILY TRUST, THE TRUSTEE FOR E AND H
 :council_area: WARRINGAH

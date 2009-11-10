@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.467958
 :action_date: "2009-02-19"
 :offence_date: "2009-02-17"
 :pursued_by: Greater Taree City Council
@@ -10,7 +11,6 @@
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 38 VICTORIA STREET TAREE 2430
-:longitude: 152.467958
 :id: "7673950460"
 :served_to: QSR PTY LTD
 :council_area: GREATER TAREE

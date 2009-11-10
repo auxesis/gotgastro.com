@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.196089
 :action_date: "2009-05-05"
 :offence_date: "2009-05-04"
 :pursued_by: Willoughby City Council
@@ -10,7 +11,6 @@
 :trading_name: ORION CONTINENTAL FOODS
 :penalty_amount: $330.00
 :address: 327 PENSHURST STREET NORTH WILLOUGHBY 2068
-:longitude: 151.196089
 :id: "7671651269"
 :served_to: HAYKAL, SABAH
 :council_area: WILLOUGHBY

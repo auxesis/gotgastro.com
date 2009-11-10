@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.133293
 :action_date: "2009-04-06"
 :offence_date: "2009-04-06"
 :pursued_by: Kogarah Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: PRETE (L) THY
 :penalty_amount: $330.00
 :address: 5 MONTGOMERY STREET KOGARAH 2217
-:longitude: 151.133293
 :id: "7641631782"
 :served_to: YILDIRIM, OZKAN
 :council_area: KOGARAH

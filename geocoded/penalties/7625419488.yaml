@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.099867
 :action_date: "2008-05-26"
 :offence_date: "2008-05-26"
 :pursued_by: City of Canterbury Council
@@ -10,7 +11,6 @@
 :trading_name: SPARTACUS FOODS
 :penalty_amount: $660.00
 :address: 8/21 ELIZABETH ST CAMPSIE 2194
-:longitude: 151.099867
 :id: "7625419488"
 :served_to: SPARTACUS FOODS P/L
 :council_area: CANTERBURY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.56648
 :action_date: "2008-12-12"
 :offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: NO TRADING NAME
 :penalty_amount: $330.00
 :address: UPPER RIVER RD KANGAROO VALLEY
-:longitude: 150.56648
 :id: "3013512655"
 :served_to: MCRAE, PETER DESMOND
 :council_area: SHOALHAVEN

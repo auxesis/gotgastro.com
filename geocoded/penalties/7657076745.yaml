@@ -1,4 +1,5 @@
 --- 
+:longitude: 148.305587
 :action_date: "2008-10-01"
 :offence_date: "2008-09-16"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
@@ -10,7 +11,6 @@
 :trading_name: BERNTI'S MOUNTAIN INN
 :penalty_amount: $330.00
 :address: 4 MOWAMBA PL THREDBO 2625
-:longitude: 148.305587
 :id: "7657076745"
 :served_to: GREGORSKI, TED
 :council_area: Kosciuszko

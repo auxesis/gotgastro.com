@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.156589
 :action_date: "2009-05-27"
 :offence_date: "2009-05-01"
 :pursued_by: Lithgow City Council
@@ -10,7 +11,6 @@
 :trading_name: COUNTRY NOODLES
 :penalty_amount: $330.00
 :address: 131 MAIN ST LITHGOW 2790
-:longitude: 150.156589
 :id: "7623241277"
 :served_to: XU, XUN WEN
 :council_area: LITHGOW

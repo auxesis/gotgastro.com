@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.226866
 :action_date: "2009-06-17"
 :offence_date: "2009-06-02"
 :pursued_by: Randwick City Council
@@ -10,7 +11,6 @@
 :trading_name: KINGSFORD CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 426 ANZAC PARADE KINGSFORD 2032
-:longitude: 151.226866
 :id: "7621650228"
 :served_to: NG, KAN KWOK
 :council_area: RANDWICK

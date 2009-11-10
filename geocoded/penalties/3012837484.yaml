@@ -1,4 +1,5 @@
 --- 
+:longitude: 148.689444
 :action_date: "2008-06-06"
 :offence_date: "2008-05-29"
 :pursued_by: Cowra Shire Council
@@ -10,7 +11,6 @@
 :trading_name: COWRA HOT BAKE
 :penalty_amount: $330.00
 :address: 67 KENDAL ST COWRA
-:longitude: 148.689444
 :id: "3012837484"
 :served_to: LYNCH, BRIAN JOHN
 :council_area: COWRA

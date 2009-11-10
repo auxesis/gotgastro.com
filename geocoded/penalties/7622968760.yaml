@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.051299
 :action_date: "2008-08-29"
 :offence_date: "2008-08-28"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: KFC RIVERWOOD
 :penalty_amount: $660.00
 :address: 215 BELMORE RD RIVERWOOD 2210
-:longitude: 151.051299
 :id: "7622968760"
 :served_to: QSR PTY LTD
 :council_area: HURSTVILLE

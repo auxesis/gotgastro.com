@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.445477
 :action_date: "2008-07-18"
 :offence_date: "2008-07-13"
 :pursued_by: Wyong Shire Council
@@ -10,7 +11,6 @@
 :trading_name: LAKEDGE BAKERY
 :penalty_amount: $1100.00
 :address: 1/62 LAKEDGE AVE BERKELEY VALE 2261
-:longitude: 151.445477
 :id: "7656553264"
 :served_to: FELSROSS P/L
 :council_area: WYONG

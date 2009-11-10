@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.203853
 :action_date: "2008-08-07"
 :offence_date: "2008-08-06"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: SUPERBOWL RESTAURANT
 :penalty_amount: $660.00
 :address: 41 DIXON ST HAYMARKET 2000
-:longitude: 151.203853
 :id: "3002302766"
 :served_to: SUPERTHREE PTY LTD
 :council_area: SYDNEY

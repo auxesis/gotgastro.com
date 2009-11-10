@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.955433
 :action_date: "2009-05-07"
 :offence_date: "2009-04-16"
 :pursued_by: Holroyd City Council
@@ -10,7 +11,6 @@
 :trading_name: 888 ASIAN RESTAURANT
 :penalty_amount: $330.00
 :address: 146 PENDLE WAY PENDLE HILL 2145
-:longitude: 150.955433
 :id: "3013473697"
 :served_to: WAN, CHIU HING
 :council_area: HOLROYD

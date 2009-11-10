@@ -1,4 +1,5 @@
 --- 
+:longitude: 153.2877374
 :action_date: "2008-12-19"
 :offence_date: "2008-12-08"
 :pursued_by: Lismore City Council
@@ -10,7 +11,6 @@
 :trading_name: ASIAN FEAST
 :penalty_amount: $330.00
 :address: 45/95 DIADEM ST LISMORE 2480
-:longitude: 153.2877374
 :id: "7623027969"
 :served_to: LI, GUANG
 :council_area: LISMORE

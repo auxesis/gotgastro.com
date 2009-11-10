@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.183121
 :action_date: "2009-05-01"
 :offence_date: "2009-04-17"
 :pursued_by: Willoughby City Council
@@ -10,7 +11,6 @@
 :trading_name: IWA RESTAURANT
 :penalty_amount: $330.00
 :address: 380 VICTORIA AVENUE CHATSWOOD 2067
-:longitude: 151.183121
 :id: "7671651240"
 :served_to: LEE, SEUNG
 :council_area: WILLOUGHBY

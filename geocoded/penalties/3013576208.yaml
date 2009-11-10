@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.770865
 :action_date: "2009-03-02"
 :offence_date: "2009-02-26"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: GB'S CHICKEN EXPRESS
 :penalty_amount: $330.00
 :address: SHOP 40, ST MARYS SHOPPING VILLAGE 10 CHARLES HACKETT DRIVE ST MARYS 2760
-:longitude: 150.770865
 :id: "3013576208"
 :served_to: ANH VIET, VO
 :council_area: PENRITH

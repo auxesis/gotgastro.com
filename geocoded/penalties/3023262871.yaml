@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.103929
 :action_date: "2009-06-30"
 :offence_date: "2009-06-24"
 :pursued_by: Burwood Council
@@ -10,7 +11,6 @@
 :trading_name: CANTON NOODLE HOUSE
 :penalty_amount: $660.00
 :address: 45 BURWOOD ROAD BURWOOD 2134
-:longitude: 151.103929
 :id: "3023262871"
 :served_to: KALRID PTY LIMITED
 :council_area: BURWOOD

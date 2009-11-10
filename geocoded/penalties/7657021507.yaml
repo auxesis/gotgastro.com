@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.281939
 :action_date: "2009-06-26"
 :offence_date: "2009-06-11"
 :pursued_by: Manly Council
@@ -10,7 +11,6 @@
 :trading_name: HARRIS FARM MARKETS
 :penalty_amount: $660.00
 :address: 259 PITTWATER ROAD MANLY 2095
-:longitude: 151.281939
 :id: "7657021507"
 :served_to: HARRIS FARM MARKETS PTY LTD
 :council_area: MANLY

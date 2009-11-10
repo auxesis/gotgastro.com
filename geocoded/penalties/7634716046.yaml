@@ -1,4 +1,5 @@
 --- 
+:longitude: 148.625913
 :action_date: -00-00
 :offence_date: "2009-06-17"
 :pursued_by: Snowy River Shire Council
@@ -10,7 +11,6 @@
 :trading_name: LAKESIDE BISTRO
 :penalty_amount: $330.00
 :address: 2 BAY STREET JINDABYNE 2627
-:longitude: 148.625913
 :id: "7634716046"
 :served_to: RITTER, CAROLYN
 :council_area: SNOWY RIVER

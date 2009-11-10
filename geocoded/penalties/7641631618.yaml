@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.133507
 :action_date: "2008-12-03"
 :offence_date: "2008-12-01"
 :pursued_by: Kogarah Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: SURF & TURF MODERN CUISINE
 :penalty_amount: $660.00
 :address: SHOP 10/13 BELGRAVE ST KOGARAH 2217
-:longitude: 151.133507
 :id: "7641631618"
 :served_to: DO AND CO PTY LTD
 :council_area: KOGARAH

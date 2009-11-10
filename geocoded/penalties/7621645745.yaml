@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.242411
 :action_date: "2008-06-19"
 :offence_date: "2008-06-16"
 :pursued_by: Randwick City Council
@@ -10,7 +11,6 @@
 :trading_name: INDIAN HOME DINER RANDWICK
 :penalty_amount: $330.00
 :address: 139-145 AVOCA ST RANDWICK 2031
-:longitude: 151.242411
 :id: "7621645745"
 :served_to: JAHANGIR, MAZED
 :council_area: RANDWICK

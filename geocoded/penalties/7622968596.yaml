@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.052076
 :action_date: "2008-07-22"
 :offence_date: "2008-07-22"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: HAO QUAN HOT BREAD
 :penalty_amount: $330.00
 :address: 309 BELMORE RD RIVERWOOD
-:longitude: 151.052076
 :id: "7622968596"
 :served_to: TRAN, HAO QUAN
 :council_area: HURSTVILLE

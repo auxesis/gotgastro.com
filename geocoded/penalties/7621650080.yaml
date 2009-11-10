@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.223956
 :action_date: "2009-05-08"
 :offence_date: "2009-04-22"
 :pursued_by: Randwick City Council
@@ -10,7 +11,6 @@
 :trading_name: CHAIRMAN MAO CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: 189 ANZAC PARADE KENSINGTON 2033
-:longitude: 151.223956
 :id: "7621650080"
 :served_to: HUNAN RESTAURANT PTY LTD
 :council_area: RANDWICK

@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.972029
 :action_date: "2009-06-26"
 :offence_date: "2009-06-22"
 :pursued_by: Holroyd City Council
@@ -10,7 +11,6 @@
 :trading_name: GUILDFORD WEST CHINESE TAKEAWAY
 :penalty_amount: $330.00
 :address: 227 FOWLER ROAD GUILDFORD WEST 2161
-:longitude: 150.972029
 :id: "3013473971"
 :served_to: KE, BI FENG
 :council_area: HOLROYD

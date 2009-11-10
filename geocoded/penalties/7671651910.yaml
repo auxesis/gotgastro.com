@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.2079788
 :action_date: "2009-09-04"
 :offence_date: "2009-09-03"
 :pursued_by: Willoughby City Council
@@ -10,7 +11,6 @@
 :trading_name: ROCKIN' ROLLS FUSION SUSHI BAR
 :penalty_amount: $660.00
 :address: SHOP 4 79-113 SAILORS BAY ROAD NORTHBRIDGE 2063
-:longitude: 151.2079788
 :id: "7671651910"
 :served_to: TOP GREEN MANAGEMENT PTY LTD
 :council_area: WILLOUGHBY

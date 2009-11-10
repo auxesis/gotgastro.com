@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.287318
 :action_date: "2008-10-08"
 :offence_date: "2008-09-29"
 :pursued_by: Manly Council
@@ -10,7 +11,6 @@
 :trading_name: HUNGRY JACK'S
 :penalty_amount: $660.00
 :address: 74-78 THE CORSO MANLY
-:longitude: 151.287318
 :id: "7641172734"
 :served_to: HUNGRY JACKS PTY LTD
 :council_area: MANLY

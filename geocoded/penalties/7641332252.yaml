@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.241459
 :action_date: "2009-07-15"
 :offence_date: "2009-07-14"
 :pursued_by: Mosman Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: TRE SOPRANO
 :penalty_amount: $330.00
 :address: SHOP 1, 668 MILITARY ROAD MOSMAN 2088
-:longitude: 151.241459
 :id: "7641332252"
 :served_to: MITZINIS, JERRY
 :council_area: MOSMAN

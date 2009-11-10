@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.213404
 :action_date: -00-00
 :offence_date: "2009-05-20"
 :pursued_by: Botany Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: BAKERS OVEN
 :penalty_amount: $550.00
 :address: SHOP 8, 19A EVANS AVENUE EASTLAKES 2018
-:longitude: 151.213404
 :id: "7670790133"
 :served_to: HOAG, THI THO
 :council_area: BOTANY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.142023
 :action_date: "2008-12-02"
 :offence_date: "2008-12-01"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: PIZZA HUT
 :penalty_amount: $330.00
 :address: 294 LYONS RD RUSSELL LEA
-:longitude: 151.142023
 :id: "7652797819"
 :served_to: DUCKE, BRENDAN
 :council_area: CANADA BAY

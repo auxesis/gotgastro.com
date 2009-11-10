@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.142495
 :action_date: "2009-05-22"
 :offence_date: "2009-05-20"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: CHISWICK PIZZERIA
 :penalty_amount: $330.00
 :address: SHOP 3B/45 BLACKWALL POINT ROAD CHISWICK 2046
-:longitude: 151.142495
 :id: "7652797891"
 :served_to: GIARDINA, CHARLIE
 :council_area: CANADA BAY

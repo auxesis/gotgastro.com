@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.032216
 :action_date: "2009-05-18"
 :offence_date: "2009-05-15"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: DRAGON BBQ HOUSE
 :penalty_amount: $330.00
 :address: 126 SOUTH PARADE AUBURN 2144
-:longitude: 151.032216
 :id: "7672537346"
 :served_to: AU, YUEN YAN
 :council_area: AUBURN

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.026107
 :action_date: "2009-06-19"
 :offence_date: "2009-06-18"
 :pursued_by: Baulkham Hills Shire Council
@@ -10,7 +11,6 @@
 :trading_name: OATLANDS TAKEAWAY SHOP
 :penalty_amount: $330.00
 :address: 44 BELMORE STREET OATLANDS 2117
-:longitude: 151.026107
 :id: "7653440933"
 :served_to: WANG, WEI
 :council_area: BAULKHAM HILLS

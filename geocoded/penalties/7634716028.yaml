@@ -1,4 +1,5 @@
 --- 
+:longitude: 148.608832
 :action_date: "2008-12-09"
 :offence_date: "2008-08-01"
 :pursued_by: Snowy River Shire Council
@@ -10,7 +11,6 @@
 :trading_name: ALPINE RESORT MOTEL
 :penalty_amount: $330.00
 :address: 22 NETTIN CIRCUIT JINDABYNE 2627
-:longitude: 148.608832
 :id: "7634716028"
 :served_to: KOPPE, MARTIN
 :council_area: SNOWY RIVER

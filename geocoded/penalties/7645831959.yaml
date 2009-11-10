@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.208968
 :action_date: "2008-09-12"
 :offence_date: "2008-09-10"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: THE NEW WINDSOR HOTEL
 :penalty_amount: $660.00
 :address: 48 PARK ST SYDNEY 2000
-:longitude: 151.208968
 :id: "7645831959"
 :served_to: THE NEW WINDSOR HOTEL PTY LTD
 :council_area: SYDNEY

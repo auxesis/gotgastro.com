@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.107784
 :action_date: "2009-06-11"
 :offence_date: "2009-06-10"
 :pursued_by: Burwood Council
@@ -10,7 +11,6 @@
 :trading_name: NGOC HOT BREAD SHOP
 :penalty_amount: $330.00
 :address: 119 GEORGES RIVER ROAD CROYDON PARK 2133
-:longitude: 151.107784
 :id: "3023219248"
 :served_to: NGUYEN, VAN NGOC
 :council_area: BURWOOD

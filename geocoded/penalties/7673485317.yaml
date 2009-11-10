@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.053134
 :action_date: "2008-12-16"
 :offence_date: "2008-12-12"
 :pursued_by: Parramatta City Council
@@ -10,7 +11,6 @@
 :trading_name: WANLY NOODLE SHOP
 :penalty_amount: $660.00
 :address: SHOP G22  372 PENNANT HILLS ROAD CARLINGFORD 2118
-:longitude: 151.053134
 :id: "7673485317"
 :served_to: WANLY BBQ NOODLE SHOP PTY LTD
 :council_area: PARRAMATTA

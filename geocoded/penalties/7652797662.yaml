@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.106315
 :action_date: "2008-08-27"
 :offence_date: "2008-08-12"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: PINE INN HOTEL
 :penalty_amount: $660.00
 :address: 19 PARRAMATTA RD CONCORD 2137
-:longitude: 151.106315
 :id: "7652797662"
 :served_to: NO NAME RESTAURANTS PTY LTD
 :council_area: CANADA BAY

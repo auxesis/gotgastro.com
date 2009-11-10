@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.1301
 :action_date: "2009-06-23"
 :offence_date: "2009-06-22"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: FIVE DOCK SEAFOOD CAFE
 :penalty_amount: $330.00
 :address: 102 GREAT NORTH ROAD FIVE DOCK 2046
-:longitude: 151.1301
 :id: "7652797956"
 :served_to: CHEN, MICHAEL
 :council_area: CANADA BAY

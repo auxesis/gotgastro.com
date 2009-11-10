@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.288639
 :action_date: "2009-06-26"
 :offence_date: "2009-06-06"
 :pursued_by: Manly Council
@@ -10,7 +11,6 @@
 :trading_name: YOK THAI
 :penalty_amount: $660.00
 :address: SOUTH STEYNE MANLY 2095
-:longitude: 151.288639
 :id: "7657021552"
 :served_to: YOK THAI RESTAURANT PTY LTD
 :council_area: MANLY

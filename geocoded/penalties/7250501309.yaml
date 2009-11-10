@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.226475
 :action_date: "2009-03-10"
 :offence_date: "2009-03-04"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: DECK ON BENT
 :penalty_amount: $330.00
 :address: 215-GO5 BENT STREET ENTERTAINMENT QUARTER COMPLEX, MOORE PARK PADDINGTON 2021
-:longitude: 151.226475
 :id: "7250501309"
 :served_to: MANSOUR, RAMY
 :council_area: SYDNEY

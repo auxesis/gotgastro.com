@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.634368
 :action_date: "2009-03-09"
 :offence_date: "2009-01-23"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: REDGATE FARM
 :penalty_amount: $660.00
 :address: CLARENCETOWN ROAD WOODVILLE 2321
-:longitude: 151.634368
 :id: "3013512994"
 :served_to: CHARDONN PTY LTD
 :council_area: PORT STEPHENS

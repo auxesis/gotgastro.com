@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.913261
 :action_date: "2009-02-05"
 :offence_date: "2009-02-04"
 :pursued_by: Blacktown City Council
@@ -10,7 +11,6 @@
 :trading_name: GOLDEN MA LUN CHINESE
 :penalty_amount: $330.00
 :address: 164 MAIN STREET BLACKTOWN 2148
-:longitude: 150.913261
 :id: "3014567876"
 :served_to: WU, DAVID
 :council_area: BLACKTOWN

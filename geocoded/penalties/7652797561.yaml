@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.129122
 :action_date: "2008-07-10"
 :offence_date: "2008-07-09"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: SUSHI OH-OO
 :penalty_amount: $330.00
 :address: 93 GREAT NORTH RD FIVE DOCK 2046
-:longitude: 151.129122
 :id: "7652797561"
 :served_to: KIM, SUNG YONG
 :council_area: CANADA BAY

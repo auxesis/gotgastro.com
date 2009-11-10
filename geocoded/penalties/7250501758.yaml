@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.210857
 :action_date: "2009-07-09"
 :offence_date: "2009-07-08"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: YOUNG ALFRED
 :penalty_amount: $660.00
 :address: 31 ALFRED STREET SYDNEY 2000
-:longitude: 151.210857
 :id: "7250501758"
 :served_to: EASTERN CAFE CUSTOMS HOUSE PTY LTD
 :council_area: SYDNEY

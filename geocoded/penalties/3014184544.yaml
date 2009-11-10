@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.126672
 :action_date: "2009-04-28"
 :offence_date: "2009-04-22"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: ASHFIELD BBQ KOREAN RESTAURANT
 :penalty_amount: $330.00
 :address: 207 LIVERPOOL ROAD ASHFIELD 2131
-:longitude: 151.126672
 :id: "3014184544"
 :served_to: KIM, MYUNG KYUN
 :council_area: ASHFIELD

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.443924
 :action_date: "2009-07-07"
 :offence_date: "2009-07-01"
 :pursued_by: Gosford City Council
@@ -10,7 +11,6 @@
 :trading_name: HUNGRY WOLF'S PIZZA & PASTA
 :penalty_amount: $330.00
 :address: 88 THE ESPLANADE TERRIGAL 2260
-:longitude: 151.443924
 :id: "3016727661"
 :served_to: MAISANO, DOMINIC
 :council_area: GOSFORD

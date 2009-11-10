@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.8968
 :action_date: "2009-06-16"
 :offence_date: "2009-05-20"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: HAFDA BUTCHERY
 :penalty_amount: $660.00
 :address: SHOP 2, 54 HILL ROAD LURNEA 2170
-:longitude: 150.8968
 :id: "3013514580"
 :served_to: HAFDA BUTCHERY PTY LTD
 :council_area: LIVERPOOL

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.053134
 :action_date: "2008-09-25"
 :offence_date: "2008-09-24"
 :pursued_by: Parramatta City Council
@@ -10,7 +11,6 @@
 :trading_name: NORTH & SOUTH GOURMET
 :penalty_amount: $660.00
 :address: SHOP G21 CARLINGFORD VILLAGE 372 PENNANT HILLS RD CARLINGFORD 2118
-:longitude: 151.053134
 :id: "7673485225"
 :served_to: NORTH & SOUTH GOURMET PTY LTD
 :council_area: PARRAMATTA

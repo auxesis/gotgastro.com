@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.813648
 :action_date: "2008-08-14"
 :offence_date: "2008-06-24"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: VINH LONG BUTCHERY
 :penalty_amount: $330.00
 :address: SHOP 6/9 PATRICK ST CAMPBELLTOWN
-:longitude: 150.813648
 :id: "3013513279"
 :served_to: LAM, PHUNG HUY
 :council_area: CAMPBELLTOWN

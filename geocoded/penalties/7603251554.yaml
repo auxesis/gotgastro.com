@@ -1,4 +1,5 @@
 --- 
+:longitude: 149.468626
 :action_date: -00-00
 :offence_date: "2009-02-05"
 :pursued_by: Upper Lachlan Shire Council
@@ -10,7 +11,6 @@
 :trading_name: HORSE AND HOUND
 :penalty_amount: $330.00
 :address: 34 GOULBURN STREET CROOKWELL 2583
-:longitude: 149.468626
 :id: "7603251554"
 :served_to: UNTERRHEINER, TROY
 :council_area: Upper Lachlan

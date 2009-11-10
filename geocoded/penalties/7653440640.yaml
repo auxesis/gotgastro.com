@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.027055
 :action_date: "2009-05-04"
 :offence_date: "2009-04-28"
 :pursued_by: Baulkham Hills Shire Council
@@ -10,7 +11,6 @@
 :trading_name: JOURNEY TO INDIA
 :penalty_amount: $330.00
 :address: 632 OLD NORTHERN ROAD DURAL 2158
-:longitude: 151.027055
 :id: "7653440640"
 :served_to: GUPTA, SIDHANT
 :council_area: BAULKHAM HILLS

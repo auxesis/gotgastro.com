@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.213404
 :action_date: "2009-03-24"
 :offence_date: "2009-03-18"
 :pursued_by: Botany Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: BKK SHOPPING CENTRE 19A EVANS AVENUE EASTLAKES 2018
-:longitude: 151.213404
 :id: "7655823130"
 :served_to: Q S R PTY LTD
 :council_area: BOTANY

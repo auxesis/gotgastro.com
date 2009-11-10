@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.133363
 :action_date: "2008-11-28"
 :offence_date: "2008-11-28"
 :pursued_by: Kogarah Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: KOGARAH BAKERY
 :penalty_amount: $330.00
 :address: SHOP 3, 9 MONTGOMERY STREET KOGARAH 2217
-:longitude: 151.133363
 :id: "7641631609"
 :served_to: TRUNG KHA, MINH
 :council_area: KOGARAH

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.279698
 :action_date: "2009-01-02"
 :offence_date: "2008-12-09"
 :pursued_by: Warringah Council
@@ -10,7 +11,6 @@
 :trading_name: CRABBY'S NIP INN
 :penalty_amount: $330.00
 :address: 212 HARBORD ROAD BROOKVALE
-:longitude: 151.279698
 :id: "7659052363"
 :served_to: CHEUNG, DANIEL
 :council_area: WARRINGAH

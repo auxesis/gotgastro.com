@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.3120619
 :action_date: "2008-09-15"
 :offence_date: "2008-08-28"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: GOLDEN DRAGON RESTAURANT
 :penalty_amount: $330.00
 :address: 86 LURLINE ST KATOOMBA 2780
-:longitude: 150.3120619
 :id: "7652282258"
 :served_to: HING NIN SO, PAUL
 :council_area: BLUE MOUNTAINS

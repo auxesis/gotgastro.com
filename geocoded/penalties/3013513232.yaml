@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.663618
 :action_date: "2008-08-14"
 :offence_date: "2008-01-02"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: RED ROOSTER
 :penalty_amount: $1100.00
 :address: 397 PACIFIC HWY BELMONT NORTH 2280
-:longitude: 151.663618
 :id: "3013513232"
 :served_to: NORTHERN RR P/L
 :council_area: LAKE MACQUARIE

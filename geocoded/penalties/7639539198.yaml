@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.250217
 :action_date: "2008-08-21"
 :offence_date: "2008-08-14"
 :pursued_by: Waverley Council
@@ -10,7 +11,6 @@
 :trading_name: KAM FOOK RESTAURANT
 :penalty_amount: $660.00
 :address: SHOP 6010 WESTFIELD SHOPPINGTOWN 500 OXFORD ST BONDI JUNCTION 2022
-:longitude: 151.250217
 :id: "7639539198"
 :served_to: EVERGOLDEN ENTERPRISES PTY LTD
 :council_area: WAVERLEY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.132573
 :action_date: "2009-05-15"
 :offence_date: "2009-05-13"
 :pursued_by: Kogarah Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: SUBWAY KOGARAH
 :penalty_amount: $660.00
 :address: 13 RAILWAY PARADE KOGARAH 2217
-:longitude: 151.132573
 :id: "7641631856"
 :served_to: M & J VENTURES PTY LTD
 :council_area: KOGARAH

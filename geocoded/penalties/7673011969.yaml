@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.775389
 :action_date: "2008-06-23"
 :offence_date: "2008-06-19"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: ANTONIO'S GOURMET PIZZA
 :penalty_amount: $330.00
 :address: 83A MONFARVILLE ST ST MARYS 2760
-:longitude: 150.775389
 :id: "7673011969"
 :served_to: ROBINSON, LISA
 :council_area: PENRITH

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.135951
 :action_date: "2009-01-20"
 :offence_date: "2008-09-08"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: AL HOUDA BUTCHERY
 :penalty_amount: $330.00
 :address: 10 WALZ ST ROCKDALE
-:longitude: 151.135951
 :id: "3013512820"
 :served_to: HAMKA, NABIH
 :council_area: ROCKDALE

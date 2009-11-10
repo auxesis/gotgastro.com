@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.622699
 :action_date: "2009-03-26"
 :offence_date: "2009-03-05"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: GLENBROOK IGA
 :penalty_amount: $660.00
 :address: 39D PARK STREET GLENBROOK 2773
-:longitude: 150.622699
 :id: "3002697318"
 :served_to: C & C GLENBROOK IGA PTY LTD
 :council_area: BLUE MOUNTAINS

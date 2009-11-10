@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.092366
 :action_date: "2008-10-17"
 :offence_date: "2008-10-15"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: PIZZA PARADISO
 :penalty_amount: $330.00
 :address: 416 STONEY CREEK RD KINGSGROVE
-:longitude: 151.092366
 :id: "7622968899"
 :served_to: HIJAZI, ALI
 :council_area: HURSTVILLE

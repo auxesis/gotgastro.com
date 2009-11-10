@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.264521
 :action_date: "2008-05-06"
 :offence_date: "2008-05-02"
 :pursued_by: Manly Council
@@ -10,7 +11,6 @@
 :trading_name: LONG HUA MEALS LINK
 :penalty_amount: $330.00
 :address: 348 SYDNEY RD BALGOWLAH 2093
-:longitude: 151.264521
 :id: "7672058534"
 :served_to: XUE, CONG WU
 :council_area: MANLY

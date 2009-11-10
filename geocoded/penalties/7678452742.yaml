@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.220633
 :action_date: "2009-07-30"
 :offence_date: "2009-07-16"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: BASIL AND MINT
 :penalty_amount: $660.00
 :address: 125 MILITARY ROAD NEUTRAL BAY 2089
-:longitude: 151.220633
 :id: "7678452742"
 :served_to: SHAW AND SUNG PTY LTD
 :council_area: NORTH SYDNEY

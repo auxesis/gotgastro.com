@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.205642
 :action_date: "2008-11-12"
 :offence_date: "2008-11-10"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: YILDIZ KEBAB
 :penalty_amount: $330.00
 :address: 79 LIVERPOOL ST SYDNEY 2000
-:longitude: 151.205642
 :id: "3002303774"
 :served_to: YILDIZ, ERCAN
 :council_area: SYDNEY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.330576
 :action_date: "2008-09-15"
 :offence_date: "2008-09-04"
 :pursued_by: Blue Mountains City Council
@@ -10,7 +11,6 @@
 :trading_name: TERRAFIRMA
 :penalty_amount: $330.00
 :address: SHOP 4/201 LEURA MALL LEURA
-:longitude: 150.330576
 :id: "7652282276"
 :served_to: MCGLYNN, VIRGINIA
 :council_area: BLUE MOUNTAINS

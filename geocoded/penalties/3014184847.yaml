@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.124574
 :action_date: "2009-05-18"
 :offence_date: "2009-05-15"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: CHUN WANG MUI CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 267B LIVERPOOL RD ASHFIELD 2131
-:longitude: 151.124574
 :id: "3014184847"
 :served_to: ZHANG, YAN
 :council_area: ASHFIELD

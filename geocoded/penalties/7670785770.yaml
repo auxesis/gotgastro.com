@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.037476
 :action_date: "2008-05-22"
 :offence_date: "2008-03-14"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: DIHANG POULTRY
 :penalty_amount: $660.00
 :address: 9 ARKLEY ST BANKSTOWN 2200
-:longitude: 151.037476
 :id: "7670785770"
 :served_to: DIHANG POULTRY P/L
 :council_area: BANKSTOWN

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.0425017
 :action_date: "2008-07-30"
 :offence_date: "2008-07-24"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: GOKUL INDIAN RESTAURANT
 :penalty_amount: $660.00
 :address: 5 OLYMPIC DRIVE LIDCOMBE 2141
-:longitude: 151.0425017
 :id: "3020346506"
 :served_to: SHREE GOKUL INDIAN RESTAURANT P/L
 :council_area: AUBURN

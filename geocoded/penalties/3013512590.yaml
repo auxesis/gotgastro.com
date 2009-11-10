@@ -1,4 +1,5 @@
 --- 
+:longitude: -71.8448157
 :action_date: "2008-11-24"
 :offence_date: "2008-08-27"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: AL-REDA BUTCHERY
 :penalty_amount: $330.00
 :address: 44 WATER ST AUBURN
-:longitude: -71.8448157
 :id: "3013512590"
 :served_to: JABAKHANJI, JAMIL
 :council_area: AUBURN

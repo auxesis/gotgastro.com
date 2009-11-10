@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.032701
 :action_date: "2008-11-19"
 :offence_date: "2008-11-07"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: AL SOFRA KEBAB HOUSE
 :penalty_amount: $660.00
 :address: 35-39 AUBURN RD AUBURN 2144
-:longitude: 151.032701
 :id: "7672537070"
 :served_to: AL SOFRA KEBAB HOUSE PTY LTD
 :council_area: AUBURN

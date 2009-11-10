@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.926731
 :action_date: "2009-03-04"
 :offence_date: "2009-02-09"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: IGA
 :penalty_amount: $660.00
 :address: 217 CANLEY VALE RD CANLEY HEIGHTS 2166
-:longitude: 150.926731
 :id: "3015052976"
 :served_to: ZHEN JI PTY LTD
 :council_area: FAIRFIELD

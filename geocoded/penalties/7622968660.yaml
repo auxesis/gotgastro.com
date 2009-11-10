@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.079444
 :action_date: "2008-08-08"
 :offence_date: "2008-08-06"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: LINS GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 48 MORTS RD MORTDALE 2223
-:longitude: 151.079444
 :id: "7622968660"
 :served_to: LUU, HAU
 :council_area: HURSTVILLE

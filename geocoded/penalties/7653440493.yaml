@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.005582
 :action_date: "2009-02-23"
 :offence_date: "2009-02-18"
 :pursued_by: Baulkham Hills Shire Council
@@ -10,7 +11,6 @@
 :trading_name: CASTLE TERRACE CHINESE CUISINE
 :penalty_amount: $660.00
 :address: 19-21 TERMINUS STREET CASTLE HILL 2154
-:longitude: 151.005582
 :id: "7653440493"
 :served_to: CASTLE TERRACE CHINESE CUISINE PTY LTD
 :council_area: BAULKHAM HILLS

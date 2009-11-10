@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.987302
 :action_date: "2009-02-05"
 :offence_date: "2009-01-19"
 :pursued_by: Holroyd City Council
@@ -10,7 +11,6 @@
 :trading_name: RED ROOSTER CHICKEN
 :penalty_amount: $660.00
 :address: 249-259 MERRYLANDS ROAD MERRYLANDS 2160
-:longitude: 150.987302
 :id: "3013465777"
 :served_to: RED ROOSTER FOODS PTY LTD
 :council_area: HOLROYD

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.05182
 :action_date: "2009-03-30"
 :offence_date: "2009-03-27"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: GOLDEN CREEK RESTAURANT
 :penalty_amount: $330.00
 :address: 150 BELMORE ROAD RIVERWOOD 2210
-:longitude: 151.05182
 :id: "3003513242"
 :served_to: HUYNH, NGA NGUYET
 :council_area: HURSTVILLE

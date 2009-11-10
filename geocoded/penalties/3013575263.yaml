@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.666102
 :action_date: "2008-10-16"
 :offence_date: "2008-10-14"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: THE LAKEVIEW TAKEAWAY
 :penalty_amount: $330.00
 :address: 3-4 FLORIBUNDA AVE GLENMORE PARK
-:longitude: 150.666102
 :id: "3013575263"
 :served_to: WONG, WING
 :council_area: PENRITH

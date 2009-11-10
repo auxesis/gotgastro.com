@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.085152
 :action_date: "2008-08-07"
 :offence_date: "2008-08-06"
 :pursued_by: City of Canada Bay Council
@@ -10,7 +11,6 @@
 :trading_name: EASY WAY
 :penalty_amount: $330.00
 :address: K8 1 RIDER BLVDE RHODES 2138
-:longitude: 151.085152
 :id: "7652797617"
 :served_to: HO, JUDIA
 :council_area: CANADA BAY

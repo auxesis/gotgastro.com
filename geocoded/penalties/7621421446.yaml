@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.052641
 :action_date: "2009-06-06"
 :offence_date: "2009-06-04"
 :pursued_by: Bankstown City Council
@@ -10,7 +11,6 @@
 :trading_name: BANKSTOWN STATION TAKEAWAY
 :penalty_amount: $330.00
 :address: SHOP 1, 130 BANKSTOWN PLAZA BANKSTOWN 2200
-:longitude: 151.052641
 :id: "7621421446"
 :served_to: XU, DE
 :council_area: BANKSTOWN

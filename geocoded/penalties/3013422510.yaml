@@ -1,4 +1,5 @@
 --- 
+:longitude: 149.580734
 :action_date: "2008-11-15"
 :offence_date: "2008-10-31"
 :pursued_by: Bathurst Regional Council
@@ -10,7 +11,6 @@
 :trading_name: YUMMY NOODLE BOX
 :penalty_amount: $330.00
 :address: 96 WILLIAM ST BATHURST
-:longitude: 149.580734
 :id: "3013422510"
 :served_to: XU, XINTAI
 :council_area: BATHURST

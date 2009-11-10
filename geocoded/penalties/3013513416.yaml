@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.06921
 :action_date: "2008-10-02"
 :offence_date: "2008-03-19"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: UNIGREEN FOODS PTY LTD
 :penalty_amount: $660.00
 :address: 28/31 WENTWORTH AVE GREENACRE
-:longitude: 151.06921
 :id: "3013513416"
 :served_to: UNIGREEN FOODS PTY LTD
 :council_area: STRATHFIELD

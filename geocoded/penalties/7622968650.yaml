@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.081864
 :action_date: "2008-08-07"
 :offence_date: "2008-08-04"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: BEVERLEY CHINESE SEAFOOD RESTAURANT
 :penalty_amount: $660.00
 :address: 461 KING GEORGES RD BEVERLY HILLS 2209
-:longitude: 151.081864
 :id: "7622968650"
 :served_to: NAN YUEN CHINESE RESTAURANT P/L
 :council_area: HURSTVILLE

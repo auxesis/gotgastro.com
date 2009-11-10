@@ -1,4 +1,5 @@
 --- 
+:longitude: -1.6907115
 :action_date: "2009-01-05"
 :offence_date: "2008-11-28"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: FAST N FRESH PRODUCE
 :penalty_amount: $660.00
 :address: 2/19 SHOWGROUND RD TAMWORTH
-:longitude: -1.6907115
 :id: "3013512756"
 :served_to: HAWKINS FAMILY ENTERPRISES PTY LTD
 :council_area: TAMWORTH

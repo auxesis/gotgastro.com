@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.034119
 :action_date: "2009-05-15"
 :offence_date: "2009-04-01"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: YUM YUM BRASSERIE
 :penalty_amount: $330.00
 :address: 5-7 NORTHUMBERLAND ROAD Auburn 2144
-:longitude: 151.034119
 :id: "3020435056"
 :served_to: YUEN, TONY
 :council_area: AUBURN

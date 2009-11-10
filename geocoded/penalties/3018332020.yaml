@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.1437776
 :action_date: "2008-05-16"
 :offence_date: "2008-05-14"
 :pursued_by: Port Stephens Council
@@ -10,7 +11,6 @@
 :trading_name: MICHEL'S PATISSERIE
 :penalty_amount: $330.00
 :address: 3 STOCKTON STREET NELSON BAY 2315
-:longitude: 152.1437776
 :id: "3018332020"
 :served_to: SHARP, RAY
 :council_area: PORT STEPHENS

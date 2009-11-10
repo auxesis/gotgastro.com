@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.123878
 :action_date: "2008-09-19"
 :offence_date: "2008-09-19"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: TASTE OF SHANGHAI RESTAURANT
 :penalty_amount: $660.00
 :address: 264 LIVERPOOL RD ASHFIELD 2131
-:longitude: 151.123878
 :id: "7672944730"
 :served_to: PYLON INTERNATIONAL PTY LTD
 :council_area: ASHFIELD

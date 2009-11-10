@@ -1,4 +1,5 @@
 --- 
+:longitude: 153.4207495
 :action_date: "2008-12-18"
 :offence_date: "2008-10-28"
 :pursued_by: Ballina Shire Council
@@ -10,7 +11,6 @@
 :trading_name: PIONEER TAVERN
 :penalty_amount: $660.00
 :address: 53 SIMPSON AVE WOLLONGBAR
-:longitude: 153.4207495
 :id: "7652188730"
 :served_to: JUDD DEVELOPMENTS PTY LTD
 :council_area: BALLINA

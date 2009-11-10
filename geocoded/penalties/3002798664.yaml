@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.127273
 :action_date: "2009-03-27"
 :offence_date: "2009-03-26"
 :pursued_by: Hunters Hill Council
@@ -10,7 +11,6 @@
 :trading_name: JAIPUR INDIAN RESTAURANT
 :penalty_amount: $660.00
 :address: 197 VICTORIA ROAD GLADESVILLE 2111
-:longitude: 151.127273
 :id: "3002798664"
 :served_to: RUWAN INTERNATIONAL PTY LTD
 :council_area: HUNTER'S HILL

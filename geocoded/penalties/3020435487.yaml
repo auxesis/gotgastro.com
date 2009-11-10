@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.03191
 :action_date: "2009-08-21"
 :offence_date: "2009-08-18"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: BALANDRA PASTRY
 :penalty_amount: $330.00
 :address: 150 SOUTH PARADE Auburn 2144
-:longitude: 151.03191
 :id: "3020435487"
 :served_to: KHALIL, SAYED
 :council_area: AUBURN

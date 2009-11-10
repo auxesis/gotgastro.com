@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.111872
 :action_date: "2008-09-17"
 :offence_date: "2008-09-16"
 :pursued_by: Ku-ring-gai Council
@@ -10,7 +11,6 @@
 :trading_name: SOUTH TURRAMURRA FOOD AND LIQUOR
 :penalty_amount: $660.00
 :address: 217B KISSING POINT RD TURRAMURRA 2074
-:longitude: 151.111872
 :id: "7613559618"
 :served_to: ROLAND PTY LTD
 :council_area: KU-RING-GAI

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.303187
 :action_date: "2008-12-31"
 :offence_date: "2008-11-21"
 :pursued_by: Pittwater Council
@@ -10,7 +11,6 @@
 :trading_name: MACFISHERIES
 :penalty_amount: $330.00
 :address: 8 WARATAH STREET MONA VALE 2103
-:longitude: 151.303187
 :id: "3002663227"
 :served_to: SHEN, QUING SHEN
 :council_area: PITTWATER

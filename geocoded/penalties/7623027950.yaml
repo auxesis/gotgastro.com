@@ -1,4 +1,5 @@
 --- 
+:longitude: 153.222725
 :action_date: "2008-11-28"
 :offence_date: "2008-11-25"
 :pursued_by: Lismore City Council
@@ -10,7 +11,6 @@
 :trading_name: GOURMET GENIE
 :penalty_amount: $330.00
 :address: 60 CULLEN STREET NIMBIN 2480
-:longitude: 153.222725
 :id: "7623027950"
 :served_to: HASELDEN, JEFF
 :council_area: LISMORE

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.105713
 :action_date: "2008-11-24"
 :offence_date: "2008-11-20"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: THE GOOD KITCHEN
 :penalty_amount: $660.00
 :address: 171 FOREST RD HURSTVILLE 2220
-:longitude: 151.105713
 :id: "3003513013"
 :served_to: G & K TRADING PTY LTD
 :council_area: HURSTVILLE

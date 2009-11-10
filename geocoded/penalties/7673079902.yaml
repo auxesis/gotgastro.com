@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.1246765
 :action_date: "2008-08-06"
 :offence_date: "2008-08-05"
 :pursued_by: Ashfield Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: JANNY'S CAKES
 :penalty_amount: $660.00
 :address: 1/261 LIVERPOOL RD ASHFIELD 2131
-:longitude: 151.1246765
 :id: "7673079902"
 :served_to: KAM SING INDUSTRIAL (AUS) PTY LTD
 :council_area: ASHFIELD

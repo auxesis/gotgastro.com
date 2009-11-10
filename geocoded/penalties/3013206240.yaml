@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.952703
 :action_date: "2008-09-16"
 :offence_date: "2008-08-20"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: NEW STAR SEAFOOD
 :penalty_amount: $660.00
 :address: SHOP 34 FAIRFIELD FORUM 8-36 STATION ST FAIRFIELD 2165
-:longitude: 150.952703
 :id: "3013206240"
 :served_to: CAS COMPUTERS PTY LTD
 :council_area: FAIRFIELD

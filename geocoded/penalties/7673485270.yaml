@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.008754
 :action_date: "2008-10-10"
 :offence_date: "2008-10-10"
 :pursued_by: Parramatta City Council
@@ -10,7 +11,6 @@
 :trading_name: BILLU'S INDIAN EATERY & SWEET HOUSE
 :penalty_amount: $660.00
 :address: 62-64 WIGRAM ST HARRIS PARK
-:longitude: 151.008754
 :id: "7673485270"
 :served_to: AROMA CUISINES PTY LTD
 :council_area: PARRAMATTA

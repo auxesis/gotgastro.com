@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.935143
 :action_date: "2008-12-17"
 :offence_date: "2008-11-12"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: ALWAYS GREENER FRUIT AND GROCERIES
 :penalty_amount: $330.00
 :address: SHOP 13-14 101-103 JOHN ST  CABRAMATTA
-:longitude: 150.935143
 :id: "3015052637"
 :served_to: NGUYEN, THI THUY TRANG
 :council_area: FAIRFIELD

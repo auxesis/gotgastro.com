@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.132429
 :action_date: "2008-06-02"
 :offence_date: "2008-05-22"
 :pursued_by: Hornsby Shire Council
@@ -10,7 +11,6 @@
 :trading_name: STAR BURGER
 :penalty_amount: $330.00
 :address: 5/6 GUNDAH RD MT KURING GAI 2080
-:longitude: 151.132429
 :id: "7644003328"
 :served_to: HARRIS, DEBORAH
 :council_area: HORNSBY

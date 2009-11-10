@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.128383
 :action_date: "2009-05-01"
 :offence_date: "2009-04-30"
 :pursued_by: Hunters Hill Council
@@ -10,7 +11,6 @@
 :trading_name: XUN'S KITCHEN
 :penalty_amount: $330.00
 :address: SHOP 17, GLADESVILLE SHOPPING VILLAGE FLAGSTAFF STREET GLADESVILLE 2111
-:longitude: 151.128383
 :id: "3002798729"
 :served_to: MA, XUN
 :council_area: HUNTER'S HILL

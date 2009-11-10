@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.444461
 :action_date: "2008-12-30"
 :offence_date: "2008-12-30"
 :pursued_by: Gosford City Council
@@ -10,7 +11,6 @@
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
 :address: TERRIGAL HAVEN RESERVE TERRIGAL
-:longitude: 151.444461
 :id: "3014762558"
 :served_to: GALABOV, GEORGIE
 :council_area: GOSFORD

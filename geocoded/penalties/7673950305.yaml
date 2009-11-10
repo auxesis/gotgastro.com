@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.464534
 :action_date: "2009-01-29"
 :offence_date: "2009-01-27"
 :pursued_by: Greater Taree City Council
@@ -10,7 +11,6 @@
 :trading_name: SAILO'S RESTAURANT
 :penalty_amount: $330.00
 :address: 1 MACQUARIE STREET TAREE 2430
-:longitude: 152.464534
 :id: "7673950305"
 :served_to: HARVEY, JAMES
 :council_area: GREATER TAREE

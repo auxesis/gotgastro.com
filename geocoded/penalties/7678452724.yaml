@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.228705
 :action_date: "2009-07-29"
 :offence_date: "2009-07-24"
 :pursued_by: North Sydney City Council
@@ -10,7 +11,6 @@
 :trading_name: THAI SPICE HOUSE
 :penalty_amount: $330.00
 :address: 6/271 MILITARY ROAD CREMORNE 2090
-:longitude: 151.228705
 :id: "7678452724"
 :served_to: SHEEHAN, SUPAPORN
 :council_area: NORTH SYDNEY

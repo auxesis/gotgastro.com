@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.286946
 :action_date: "2009-02-10"
 :offence_date: "2009-01-27"
 :pursued_by: Warringah Council
@@ -10,7 +11,6 @@
 :trading_name: MAO SHENG ASIAN SUPERMARKET
 :penalty_amount: $330.00
 :address: SHOP 8/28 OAKS AVENUE DEE WHY 2099
-:longitude: 151.286946
 :id: "7659115934"
 :served_to: GU, KATHY
 :council_area: WARRINGAH

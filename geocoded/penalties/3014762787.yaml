@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.44352
 :action_date: "2009-03-18"
 :offence_date: "2009-03-17"
 :pursued_by: Gosford City Council
@@ -10,7 +11,6 @@
 :trading_name: OLD SIAM STYLE THAI RESTAURANT
 :penalty_amount: $660.00
 :address: 9/17 CHURCH STREET TERRIGAL 2260
-:longitude: 151.44352
 :id: "3014762787"
 :served_to: OUR STYLE THAI PTY LTD
 :council_area: GOSFORD

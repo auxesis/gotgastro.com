@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.599089
 :action_date: "2008-05-23"
 :offence_date: "2008-05-13"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
 :address: 12N MIDDLE ST WALCHA 2354
-:longitude: 151.599089
 :id: "7670785825"
 :served_to: HOY, MICHAEL ANDREW
 :council_area: WALCHA

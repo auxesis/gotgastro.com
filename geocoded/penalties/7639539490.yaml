@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.271558
 :action_date: "2009-02-24"
 :offence_date: "2009-02-19"
 :pursued_by: Waverley Council
@@ -10,7 +11,6 @@
 :trading_name: POPPERS CHARGRILL CHICKENS
 :penalty_amount: $330.00
 :address: 52 HALL STREET BONDI BEACH 2026
-:longitude: 151.271558
 :id: "7639539490"
 :served_to: SHI, YAMING
 :council_area: WAVERLEY

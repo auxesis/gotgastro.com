@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.105954
 :action_date: "2009-04-17"
 :offence_date: "2009-04-14"
 :pursued_by: Hurstville City Council
@@ -10,7 +11,6 @@
 :trading_name: HOT WOKS TAKE AWAY
 :penalty_amount: $330.00
 :address: SHOP 486-488 WESTFIELD SHOPPINGTOWN 3 CROSS STREET HURSTVILLE 2220
-:longitude: 151.105954
 :id: "3003513251"
 :served_to: WONG, YIN KIT
 :council_area: HURSTVILLE

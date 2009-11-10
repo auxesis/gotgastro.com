@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.13606
 :action_date: "2009-01-22"
 :offence_date: "2009-01-21"
 :pursued_by: Kogarah Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: PIZZA HAVEN
 :penalty_amount: $660.00
 :address: 29 ROCKY POINT ROAD KOGARAH 2217
-:longitude: 151.13606
 :id: "7641631719"
 :served_to: PENSUL HOLDINGS PTY LTD
 :council_area: KOGARAH

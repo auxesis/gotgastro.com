@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.222345
 :action_date: "2008-07-10"
 :offence_date: "2008-07-03"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: NOODLE AND DUMPLING HOUSE
 :penalty_amount: $330.00
 :address: 1/165-167 VICTORIA ST POTTS POINT 2011
-:longitude: 151.222345
 :id: "3002304205"
 :served_to: ZHANG, RUI
 :council_area: SYDNEY

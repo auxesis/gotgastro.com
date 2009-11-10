@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.955248
 :action_date: "2008-05-26"
 :offence_date: "2008-05-14"
 :pursued_by: Fairfield City Council
@@ -10,7 +11,6 @@
 :trading_name: SUMMER'S DELI FRESH
 :penalty_amount: $330.00
 :address: 1/57 SMART ST FAIRFIELD 2165
-:longitude: 150.955248
 :id: "3013207735"
 :served_to: QUINTEROS, MILUSKA TRINIDAD
 :council_area: FAIRFIELD

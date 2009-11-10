@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.788991
 :action_date: "2009-03-20"
 :offence_date: "2009-03-11"
 :pursued_by: Penrith City Council
@@ -10,7 +11,6 @@
 :trading_name: RED ROOSTER
 :penalty_amount: $660.00
 :address: 4 ENDEAVOUR AVENUE ST CLAIR 2759
-:longitude: 150.788991
 :id: "3013576226"
 :served_to: RED ROOSTER FOODS PTY LTD
 :council_area: PENRITH

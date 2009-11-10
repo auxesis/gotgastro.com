@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.01224
 :action_date: "2008-11-25"
 :offence_date: "2008-11-25"
 :pursued_by: Baulkham Hills Shire Council
@@ -10,7 +11,6 @@
 :trading_name: SAMANTHA'S CAFE
 :penalty_amount: $330.00
 :address: 6/213 NORTH ROCKS RD NORTH ROCKS
-:longitude: 151.01224
 :id: "7653440053"
 :served_to: CHEN, LING
 :council_area: BAULKHAM HILLS

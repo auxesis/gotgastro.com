@@ -1,4 +1,5 @@
 --- 
+:longitude: -77.6363806
 :action_date: "2008-11-13"
 :offence_date: "2008-11-12"
 :pursued_by: City of Sydney Council
@@ -10,7 +11,6 @@
 :trading_name: SILKROAD CHINESE RESTAURANT
 :penalty_amount: $660.00
 :address: SHOP QG13 8 QUAY ST HAYMARKET
-:longitude: -77.6363806
 :id: "3002307871"
 :served_to: SILK ROAD HOLDINGS P/L
 :council_area: SYDNEY

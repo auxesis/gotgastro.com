@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.223293
 :action_date: "2009-04-21"
 :offence_date: "2009-04-17"
 :pursued_by: Warringah Council
@@ -10,7 +11,6 @@
 :trading_name: VINA BAKEHOUSE
 :penalty_amount: $660.00
 :address: SHOP 30 FORESTWAY SHOPPING CENTRE FOREST WAY FRENCHS FOREST 2086
-:longitude: 151.223293
 :id: "7659137870"
 :served_to: PHOENIX  ZEN PTY LTD
 :council_area: WARRINGAH

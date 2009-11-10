@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.139077
 :action_date: "2009-04-06"
 :offence_date: "2009-04-02"
 :pursued_by: Rockdale City Council
@@ -10,7 +11,6 @@
 :trading_name: MICHEL'S PATISSERIE
 :penalty_amount: $330.00
 :address: K2/1 ROCKDALE PLAZA DRIVE ROCKDALE 2216
-:longitude: 151.139077
 :id: "3014960282"
 :served_to: CHEN, CUI MEI
 :council_area: ROCKDALE

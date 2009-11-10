@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.081624
 :action_date: "2009-05-12"
 :offence_date: "2009-05-08"
 :pursued_by: Hornsby Shire Council
@@ -10,7 +11,6 @@
 :trading_name: ISTANA MALAYSIAN RESTAURANT
 :penalty_amount: $660.00
 :address: 2-10 CENTRAL AVENUE THORNLEIGH 2120
-:longitude: 151.081624
 :id: "3002818400"
 :served_to: MATAHARI PTY LTD
 :council_area: HORNSBY

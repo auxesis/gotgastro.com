@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.178764
 :action_date: "2009-08-11"
 :offence_date: "2009-08-10"
 :pursued_by: Willoughby City Council
@@ -10,7 +11,6 @@
 :trading_name: CUZZA CAFE
 :penalty_amount: $660.00
 :address: 15 HELP STREET CHATSWOOD 2067
-:longitude: 151.178764
 :id: "7671651846"
 :served_to: H H Q T INVESTMENT PTY LTD
 :council_area: WILLOUGHBY

@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.1984078
 :action_date: "2008-06-05"
 :offence_date: "2008-05-14"
 :pursued_by: NSW Food Authority
@@ -10,7 +11,6 @@
 :trading_name: ZISTI & CO P/L
 :penalty_amount: $660.00
 :address: 43-45 BEACONSFIELD ST ALEXANDRIA 2015
-:longitude: 151.1984078
 :id: "7670785962"
 :served_to: ZISTI & CO P/L
 :council_area: SYDNEY

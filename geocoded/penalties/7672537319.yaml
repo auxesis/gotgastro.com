@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.033761
 :action_date: "2009-01-19"
 :offence_date: "2008-12-17"
 :pursued_by: Auburn Municipal Council
@@ -10,7 +11,6 @@
 :trading_name: JIA HE YUAN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: 71 RAWSON ROAD AUBURN 2144
-:longitude: 151.033761
 :id: "7672537319"
 :served_to: LIU, KE WEI
 :council_area: AUBURN
