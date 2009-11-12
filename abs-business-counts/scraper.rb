@@ -27,7 +27,7 @@ class Options
         options.download = true
       end
       opts.on('--unzip', "Extract the 8165009 data from a previously downloaded zip") do 
-        options.extract = true
+        options.unzip = true
       end
       opts.on('--convert', "Convert the 8165009 data from XLS to CSV") do 
         options.convert = true
