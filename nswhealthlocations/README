@@ -1,0 +1,43 @@
+
+Hospital statistics
+===================
+
+1338.1 - NSW State and Regional Indicators, Sep 2009 
+----------------------------------------------------
+hospital separations == total number of hospitalisations
+broken up by area
+
+
+annual report 2005:
+http://www.health.gov.au/internet/main/publishing.nsf/Content/cda-cdi3003b.htm
+hospitalised: 24
+
+hospitalised / number of months in year * number of months sampled
+24 / 12 * 6 = 12
+
+annual report 2006: 
+http://www.health.gov.au/internet/main/publishing.nsf/Content/cda-cdi3104a.htm
+hospitalised: 65
+
+hospitalised / number of months in year * number of months sampled
+65 / 12 * 12 = 65
+
+annual report 2007: 
+http://www.health.gov.au/internet/main/publishing.nsf/Content/cda-cdi3204c.htm
+hospitalised: 187
+
+hospitalised / number of months in year * number of months sampled
+187 / 12 * 8 = 120
+
+2005 sample + 2006 sample + 2007 sample
+12 + 65 + 120 = 197
+
+period of 06/2005-08/2008 there were 197 foodboorne illness hospitalisations in nsw
+period of 06/2005-08/2008 there were 2,356,334 total hospitalisations in nsw
+
+197 / 2356334.0 * 100
+0.0083604446568270874
+
+foodborne illness hospitalisations make up 0.008% of all hospitalisations in nsw
+
+
