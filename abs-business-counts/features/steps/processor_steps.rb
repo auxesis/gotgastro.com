@@ -44,3 +44,16 @@ Given /^I have an sla2poa mapping file at "([^\"]*)"$/ do |filename|
     entry['poa_code'].should_not be_nil
   end
 end
+
+Then /^the intersected JSON in "([^\"]*)" should have unique entries$/ do |directory|
+  filename = "#{directory}/abs-8165009-intersected.json"
+  File.exists?(filename).should be_true
+  
+  json = File.new(filename, 'r')
+  parser = Yajl::Parser.new
+  data = parser.parse(json)
+
+  postcodes = data.map { |entry| entry['postcode'] }
+  postcodes.size.should == postcodes.uniq.size
+
+end
