@@ -25,6 +25,10 @@ p {
   margin-top: 0.8em;
 }
 
+h1, h2, h3, h4, h5 {
+  font-family: sans-serif;
+}
+
 div#header {
   width: 60%;
   margin: auto;
@@ -78,7 +82,7 @@ div.info {
 }
 
 div.info.wide {
-  width: 640px;
+  width: 800px;
   float: none;
   margin: 0.5em auto;
 }
@@ -158,49 +162,58 @@ div.slider div.knob {
 
 /* statistics.html */
 
-ul#statistics div.area {
-  float: left;
-  width: 280px;
+div#statistics p.tagline {
+  color: #888a85;
+  font-size: 0.7em;
+  margin-top: 0;
 }
 
-div#statistics li {
-  margin: 0.5em 0;
-}
-
-ul#statistics ul.suburbs li {
-  display: inline;
-  margin: 0 0.1em;
-  font-size: 0.75em;
-  color: gray;
-}
-
-ul#statistics li {
-  list-style-type: none; 
-  padding-bottom: 0.4em;
-}
-
-/* area */
-
-ul#statistics div.area span.postcode {
-  font-size: 1.1em;
-}
-
-/* counts */
-
-ul#statistics div.stats span.count {
+div#statistics td span.postcode {
+  font-size: 2em;
   font-weight: bold;
-  font-size: 1.2em;
-  font-style: normal;
+  background-color: black;
+  color: white;
+  padding: 0.1em 0.2em;
+  width: 115px;
+  text-align: center;
 }
 
-ul#statistics div.stats span.total {
-  font-weight: bold;
-  font-size: 1.2em;
-  font-style: normal;
+div#statistics td.suburbs {
+  width: 300px;
 }
 
-ul#statistics div.stats p.description {
-  font-size: 0.8em;
-  font-style: italic;
+div#statistics td span.suburbs {
+  color: #8d9287;
+  font-size: 0.6em;
 }
 
+div#statistics td {
+  vertical-align: top;
+}
+
+div#statistics td.stats {
+  font-size: 0.7em;
+}
+
+div#statistics span.total-notices {
+  font-size: 1.9em;
+}
+
+div#statistics span.total-businesses {
+  font-size: 1.5em;
+}
+
+
+div#statistics table#holder {
+  margin: 1em 0 2em;
+  font-family: sans-serif;
+}
+
+div#statistics div.reference {
+  font-family: sans-serif;
+  font-size: 0.7em;
+}
+
+div#statistics div.reference li {
+  margin: 0.3em 0 0.3em 2em;
+}
