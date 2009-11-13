@@ -8,4 +8,5 @@ DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(
 require 'lib/models/notice'
 require 'lib/models/penalty'
 require 'lib/models/prosecution'
+require 'lib/models/postcode'
 
