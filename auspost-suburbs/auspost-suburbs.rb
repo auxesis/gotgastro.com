@@ -100,8 +100,15 @@ if __FILE__ == $0 then
 
     # data starts at line 2
     csv[1..-1].each do |row|
+      # attempt to nicely format the suburb name
+      name = row[indexes['suburb']].split(' ').map { |part|
+        part = part.downcase.capitalize if part.size > 2
+        part = part.downcase if part == "OF"
+        part
+      }.join(' ')
+
       suburb = { 'postcode_id' => row[indexes['postcode']],
-                 'suburb' => row[indexes['suburb']],
+                 'suburb' => name,
                  'state' => row[indexes['state']] }
       @suburbs << suburb
     end
