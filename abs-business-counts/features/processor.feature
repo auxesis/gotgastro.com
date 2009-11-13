@@ -42,6 +42,7 @@ Feature: 8165009 processor
     Then the command should succeed
     Then I should see a file ending with "-intersected.json" in "/tmp/8165009"
     And the intersected JSON in "/tmp/8165009" should have an "postcode" attribute on every entry
+    And the intersected JSON in "/tmp/8165009" should have unique entries
 
   Scenario: Intersect with sla2poa data without specifying mapping file
     When I run "ruby scraper.rb --intersect --output-dir=/tmp/8165009"
