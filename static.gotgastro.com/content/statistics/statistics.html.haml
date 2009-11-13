@@ -16,9 +16,8 @@
             %div.area
               %span.postcode= "#{postcode['postcode'].id}"
               %ul.suburbs
-                %li Hornsby
-                %li Asquith
-                %li Waitara
+                - postcode['postcode'].suburbs.each do |suburb|
+                  %li= suburb.suburb
             %div.stats
               %p.description
                 Notices issued in area: 
