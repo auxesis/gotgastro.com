@@ -53,4 +53,28 @@ optimising logo image
 
   convert -colors 7 gastro.png gastro.gif
 
+Tools
+=====
+
+
+sla2poa
+-------
+
+Downloads, unzips, and transforms the Australian Bureau of Statistics (ABS)
+Statistical Local Area (SLA) <=> Postal Areas (POA) mappings. 
+
+Produces a JSON mapping of SLAs <=> POAs that can be used by other tools.
+
+abs-business-counts
+-------------------
+
+Downloads, unzips, and transforms the Australian Bureau of Statistics (ABS)
+Counts of Australian Businesses 2003 - 2007 data. 
+
+Intersects the data with the Postal Area mappings generated with sla2poa, so 
+statistics about the number of food-related business in a given area can have
+a postcode associated.
+
+Produces JSON.
+
 
