@@ -15,6 +15,7 @@ class Notice
 	property :longitude, Float
 	property :notes, Text
 	property :url, String, :nullable => false # back to department notice
+  property :postcode, Integer
 
   # non-common data
   # for penalties
@@ -27,6 +28,7 @@ class Notice
   # for STI
   property :type, Discriminator
 
+  belongs_to :postcode, :child_key => [:postcode]
 
   def months_ago
     today = Date.today
@@ -34,6 +36,10 @@ class Notice
     months += (today.month - action_date.month)
 
     return months
+  end
+
+  before :save do 
+    attribute_set(:postcode, self.address[/\d+$/])
   end
 
 end
