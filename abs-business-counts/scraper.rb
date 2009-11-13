@@ -141,8 +141,21 @@ if __FILE__ == $0 then
     bogus = @areas.find_all { |area| area['sla_code'] =~ /99999999$/ }
     bogus.each { |entry| @areas.delete(entry) }
 
+    # the SLA => POA mapping isn't clean - aggregate postcodes together
+    @postcode_totals = []
+    unique_postcodes = @areas.map { |entry| entry['postcode'] }.uniq
+    unique_postcodes.each do |postcode|
+      areas = @areas.find_all { |area| area['postcode'] == postcode }
+      total = 0
+      areas.each do |area|
+        total += area['total_businesses'].to_i
+      end
+      @postcode_totals << {'postcode' => postcode, 'total_businesses' => total}
+    end
+
+    # write the data
     File.open(intersected_json_filename, 'w') do |f|
-      f << @areas.to_json
+      f << @postcode_totals.to_json
     end
   end
 
