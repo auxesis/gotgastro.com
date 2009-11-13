@@ -77,6 +77,12 @@ div.info {
   margin: 0.5em 0.3em 1em 0.3em;
 }
 
+div.info.wide {
+  width: 640px;
+  float: none;
+  margin: 0.5em auto;
+}
+
 div#info span.updated-at {
   font-size: small;
   font-weight: bold;
@@ -149,3 +155,52 @@ div.slider div.knob {
 .bold {
   font-weight: bold;
 }
+
+/* statistics.html */
+
+ul#statistics div.area {
+  float: left;
+  width: 280px;
+}
+
+div#statistics li {
+  margin: 0.5em 0;
+}
+
+ul#statistics ul.suburbs li {
+  display: inline;
+  margin: 0 0.1em;
+  font-size: 0.75em;
+  color: gray;
+}
+
+ul#statistics li {
+  list-style-type: none; 
+  padding-bottom: 0.4em;
+}
+
+/* area */
+
+ul#statistics div.area span.postcode {
+  font-size: 1.1em;
+}
+
+/* counts */
+
+ul#statistics div.stats span.count {
+  font-weight: bold;
+  font-size: 1.2em;
+  font-style: normal;
+}
+
+ul#statistics div.stats span.total {
+  font-weight: bold;
+  font-size: 1.2em;
+  font-style: normal;
+}
+
+ul#statistics div.stats p.description {
+  font-size: 0.8em;
+  font-style: italic;
+}
+
