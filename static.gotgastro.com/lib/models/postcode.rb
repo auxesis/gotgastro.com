@@ -14,11 +14,11 @@ class Postcode
   end
 
   def self.top_ten
-    results = repository(:default).adapter.query("SELECT notices.postcode, COUNT(notices.postcode), total_businesses FROM notices INNER JOIN postcodes ON postcodes.id = notices.postcode GROUP BY postcode ORDER BY COUNT(notices.postcode);")
+    results = repository(:default).adapter.query("SELECT notices.postcode, COUNT(notices.postcode), total_businesses FROM notices INNER JOIN postcodes ON postcodes.id = notices.postcode GROUP BY postcode ORDER BY postcodes.id;")
     results.map do |r| 
       { 'postcode' => Postcode.get(r[:"notices.postcode"]), 
-        'count' => r[:"coun_t(notices.postcode)"], 
-        'total' => r["total_businesses"] }
+        'notices' => r[:"coun_t(notices.postcode)"], 
+        'businesses' => r["total_businesses"] }
     end
   end
 
