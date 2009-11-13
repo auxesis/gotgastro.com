@@ -19,6 +19,6 @@ Feature: Australia Post Postcode/Suburb database
     When I run "ruby auspost-suburbs.rb --transform --output-dir=/tmp/auspost-suburbs"
     Then the command should succeed
     Then I should see a file ending with ".json" in "/tmp/auspost-suburbs"
-    And the JSON in "/tmp/auspost-suburbs" should have an "postcode" attribute on every entry
+    And the JSON in "/tmp/auspost-suburbs" should have an "postcode_id" attribute on every entry
 
 
