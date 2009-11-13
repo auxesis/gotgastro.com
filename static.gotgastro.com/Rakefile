@@ -91,7 +91,7 @@ task :create_suburbs do
   puts "Destroying existing suburbs."
   Suburb.all.destroy!
 
-  suburbs = read_json(File.join(File.dirname(__FILE__), '..', 'data', 'auspost-postcodes', 'auspost-postcodes.json'))
+  suburbs = read_json(File.join(File.dirname(__FILE__), '..', 'data', 'auspost-postcodes-and-suburbs', 'auspost-postcodes-and-suburbs.json'))
   puts "Have #{suburbs.size} suburbs to create"
   sleep 2
   suburbs.each do |suburb|
