@@ -18,12 +18,14 @@ end
 
 require 'yajl'
 require 'dm-core'
+require 'dm-validations'
 require File.join(File.dirname(__FILE__), '..', 'scraper')
 DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), '..', 'gastro.db'))}")
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'notice')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'penalty')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'prosecution')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'postcode')
+require File.join(File.dirname(__FILE__), 'lib', 'models', 'suburb')
 
 desc "create database to store penalties + prosecutions"
 task :create_database do 
@@ -83,3 +85,19 @@ desc "upgrade database schema"
 task :upgrade_database do 
   DataMapper.auto_upgrade!
 end
+
+desc "create suburbs from ABS business counts/Australia post data"
+task :create_suburbs do 
+  puts "Destroying existing suburbs."
+  Suburb.all.destroy!
+
+  suburbs = read_json(File.join(File.dirname(__FILE__), '..', 'data', 'auspost-postcodes', 'auspost-postcodes.json'))
+  puts "Have #{suburbs.size} suburbs to create"
+  sleep 2
+  suburbs.each do |suburb|
+    puts "Creating #{suburb['suburb']}"
+    Suburb.create(suburb)
+  end
+end
+
+
