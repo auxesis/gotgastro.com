@@ -35,11 +35,11 @@ class Options
       opts.on('--transform', "Convert the 8165009 data from CSV to JSON") do 
         options.transform = true
       end
-      opts.on('--normalise', "Normalise the 8165009 JSON data") do 
-        options.normalise = true
+      opts.on('--intersect', "Intersect the 8165009 JSON data with the sla2pos mappings") do 
+        options.intersect = true
       end
-      opts.on('--geocode', "Geocode the 8165009 JSON data") do 
-        options.geocode = true
+      opts.on('--mapping FILE', "Mapping file for sla2pos intersection") do |filename|
+        options.mapping = filename
       end
       opts.on_tail("-h", "--help", "Show this message") do
         puts opts
@@ -54,17 +54,6 @@ class Options
   end
 end
 
-def serialise(notices, opts = {})
-  opts[:base] ||= 'extracted'
-  notices.each do |notice|
-    puts "Serialising #{notice[:id]}"
-    filename = File.join(File.dirname(__FILE__), opts[:base], opts[:type].to_s, "#{notice[:id]}.yaml")
-    File.open(filename, 'w') do |f|
-      f << YAML::dump(notice)
-    end
-  end
-end
-
 if __FILE__ == $0 then
 
   @options = Options.parse(ARGV)
@@ -74,8 +63,7 @@ if __FILE__ == $0 then
   xls_filename  = File.join(output_directory, "abs-8165009.xls")
   csv_filename  = File.join(output_directory, "abs-8165009.csv")
   json_filename = File.join(output_directory, "abs-8165009.json")
-  normalised_json_filename = File.join(output_directory, "abs-8165009-normalised.json")
-  geocoded_json_filename = File.join(output_directory, "abs-8165009-normalised.json")
+  intersected_json_filename = File.join(output_directory, "abs-8165009-intersected.json")
 
   if @options.download
     puts 'Downloading ZIP...'
@@ -110,8 +98,8 @@ if __FILE__ == $0 then
     headers = csv[5]
     # work out where data lives on each line
     indexes = {}
-    indexes['industry']        = headers.index(headers.grep(/^\s*industry\s*$/i).first)
-    indexes['suburb']          = headers.index(headers.grep(/^\s*sla\s*labels\s*$/i).first)
+    indexes['industry']         = headers.index(headers.grep(/^\s*industry\s*$/i).first)
+    indexes['sla_code']         = headers.index(headers.grep(/^\s*sla\s*codes\s*$/i).first)
     indexes['total_businesses'] = headers.index(headers.grep(/^\s*total\s*$/i).first)
 
     @areas = []
@@ -119,7 +107,7 @@ if __FILE__ == $0 then
     # data starts at line 9
     csv[8..-1].each do |row|
       if row[indexes['industry']] =~ /ACCOMMODATION CAFES AND RESTAURANTS/i
-        area = {'suburb' => row[indexes['suburb']], 'total_businesses' => row[indexes['total_businesses']]}
+        area = {'sla_code' => row[indexes['sla_code']], 'total_businesses' => row[indexes['total_businesses']]}
         @areas << area
       end
     end
@@ -127,69 +115,36 @@ if __FILE__ == $0 then
     File.open(json_filename, 'w') do |f|
       f << @areas.to_json
     end
-
   end
 
-  if @options.normalise
-    json = File.new(json_filename, 'r')
+  if @options.intersect
+    areas_json = File.new(json_filename, 'r')
     parser = Yajl::Parser.new
-    @areas = parser.parse(json)
-    
-    @areas.each do |area|
-      area['suburb'].gsub!(/\s*\(.+$/, '')
-      area['suburb'].gsub!(/\s*- SSD Bal$/, '')
-    end
+    @areas = parser.parse(areas_json)
 
-    # aggregate the areas together
-    @normalised_areas = []
-    unique_areas = @areas.map { |area| area['suburb'] }.uniq
-    unique_areas.each do |area|
-      sum = 0
-      @areas.find_all { |a| a['suburb'] == area }.each do |entry|
-        sum += entry['total_businesses'].to_i
-      end
-      @normalised_areas << {'suburb' => "#{area}, Australia", 'total_businesses' => sum}
-    end
-    
-    File.open(normalised_json_filename, 'w') do |f|
-      f << @normalised_areas.to_json
-    end
-  end
-
-  if @options.geocode
-    json = File.new(normalised_json_filename, 'r')
+    sla2poa_json = File.new(@options.mapping, 'r')
     parser = Yajl::Parser.new
-    @areas = parser.parse(json)
+    @sla_mappings = parser.parse(sla2poa_json)
 
-    @areas.each_with_index do |area, index|
-
-      #break if index > 5
-
-      # As of 11/2009, the geocoder service sometimes throws 403s. 
-      # Retrying the request appears to work.
-      tries = 3
-      begin 
-        location = Ym4r::GoogleMaps::Geocoding.get(area['suburb']).first
-      rescue OpenURI::HTTPError
-        puts "Request failed, trying again..."
-        retry if (tries =- 1) > 0
+    @sla_mappings.each do |mapping|
+      areas_for_mapping = @areas.find_all do |area| 
+        area['sla_code'] == mapping['sla_code']
       end
 
-      if location 
-        puts "Successfully geocoded #{area['suburb']}"
-        p location
-        area['lat'] = location.latitude
-        area['lng'] = location.longitude
-      else
-        puts "Couldn't geocode #{area['suburb']}"
+      areas_for_mapping.each do |area|
+        area.delete('sla_code')
+        area['postcode'] = mapping['poa_code']
       end
     end
 
-    File.open(geocoded_json_filename, 'w') do |f|
+    # "unknown" data should be filtered out
+    bogus = @areas.find_all { |area| area['sla_code'] =~ /99999999$/ }
+    bogus.each { |entry| @areas.delete(entry) }
+
+    File.open(intersected_json_filename, 'w') do |f|
       f << @areas.to_json
     end
   end
-
 
 end
 
