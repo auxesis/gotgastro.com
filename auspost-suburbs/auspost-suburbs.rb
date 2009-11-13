@@ -100,7 +100,7 @@ if __FILE__ == $0 then
 
     # data starts at line 2
     csv[1..-1].each do |row|
-      suburb = { 'postcode' => row[indexes['postcode']],
+      suburb = { 'postcode_id' => row[indexes['postcode']],
                  'suburb' => row[indexes['suburb']],
                  'state' => row[indexes['state']] }
       @suburbs << suburb
