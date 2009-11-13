@@ -92,9 +92,12 @@ task :create_suburbs do
   Suburb.all.destroy!
 
   suburbs = read_json(File.join(File.dirname(__FILE__), '..', 'data', 'auspost-postcodes-and-suburbs', 'auspost-postcodes-and-suburbs.json'))
-  puts "Have #{suburbs.size} suburbs to create"
+  postcodes = Postcode.all.map {|p| p.id }
+  filtered_suburbs = suburbs.find_all {|s| postcodes.include?(s['postcode_id'].to_i) }
+
+  puts "Have #{filtered_suburbs.size} suburbs to create"
   sleep 2
-  suburbs.each do |suburb|
+  filtered_suburbs.each do |suburb|
     puts "Creating #{suburb['suburb']}"
     Suburb.create(suburb)
   end
