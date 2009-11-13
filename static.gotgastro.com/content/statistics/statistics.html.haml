@@ -1,0 +1,30 @@
+
+%div#container 
+  
+  %div#info
+        
+    %div.info.wide
+      %h2 
+        Statistical Breakdown
+        %span.updated-at
+          (as of 
+          = Time.now.strftime("%Y/%m/%d") + ')'
+      %ul#statistics
+        - @postcodes = Postcode.top_ten.reverse
+        - @postcodes.each do |postcode|
+          %li
+            %div.area
+              %span.postcode= "#{postcode['postcode'].id}"
+              %ul.suburbs
+                %li Hornsby
+                %li Asquith
+                %li Waitara
+            %div.stats
+              %p.description
+                Notices issued in area: 
+                %span.count= postcode['count']
+              %p.description
+                Total businesses:
+                %span.total= postcode['total']
+            
+
