@@ -7,6 +7,7 @@ class Postcode
 
   # associations
   has n, :notices, :child_key => [:postcode]
+  has n, :suburbs
 
   def postcode=(value)
     attribute_set(:id, value)
