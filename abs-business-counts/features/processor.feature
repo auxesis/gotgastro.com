@@ -27,28 +27,24 @@ Feature: 8165009 processor
     Then the command should succeed
     Then I should see a file ending with ".csv" in "/tmp/8165009"
 
-  #Scenario: Run without having Gnumeric installed
-    #When I run "ruby scraper.rb --convert --output-dir=/tmp/8165009"
-
   Scenario: Transform to JSON
     Given I have a file ending with ".csv" in "/tmp/8165009"
     When I run "ruby scraper.rb --transform --output-dir=/tmp/8165009"
     Then the command should succeed
     Then I should see a file ending with ".json" in "/tmp/8165009"
+    And the JSON in "/tmp/8165009" should have an "sla_code" attribute on every entry
+    And the JSON in "/tmp/8165009" should have an "total_businesses" attribute on every entry
 
-  Scenario: Normalise JSON
+  Scenario: Intersect with sla2poa data
     Given I have a file ending with ".json" in "/tmp/8165009"
-    When I run "ruby scraper.rb --normalise --output-dir=/tmp/8165009"
+    And I have an sla2poa mapping file at "/tmp/sla2poa/abs-2905.0.55.001.json"
+    When I run "ruby scraper.rb --intersect --mapping /tmp/sla2poa/abs-2905.0.55.001.json --output-dir=/tmp/8165009"
     Then the command should succeed
-    Then I should see a file ending with "normalised.json" in "/tmp/8165009"
+    Then I should see a file ending with "-intersected.json" in "/tmp/8165009"
+    And the intersected JSON in "/tmp/8165009" should have an "postcode" attribute on every entry
 
-  Scenario: Geocode JSON
-    Given I have a file ending with "-normalised.json" in "/tmp/8165009"
-    When I run "ruby scraper.rb --geocode --output-dir=/tmp/8165009"
-    Then the command should succeed
-    And I should see a file ending with ".json" in "/tmp/8165009"
-    And the JSON in "/tmp/8165009" should have lat/lng co-ordinates
-
-
+  Scenario: Intersect with sla2poa data without specifying mapping file
+    When I run "ruby scraper.rb --intersect --output-dir=/tmp/8165009"
+    Then the command should fail
 
 
