@@ -16,13 +16,14 @@ task :deploy => :build do
   system("rsync -auv --delete -e ssh output/* p:/srv/www/gotgastro.com/root/")
 end
 
-
+require 'yajl'
 require 'dm-core'
 require File.join(File.dirname(__FILE__), '..', 'scraper')
 DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), '..', 'gastro.db'))}")
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'notice')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'penalty')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'prosecution')
+require File.join(File.dirname(__FILE__), 'lib', 'models', 'postcode')
 
 desc "create database to store penalties + prosecutions"
 task :create_database do 
@@ -55,4 +56,30 @@ task :create_prosecutions do
     puts("Creating #{notice[:id]}")
     Prosecution.create(notice)
   end
+end
+
+def read_json(filename)
+  json = File.new(filename, 'r')
+  yajl = Yajl::Parser.new
+  data = yajl.parse(json)
+end
+
+desc "create postcodes in database from ABS business counts data"
+task :create_postcodes do 
+  puts "Destroying existing postcodes."
+  Postcode.all.destroy!
+
+  postcodes = read_json(File.join(File.dirname(__FILE__), '..', 'data', 'abs-business-counts', 'abs-8165009-intersected.json'))
+  puts "Have #{postcodes.size} postcodes to create"
+  sleep 2
+  postcodes.each do |postcode|
+    puts "Creating #{postcode['postcode']}"
+    Postcode.create(postcode)
+  end
+
+end
+
+desc "upgrade database schema"
+task :upgrade_database do 
+  DataMapper.auto_upgrade!
 end
