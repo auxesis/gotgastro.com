@@ -8,6 +8,7 @@ require 'open-uri'
 require 'ym4r'
 require 'optparse' 
 require 'ostruct'
+require 'extlib'
 
 class Options
   def self.parse(args)
@@ -86,6 +87,7 @@ class Extractor
       notice[fields[index]] = row.css('td')[1].text.strip
     end
 
+    notice[:action_date] = nil if notice[:action_date] == "-00-00"
     notice[:url] = "http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=#{notice[:id]}"
   
     return notice
@@ -116,6 +118,7 @@ class Extractor
     end
 
     notice[:address] = notice[:address].gsub(/[\n|\r]*/, '').split.join(' ')
+    notice[:address] = notice[:address].blank? ? notice[:business_address] : notice[:address]
     notice[:offence_description] = notice[:offence_description].split("\r\n").map {|line| line.strip }
 
     # extract monetary amounts from penalties
