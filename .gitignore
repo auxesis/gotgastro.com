@@ -2,6 +2,7 @@ gastro/log/**/*
 gastro/*.db
 tmp/**/*
 static.gotgastro.com/output/
+static.gotgastro.com/tmp/
 gems/**/*
 gastro.db
 .bzr/
