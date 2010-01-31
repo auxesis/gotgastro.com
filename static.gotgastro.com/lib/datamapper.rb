@@ -4,7 +4,8 @@ Gem.path << File.expand_path(File.join(File.dirname(__FILE__), '..', 'gems'))
 require 'dm-core'
 require 'dm-validations'
 
-DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), '..', 'gastro.db'))}")
+url = "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), 'gastro.db'))}"
+DataMapper.setup(:default, url)
 
 require 'lib/models/notice'
 require 'lib/models/penalty'
