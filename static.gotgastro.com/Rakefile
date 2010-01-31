@@ -7,7 +7,7 @@ desc 'build site'
 task :build do
   puts 'building'
   system("rm -rf output/")
-  system("nanoc co")
+  system("nanoc3 co")
 end
 
 desc 'deploy site'
