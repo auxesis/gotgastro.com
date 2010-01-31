@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-09-23"
 :offence_date: "2008-03-12"
+:longitude: 151.208143
 :pursued_by: North Sydney Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-harbourside-indian-restaurant
@@ -12,7 +13,6 @@
   24 (1) (c)(d) Animals and Pests - Failure to take all practicable measures to prevent pests entering the food premises; and take all practicable measures to eradicate and prevent the harbourage of pests on the food premises.
               6 (1) (a) Food Storage - A food business must, when storing food, store it in such a way that: it is protected from the likelihood of contamination.
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.843236
 :trading_name: Harbourside Indian Restaurant
 :court: Downing Centre Local Courts
 :penalty_amount: |-
@@ -22,8 +22,8 @@
               Clause 6(1)(a) - $2,000
               Court costs awarded to North Sydney Council - $1,683
               Defendant ordered to pay a total of $11,883
+:latitude: -33.843236
 :address: 5 Walker Street North Sydney NSW 2060
-:longitude: 151.208143
 :id: harbourside-indian-restaurant
 :served_to: Kanakaila Pty Ltd
 :prosecution_decision_description: Judgment not available online

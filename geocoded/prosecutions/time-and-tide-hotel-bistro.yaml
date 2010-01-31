@@ -3,6 +3,7 @@
   2009-01-12
   2009-03-10
 :offence_date: "2008-02-02"
+:longitude: 151.28742
 :pursued_by: Warringah Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-time-and-tide-hotel-bistro
@@ -22,7 +23,10 @@
               (4)$2,500
               Court costs: $73
               Professional costs: $4,000
-:address: ""
+:latitude: -33.741986
+:address: |-
+  30 Campbell Avenue
+              Cromer NSW 2099
 :id: time-and-tide-hotel-bistro
 :served_to: Antonio Paola
 :prosecution_decision_description: Not available online

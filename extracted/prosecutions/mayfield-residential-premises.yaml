@@ -15,7 +15,9 @@
               Conviction Cost: $200.00
               Court Costs: $73.00
 :court: Wagga Wagga Local Court
-:address: ""
+:address: |-
+  'Mayfield' Coppabella Road
+              Rosewood NSW 2652
 :prosecution_decision_description: Judgement not available online
 :served_to: John Harvey
 :id: mayfield-residential-premises

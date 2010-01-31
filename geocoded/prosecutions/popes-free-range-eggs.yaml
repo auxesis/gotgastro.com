@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-03-03"
 :offence_date: 2006-12-06 to 2007-11-12 (1)2006-12-04 to 2007-02-21 (2)
+:longitude: 151.2102448
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-popes-free-range-eggs
@@ -10,6 +11,7 @@
 :trading_name: Pope's Free Range Eggs
 :court: Chief Industrial Magistrates Court, Sydney
 :penalty_amount: (1) $600 fine(2) $1,500 fine$7,324 professional costs awarded
+:latitude: -33.8690273
 :address: "'Oakdale' 213 Muffets Road Goulburn NSW 2000"
 :id: popes-free-range-eggs
 :served_to: Pinwarrina Investments Pty Limited

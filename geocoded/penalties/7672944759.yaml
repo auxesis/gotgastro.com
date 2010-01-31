@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.124396
 :action_date: "2008-09-25"
 :offence_date: "2008-09-23"
 :pursued_by: Ashfield Municipal Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944759
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food being contaminated - vegetables prepared in rear yard in unclean sink
+:latitude: -33.888177
 :trading_name: SHANGHAI NIGHT RESTAURANT
 :penalty_amount: $660.00
 :address: 275 LIVERPOOL RD ASHFIELD 2131

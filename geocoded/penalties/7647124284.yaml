@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.6681319
 :action_date: "2009-05-28"
 :offence_date: "2009-05-27"
 :pursued_by: Armidale Dumaresq Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7647124284
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, grease and oil on the walls, floor and ceiling
+:latitude: -30.5164362
 :trading_name: KFC
 :penalty_amount: $660.00
 :address: 132-136 MARSH STREET ARMIDALE 2350

@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-10-16"
 :offence_date: "2007-07-28"
+:longitude: 151.104139
 :pursued_by: Canterbury City Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-cathy-c-chinese-restaurant
@@ -8,7 +9,6 @@
 - "Failed to comply with s21(1) of the Food Act 2003:"
 - (1) Food Standards Code 3.2.2 Clause 19 (1) (d)(e) and (f) Failure to maintain premises to a standard of cleanliness where there was no accumulation of dirt, grease and other visible matter.(2) Food Standards Code 3.2.2 Clause 21 (1) Failure to maintain food premises, fixtures, fittings, equipment in a good state of repair and working order having regard to their use.(3) Food Standards Code 3.2.2 Clause 6(1)(2)(a) Failure to store potentially hazardous food under temperature control.
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.911213
 :trading_name: Cathy C Chinese Restaurant
 :court: Bankstown Local Court
 :penalty_amount: |-
@@ -17,8 +17,8 @@
               (3) $330
               Professional costs $900
               Total $1,890
+:latitude: -33.911213
 :address: 225 Beamish Street Campsie NSW
-:longitude: 151.104139
 :id: cathy-c-chinese-restaurant
 :served_to: Cathy Chen
 :prosecution_decision_description: No web link available

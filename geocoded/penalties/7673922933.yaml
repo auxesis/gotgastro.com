@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.828987
 :action_date: "2009-02-12"
 :offence_date: "2009-02-09"
 :pursued_by: Campbelltown City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673922933
 :offence_description: Food products displayed for sale which were passed their use-by date - e.g custard, ham, liverwurst and dips
+:latitude: -34.0840534
 :trading_name: AIRDS FOOD BARN
 :penalty_amount: $330.00
 :address: 1/44 RIVERSIDE DR AIRDS 2560

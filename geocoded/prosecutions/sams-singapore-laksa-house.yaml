@@ -1,6 +1,7 @@
 --- 
 :action_date: "2009-02-27"
 :offence_date: "2008-09-02"
+:longitude: 151.20125
 :pursued_by: North Sydney Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-sams-singapore-laksa-house
@@ -12,7 +13,6 @@
 - (iv) Clause 22 of Standard 3.2.2 There was no temperature measuring device kept on the premises which was capable of measuring the temperature of potentially hazardous foods.
 - (v) Clause 24(1) (c) and/or (d) of Standard 3.2.2 There were live cockroaches within the food preparation area. There was an active infestation of cockroaches in the silver whirlpool refrigerator seals.
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.823385
 :trading_name: Sam's Singapore Laksa House
 :court: Downing Centre Local Court
 :penalty_amount: |-
@@ -23,8 +23,8 @@
               Clause 24(1)(c) and/or (d) of Standard 3.2.2 - $10,000
               Total fine: $50,000
               Order to pay Costs of: $1,507
+:latitude: -33.823385
 :address: Shop 2/103-111 Willoughby Road Crows Nest NSW 2065
-:longitude: 151.20125
 :id: sams-singapore-laksa-house
 :served_to: Samuel Kin Kee Shek
 :prosecution_decision_description: Judgement not available online

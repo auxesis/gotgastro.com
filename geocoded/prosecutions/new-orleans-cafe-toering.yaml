@@ -1,6 +1,7 @@
 --- 
 :action_date: "2009-02-24"
 :offence_date: "2008-04-22"
+:longitude: 151.19256
 :pursued_by: North Sydney Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-new-orleans-cafe-toering
@@ -19,7 +20,10 @@
               (iii) $750
               (iv) $750
               Total fine: $2,690 (no costs)
-:address: ""
+:latitude: -33.824179
+:address: |-
+  429 Pacific Highway/6 Willoughby Road
+              Crows Nest NSW 2065
 :id: new-orleans-cafe-toering
 :served_to: ToeringPty Limited
 :prosecution_decision_description: Judgement not available online

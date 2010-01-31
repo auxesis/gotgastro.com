@@ -1,6 +1,7 @@
 --- 
 :action_date: "2009-02-24"
 :offence_date: "2008-04-22"
+:longitude: 151.19256
 :pursued_by: North Sydney Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-new-orleans-cafe-pedu
@@ -19,7 +20,8 @@
 :trading_name: New Orleans Cafe
 :court: Downing Centre Local Court
 :penalty_amount: "(i) $1,200(ii) $1,500(iii) $1,500(iv) $1,500Total fine: $5,700 plus costs of $1,947"
-:address: ""
+:latitude: -33.824179
+:address: 429 Pacific Highway/6 Willoughby RoadCrows Nest NSW 2065
 :id: new-orleans-cafe-pedu
 :served_to: Pedu Pty Limited
 :prosecution_decision_description: Judgement not available online

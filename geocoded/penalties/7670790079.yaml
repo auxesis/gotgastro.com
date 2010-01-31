@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.2133894
 :action_date: "2008-10-29"
 :offence_date: "2008-10-23"
 :pursued_by: Botany Municipal Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790079
 :offence_description: Fail to protect stored food from the likelihood of contamination
+:latitude: -33.9252141
 :trading_name: SPICE, RICE N ICE
 :penalty_amount: $660.00
 :address: 19A EVANS AVE EASTLAKES

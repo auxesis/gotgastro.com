@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.056849
 :action_date: "2008-11-11"
 :offence_date: "2008-11-07"
 :pursued_by: Bankstown City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621421015
 :offence_description: Failed to maintain food premises to the required standard of cleanliness - Unclean walls, floors, benches, cooking appliances and steam room
+:latitude: -33.907503
 :trading_name: THANG LOI HOT BREAD
 :penalty_amount: $330.00
 :address: 152 WATERLOO ROAD GREENACRE 2190

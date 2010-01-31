@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.1798257
 :action_date: "2009-06-30"
 :offence_date: "2009-06-17"
 :pursued_by: Willoughby City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651653
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - live and dead cockroaches observed throughout the premises
+:latitude: -33.7934531
 :trading_name: CHATSWOOD GOURMET
 :penalty_amount: $660.00
 :address: SHOP P7 1-5 RAILWAY STREET CHATSWOOD 2067

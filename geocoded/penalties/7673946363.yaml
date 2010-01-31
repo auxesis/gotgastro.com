@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.438004
 :action_date: "2008-08-07"
 :offence_date: "2008-08-06"
 :pursued_by: Greater Taree City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673946363
 :offence_description: Fail to maintain premises and equipment in a clean condition
+:latitude: -31.922118
 :trading_name: OATES CATERING
 :penalty_amount: $660.00
 :address: 116 EDINBURGH DR TAREE 2430

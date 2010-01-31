@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.702518
 :action_date: "2009-06-15"
 :offence_date: "2009-06-11"
 :pursued_by: Penrith City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576491
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
+:latitude: -33.766755
 :trading_name: KIM HOT BREAD
 :penalty_amount: $330.00
 :address: 161 SMITH STREET SOUTH PENRITH 2750

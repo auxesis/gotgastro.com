@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-11-10"
 :offence_date: "2008-03-14"
+:longitude: 151.076123
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-teng-cheng-chicken-butchery
@@ -10,7 +11,6 @@
 - 2. Sale of Chicken Mince contained Sulphur Dioxide preservative not permitted
 - 3. Sale of Pork Mince contained Sulphur Dioxide preservative not permitted
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.919025
 :trading_name: Teng Cheng Chicken & Butchery
 :court: Chief Industrial Magistrate's Court, Sydney
 :penalty_amount: |-
@@ -19,8 +19,8 @@
               2. $1,000
               3. $1,000
               Total fines of $3,000 plus $993 professional costs
+:latitude: -33.919025
 :address: 34 Haldon Street Lakemba NSW 2195
-:longitude: 151.076123
 :id: teng-cheng-chicken-butchery
 :served_to: Teng Cheng Pty Ltd
 :prosecution_decision_description: Not available online

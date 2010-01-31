@@ -1,21 +1,21 @@
 --- 
 :action_date: "2007-05-28"
 :offence_date: "2004-07-06"
+:longitude: 149.114862
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-old-mctavish-scotch-wiskey
 :offence_description: 
 - The defendant was charged with supplying liquor products falsely described as Scotch Whisky when the product did not contain the requisite 40% alcohol content required for a product to be named Scotch Whisky. Sections 18(3) and 21(2) of the Food Act 2003.
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.293809
 :trading_name: Old McTavish Scotch Whisky
 :court: Supreme Court of NSW, Sydney
 :penalty_amount: |-
   $15,000 for breach of s18(3)
               $15,000 for breach of s21(2)
               $80,000 professional costs awarded to the Authority
+:latitude: -33.293809
 :address: 129 Bathurst Rd Orange NSW 2800
-:longitude: 149.114862
 :id: old-mctavish-scotch-wiskey
 :served_to: Fernbrew Pty Ltd t/as D'Aquino Bond Wholesalers
 :prosecution_decision_description: |-

@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-10-30"
 :offence_date: "2008-03-12"
+:longitude: 151.028972
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-sadik-brothers-butchery-20080312
@@ -12,7 +13,6 @@
 - 3. Sale of Beef Sausages that was falsely described. (Contained Mutton) Breach of section 19(1)
 - 4. Supplied Beef sausages not of the nature demanded (Contained Mutton)
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.857498
 :trading_name: Sadik Brothers Butcher
 :court: Chief Industrial Magistrate's Court, Sydney
 :penalty_amount: |-
@@ -22,8 +22,8 @@
               3. $1,837.50
               4. $1,312.50
               Total fines of $8,400 plus professional costs awarded (amount yet to be determined)
+:latitude: -33.857498
 :address: 100 Park Road Auburn NSW 2144
-:longitude: 151.028972
 :id: sadik-brothers-butchery-20080312
 :served_to: Abdulla Sadik
 :prosecution_decision_description: Not available online

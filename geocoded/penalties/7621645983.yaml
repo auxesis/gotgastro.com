@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.255319
 :action_date: "2008-09-15"
 :offence_date: "2008-09-11"
 :pursued_by: Randwick City Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645983
 :offence_description: Fail to provide, at or near each hand washing facility, single use towels or other means of effectively drying hands
+:latitude: -33.945454
 :trading_name: NEW BEACH VIEW CAFE
 :penalty_amount: $330.00
 :address: 53 MCKEON ST MAROUBRA 2035

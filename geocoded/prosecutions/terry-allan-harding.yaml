@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-05-02"
 :offence_date: 2006-02-28 to 2006-03-03
+:longitude: 152.870762
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-terry-allan-harding
@@ -11,7 +12,6 @@
 - (4) Section 104(3) fail to comply with a condition of licence (harvesting oysters from closed harvest area)
 - (5) Section 104(3) fail to comply with a condition of licence (failing to correctly identify the date of harvest of oysters)
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -31.422258
 :trading_name: Sole Trader, farmer and wholesaler of oysters
 :court: Chief Industrial Magistrates Court, Newcastle
 :penalty_amount: |-
@@ -21,8 +21,8 @@
               (4) Section 104(3) fined $6,000 
               (5) Section 104(3) fined $10,000 
               Total fines $42,000 and professional costs awarded to NSW Food Authority
+:latitude: -31.422258
 :address: Hastings River Drive, Port Macquaire NSW
-:longitude: 152.870762
 :id: terry-allan-harding
 :served_to: Terry Allan Harding
 :prosecution_decision_description: Not available online

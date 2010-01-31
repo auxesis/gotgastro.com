@@ -1,5 +1,5 @@
 --- 
-:longitude: -1.6907115
+:longitude: 150.930821
 :action_date: "2009-01-28"
 :offence_date: "2009-01-14"
 :pursued_by: NSW Food Authority
@@ -7,10 +7,10 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512902
 :offence_description: Fail to maintain premises and equipment in a clean condition
-:latitude: 52.634292
+:latitude: -31.091743
 :trading_name: THE CHOOK SHOP
 :penalty_amount: $330.00
-:address: SHOP 5A SHOPPING WORLD TAMWORTH
+:address: SHOP 5A SHOPPING WORLD TAMWORTH 2340
 :id: "3013512902"
 :served_to: MCINERNEY, SLADE PAUL
-:council_area: ""
+:council_area: TAMWORTH

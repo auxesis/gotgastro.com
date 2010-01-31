@@ -1,4 +1,5 @@
 --- 
+:longitude: -79.545821
 :action_date: "2009-04-06"
 :offence_date: "2009-04-01"
 :pursued_by: Wingecarribee Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014068274
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - live and dead cockroaches were observed on the premises
+:latitude: 36.102052
 :trading_name: JACK STYLE THAI RESTAURANT
 :penalty_amount: $660.00
 :address: SHOPS 1 & 2, CORNER OF STATION STREET AND BOOLWEY STREET BOWRAL 2576

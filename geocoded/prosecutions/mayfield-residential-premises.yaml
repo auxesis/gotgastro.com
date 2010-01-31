@@ -1,6 +1,7 @@
 --- 
 :action_date: "2009-02-27"
 :offence_date: 2007-10-07 to 2007-10-14
+:longitude: 147.864041
 :pursued_by: NSW Food Authority
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-mayfield-residential-premises
@@ -15,7 +16,10 @@
               Conviction Cost: $200.00 
               Conviction Cost: $200.00
               Court Costs: $73.00
-:address: ""
+:latitude: -35.67475
+:address: |-
+  'Mayfield' Coppabella Road
+              Rosewood NSW 2652
 :id: mayfield-residential-premises
 :served_to: John Harvey
 :prosecution_decision_description: Judgement not available online

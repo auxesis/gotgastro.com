@@ -1,4 +1,5 @@
 --- 
+:longitude: 151.123857
 :action_date: "2009-05-05"
 :offence_date: "2009-05-05"
 :pursued_by: Ashfield Municipal Council
@@ -6,6 +7,7 @@
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184663
 :offence_description: Fail to adequately contain the volume and type of garbage and recycled matter on the food premises - previous warnings given
+:latitude: -33.887888
 :trading_name: TONG LI SUPERMARKET
 :penalty_amount: $330.00
 :address: 295 LIVERPOOL ROAD ASHFIELD 2131

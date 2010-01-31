@@ -1,6 +1,7 @@
 --- 
 :action_date: "2008-07-07"
 :offence_date: "2008-04-02"
+:longitude: 150.98921
 :pursued_by: Holroyd City Council
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/aboutus/offences/prosecutions/offences-details-sofra-adana-pide-kebab-house
@@ -15,7 +16,6 @@
 - FSS 3.2.3
 - Clause 5 Failure to provide a sewage and waste water disposal system that; (a) will effectively dispose of all sewage and waste water; and (b) is constructed and located so that there is no likelihood of the sewage and waste water polluting the water supply or contaminating food.
 :prosecution_decision: Guilty, conviction recorded
-:latitude: -33.836077
 :trading_name: Sofra Adana Pide Kebab House
 :court: Parramatta Local Court
 :penalty_amount: |-
@@ -25,8 +25,8 @@
               Clause 8(5) - $3000
               Clause 19(1) & 19(2) - $3000 Clause 22 - $3000 
               Food Safety Standard 3.2.3 Clause 5 - $3000
+:latitude: -33.836077
 :address: Shop 4/205 Merrylands Rd, Merrylands
-:longitude: 150.98921
 :id: sofra-adana-pide-kebab-house
 :served_to: Ahmet Erdem
 :prosecution_decision_description: Not available online
