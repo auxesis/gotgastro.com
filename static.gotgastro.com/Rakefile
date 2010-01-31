@@ -20,12 +20,19 @@ require 'yajl'
 require 'dm-core'
 require 'dm-validations'
 require File.join(File.dirname(__FILE__), '..', 'scraper')
-DataMapper.setup(:default, "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), '..', 'gastro.db'))}")
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'notice')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'penalty')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'prosecution')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'postcode')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'suburb')
+
+url = "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), 'gastro.db'))}"
+DataMapper.setup(:default, url)
+
+desc "update whole site"
+task :shebang => [:create_penalties, :create_prosecutions, :build] do
+  puts 'run "rake deploy" to push to production'
+end
 
 desc "create database to store penalties + prosecutions"
 task :create_database do 
@@ -42,7 +49,13 @@ task :create_penalties do
   sleep 2
   penalties.each do |notice|
     puts("Creating #{notice[:id]}")
-    Penalty.create(notice)
+    p = Penalty.new(notice)
+    unless p.save
+      puts "Couldn't create notice! Reason:" 
+      p p.errors
+      p p.attributes
+      raise
+    end
   end
 end
 
@@ -56,7 +69,13 @@ task :create_prosecutions do
   sleep 2
   prosecutions.each do |notice|
     puts("Creating #{notice[:id]}")
-    Prosecution.create(notice)
+    p = Prosecution.new(notice)
+    unless p.save
+      puts "Couldn't create notice! Reason:"
+      p p.errors
+      p p.attributes
+      raise
+    end
   end
 end
 
