@@ -5,3 +5,6 @@ static.gotgastro.com/output/
 gems/**/*
 gastro.db
 .bzr/
+bin/*
+vendor/gems/*
+!vendor/gems/cache/
