@@ -57,10 +57,6 @@
         %li 
           = link_to 'GeoRSS', '/notices.rss'
           feed. (you can paste this directly into Google Maps)
-        %li
-          - statistics = @items.find {|i| i[:id] == "statistics"}
-          = link_to 'Statistical Breakdown', statistics.identifier
-          of postcodes.
         %li 
           Check out the code at 
           = link_to('code.gotgastro.com', 'http://code.gotgastro.com/') 
