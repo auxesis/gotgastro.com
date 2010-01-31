@@ -2,23 +2,23 @@
 [
   <% @notices.each do |n| -%>
   {
-		id: "<%= n.id %>",
-		url: "<%= n.url %>", 
-		type: "<%= n.type.to_s.downcase %>",
-		lat: <%= (n.latitude || 'null') %>,
-		lng: <%= (n.longitude || 'null') %>,
-		address: "<%= n.address %>",
-		trading_name: "<%= n.trading_name %>",
-		offence_date: "<%= n.offence_date %>"
-		offence_description: "<%= n.offence_description %>",
-		action_date: "<%= n.action_date %>"
-		penalty_amount: "<%= n.penalty_amount %>",
-		served_to: "<%= n.served_to %>",
-		pursued_by: "<%= n.pursued_by %>",
-		council_area: "<%= n.council_area %>",
-		offence_code: "<%= n.offence_code %>"
-		court: <%= (n.court || "'#{n.court}'") %>,
-		prosecution_decision: "<%= n.prosecution_decision %>"
+		'id': "<%= n.id %>",
+		'url': "<%= n.url %>", 
+		'type': "<%= n.type.to_s.downcase %>",
+		'lat': <%= (n.latitude || 'null') %>,
+		'lng': <%= (n.longitude || 'null') %>,
+		'address': "<%= n.address %>",
+		'trading_name': "<%= n.trading_name %>",
+		'offence_date': "<%= n.offence_date %>"
+		'offence_description': "<%= n.offence_description %>",
+		'action_date': "<%= n.action_date %>"
+		'penalty_amount': "<%= n.penalty_amount %>",
+		'served_to': "<%= n.served_to %>",
+		'pursued_by': "<%= n.pursued_by %>",
+		'council_area': "<%= n.council_area %>",
+		'offence_code': "<%= n.offence_code %>"
+		'court': <%= (n.court || "'#{n.court}'") %>,
+		'prosecution_decision': "<%= n.prosecution_decision %>"
   },
   <% end -%>
 ]
