@@ -1,5 +1,5 @@
-module Nanoc::DataSources
-  class Resourceish < Nanoc::DataSource
+module Nanoc3::DataSources
+  class Resourceish < Nanoc3::DataSource
 
     identifier :resourceish
 
@@ -54,11 +54,6 @@ module Nanoc::DataSources
       # Return content filename
       filenames.first
     end
-
-    PAGE_DEFAULTS_FILENAME     = 'page_defaults.yaml'
-    PAGE_DEFAULTS_FILENAME_OLD = 'meta.yaml'
-    ASSET_DEFAULTS_FILENAME    = 'asset_defaults.yaml'
-
 
     ########## VCSes ##########
 

@@ -1,0 +1,63 @@
+#!/usr/bin/env ruby
+
+# images
+compile '/images/*' do
+end
+
+route '/images/*' do 
+  extension = item.attributes[:file].path.split('.').last
+  item.identifier[0..-2] + '.' + extension
+end
+
+# javascripts
+compile '/javascripts/*' do 
+  #filter :rainpress
+end
+
+route '/javascripts/*' do 
+  item.identifier[0..-2] + '.js'
+end
+
+# stylesheets
+compile '/stylesheets/*' do 
+  filter :rainpress
+end
+
+route '/stylesheets/*' do 
+  item.identifier[0..-2] + '.css'
+end
+
+# notices
+route '/notices/notices.rss' do 
+  '/notices.rss'
+end
+
+route '/notices/notices.json' do 
+  '/notices.json'
+end
+
+route '/notices/inline.json' do 
+  nil # don't write this out
+end
+
+compile '/notices/*' do 
+  filter :erubis
+  filter :rainpress
+end
+
+# adwords 
+route '/adwords/*' do 
+  nil
+end
+
+# content
+compile '*' do
+  filter :haml
+  layout 'default'
+end
+
+route '*' do
+  item.identifier + 'index.html'
+end
+
+layout '*', :erb

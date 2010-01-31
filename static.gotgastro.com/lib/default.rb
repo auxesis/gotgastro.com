@@ -1,9 +1,9 @@
 # All files in the 'lib' directory will be loaded
 # before nanoc starts compiling.
 
-include Nanoc::Helpers::LinkTo
-include Nanoc::Helpers::Render
-include Nanoc::Helpers::HTMLEscape
+include Nanoc3::Helpers::LinkTo
+include Nanoc3::Helpers::Rendering
+include Nanoc3::Helpers::HTMLEscape
 
 def image_tag(name, opts={})
   @tag = "<img src=\"/images/#{name}\" "
@@ -13,19 +13,16 @@ def image_tag(name, opts={})
   @tag += ">"
 end
 
-def partial(name, opts={})
-  opts[:format] ||= 'html'
-  page = @_obj.site.pages.find {|pa| pa.attributes[:file].path.split('/').last.split('.').first == name}
-
-  klass = Nanoc::Filters::ERB
-  filter = klass.new(@_obj_rep, opts)
-
-  @_obj.site.compiler.stack.push(page) 
-  result = filter.run(page.content)
-  @_obj.site.compiler.stack.pop
-  result
-end
-
 def escape(string)
   html_escape(string) if string
+end
+
+def partial(name)
+  item = @items.find { |item| item[:id] == name }
+  item.reps.first.content_at_snapshot(:pre)
+end
+
+def inline_notices
+  item = @items.find { |item| item[:id] == 'inline_notices' }
+  item.reps.first.content_at_snapshot(:pre)
 end

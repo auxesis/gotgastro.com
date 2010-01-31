@@ -1,6 +1,5 @@
 output_dir:  "output"
 data_source: "resourceish"
-router:      "resourceish"
 
 #environment: "development"
 #gmaps_api_key: "ABQIAAAAJnEPEbxIS9MoAOCah-uOuhR_of6B7cl4R8DrxaHcYwAWc8LK2hS9A7ngHfqHlvz91dKjTo-_C2KaJQ"

@@ -1,3 +1,0 @@
-reps:
-  default: 
-    filters_pre: ['haml']

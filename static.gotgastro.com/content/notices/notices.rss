@@ -7,7 +7,7 @@
   <link href="<%= base_url %>/"/>
   <link href="<%= base_url %>/notices.rss" rel="self" type="application/rss+xml" />
   <% @notices = Notice.all(:latitude.not => nil, :order => [:action_date.desc], :limit => 20) -%>
-  <updated><%= @page.mtime.strftime("%Y-%m-%dT%H:%M:%S+10:00") %></updated>
+  <updated><%= @item.mtime.strftime("%Y-%m-%dT%H:%M:%S+10:00") %></updated>
   <author>
     <name>Gastro</name>
     <email>gastro@unstated.net</email>

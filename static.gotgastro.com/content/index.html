@@ -65,6 +65,6 @@
           = link_to('code.gotgastro.com', 'http://code.gotgastro.com/') 
     
 
-%script{:type => "text/javascript"}
-  = "<!-- \n notices = #{partial 'data', :format => 'json'} \n -->"
+:javascript
+  = "<!-- \n notices = #{inline_notices} \n-->"
 
