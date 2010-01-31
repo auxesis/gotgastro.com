@@ -1,16 +1,10 @@
-[
-	<% Notice.all(:latitude.not => nil, :order => [:offence_date.desc]).each do |n| %>
-	{
-		'id': "<%= n.id %>",
-	  'lat': <%= n.latitude %>,
-		'lng': <%= n.longitude %>,
-		'address': "<%= n.address.gsub(/\n/, " ") if n.address %>",
-		'url': "<%= n.url %>",
-		'trading_name': "<%= n.trading_name %>",
-		'offence_code': "<%= n.offence_code %>",
-		'offence_description': "<%= n.offence_description.gsub(/[\n|\r]/, '') %>",
-		'action_date': "<%= n.action_date %>",
-		'type': "<%= n.type.to_s.downcase %>"
-	},
-	<% end %>
-]
+<% 
+	attrs = %w(id latitude longitude address url trading_name offence_code offence_description action_date type)
+	filtered = notices.map {|n| n.attributes.delete_if {|k,v| attrs.include?(k.to_s) == false }}
+%>
+
+<%= 
+	Yajl::Encoder.encode(filtered, :pretty => true)
+%>
+
+

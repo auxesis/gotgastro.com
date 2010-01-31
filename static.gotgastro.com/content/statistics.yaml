@@ -1,3 +1,2 @@
-reps:
-  default: 
-    filters_pre: ['haml']
+---
+:id: "statistics"

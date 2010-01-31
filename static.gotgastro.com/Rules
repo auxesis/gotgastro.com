@@ -28,21 +28,21 @@ route '/stylesheets/*' do
 end
 
 # notices
-route '/notices/notices.rss' do 
-  '/notices.rss'
+route '/notices/inline/' do 
+  '/inline.json'
 end
 
-route '/notices/notices.json' do 
+route '/notices/notices/' do 
   '/notices.json'
 end
 
-route '/notices/inline.json' do 
-  nil # don't write this out
+route '/notices/feed/' do 
+  '/notices.rss'
 end
 
 compile '/notices/*' do 
   filter :erubis
-  filter :rainpress
+  #filter :rainpress
 end
 
 # adwords 

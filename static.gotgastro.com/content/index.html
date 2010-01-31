@@ -58,7 +58,8 @@
           = link_to 'GeoRSS', '/notices.rss'
           feed. (you can paste this directly into Google Maps)
         %li
-          = link_to 'Statistical Breakdown', '/statistics.html'
+          - statistics = @items.find {|i| i[:id] == "statistics"}
+          = link_to 'Statistical Breakdown', statistics.identifier
           of postcodes.
         %li 
           Check out the code at 
@@ -66,5 +67,5 @@
     
 
 :javascript
-  = "<!-- \n notices = #{inline_notices} \n-->"
+  notices = #{inline_notices}
 

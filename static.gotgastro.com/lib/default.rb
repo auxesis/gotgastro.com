@@ -1,5 +1,6 @@
-# All files in the 'lib' directory will be loaded
-# before nanoc starts compiling.
+#!/usr/bin/env ruby 
+
+require 'yajl/json_gem'
 
 include Nanoc3::Helpers::LinkTo
 include Nanoc3::Helpers::Rendering
@@ -25,4 +26,10 @@ end
 def inline_notices
   item = @items.find { |item| item[:id] == 'inline_notices' }
   item.reps.first.content_at_snapshot(:pre)
+end
+
+def notices
+  Notice.all(:latitude => (-45.184101..-10.447478),
+             :longitude => (108.896484..157.412109),
+             :order => [:offence_date.desc])
 end
