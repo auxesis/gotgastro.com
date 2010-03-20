@@ -1,16 +1,16 @@
 --- 
 :longitude: -77.6363806
-:action_date: "2009-01-20"
-:offence_date: "2008-10-20"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512792
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
-:latitude: 38.8120591
 :trading_name: EMPERORS GARDEN CHINESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: 38.8120591
 :address: LVL 3 CNR DIXON ST AND HAY ST HAYMARKET
-:id: "3013512792"
 :served_to: EMPERORS GARDEN PTY LTD
 :council_area: SYDNEY
+:id: "3013512792"
+:action_date: "2009-01-20"
+:offence_date: "2008-10-20"

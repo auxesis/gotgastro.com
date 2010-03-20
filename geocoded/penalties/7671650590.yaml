@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-20"
-:offence_date: "2008-10-13"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: BEST NOODLE
 :penalty_amount: $660.00
 :address: SHOP 404-405/1 ANDERSON ST CHATSWOOD
-:id: "7671650590"
 :served_to: S AND S CHAN INVESTSMENTS PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671650590"
+:action_date: "2008-10-20"
+:offence_date: "2008-10-13"

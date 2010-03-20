@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-26"
-:offence_date: "2009-02-20"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096333
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 113 THE ENTRANCE ROAD THE ENTRANCE 2261
 :served_to: SELLA PTY LTD
-:id: "3003096333"
 :council_area: WYONG
+:action_date: "2009-02-26"
+:id: "3003096333"
+:offence_date: "2009-02-20"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-09"
-:offence_date: "2009-02-27"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530544
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 100 BRIGHTON BOULEVARDE NORTH BONDI 2026
 :served_to: HERSTIK, MARCUS
-:id: "7639530544"
 :council_area: WAVERLEY
+:action_date: "2009-03-09"
+:id: "7639530544"
+:offence_date: "2009-02-27"

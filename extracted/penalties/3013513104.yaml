@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-23"
-:offence_date: "2008-03-25"
 :pursued_by: NSW Food Authority
 :offence_code: 11867 - Store processed meat produced at unlicensed processing plant
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513104
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: SHOP 11 EAST END MALL ARMIDALE 2350
 :served_to: FITTLER, SCOTT
-:id: "3013513104"
 :council_area: ARMIDALE
+:action_date: "2008-07-23"
+:id: "3013513104"
+:offence_date: "2008-03-25"

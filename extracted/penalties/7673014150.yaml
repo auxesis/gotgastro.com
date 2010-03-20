@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-25"
-:offence_date: "2009-03-24"
 :pursued_by: Kiama Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673014150
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 45 MANNING STREET KIAMA 2533
 :served_to: AUSTRALIAN NOODLE GROUP PTY LTD
-:id: "7673014150"
 :council_area: KIAMA
+:action_date: "2009-03-25"
+:id: "7673014150"
+:offence_date: "2009-03-24"

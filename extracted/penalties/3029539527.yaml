@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-01"
-:offence_date: "2009-08-26"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029539527
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: ST JOHNS PARK BOWLING CLUB 93 EDENSOR ROAD EDENSOR PARK 2176
 :served_to: ST JOHNS PARK BOWLING CLUB LTD
-:id: "3029539527"
 :council_area: FAIRFIELD
+:action_date: "2009-10-01"
+:id: "3029539527"
+:offence_date: "2009-08-26"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-31"
-:offence_date: "2009-03-23"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501354
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 25 DARLINGHURST ROAD POTTS POINT 2011
 :served_to: KAZI, SHAMSUL ISLAM
-:id: "7250501354"
 :council_area: SYDNEY
+:action_date: "2009-03-31"
+:id: "7250501354"
+:offence_date: "2009-03-23"

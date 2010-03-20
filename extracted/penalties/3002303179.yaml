@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-24"
-:offence_date: "2008-07-21"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303179
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 66-70 REGENT ST CHIPPENDALE 2008
 :served_to: FOON, KWAI-NIM
-:id: "3002303179"
 :council_area: SYDNEY
+:action_date: "2008-07-24"
+:id: "3002303179"
+:offence_date: "2008-07-21"

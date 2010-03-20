@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-05"
-:offence_date: "2008-12-01"
 :pursued_by: Leichhardt Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461540
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/2A ROWNTREE STREET BALMAIN 2041
 :served_to: TRANS-SOFT TECHNOLOGIES PTY LTD
-:id: "7675461540"
 :council_area: LEICHHARDT
+:action_date: "2008-12-05"
+:id: "7675461540"
+:offence_date: "2008-12-01"

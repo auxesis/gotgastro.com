@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-22"
-:offence_date: "2008-08-18"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013207946
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 79, 561-583 POLDING ST PRAIRIEWOOD 2176
 :served_to: TRIMS FRESH P/L
-:id: "3013207946"
 :council_area: FAIRFIELD
+:action_date: "2008-08-22"
+:id: "3013207946"
+:offence_date: "2008-08-18"

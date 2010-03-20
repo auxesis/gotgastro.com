@@ -1,16 +1,16 @@
 --- 
 :longitude: 149.232131
-:action_date: "2009-02-04"
-:offence_date: "2009-02-03"
 :pursued_by: Queanbeyan City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332143
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste and grime on the floor throughout the premises
-:latitude: -35.371334
 :trading_name: KARABAR BAKERY
 :penalty_amount: $660.00
+:latitude: -35.371334
 :address: SHOP 1, 34 QUEENBAR STREET KARABAR 2620
-:id: "7631332143"
 :served_to: DHT BAKERIES PTY LTD
 :council_area: QUEANBEYAN
+:id: "7631332143"
+:action_date: "2009-02-04"
+:offence_date: "2009-02-03"

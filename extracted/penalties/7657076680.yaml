@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-08"
-:offence_date: "2008-08-29"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076680
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: LOT 134 SUPER TRAIL THREDBO 2625
 :served_to: RICHPINE PTY LTD
-:id: "7657076680"
 :council_area: Kosciuszko
+:action_date: "2008-09-08"
+:id: "7657076680"
+:offence_date: "2008-08-29"

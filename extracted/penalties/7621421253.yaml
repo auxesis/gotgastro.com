@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-18"
-:offence_date: "2009-02-03"
 :pursued_by: Bankstown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621421253
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP TMG02A CENTRO BANKSTOWN 1 NORTH TERRACE BANKSTOWN 2200
 :served_to: MUSTAPHA, LEWY
-:id: "7621421253"
 :council_area: BANKSTOWN
+:action_date: "2009-02-18"
+:id: "7621421253"
+:offence_date: "2009-02-03"

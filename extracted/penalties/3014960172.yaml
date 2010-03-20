@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-22"
-:offence_date: "2008-12-22"
 :pursued_by: Rockdale City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960172
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 408 FOREST ROAD BEXLEY 2207
 :served_to: NGUY, DAI NANG
-:id: "3014960172"
 :council_area: ROCKDALE
+:action_date: "2008-12-22"
+:id: "3014960172"
+:offence_date: "2008-12-22"

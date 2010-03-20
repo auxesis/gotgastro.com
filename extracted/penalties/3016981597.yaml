@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-04"
-:offence_date: "2009-08-28"
 :pursued_by: Great Lakes Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016981597
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 23 MANNING STREET TUNCURRY 2428
 :served_to: BOGEYE PTY LTD
-:id: "3016981597"
 :council_area: GREAT LAKES
+:action_date: "2009-09-04"
+:id: "3016981597"
+:offence_date: "2009-08-28"

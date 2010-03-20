@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.106448
-:action_date: "2009-05-28"
-:offence_date: "2009-05-25"
 :pursued_by: Burwood Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023220485
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of food waste, grease, & grime on nut crusher, shelving, cupboards, bench
-:latitude: -33.895586
 :trading_name: SAMIR ABLA PASTRY
 :penalty_amount: $330.00
+:latitude: -33.895586
 :address: 159 GEORGES RIVER ROAD CROYDON PARK 2133
-:id: "3023220485"
 :served_to: ELMORR, HANI
 :council_area: BURWOOD
+:id: "3023220485"
+:action_date: "2009-05-28"
+:offence_date: "2009-05-25"

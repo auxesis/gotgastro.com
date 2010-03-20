@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-01"
-:offence_date: "2008-11-25"
 :pursued_by: Sutherland Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: COOKIE MAN
 :penalty_amount: $660.00
 :address: KIOSK 218 600 KINGSWAY MIRANDA 2232
-:id: "3018039824"
 :served_to: YHH GROUP PTY LTD
 :council_area: SUTHERLAND
+:id: "3018039824"
+:action_date: "2008-12-01"
+:offence_date: "2008-11-25"

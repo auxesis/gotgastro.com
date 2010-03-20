@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-16"
-:offence_date: "2009-02-07"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315133
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 430-482 SMITHFIELD ROAD PRAIRIEWOOD 2176
 :served_to: NGUYEN, LEANN
-:id: "3015315133"
 :council_area: FAIRFIELD
+:action_date: "2009-03-16"
+:id: "3015315133"
+:offence_date: "2009-02-07"

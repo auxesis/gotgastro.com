@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.208968
-:action_date: "2008-09-12"
-:offence_date: "2008-09-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7645831959
 :offence_description: Fail to maintain a clean food premises - accumulation of grease, dirt and food waste on ceilings, walls, roller door, fridge hinges
-:latitude: -33.872999
 :trading_name: THE NEW WINDSOR HOTEL
 :penalty_amount: $660.00
+:latitude: -33.872999
 :address: 48 PARK ST SYDNEY 2000
-:id: "7645831959"
 :served_to: THE NEW WINDSOR HOTEL PTY LTD
 :council_area: SYDNEY
+:id: "7645831959"
+:action_date: "2008-09-12"
+:offence_date: "2008-09-10"

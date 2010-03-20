@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.008754
-:action_date: "2008-10-10"
-:offence_date: "2008-10-10"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485270
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests on the food premises - evidence of rodent activity
-:latitude: -33.821872
 :trading_name: BILLU'S INDIAN EATERY & SWEET HOUSE
 :penalty_amount: $660.00
+:latitude: -33.821872
 :address: 62-64 WIGRAM ST HARRIS PARK
-:id: "7673485270"
 :served_to: AROMA CUISINES PTY LTD
 :council_area: PARRAMATTA
+:id: "7673485270"
+:action_date: "2008-10-10"
+:offence_date: "2008-10-10"

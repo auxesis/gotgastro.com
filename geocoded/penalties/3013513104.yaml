@@ -1,16 +1,16 @@
 --- 
-:longitude: 0.910223
-:action_date: "2008-07-23"
-:offence_date: "2008-03-25"
+:longitude: 151.668986
 :pursued_by: NSW Food Authority
 :offence_code: 11867 - Store processed meat produced at unlicensed processing plant
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513104
 :offence_description: Storage of rabbit meat processed at unlicensed premises
-:latitude: 51.865986
 :trading_name: THE MEATING PLACE
 :penalty_amount: $550.00
+:latitude: -30.514166
 :address: SHOP 11 EAST END MALL ARMIDALE 2350
-:id: "3013513104"
 :served_to: FITTLER, SCOTT
 :council_area: ARMIDALE
+:id: "3013513104"
+:action_date: "2008-07-23"
+:offence_date: "2008-03-25"

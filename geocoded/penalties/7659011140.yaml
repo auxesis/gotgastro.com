@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.215767
-:action_date: "2008-09-25"
-:offence_date: "2008-09-22"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659011140
 :offence_description: Fail to store potentially hazardous food  under temperature control - potentially hazardous food was stored at 13oC in fridge
-:latitude: -33.697614
 :trading_name: BUDDHA BELLY
 :penalty_amount: $660.00
+:latitude: -33.697614
 :address: 327 MONA VALE ROAD TERREY HILLS 2084
-:id: "7659011140"
 :served_to: BUDDHA BELLY INVESTMENTS PTY LTD
 :council_area: WARRINGAH
+:id: "7659011140"
+:action_date: "2008-09-25"
+:offence_date: "2008-09-22"

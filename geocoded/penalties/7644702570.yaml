@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.135782
-:action_date: 
-:offence_date: "2009-09-30"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644702570
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, grease and other visible matter observed
-:latitude: -33.984332
 :trading_name: THE INTERSECTION TAVERN
 :penalty_amount: $660.00
+:latitude: -33.984332
 :address: 221-229 ROCKY POINT ROAD RAMSGATE 2217
-:id: "7644702570"
 :served_to: "THE TRUSTEE FOR MARLOW FAMILY TRUST #2"
 :council_area: KOGARAH
+:id: "7644702570"
+:action_date: 
+:offence_date: "2009-09-30"

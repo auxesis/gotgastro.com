@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-23"
-:offence_date: "2008-05-14"
 :pursued_by: Wingecarribee Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003720381
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1 WILLOW DR MOSS VALE 2577
 :served_to: FITZGERALD, MATTHEW
-:id: "3003720381"
 :council_area: WINGECARRIBEE
+:action_date: "2008-05-23"
+:id: "3003720381"
+:offence_date: "2008-05-14"

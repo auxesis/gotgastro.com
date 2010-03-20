@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.180461
-:action_date: "2009-02-17"
-:offence_date: "2009-02-04"
 :pursued_by: Leichhardt Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461760
 :offence_description: Fail to maintain premises in a clean condition and protect food from likely contamination
-:latitude: -33.857581
 :trading_name: SATASIA
 :penalty_amount: $330.00
+:latitude: -33.857581
 :address: 300 Darling Street BALMAIN
-:id: "7675461760"
 :served_to: LUM, ALETA
 :council_area: LEICHHARDT
+:id: "7675461760"
+:action_date: "2009-02-17"
+:offence_date: "2009-02-04"

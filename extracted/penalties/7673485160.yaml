@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-22"
-:offence_date: "2008-07-22"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485160
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 3082 WESTFIELD 171 CHURCH ST PARRAMATTA 2150
 :served_to: MCDONALDS AUSTRALIA LTD
-:id: "7673485160"
 :council_area: PARRAMATTA
+:action_date: "2008-07-22"
+:id: "7673485160"
+:offence_date: "2008-07-22"

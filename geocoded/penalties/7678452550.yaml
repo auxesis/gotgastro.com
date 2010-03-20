@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.205008
-:action_date: "2008-12-19"
-:offence_date: "2008-12-17"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452550
 :offence_description: Fail to maintain a clean food premises - unclean floors and walls in food preparation area
-:latitude: -33.828117
 :trading_name: PARADOX RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.828117
 :address: 98 FALCON STREET CROWS NEST 2065
-:id: "7678452550"
 :served_to: DELCOUR, MICHEL
 :council_area: NORTH SYDNEY
+:id: "7678452550"
+:action_date: "2008-12-19"
+:offence_date: "2008-12-17"

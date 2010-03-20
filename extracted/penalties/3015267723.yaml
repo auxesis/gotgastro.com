@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-04"
-:offence_date: "2009-04-30"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267723
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 48 FREEMAN STREET LALOR PARK 2147
 :served_to: LUU BN PTY LTD
-:id: "3015267723"
 :council_area: BLACKTOWN
+:action_date: "2009-05-04"
+:id: "3015267723"
+:offence_date: "2009-04-30"

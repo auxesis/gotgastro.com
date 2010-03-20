@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-19"
-:offence_date: "2009-10-16"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507734
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 261 GEORGE STREET SYDNEY 2000
 :served_to: BPACK GROUP BUSINESS AND ART PTY LTD
-:id: "7250507734"
 :council_area: SYDNEY
+:action_date: "2009-10-19"
+:id: "7250507734"
+:offence_date: "2009-10-16"

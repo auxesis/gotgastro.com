@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.222893
-:action_date: "2008-09-17"
-:offence_date: "2008-09-09"
 :pursued_by: Randwick City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: Party served no longer operates the food business
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621649521
 :offence_description: Fail to provide at hand washing facility single use towels or other means of effectively drying hands
-:latitude: -33.911167
 :trading_name: GOLDEN KINGDOM RESTAURANT - KENSINGTON
 :penalty_amount: $330.00
+:latitude: -33.911167
 :address: 147 ANZAC PDE KENSINGTON 2033
-:id: "7621649521"
 :served_to: WONG, QUINNIE
 :council_area: RANDWICK
+:id: "7621649521"
+:action_date: "2008-09-17"
+:offence_date: "2008-09-09"

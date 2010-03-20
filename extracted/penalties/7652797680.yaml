@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-05"
-:offence_date: "2008-09-04"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797680
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 104, 19A ROSEBY ST DRUMMOYNE 2047
 :served_to: KHORN, LYTHA
-:id: "7652797680"
 :council_area: CANADA BAY
+:action_date: "2008-09-05"
+:id: "7652797680"
+:offence_date: "2008-09-04"

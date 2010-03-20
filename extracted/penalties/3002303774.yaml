@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-12"
-:offence_date: "2008-11-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303774
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 79 LIVERPOOL ST SYDNEY 2000
 :served_to: YILDIZ, ERCAN
-:id: "3002303774"
 :council_area: SYDNEY
+:action_date: "2008-11-12"
+:id: "3002303774"
+:offence_date: "2008-11-10"

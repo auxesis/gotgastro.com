@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-02"
-:offence_date: "2009-04-01"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440585
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 43 PANMURE STREET ROUSE HILL 2155
 :served_to: VERSACORP ENTERPRISES PTY LTD
-:id: "7653440585"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-04-02"
+:id: "7653440585"
+:offence_date: "2009-04-01"

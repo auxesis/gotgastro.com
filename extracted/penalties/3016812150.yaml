@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-15"
-:offence_date: "2009-10-07"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016812150
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 143 CHURCH STREET PARRAMATTA 2150
 :served_to: LUXULI TRADING & WHOLE SALE PTY LTD
-:id: "3016812150"
 :council_area: PARRAMATTA
+:action_date: "2009-10-15"
+:id: "3016812150"
+:offence_date: "2009-10-07"

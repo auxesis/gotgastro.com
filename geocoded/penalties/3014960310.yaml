@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.146429
-:action_date: "2009-04-17"
-:offence_date: "2009-04-15"
 :pursued_by: Rockdale City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960310
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt, grease and other visible matter
-:latitude: -33.937066
 :trading_name: ARNCLIFFE CAKES BAKERY
 :penalty_amount: $660.00
+:latitude: -33.937066
 :address: 27 FIRTH STREET ARNCLIFFE 2205
-:id: "3014960310"
 :served_to: T G L SYDNEY PTY LTD
 :council_area: ROCKDALE
+:id: "3014960310"
+:action_date: "2009-04-17"
+:offence_date: "2009-04-15"

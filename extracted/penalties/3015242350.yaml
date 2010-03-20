@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-25"
-:offence_date: "2009-03-24"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242350
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 164 MAIN STREET BLACKTOWN 2148
 :served_to: WU, DAVID
-:id: "3015242350"
 :council_area: BLACKTOWN
+:action_date: "2009-03-25"
+:id: "3015242350"
+:offence_date: "2009-03-24"

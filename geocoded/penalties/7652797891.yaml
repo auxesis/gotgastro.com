@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.142495
-:action_date: "2009-05-22"
-:offence_date: "2009-05-20"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797891
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean floors and walls
-:latitude: -33.846932
 :trading_name: CHISWICK PIZZERIA
 :penalty_amount: $330.00
+:latitude: -33.846932
 :address: SHOP 3B/45 BLACKWALL POINT ROAD CHISWICK 2046
-:id: "7652797891"
 :served_to: GIARDINA, CHARLIE
 :council_area: CANADA BAY
+:id: "7652797891"
+:action_date: "2009-05-22"
+:offence_date: "2009-05-20"

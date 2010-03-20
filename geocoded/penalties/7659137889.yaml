@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.223293
-:action_date: "2009-04-21"
-:offence_date: "2009-04-17"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137889
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean food preparation area and coolroom
-:latitude: -33.7471152
 :trading_name: VINA BAKEHOUSE
 :penalty_amount: $660.00
+:latitude: -33.7471152
 :address: SHOP 30 FORESTWAY SHOPPING CENTRE FOREST WAY FRENCHS FOREST 2086
-:id: "7659137889"
 :served_to: PHOENIX ZEN PTY LTD
 :council_area: WARRINGAH
+:id: "7659137889"
+:action_date: "2009-04-21"
+:offence_date: "2009-04-17"

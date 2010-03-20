@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.894159
-:action_date: "2009-10-01"
-:offence_date: "2009-08-26"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029539518
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - raw chicken stored on top of open garbage bin
-:latitude: -33.871675
 :trading_name: GOLDEN ASIAN CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.871675
 :address: SHOP 6 GREENFIELD PARK SHOPPING VILLAGE 3 GREENFIELD ROAD GREENFIELD PARK 2176
-:id: "3029539518"
 :served_to: ZHAO, SAN TONG
 :council_area: FAIRFIELD
+:id: "3029539518"
+:action_date: "2009-10-01"
+:offence_date: "2009-08-26"

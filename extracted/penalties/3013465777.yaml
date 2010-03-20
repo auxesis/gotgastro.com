@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-05"
-:offence_date: "2009-01-19"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465777
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 249-259 MERRYLANDS ROAD MERRYLANDS 2160
 :served_to: RED ROOSTER FOODS PTY LTD
-:id: "3013465777"
 :council_area: HOLROYD
+:action_date: "2009-02-05"
+:id: "3013465777"
+:offence_date: "2009-01-19"

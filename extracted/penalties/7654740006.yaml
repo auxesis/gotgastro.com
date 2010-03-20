@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-31"
-:offence_date: "2009-03-30"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654740006
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 6/178 FOX VALLEY ROAD WAHROONGA 2076
 :served_to: GOLD HORSE TRADING PTY LTD
-:id: "7654740006"
 :council_area: KU-RING-GAI
+:action_date: "2009-03-31"
+:id: "7654740006"
+:offence_date: "2009-03-30"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-10"
-:offence_date: "2009-05-21"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514516
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/8 WILMETTE PLACE MONA VALE 2103
 :served_to: J E & G E PTY LTD
-:id: "3013514516"
 :council_area: PITTWATER
+:action_date: "2009-06-10"
+:id: "3013514516"
+:offence_date: "2009-05-21"

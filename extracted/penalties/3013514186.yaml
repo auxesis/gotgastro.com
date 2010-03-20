@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-01"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514186
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 173 GLADSTONE STREET CABRAMATTA 2166
 :served_to: DUONG, THI THU HUONG
-:id: "3013514186"
 :council_area: FAIRFIELD
+:action_date: "2009-04-01"
+:id: "3013514186"
+:offence_date: "2008-09-12"

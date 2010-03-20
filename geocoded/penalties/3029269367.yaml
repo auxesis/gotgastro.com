@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.905183
-:action_date: "2009-09-07"
-:offence_date: "2009-09-01"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269367
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.770105
 :trading_name: ORIENT EXPRESS NOODLE BAR
 :penalty_amount: $330.00
+:latitude: -33.770105
 :address: SHOP 3025 WESTPOINT BLACKTOWN 17 PATRICK STREET BLACKTOWN 2148
-:id: "3029269367"
 :served_to: GAO, YL
 :council_area: BLACKTOWN
+:id: "3029269367"
+:action_date: "2009-09-07"
+:offence_date: "2009-09-01"

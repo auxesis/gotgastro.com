@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.132309
-:action_date: "2009-08-18"
-:offence_date: "2009-08-17"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631984
 :offence_description: Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - plastic container stored in the hand wash basin
-:latitude: -33.963906
 :trading_name: WING WAH BBQ RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.963906
 :address: 49 RAILWAY PARADE KOGARAH 2217
-:id: "7641631984"
 :served_to: YING, CUI
 :council_area: KOGARAH
+:id: "7641631984"
+:action_date: "2009-08-18"
+:offence_date: "2009-08-17"

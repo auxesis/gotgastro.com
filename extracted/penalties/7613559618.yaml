@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-17"
-:offence_date: "2008-09-16"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7613559618
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 217B KISSING POINT RD TURRAMURRA 2074
 :served_to: ROLAND PTY LTD
-:id: "7613559618"
 :council_area: KU-RING-GAI
+:action_date: "2008-09-17"
+:id: "7613559618"
+:offence_date: "2008-09-16"

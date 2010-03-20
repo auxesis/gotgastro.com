@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.187235
-:action_date: "2009-04-08"
-:offence_date: "2009-04-06"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650333
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - There was an accumulation of food waste, grease and other visible matter
-:latitude: -33.795377
 :trading_name: SHANGHAI PALACE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.795377
 :address: 272 VICTORIA AVENUE CHATSWOOD 2067
-:id: "7671650333"
 :served_to: JIA YI AUSTRALIA PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671650333"
+:action_date: "2009-04-08"
+:offence_date: "2009-04-06"

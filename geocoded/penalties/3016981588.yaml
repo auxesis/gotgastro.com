@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.534881
-:action_date: "2009-09-04"
-:offence_date: "2009-08-28"
 :pursued_by: Great Lakes Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016981588
 :offence_description: Fail to maintain at or near each hand washing facility a supply of single use towels or other means of effectively drying hands
-:latitude: -32.187933
 :trading_name: DANNY'S FAMILY RESTAURANT
 :penalty_amount: $330.00
+:latitude: -32.187933
 :address: 2 STRAND STREET FORSTER 2428
-:id: "3016981588"
 :served_to: AU YEUNG, DANNY
 :council_area: GREAT LAKES
+:id: "3016981588"
+:action_date: "2009-09-04"
+:offence_date: "2009-08-28"

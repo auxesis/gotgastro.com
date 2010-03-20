@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-16"
-:offence_date: "2009-08-31"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3033519336
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP Q17 62-72 QUEEN STREET Auburn 2144
 :served_to: AUBSTAR INTERNATIONAL PTY LTD
-:id: "3033519336"
 :council_area: AUBURN
+:action_date: "2009-09-16"
+:id: "3033519336"
+:offence_date: "2009-08-31"

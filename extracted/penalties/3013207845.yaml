@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-17"
-:offence_date: "2008-05-30"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013207845
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 45 THE CRESCENT FAIRFIELD 2165
 :served_to: TAGLE, CONSUELO
-:id: "3013207845"
 :council_area: FAIRFIELD
+:action_date: "2008-06-17"
+:id: "3013207845"
+:offence_date: "2008-05-30"

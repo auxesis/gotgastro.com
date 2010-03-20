@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-17"
-:offence_date: "2008-09-10"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399371
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 248/6-14 CASTLE ST CASTLE HILL 2154
 :served_to: FIFTH STREET PTY LTD
-:id: "7653399371"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-09-17"
+:id: "7653399371"
+:offence_date: "2008-09-10"

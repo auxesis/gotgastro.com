@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-23"
-:offence_date: "2008-04-16"
 :pursued_by: NSW Food Authority
 :offence_code: 11340 - Sell food that fails to comply with the Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: DERGAH
 :penalty_amount: $330.00
 :address: SHOP 4025 WESTFIELD SHOPPING CENTRE 500 OXFORD STREET BONDI JUNCTION 2202
-:id: "3013513122"
 :served_to: DERGAH P/L
 :council_area: WAVERLEY
+:id: "3013513122"
+:action_date: "2008-07-23"
+:offence_date: "2008-04-16"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.26813
-:action_date: "2008-09-25"
-:offence_date: "2008-09-25"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539270
 :offence_description: Failure to maintain food premises in a good state of repair - Open wall vents, holed and cracked ceiling, and flaking paint on the walls in the preparation area
-:latitude: -33.894823
 :trading_name: TICINO'S CAFE
 :penalty_amount: $330.00
+:latitude: -33.894823
 :address: 275 BONDI ROAD BONDI 2026
-:id: "7639539270"
 :served_to: ZHANG, SHELLEY
 :council_area: WAVERLEY
+:id: "7639539270"
+:action_date: "2008-09-25"
+:offence_date: "2008-09-25"

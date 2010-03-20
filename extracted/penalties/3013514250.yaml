@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-16"
-:offence_date: "2009-04-09"
 :pursued_by: NSW Food Authority
 :offence_code: 11325 - Use misleading/deceptive adverstising/packaging/labelling of food - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514250
@@ -10,5 +8,7 @@
 :penalty_amount: $1320.00
 :address: SHOP 26A, ORANA MALL SHOPPING CENTRE DUBBO 2830
 :served_to: DW QUALITY MEATS PTY LTD
-:id: "3013514250"
 :council_area: DUBBO
+:action_date: "2009-04-16"
+:id: "3013514250"
+:offence_date: "2009-04-09"

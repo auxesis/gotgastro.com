@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-03"
-:offence_date: "2008-10-31"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307844
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 18-21 DARLINGHURST RD POTTS POINT
 :served_to: SLEIMAN TRADING PTY LTD
-:id: "3002307844"
 :council_area: SYDNEY
+:action_date: "2008-11-03"
+:id: "3002307844"
+:offence_date: "2008-10-31"

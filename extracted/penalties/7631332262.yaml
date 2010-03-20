@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-23"
-:offence_date: "2009-04-16"
 :pursued_by: Queanbeyan City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332262
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 18/34 QUEENBAR ROAD KARABAR 2620
 :served_to: CHAN, BOON FAN
-:id: "7631332262"
 :council_area: QUEANBEYAN
+:action_date: "2009-04-23"
+:id: "7631332262"
+:offence_date: "2009-04-16"

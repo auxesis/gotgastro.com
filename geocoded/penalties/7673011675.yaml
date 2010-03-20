@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.7034261
-:action_date: "2008-05-30"
-:offence_date: "2008-05-28"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011675
 :offence_description: Fail to maintain food premises in a clean condition
-:latitude: -33.7548774
 :trading_name: WHITE SWAN
 :penalty_amount: $330.00
+:latitude: -33.7548774
 :address: 269 HIGH ST PENRITH 2750
-:id: "7673011675"
 :served_to: PAYNE, JOHN
 :council_area: PENRITH
+:id: "7673011675"
+:action_date: "2008-05-30"
+:offence_date: "2008-05-28"

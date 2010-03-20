@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-25"
-:offence_date: "2008-11-25"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440053
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 6/213 NORTH ROCKS RD NORTH ROCKS
 :served_to: CHEN, LING
-:id: "7653440053"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-11-25"
+:id: "7653440053"
+:offence_date: "2008-11-25"

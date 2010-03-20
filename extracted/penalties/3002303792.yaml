@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-23"
-:offence_date: "2008-12-19"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303792
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 23 CRAIGEND ST DARLINGHURST 2010
 :served_to: ACCA & T PTY LTD
-:id: "3002303792"
 :council_area: SYDNEY
+:action_date: "2008-12-23"
+:id: "3002303792"
+:offence_date: "2008-12-19"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.124574
-:action_date: "2009-04-20"
-:offence_date: "2009-04-18"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944960
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises
-:latitude: -33.888305
 :trading_name: SHANGHAI FOOD HOUSE
 :penalty_amount: $330.00
+:latitude: -33.888305
 :address: 267C LIVERPOOL ROAD ASHFIELD 2131
-:id: "7672944960"
 :served_to: CHEN, HONG QIN
 :council_area: ASHFIELD
+:id: "7672944960"
+:action_date: "2009-04-20"
+:offence_date: "2009-04-18"

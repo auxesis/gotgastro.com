@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-24"
-:offence_date: "2009-08-21"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016321010
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 19 PARRAMATTA ROAD CONCORD 2137
 :served_to: NO NAME RESTAURANTS PTY LTD
-:id: "3016321010"
 :council_area: CANADA BAY
+:action_date: "2009-08-24"
+:id: "3016321010"
+:offence_date: "2009-08-21"

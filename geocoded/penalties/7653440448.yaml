@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.9808269
-:action_date: "2009-02-16"
-:offence_date: "2009-02-04"
+:longitude: 150.9804052
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440448
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
-:latitude: -33.7336129
 :trading_name: M TAKE 5 SANDWICH BAR
 :penalty_amount: $330.00
+:latitude: -33.7325557
 :address: 3/7-13 VICTORIA AVENUE CASTLE HILL 2154
-:id: "7653440448"
 :served_to: MIRENZI, FRANK
 :council_area: BAULKHAM HILLS
+:id: "7653440448"
+:action_date: "2009-02-16"
+:offence_date: "2009-02-04"

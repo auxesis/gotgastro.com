@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.124396
-:action_date: "2008-08-25"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944676
 :offence_description: Fail to maintain a clean food premises - grease and grime throughout premises, stoves, fridges, coolrooms
-:latitude: -33.888177
 :trading_name: SHANGHAI NIGHT RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.888177
 :address: 275 LIVERPOOL RD ASHFIELD 2131
-:id: "7672944676"
 :served_to: QIU YU PTY LTD
 :council_area: ASHFIELD
+:id: "7672944676"
+:action_date: "2008-08-25"
+:offence_date: "2008-08-11"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.066845
-:action_date: "2009-06-18"
-:offence_date: "2009-06-11"
 :pursued_by: Lithgow City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623241286
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - unclean cooking equipment, bain marie and other appliances observed
-:latitude: -33.40783
 :trading_name: WANG CAFE
 :penalty_amount: $330.00
+:latitude: -33.40783
 :address: 56 MAIN STREET WALLERAWANG 2845
-:id: "7623241286"
 :served_to: CINAT, ANGELO
 :council_area: LITHGOW
+:id: "7623241286"
+:action_date: "2009-06-18"
+:offence_date: "2009-06-11"

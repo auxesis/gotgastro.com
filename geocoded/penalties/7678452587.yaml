@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.201218
-:action_date: "2009-02-12"
-:offence_date: "2009-02-10"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452587
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of food waste, dirt, grease and mould on the floors and walls
-:latitude: -33.828033
 :trading_name: FUUKI JAPANESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.828033
 :address: 417 PACIFIC HIGHWAY CROWS NEST 2065
-:id: "7678452587"
 :served_to: PETERSON, CARL
 :council_area: NORTH SYDNEY
+:id: "7678452587"
+:action_date: "2009-02-12"
+:offence_date: "2009-02-10"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.134895
-:action_date: "2008-05-05"
-:offence_date: "2008-04-08"
 :pursued_by: Rockdale City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7646553889
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.952587
 :trading_name: LITTLE MO'S PIZZA
 :penalty_amount: $330.00
+:latitude: -33.952587
 :address: 28 FREDERICK ST ROCKDALE 2216
-:id: "7646553889"
 :served_to: ELZEIN, FATMEH
 :council_area: ROCKDALE
+:id: "7646553889"
+:action_date: "2008-05-05"
+:offence_date: "2008-04-08"

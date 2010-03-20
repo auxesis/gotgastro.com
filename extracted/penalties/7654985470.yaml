@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-16"
-:offence_date: "2008-10-14"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654985470
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 100 CENTRE ST CASINO 2470
 :served_to: PEVARA PTY LTD
-:id: "7654985470"
 :council_area: RICHMOND VALLEY COUNCIL
+:action_date: "2008-10-16"
+:id: "7654985470"
+:offence_date: "2008-10-14"

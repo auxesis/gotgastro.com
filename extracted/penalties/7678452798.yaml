@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-10"
-:offence_date: "2009-09-04"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452798
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 58 WILLOUGHBY ROAD CROWS NEST 2065
 :served_to: PATTANAKITKOSOL, VORAPOT
-:id: "7678452798"
 :council_area: NORTH SYDNEY
+:action_date: "2009-09-10"
+:id: "7678452798"
+:offence_date: "2009-09-04"

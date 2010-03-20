@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-29"
-:offence_date: "2008-09-26"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013575126
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 69 QUEEN ST ST MARYS 2760
 :served_to: CHAN, KWOK
-:id: "3013575126"
 :council_area: PENRITH
+:action_date: "2008-09-29"
+:id: "3013575126"
+:offence_date: "2008-09-26"

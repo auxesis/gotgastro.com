@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.7726623
-:action_date: "2008-05-22"
-:offence_date: "2008-03-11"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785751
 :offence_description: Fail to maintain equipment in a clean condition
-:latitude: -33.7699488
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
+:latitude: -33.7699488
 :address: 370 GREAT WESTERN HWY ST MARYS 2760
-:id: "7670785751"
 :served_to: AUSTOTAL ENTERPRISE PARTNERS P/L
 :council_area: PENRITH
+:id: "7670785751"
+:action_date: "2008-05-22"
+:offence_date: "2008-03-11"

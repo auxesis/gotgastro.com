@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-18"
-:offence_date: "2009-06-16"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485436
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 2187, WESTFIELD PARRAMATTA 142 CHURCH STREET PARRAMATTA 2150
 :served_to: MB AUSTRALIA PTY LTD
-:id: "7673485436"
 :council_area: PARRAMATTA
+:action_date: "2009-06-18"
+:id: "7673485436"
+:offence_date: "2009-06-16"

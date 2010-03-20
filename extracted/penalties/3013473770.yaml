@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-15"
-:offence_date: "2009-05-06"
 :pursued_by: Holroyd City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013473770
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 152A PENDLE WAY PENDLE HILL 2145
 :served_to: SU, JIN QING
-:id: "3013473770"
 :council_area: HOLROYD
+:action_date: "2009-05-15"
+:id: "3013473770"
+:offence_date: "2009-05-06"

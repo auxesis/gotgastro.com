@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.221799
-:action_date: "2008-11-21"
-:offence_date: "2008-11-20"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307880
 :offence_description: Failure to maintain food premises and fixtures in a good state of repair
-:latitude: -33.877561
 :trading_name: STRAWBERRY CREAM
 :penalty_amount: $330.00
+:latitude: -33.877561
 :address: 336 VICTORIA STREET DARLINGHURST 2010
-:id: "3002307880"
 :served_to: REID, GEOFFREY COLIN
 :council_area: SYDNEY
+:id: "3002307880"
+:action_date: "2008-11-21"
+:offence_date: "2008-11-20"

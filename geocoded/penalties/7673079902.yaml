@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1247065
-:action_date: "2008-08-06"
-:offence_date: "2008-08-05"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673079902
 :offence_description: Fail to provide a temperature measuring device within the premises
-:latitude: -33.8886805
 :trading_name: JANNY'S CAKES
 :penalty_amount: $660.00
+:latitude: -33.8886805
 :address: 1/261 LIVERPOOL RD ASHFIELD 2131
-:id: "7673079902"
 :served_to: KAM SING INDUSTRIAL (AUS) PTY LTD
 :council_area: ASHFIELD
+:id: "7673079902"
+:action_date: "2008-08-06"
+:offence_date: "2008-08-05"

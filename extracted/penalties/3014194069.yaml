@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-27"
-:offence_date: "2009-08-25"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014194069
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 4 RAILWAY SQUARE PACIFIC HWY WYONG 2259
 :served_to: CLISS ENTERPRISES PTY LTD
-:id: "3014194069"
 :council_area: WYONG
+:action_date: "2009-08-27"
+:id: "3014194069"
+:offence_date: "2009-08-25"

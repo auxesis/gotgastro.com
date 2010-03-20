@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-22"
-:offence_date: "2008-12-15"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440264
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 11 ROUSE HILL VILLAGE CENTRE ABERDOUR AVENUE ROUSE HILL 2155
 :served_to: PENG, YANNI
-:id: "7653440264"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-12-22"
+:id: "7653440264"
+:offence_date: "2008-12-15"

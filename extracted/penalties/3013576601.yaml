@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-30"
-:offence_date: "2009-06-29"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576601
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1 LENNOX SHOPPING CENTRE PYRAMID STREET EMU PLAINS 2750
 :served_to: LIN, MING ZHONG
-:id: "3013576601"
 :council_area: PENRITH
+:action_date: "2009-06-30"
+:id: "3013576601"
+:offence_date: "2009-06-29"

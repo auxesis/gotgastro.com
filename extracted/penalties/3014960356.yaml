@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-22"
-:offence_date: "2009-05-20"
 :pursued_by: Rockdale City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960356
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 70 THE GRAND PARADE BRIGHTON LE SANDS 2216
 :served_to: THAKRAL OPERATIONS PTY LTD
-:id: "3014960356"
 :council_area: ROCKDALE
+:action_date: "2009-05-22"
+:id: "3014960356"
+:offence_date: "2009-05-20"

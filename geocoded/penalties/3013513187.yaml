@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1420916
-:action_date: "2008-07-28"
-:offence_date: "2008-05-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513187
 :offence_description: Fail to complete internal audit monitoring records as required under the food safety program
-:latitude: -33.9650503
 :trading_name: PINOS MEATS
 :penalty_amount: $660.00
+:latitude: -33.9650503
 :address: 45 PRESIDENT AVE KOGARAH 2217
-:id: "3013513187"
 :served_to: DOLCE VITA FINE FOODS PTY LTD
 :council_area: ROCKDALE
+:id: "3013513187"
+:action_date: "2008-07-28"
+:offence_date: "2008-05-26"

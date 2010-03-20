@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-28"
-:offence_date: "2008-11-27"
 :pursued_by: Campbelltown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673922832
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3 135 QUEEN ST CAMPBELLTOWN
 :served_to: LIU, HUILIN
-:id: "7673922832"
 :council_area: CAMPBELLTOWN
+:action_date: "2008-11-28"
+:id: "7673922832"
+:offence_date: "2008-11-27"

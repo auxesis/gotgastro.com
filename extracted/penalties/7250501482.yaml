@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-07"
-:offence_date: "2009-05-04"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501482
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 71 DIXON STREET HAYMARKET 2000
 :served_to: J LZ PTY LTD
-:id: "7250501482"
 :council_area: SYDNEY
+:action_date: "2009-05-07"
+:id: "7250501482"
+:offence_date: "2009-05-04"

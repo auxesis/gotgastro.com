@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-17"
-:offence_date: "2008-09-08"
 :pursued_by: Burwood Council
 :offence_code: 11321 - Handle food in manner likely to render it unsuitable - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669026980
@@ -10,5 +8,7 @@
 :penalty_amount: $1100.00
 :address: 224 Burwood  Road BURWOOD
 :served_to: MA AND FAMILY PTY LTD
-:id: "7669026980"
 :council_area: BURWOOD
+:action_date: "2008-09-17"
+:id: "7669026980"
+:offence_date: "2008-09-08"

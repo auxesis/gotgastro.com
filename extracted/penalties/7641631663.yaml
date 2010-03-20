@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-12"
-:offence_date: "2009-01-09"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631663
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 247 PRINCES HIGHWAY KOGARAH 2217
 :served_to: KWOK YING, ALBERT
-:id: "7641631663"
 :council_area: KOGARAH
+:action_date: "2009-01-12"
+:id: "7641631663"
+:offence_date: "2009-01-09"

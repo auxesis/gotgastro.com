@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.106315
-:action_date: "2008-08-27"
-:offence_date: "2008-08-12"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797662
 :offence_description: Fail to provide, at or near each hand washing facility, single use towels or other means of effectively drying hands
-:latitude: -33.868679
 :trading_name: PINE INN HOTEL
 :penalty_amount: $660.00
+:latitude: -33.868679
 :address: 19 PARRAMATTA RD CONCORD 2137
-:id: "7652797662"
 :served_to: NO NAME RESTAURANTS PTY LTD
 :council_area: CANADA BAY
+:id: "7652797662"
+:action_date: "2008-08-27"
+:offence_date: "2008-08-12"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-02"
-:offence_date: "2008-04-11"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513068
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2 MACKIE ST LEMON TREE PASSAGE 2319
 :served_to: WARD, WALLACE JOHN
-:id: "3013513068"
 :council_area: PORT STEPHENS
+:action_date: "2008-07-02"
+:id: "3013513068"
+:offence_date: "2008-04-11"

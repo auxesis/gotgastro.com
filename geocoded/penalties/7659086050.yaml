@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.260677
-:action_date: "2008-11-18"
-:offence_date: "2008-10-31"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659086050
 :offence_description: Fail to take all necessary steps when processing food to prevent the likelihood of contamination - renovation works being conducted around food handling areas whilst trading
-:latitude: -33.754046
 :trading_name: MC DONALDS
 :penalty_amount: $660.00
+:latitude: -33.754046
 :address: 164 WARRINGAH ROAD BEACON HILL
-:id: "7659086050"
 :served_to: KRISTOD PTY LTD
 :council_area: WARRINGAH
+:id: "7659086050"
+:action_date: "2008-11-18"
+:offence_date: "2008-10-31"

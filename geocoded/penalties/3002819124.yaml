@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.098118
-:action_date: "2009-10-01"
-:offence_date: "2009-09-11"
+:longitude: 151.07871
 :pursued_by: Hornsby Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002819124
 :offence_description: Fail to maintain at or near each hand washing facility a supply of single use towels or other means of effectively drying hands
-:latitude: -33.702332
 :trading_name: EASY WAY BEVERAGE STORE
 :penalty_amount: $660.00
+:latitude: -33.731909
 :address: SHOP 3, HORNSBY RAILWAY STATION 4 STATION STREET HORNSBY 2077
-:id: "3002819124"
 :served_to: MT YASS PTY LTD
 :council_area: HORNSBY
+:id: "3002819124"
+:action_date: "2009-10-01"
+:offence_date: "2009-09-11"

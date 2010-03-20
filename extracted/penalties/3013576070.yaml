@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-07"
-:offence_date: "2008-12-23"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576070
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3, CORNER OF MANNING STREET AND SECOND AVENUE KINGSWOOD 2747
 :served_to: LI, GUO ZHONG
-:id: "3013576070"
 :council_area: PENRITH
+:action_date: "2009-01-07"
+:id: "3013576070"
+:offence_date: "2008-12-23"

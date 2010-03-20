@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-11"
-:offence_date: "2008-11-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7645831977
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 561-567 GEORGE ST SYDNEY 2000
 :served_to: CITY OF SYDNEY RSL COMMUNITY CLUB LTD
-:id: "7645831977"
 :council_area: SYDNEY
+:action_date: "2008-11-11"
+:id: "7645831977"
+:offence_date: "2008-11-10"

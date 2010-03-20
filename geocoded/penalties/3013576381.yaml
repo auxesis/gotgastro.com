@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.800129
-:action_date: "2009-05-13"
-:offence_date: "2009-05-06"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576381
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - live rodents and rodent droppings observed on the premises
-:latitude: -33.785911
 :trading_name: COLYTON BAKERY
 :penalty_amount: $330.00
+:latitude: -33.785911
 :address: SHOP 10, 62 HEWITT STREET COLYTON 2760
-:id: "3013576381"
 :served_to: HUYNH, VAN QUOC
 :council_area: PENRITH
+:id: "3013576381"
+:action_date: "2009-05-13"
+:offence_date: "2009-05-06"

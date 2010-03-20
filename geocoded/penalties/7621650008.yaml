@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2407535
-:action_date: "2009-03-03"
-:offence_date: "2009-02-19"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650008
 :offence_description: Fail to provide at or near each hand washing facility single use towels
-:latitude: -33.9161136
 :trading_name: AMF BOWLING
 :penalty_amount: $660.00
+:latitude: -33.9161136
 :address: 130 BELMORE ROAD RANDWICK 2031
-:id: "7621650008"
 :served_to: BOWLING CENTRES AUSTRALIA PTY LTD
 :council_area: RANDWICK
+:id: "7621650008"
+:action_date: "2009-03-03"
+:offence_date: "2009-02-19"

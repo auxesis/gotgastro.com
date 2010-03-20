@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-08"
-:offence_date: "2009-04-08"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547645
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 110-112 CENTRE STREET CASINO 2470
 :served_to: Q S R PTY LTD
-:id: "3003547645"
 :council_area: RICHMOND VALLEY COUNCIL
+:action_date: "2009-04-08"
+:id: "3003547645"
+:offence_date: "2009-04-08"

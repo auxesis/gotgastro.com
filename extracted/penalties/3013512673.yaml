@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-05"
-:offence_date: "2008-11-18"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512673
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 127-133 BURWOOD RD BURWOOD
 :served_to: SUN'S UP ENTERPRISE PTY LTD
-:id: "3013512673"
 :council_area: BURWOOD
+:action_date: "2009-01-05"
+:id: "3013512673"
+:offence_date: "2008-11-18"

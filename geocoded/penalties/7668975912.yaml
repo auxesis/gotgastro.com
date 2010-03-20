@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.0946
-:action_date: "2008-08-06"
-:offence_date: "2008-08-01"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7668975912
 :offence_description: Fail to maintain food premises, fixtures, fittings, equipment, in a good state of repair and working order - no door seals on underbench refrigerator storing potentially hazardous food
-:latitude: -33.872628
 :trading_name: C'AD'OR CAFE
 :penalty_amount: $660.00
+:latitude: -33.872628
 :address: 4 THE BOULEVARDE STRATHFIELD 2135
-:id: "7668975912"
 :served_to: DIM KUM AUSTRALIA PTY LTD
 :council_area: BURWOOD
+:id: "7668975912"
+:action_date: "2008-08-06"
+:offence_date: "2008-08-01"

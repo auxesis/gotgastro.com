@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.910741
-:action_date: "2009-02-05"
-:offence_date: "2009-01-27"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567912
 :offence_description: Fail to provide designated hand washing facilities within the premises
-:latitude: -33.77089
 :trading_name: FRESH SEAFOOD MARKET
 :penalty_amount: $660.00
+:latitude: -33.77089
 :address: 111 MAIN STREET BLACKTOWN 2148
-:id: "3014567912"
 :served_to: HAI SHANG XIAN P/L
 :council_area: BLACKTOWN
+:id: "3014567912"
+:action_date: "2009-02-05"
+:offence_date: "2009-01-27"

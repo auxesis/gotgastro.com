@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.036545
-:action_date: "2008-11-25"
-:offence_date: "2008-11-24"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537108
 :offence_description: Fail to display potentially hazardous food under temperature control
-:latitude: -33.835712
 :trading_name: PAUL'S LUNCHBOX
 :penalty_amount: $660.00
+:latitude: -33.835712
 :address: 91 ASQUITH ST SILVERWATER
-:id: "7672537108"
 :served_to: 91 ASQUITH STREET PTY LTD
 :council_area: AUBURN
+:id: "7672537108"
+:action_date: "2008-11-25"
+:offence_date: "2008-11-24"

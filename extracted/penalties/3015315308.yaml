@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-17"
-:offence_date: "2009-04-03"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315308
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1 COURT ROAD FAIRFIELD 2165
 :served_to: KAL & URMILLA REDDY HOLDINGS PTY LTD
-:id: "3015315308"
 :council_area: FAIRFIELD
+:action_date: "2009-04-17"
+:id: "3015315308"
+:offence_date: "2009-04-03"

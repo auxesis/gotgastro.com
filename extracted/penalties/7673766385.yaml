@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-16"
-:offence_date: "2008-09-02"
 :pursued_by: Gosford City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673766385
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 28/43-45 AVOCA DR KINCUMBER 2251
 :served_to: NONTA, SINEENART
-:id: "7673766385"
 :council_area: GOSFORD
+:action_date: "2008-09-16"
+:id: "7673766385"
+:offence_date: "2008-09-02"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.955053
-:action_date: "2008-07-23"
-:offence_date: "2008-03-27"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513169
 :offence_description: Fail to comply with Food Standards Code (excess levels of the preservative Sorbic Acid)
-:latitude: -33.838347
 :trading_name: KAM FU FOOD MANUFACTURERS
 :penalty_amount: $330.00
+:latitude: -33.838347
 :address: 20/115-123 WOODPARK RD SMITHFIELD 2164
-:id: "3013513169"
 :served_to: WONG, WING KAM
 :council_area: HOLROYD
+:id: "3013513169"
+:action_date: "2008-07-23"
+:offence_date: "2008-03-27"

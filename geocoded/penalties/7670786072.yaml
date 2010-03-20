@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.008843
-:action_date: "2009-09-18"
-:offence_date: "2009-07-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670786072
 :offence_description: Fail to hold the required licence to carry on a food business or activity - operating a meat retail premises
-:latitude: -33.853628
 :trading_name: DELLWOOD BUTCHERY
 :penalty_amount: $330.00
+:latitude: -33.853628
 :address: SHOP 19 30 DELLWOOD STREET GRANVILLE SOUTH 2142
-:id: "7670786072"
 :served_to: BOUTROS, MOUNIR
 :council_area: PARRAMATTA
+:id: "7670786072"
+:action_date: "2009-09-18"
+:offence_date: "2009-07-14"

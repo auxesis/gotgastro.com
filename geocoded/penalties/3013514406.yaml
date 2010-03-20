@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.202266
-:action_date: "2009-05-15"
-:offence_date: "2009-04-30"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514406
 :offence_description: Fail to comply with a condition of licence - environmental testing was not completed
-:latitude: -33.885831
 :trading_name: DAIKICHI FOODS
 :penalty_amount: $660.00
+:latitude: -33.885831
 :address: 55 REGENT STREET CHIPPENDALE 2008
-:id: "3013514406"
 :served_to: DAIKICHI FOODS PTY LTD
 :council_area: SYDNEY
+:id: "3013514406"
+:action_date: "2009-05-15"
+:offence_date: "2009-04-30"

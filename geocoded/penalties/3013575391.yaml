@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-17"
-:offence_date: "2008-11-14"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: GLENMORE CAKES AND PIES
 :penalty_amount: $330.00
 :address: KIOSK 1 LOT 9100 GLENMORE PKWY GLENMORE PARK
-:id: "3013575391"
 :served_to: SOU, TOM
 :council_area: PENRITH
+:id: "3013575391"
+:action_date: "2008-11-17"
+:offence_date: "2008-11-14"

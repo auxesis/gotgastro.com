@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2860604
-:action_date: "2009-05-06"
-:offence_date: "2009-05-04"
 :pursued_by: Manly Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172880
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - evidence of cockroach activity
-:latitude: -33.7970744
 :trading_name: MANLY BAKERY
 :penalty_amount: $330.00
+:latitude: -33.7970744
 :address: 2/31 SYDNEY RD MANLY 2095
-:id: "7641172880"
 :served_to: AING, SOKUN
 :council_area: MANLY
+:id: "7641172880"
+:action_date: "2009-05-06"
+:offence_date: "2009-05-04"

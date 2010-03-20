@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-06"
-:offence_date: "2008-08-04"
 :pursued_by: Burwood Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7668975959
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 10A THE BOULEVARDE STRATHFIELD 2135
 :served_to: CHUNG, JAEYUNG
-:id: "7668975959"
 :council_area: BURWOOD
+:action_date: "2008-08-06"
+:id: "7668975959"
+:offence_date: "2008-08-04"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-06-11"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513351
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 202B/600 THE KINGSWAY MIRANDA
 :served_to: ALTERNATE PROPERTY SOLUTIONS PTY LTD
-:id: "3013513351"
 :council_area: SUTHERLAND
+:action_date: "2008-10-02"
+:id: "3013513351"
+:offence_date: "2008-06-11"

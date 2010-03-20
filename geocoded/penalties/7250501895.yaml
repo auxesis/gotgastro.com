@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.208583
-:action_date: "2009-08-13"
-:offence_date: "2009-08-07"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501895
 :offence_description: Fail to display potentially hazardous food under temperature control - filled croissant stored at 19.7C, hot chicken stored at 42.1C
-:latitude: -33.857748
 :trading_name: CARVE AT THE SQUARE
 :penalty_amount: $660.00
+:latitude: -33.857748
 :address: 47 GEORGE STREET SYDNEY 2000
-:id: "7250501895"
 :served_to: HOCHEN PTY LTD
 :council_area: SYDNEY
+:id: "7250501895"
+:action_date: "2009-08-13"
+:offence_date: "2009-08-07"

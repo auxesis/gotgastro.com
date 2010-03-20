@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.009266
-:action_date: "2008-07-02"
-:offence_date: "2008-04-02"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513059
 :offence_description: Fail to take all practicable measures to eradicate & prevent harbourage of pests in food premises
-:latitude: -33.822322
 :trading_name: DHAKA SUPERMARKET
 :penalty_amount: $330.00
+:latitude: -33.822322
 :address: 53B WIGRAM ST HARRIS PARK 2150
-:id: "3013513059"
 :served_to: KARIM, MD MUSTAFA
 :council_area: PARRAMATTA
+:id: "3013513059"
+:action_date: "2008-07-02"
+:offence_date: "2008-04-02"

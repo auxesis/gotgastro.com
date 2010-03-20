@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-09"
-:offence_date: "2008-08-01"
 :pursued_by: Snowy River Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7634716028
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 22 NETTIN CIRCUIT JINDABYNE 2627
 :served_to: KOPPE, MARTIN
-:id: "7634716028"
 :council_area: SNOWY RIVER
+:action_date: "2008-12-09"
+:id: "7634716028"
+:offence_date: "2008-08-01"

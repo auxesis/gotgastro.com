@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.2025683
-:action_date: "2009-06-09"
-:offence_date: "2009-06-05"
+:longitude: 151.2025159
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501639
 :offence_description: Food premises did not have clearly designated hand washing facilities for the sole purpose of  - washing hands, arms and face
-:latitude: -33.8801493
 :trading_name: TRAN BROTHERS SEAFOOD
 :penalty_amount: $330.00
+:latitude: -33.8799907
 :address: 9-13 QUAY STREET HAYMARKET 2000
-:id: "7250501639"
 :served_to: TRAN, VI DAT
 :council_area: SYDNEY
+:id: "7250501639"
+:action_date: "2009-06-09"
+:offence_date: "2009-06-05"

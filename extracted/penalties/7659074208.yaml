@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-29"
-:offence_date: "2008-10-21"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659074208
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 508 WARRINGAH MALL OLD PITTWATER ROAD BROOKVALE
 :served_to: HOKKA HOKKA MANAGEMENT PTYLTD
-:id: "7659074208"
 :council_area: WARRINGAH
+:action_date: "2008-10-29"
+:id: "7659074208"
+:offence_date: "2008-10-21"

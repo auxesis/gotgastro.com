@@ -1,16 +1,16 @@
 --- 
 :longitude: 145.853543
-:action_date: "2008-07-02"
-:offence_date: "2008-03-22"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785971
 :offence_description: Unlicenced operation of a game meat van
-:latitude: -31.499234
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
+:latitude: -31.499234
 :address: LOT 33 WRIGHTVILLE ST COBAR 2835
-:id: "7670785971"
 :served_to: STEWART, SCOTT NATHAN
 :council_area: COBAR
+:id: "7670785971"
+:action_date: "2008-07-02"
+:offence_date: "2008-03-22"

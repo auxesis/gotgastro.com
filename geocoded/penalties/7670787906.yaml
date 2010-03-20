@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.0320682
-:action_date: "2009-06-17"
-:offence_date: "2009-05-20"
+:longitude: 151.0329819
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787906
 :offence_description: Fail to hold the required licence to carry on a food business or activity - manufacture of a ready-to-eat product namely 'Nem Chua' intended for sale
-:latitude: -33.9189186
 :trading_name: CHI THANH QUALITY MEATS
 :penalty_amount: $330.00
+:latitude: -33.9172563
 :address: 319 CHAPEL ROAD BANKSTOWN 2200
-:id: "7670787906"
 :served_to: LUU, SO NGHI
 :council_area: BANKSTOWN
+:id: "7670787906"
+:action_date: "2009-06-17"
+:offence_date: "2009-05-20"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-15"
-:offence_date: "2008-09-11"
 :pursued_by: Randwick City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645983
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 53 MCKEON ST MAROUBRA 2035
 :served_to: ISHAYA, TAWER ZOMAYA
-:id: "7621645983"
 :council_area: RANDWICK
+:action_date: "2008-09-15"
+:id: "7621645983"
+:offence_date: "2008-09-11"

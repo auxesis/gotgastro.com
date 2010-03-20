@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.964309
-:action_date: "2008-12-22"
-:offence_date: "2008-12-18"
+:longitude: 150.9637806
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440237
 :offence_description: Fail to protect food stored in the coolroom from the likelihood of contamination
-:latitude: -33.732318
 :trading_name: SENSATIONAL SANDWICHES
 :penalty_amount: $330.00
+:latitude: -33.7330044
 :address: SHOP 4-5,  4 CENTURY CIRCUIT BAULKHAM HILLS
-:id: "7653440237"
 :served_to: LIU, FELIX
 :council_area: BAULKHAM HILLS
+:id: "7653440237"
+:action_date: "2008-12-22"
+:offence_date: "2008-12-18"

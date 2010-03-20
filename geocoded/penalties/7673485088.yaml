@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.00423
-:action_date: "2008-06-30"
-:offence_date: "2008-06-30"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485088
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.819528
 :trading_name: LAI SHING BBQ AND DIM SIM
 :penalty_amount: $660.00
+:latitude: -33.819528
 :address: SHOP 3/100 CHURCH ST PARRAMATTA 2150
-:id: "7673485088"
 :served_to: Z S INTERNATIONAL P/L
 :council_area: PARRAMATTA
+:id: "7673485088"
+:action_date: "2008-06-30"
+:offence_date: "2008-06-30"

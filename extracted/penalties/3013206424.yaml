@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-24"
-:offence_date: "2008-10-12"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206424
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: MARKET STALL 430-482 SMITHFIELD RD PRAIRIEWOOD
 :served_to: KHAN, KAMIL
-:id: "3013206424"
 :council_area: FAIRFIELD
+:action_date: "2008-10-24"
+:id: "3013206424"
+:offence_date: "2008-10-12"

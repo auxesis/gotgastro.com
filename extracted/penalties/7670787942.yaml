@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-07-01"
-:offence_date: "2009-06-30"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787942
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 34 BOLIVIA STREET CABRAMATTA 2166
 :served_to: VUONG, JENNY
-:id: "7670787942"
 :council_area: FAIRFIELD
+:action_date: "2009-07-01"
+:id: "7670787942"
+:offence_date: "2009-06-30"

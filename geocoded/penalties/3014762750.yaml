@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.44352
-:action_date: "2009-03-18"
-:offence_date: "2009-03-17"
 :pursued_by: Gosford City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762750
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Cockroaches and flies observed in the kitchen area on the shelves and walls
-:latitude: -33.446932
 :trading_name: OLD SIAM STYLE THAI RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.446932
 :address: 9/17 CHURCH STREET TERRIGAL 2260
-:id: "3014762750"
 :served_to: OUR STYLE THAI PTY LTD
 :council_area: GOSFORD
+:id: "3014762750"
+:action_date: "2009-03-18"
+:offence_date: "2009-03-17"

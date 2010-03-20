@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.987302
-:action_date: "2009-02-05"
-:offence_date: "2009-01-19"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465786
 :offence_description: Failure to take all practicable measures to eradicate and prevent the harbourage of pests - Live and dead cockroaches were observed
-:latitude: -33.835489
 :trading_name: RED ROOSTER CHICKEN
 :penalty_amount: $660.00
+:latitude: -33.835489
 :address: 249-259 MERRYLANDS ROAD MERRYLANDS 2160
-:id: "3013465786"
 :served_to: RED ROOSTER FOODS PTY LTD
 :council_area: HOLROYD
+:id: "3013465786"
+:action_date: "2009-02-05"
+:offence_date: "2009-01-19"

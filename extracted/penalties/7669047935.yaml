@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-29"
-:offence_date: "2008-09-23"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669047935
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 177 Burwood  Road BURWOOD
 :served_to: WINNER CULTURE PTY LTD
-:id: "7669047935"
 :council_area: BURWOOD
+:action_date: "2008-09-29"
+:id: "7669047935"
+:offence_date: "2008-09-23"

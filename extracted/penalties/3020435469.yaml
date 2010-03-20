@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-21"
-:offence_date: "2009-08-17"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020435469
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 115 RAWSON STREET Auburn 2144
 :served_to: YASSIN BAKERY SHOP PTY LTD
-:id: "3020435469"
 :council_area: AUBURN
+:action_date: "2009-08-21"
+:id: "3020435469"
+:offence_date: "2009-08-17"

@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.1033176
-:action_date: "2009-09-16"
-:offence_date: "2009-09-14"
+:longitude: 151.1039537
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644702542
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - raw food stored above ready to eat food in coolroom, uncovered food stored on the floor
-:latitude: -33.9682198
 :trading_name: TERRAZAS RESTAURANT BUFFET
 :penalty_amount: $660.00
+:latitude: -33.9685975
 :address: 1A ORMONDE PARADE HURSTVILLE 2220
-:id: "7644702542"
 :served_to: TERRAZAS RESTAURANT BUFFET PTY LTD
 :council_area: KOGARAH
+:id: "7644702542"
+:action_date: "2009-09-16"
+:offence_date: "2009-09-14"

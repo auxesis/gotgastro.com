@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.185583
-:action_date: "2009-04-20"
-:offence_date: "2009-04-15"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651094
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of food waste, dirt, grease, dust and other visible matter
-:latitude: -33.796899
 :trading_name: GOURMET PIZZA KITCHEN TAKEWAY
 :penalty_amount: $660.00
+:latitude: -33.796899
 :address: 56 ARCHER STREET CHATSWOOD 2067
-:id: "7671651094"
 :served_to: GOURMET PIZZA KITCHEN PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671651094"
+:action_date: "2009-04-20"
+:offence_date: "2009-04-15"

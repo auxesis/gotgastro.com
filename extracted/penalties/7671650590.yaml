@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-20"
-:offence_date: "2008-10-13"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650590
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 404-405/1 ANDERSON ST CHATSWOOD
 :served_to: S AND S CHAN INVESTSMENTS PTY LTD
-:id: "7671650590"
 :council_area: WILLOUGHBY
+:action_date: "2008-10-20"
+:id: "7671650590"
+:offence_date: "2008-10-13"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.158259
-:action_date: "2009-03-10"
-:offence_date: "2009-01-09"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513672
 :offence_description: Fail to hold the required licence to carry on a food business or activity - retail sale of poultry
-:latitude: -33.886099
 :trading_name: AC GOURMET POULTRY
 :penalty_amount: $660.00
+:latitude: -33.886099
 :address: SHOP 14/55 NORTON STREET LEICHHARDT 2040
-:id: "3013513672"
 :served_to: AC GOURMET POULTRY PTY LTD
 :council_area: LEICHHARDT
+:id: "3013513672"
+:action_date: "2009-03-10"
+:offence_date: "2009-01-09"

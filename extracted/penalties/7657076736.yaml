@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-01"
-:offence_date: "2008-09-16"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076736
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: FRIDAY DR THREDBO
 :served_to: M K GOODALL INVESTMENTS PTY LTD
-:id: "7657076736"
 :council_area: Kosciuszko
+:action_date: "2008-10-01"
+:id: "7657076736"
+:offence_date: "2008-09-16"

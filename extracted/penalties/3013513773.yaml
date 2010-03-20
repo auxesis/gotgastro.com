@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-12"
-:offence_date: "2009-02-05"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513773
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3, NORTHSIDE SHOPPING CENTRE PARK BEACH ROAD COFFS HARBOUR 2450
 :served_to: BELL, ARTHUR LINDSAY
-:id: "3013513773"
 :council_area: COFFS HARBOUR
+:action_date: "2009-03-12"
+:id: "3013513773"
+:offence_date: "2009-02-05"

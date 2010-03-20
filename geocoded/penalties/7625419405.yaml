@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.084558
-:action_date: "2008-05-21"
-:offence_date: "2008-05-19"
 :pursued_by: City of Canterbury Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7625419405
 :offence_description: Premises not being maintained in a clean state
-:latitude: -33.926395
 :trading_name: KFC
 :penalty_amount: $660.00
+:latitude: -33.926395
 :address: 834-842 CANTERBURY RD LAKEMBA 2195
-:id: "7625419405"
 :served_to: KENTUCKY FRIED CHICKEN P/L
 :council_area: CANTERBURY
+:id: "7625419405"
+:action_date: "2008-05-21"
+:offence_date: "2008-05-19"

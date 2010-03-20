@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-15"
-:offence_date: "2009-05-20"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787841
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 119 GASCOIGNE ROAD BIRRONG 2143
 :served_to: BUI, THI THU CUC
-:id: "7670787841"
 :council_area: BANKSTOWN
+:action_date: "2009-06-15"
+:id: "7670787841"
+:offence_date: "2009-05-20"

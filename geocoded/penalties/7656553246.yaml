@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.499304
-:action_date: "2008-06-30"
-:offence_date: "2008-05-22"
+:longitude: 151.5008536
 :pursued_by: Wyong Shire Council
 :offence_code: 11343 - Sell food packaged/labelled contravening Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553246
 :offence_description: Label on packaged food was altered and obscured (date marking extended)
-:latitude: -33.244331
 :trading_name: COLES SUPERMARKET
 :penalty_amount: $660.00
+:latitude: -33.2435467
 :address: 43 LAKE HAVEN DR LAKE HAVEN 2263
-:id: "7656553246"
 :served_to: COLES SUPERMARKETS AUSTRALIA P/L
 :council_area: WYONG
+:id: "7656553246"
+:action_date: "2008-06-30"
+:offence_date: "2008-05-22"

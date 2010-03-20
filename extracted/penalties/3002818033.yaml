@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-04"
-:offence_date: "2008-09-02"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818033
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 4 HILLCREST RD PENNANT HILLS 2120
 :served_to: MATIJEVIC, MATTHEW
-:id: "3002818033"
 :council_area: HORNSBY
+:action_date: "2008-09-04"
+:id: "3002818033"
+:offence_date: "2008-09-02"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.032744
-:action_date: "2009-08-21"
-:offence_date: "2009-08-17"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020435478
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - accumulation of food waste & grease on equipment, rodent droppings on shelf, food waste in sink
-:latitude: -33.848353
 :trading_name: YASSINE BAKERY SHOP
 :penalty_amount: $660.00
+:latitude: -33.848353
 :address: 115 RAWSON STREET Auburn 2144
-:id: "3020435478"
 :served_to: YASSIN BAKERY SHOP PTY LTD
 :council_area: AUBURN
+:id: "3020435478"
+:action_date: "2009-08-21"
+:offence_date: "2009-08-17"

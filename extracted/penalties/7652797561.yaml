@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-10"
-:offence_date: "2008-07-09"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797561
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 93 GREAT NORTH RD FIVE DOCK 2046
 :served_to: KIM, SUNG YONG
-:id: "7652797561"
 :council_area: CANADA BAY
+:action_date: "2008-07-10"
+:id: "7652797561"
+:offence_date: "2008-07-09"

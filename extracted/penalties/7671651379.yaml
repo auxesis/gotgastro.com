@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-12"
-:offence_date: "2009-05-01"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651379
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 36A 345 VICTORIA AVE CHATSWOOD
 :served_to: JURA HOLDING CO PTY LTD
-:id: "7671651379"
 :council_area: WILLOUGHBY
+:action_date: "2009-05-12"
+:id: "7671651379"
+:offence_date: "2009-05-01"

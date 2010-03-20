@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-05"
-:offence_date: "2008-09-24"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512765
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1 101 MOORE ST LIVERPOOL
 :served_to: TBT EURO BUTCHERY DELI & GROCERIES PTY LTD
-:id: "3013512765"
 :council_area: LIVERPOOL
+:action_date: "2009-01-05"
+:id: "3013512765"
+:offence_date: "2008-09-24"

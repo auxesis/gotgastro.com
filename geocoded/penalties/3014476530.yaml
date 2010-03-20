@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.817481
-:action_date: "2009-08-17"
-:offence_date: "2009-08-13"
 :pursued_by: Hawkesbury City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014476530
 :offence_description: Fail to ensure food for disposal is held and kept separate until it is disposed of so that it cannot be used for human consumption
-:latitude: -33.608814
 :trading_name: RIVERVIEW SEAFOODS
 :penalty_amount: $330.00
+:latitude: -33.608814
 :address: SHOP 33 WINDSOR RIVERVIEW SHOPPING CENTRE 227 GEORGE STREET WINDSOR 2756
-:id: "3014476530"
 :served_to: HE, HUA XIANG
 :council_area: HAWKESBURY
+:id: "3014476530"
+:action_date: "2009-08-17"
+:offence_date: "2009-08-13"

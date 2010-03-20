@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-08"
-:offence_date: "2009-04-06"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650333
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 272 VICTORIA AVENUE CHATSWOOD 2067
 :served_to: JIA YI AUSTRALIA PTY LTD
-:id: "7671650333"
 :council_area: WILLOUGHBY
+:action_date: "2009-04-08"
+:id: "7671650333"
+:offence_date: "2009-04-06"

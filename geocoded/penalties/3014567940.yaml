@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.908653
-:action_date: "2009-02-24"
-:offence_date: "2009-02-24"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567940
 :offence_description: Failed to keep food for disposal separate from food to be sold - Food waste included T-Bone Steak, fish and chicken past their used-by date
-:latitude: -33.773083
 :trading_name: BLACKTOWN WORKERS CLUB
 :penalty_amount: $660.00
+:latitude: -33.773083
 :address: 55 CAMPBELL STREET BLACKTOWN 2148
-:id: "3014567940"
 :served_to: BLACKTOWN WORKERS CLUB LTD
 :council_area: BLACKTOWN
+:id: "3014567940"
+:action_date: "2009-02-24"
+:offence_date: "2009-02-24"

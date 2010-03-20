@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.02426
-:action_date: "2009-03-11"
-:offence_date: "2009-02-25"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514002
 :offence_description: Fail to comply with the Food Standards Code - sale of beef course mince containing sulphur dioxide preservative
-:latitude: -33.907689
 :trading_name: RABIH BUTCHERY
 :penalty_amount: $330.00
+:latitude: -33.907689
 :address: 453 HUME HIGHWAY YAGOONA 2199
-:id: "3013514002"
 :served_to: YAGHI, RABIH
 :council_area: BANKSTOWN
+:id: "3013514002"
+:action_date: "2009-03-11"
+:offence_date: "2009-02-25"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.819436
-:action_date: "2009-09-04"
-:offence_date: "2009-09-03"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269349
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.766622
 :trading_name: BAKERS FLOUR
 :penalty_amount: $660.00
+:latitude: -33.766622
 :address: SHOP 163 WESTFIELD MOUNT DRUITT 49 NORTH PARADE MT DRUITT 2770
-:id: "3029269349"
 :served_to: LU & HENG PTY LTD
 :council_area: BLACKTOWN
+:id: "3029269349"
+:action_date: "2009-09-04"
+:offence_date: "2009-09-03"

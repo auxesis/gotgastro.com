@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-01"
-:offence_date: "2009-09-11"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002819124
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 3, HORNSBY RAILWAY STATION 4 STATION STREET HORNSBY 2077
 :served_to: MT YASS PTY LTD
-:id: "3002819124"
 :council_area: HORNSBY
+:action_date: "2009-10-01"
+:id: "3002819124"
+:offence_date: "2009-09-11"

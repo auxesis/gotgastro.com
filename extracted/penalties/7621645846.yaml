@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-01"
-:offence_date: "2008-07-22"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645846
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 912 ANZAC PDE MAROUBRA 2035
 :served_to: TSURC P/L
-:id: "7621645846"
 :council_area: RANDWICK
+:action_date: "2008-08-01"
+:id: "7621645846"
+:offence_date: "2008-07-22"

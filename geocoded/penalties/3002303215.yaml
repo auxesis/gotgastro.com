@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.199853
-:action_date: "2008-09-02"
-:offence_date: "2008-08-21"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303215
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
-:latitude: -33.894072
 :trading_name: BABUL BUSHRA
 :penalty_amount: $330.00
+:latitude: -33.894072
 :address: 161 REGENT ST REDFERN
-:id: "3002303215"
 :served_to: SHAHABUDDIN, MOHAMMAD
 :council_area: SYDNEY
+:id: "3002303215"
+:action_date: "2008-09-02"
+:offence_date: "2008-08-21"

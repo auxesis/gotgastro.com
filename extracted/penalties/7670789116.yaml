@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-10"
-:offence_date: "2009-03-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670789116
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 785 PACIFIC HIGHWAY GORDON 2072
 :served_to: LIN, BING WEI
-:id: "7670789116"
 :council_area: KU-RING-GAI
+:action_date: "2009-09-10"
+:id: "7670789116"
+:offence_date: "2009-03-26"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-11"
-:offence_date: "2009-05-07"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502216
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 51 MISSENDEN ROAD CAMPERDOWN 2050
 :served_to: HAMZAH, RUSLI
-:id: "7250502216"
 :council_area: SYDNEY
+:action_date: "2009-05-11"
+:id: "7250502216"
+:offence_date: "2009-05-07"

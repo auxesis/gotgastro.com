@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.286946
-:action_date: "2008-12-11"
-:offence_date: "2008-12-09"
 :pursued_by: Warringah Council
 :offence_code: 11342 - Sell food packaged/labelled contravening Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659087810
 :offence_description: Failure to label food for retail sale as presribed by the Food Standards Code
-:latitude: -33.753337
 :trading_name: DEE WHY SUSHI BAR
 :penalty_amount: $330.00
+:latitude: -33.753337
 :address: LOT 3, 28 OAKS AVENUE DEE WHY 2099
-:id: "7659087810"
 :served_to: CHOI, BRIAN DAESUNG
 :council_area: WARRINGAH
+:id: "7659087810"
+:action_date: "2008-12-11"
+:offence_date: "2008-12-09"

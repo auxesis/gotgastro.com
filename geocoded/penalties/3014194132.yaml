@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.548041
-:action_date: "2009-11-06"
-:offence_date: "2009-10-16"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014194132
 :offence_description: Fail to have hand washing facilities that are located where they can be easily accessed by food handlers
-:latitude: -33.186574
 :trading_name: COLES EXPRESS LAKE MUNMORAH
 :penalty_amount: $660.00
+:latitude: -33.186574
 :address: 260 PACIFIC HIGHWAY DOYALSON NORTH 2259
-:id: "3014194132"
 :served_to: EUREKA OPERATIONS PTY LTD
 :council_area: WYONG
+:id: "3014194132"
+:action_date: "2009-11-06"
+:offence_date: "2009-10-16"

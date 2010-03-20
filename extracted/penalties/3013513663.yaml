@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-09"
-:offence_date: "2008-11-10"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513663
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/11 ELIZABETH STREET CAMPSIE 2194
 :served_to: SIMGOOD PTY LTD
-:id: "3013513663"
 :council_area: CANTERBURY
+:action_date: "2009-03-09"
+:id: "3013513663"
+:offence_date: "2008-11-10"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.28759
-:action_date: "2009-09-24"
-:offence_date: "2009-09-23"
 :pursued_by: Warringah Council
 :offence_code: 11343 - Sell food packaged/labelled contravening Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659237576
 :offence_description: Fail to provide adequate labelling on food for retail sale - pre-packaged quiche and meat pie
-:latitude: -33.75407
 :trading_name: WILD OAKS MARKET
 :penalty_amount: $660.00
+:latitude: -33.75407
 :address: SHOP 10/27-33 OAKS AVENUE DEE WHY 2099
-:id: "7659237576"
 :served_to: EDCOMINI PTY LTD
 :council_area: WARRINGAH
+:id: "7659237576"
+:action_date: "2009-09-24"
+:offence_date: "2009-09-23"

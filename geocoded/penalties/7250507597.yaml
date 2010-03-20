@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.207614
-:action_date: "2009-09-15"
-:offence_date: "2009-09-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507597
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - cockroaches observed throughout the food preparation area
-:latitude: -33.870396
 :trading_name: SUMO SALAD
 :penalty_amount: $660.00
+:latitude: -33.870396
 :address: 432-450 GEORGE STREET SYDNEY 2000
-:id: "7250507597"
 :served_to: AUSTRALIAN CREDIT AND FINANCE CORPORATION PTY LTD    T-A SUMO SALAD
 :council_area: SYDNEY
+:id: "7250507597"
+:action_date: "2009-09-15"
+:offence_date: "2009-09-10"

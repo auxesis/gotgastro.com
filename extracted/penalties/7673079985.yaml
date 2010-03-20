@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-15"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673079985
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 273 LIVERPOOL RD ASHFIELD 2131
 :served_to: F Q CHEN P/L
-:id: "7673079985"
 :council_area: ASHFIELD
+:action_date: "2008-08-15"
+:id: "7673079985"
+:offence_date: "2008-08-11"

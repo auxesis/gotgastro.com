@@ -1,6 +1,4 @@
 --- 
-:action_date: -00-00
-:offence_date: "2008-07-02"
 :pursued_by: Pittwater Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663162
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 5&6 1493 PITTWATER ROAD NARRABEEN 2101
 :served_to: LAU, FRED
-:id: "3002663162"
 :council_area: PITTWATER
+:action_date: 
+:id: "3002663162"
+:offence_date: "2008-07-02"

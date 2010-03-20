@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.9377417
-:action_date: "2009-05-01"
-:offence_date: "2009-03-31"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315390
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - raw chicken uncovered in refrigerator
-:latitude: -33.8955942
 :trading_name: PHO HUONG XUA
 :penalty_amount: $330.00
+:latitude: -33.8955942
 :address: 180 CABRAMATTA RD CABRAMATTA
-:id: "3015315390"
 :served_to: TRAN, THU QUANG
 :council_area: FAIRFIELD
+:id: "3015315390"
+:action_date: "2009-05-01"
+:offence_date: "2009-03-31"

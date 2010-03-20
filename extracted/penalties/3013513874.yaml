@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-13"
-:offence_date: "2009-02-24"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513874
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 520 HUME HIGHWAY YAGOONA 2199
 :served_to: EL-ARAB, TOUFIC
-:id: "3013513874"
 :council_area: BANKSTOWN
+:action_date: "2009-03-13"
+:id: "3013513874"
+:offence_date: "2009-02-24"

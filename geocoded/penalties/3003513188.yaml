@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.047484
-:action_date: "2009-03-24"
-:offence_date: "2009-03-23"
 :pursued_by: Hurstville City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513188
 :offence_description: Fail to maintain all fixtures, fittings and equipment in a clean condition
-:latitude: -33.975151
 :trading_name: LUGARNO CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.975151
 :address: 1014 FOREST RD LUGARNO 2210
-:id: "3003513188"
 :served_to: ZHENG, SUSAN
 :council_area: HURSTVILLE
+:id: "3003513188"
+:action_date: "2009-03-24"
+:offence_date: "2009-03-23"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-28"
-:offence_date: "2009-05-25"
 :pursued_by: Burwood Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023220485
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 159 GEORGES RIVER ROAD CROYDON PARK 2133
 :served_to: ELMORR, HANI
-:id: "3023220485"
 :council_area: BURWOOD
+:action_date: "2009-05-28"
+:id: "3023220485"
+:offence_date: "2009-05-25"

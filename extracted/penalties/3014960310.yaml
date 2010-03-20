@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-17"
-:offence_date: "2009-04-15"
 :pursued_by: Rockdale City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960310
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 27 FIRTH STREET ARNCLIFFE 2205
 :served_to: T G L SYDNEY PTY LTD
-:id: "3014960310"
 :council_area: ROCKDALE
+:action_date: "2009-04-17"
+:id: "3014960310"
+:offence_date: "2009-04-15"

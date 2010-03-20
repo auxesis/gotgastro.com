@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-11-18"
-:offence_date: "2009-05-01"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002703606
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 26  14-28 WHITE CROSS RD WINMALEE 2777
 :served_to: ADONAI INTERNATIONAL PTY LTD
-:id: "3002703606"
 :council_area: BLUE MOUNTAINS
+:action_date: "2009-11-18"
+:id: "3002703606"
+:offence_date: "2009-05-01"

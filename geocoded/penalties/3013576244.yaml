@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.775345
-:action_date: "2009-03-20"
-:offence_date: "2009-03-11"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576244
 :offence_description: Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - there was no sanitiser on the premises
-:latitude: -33.778436
 :trading_name: THEO'S CHICKENS
 :penalty_amount: $330.00
+:latitude: -33.778436
 :address: 87 MONFARVILLE STREET ST MARYS 2760
-:id: "3013576244"
 :served_to: VIDINIOTIS, THEODORE
 :council_area: PENRITH
+:id: "3013576244"
+:action_date: "2009-03-20"
+:offence_date: "2009-03-11"

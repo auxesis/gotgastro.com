@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-22"
-:offence_date: "2008-03-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785770
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 9 ARKLEY ST BANKSTOWN 2200
 :served_to: DIHANG POULTRY P/L
-:id: "7670785770"
 :council_area: BANKSTOWN
+:action_date: "2008-05-22"
+:id: "7670785770"
+:offence_date: "2008-03-14"

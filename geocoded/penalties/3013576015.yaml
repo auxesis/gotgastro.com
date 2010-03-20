@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.769863
-:action_date: "2008-12-16"
-:offence_date: "2008-12-12"
 :pursued_by: Penrith City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576015
 :offence_description: Failed to take all practicable measures to eradicate and prevent the harbourage of pests - Live and dead cockroaches present in the kitchen area
-:latitude: -33.769273
 :trading_name: BREWHOUSE ST MARYS
 :penalty_amount: $660.00
+:latitude: -33.769273
 :address: 449 GREAT WESTERN HIGHWAY ST MARYS 2760
-:id: "3013576015"
 :served_to: GLOBAL HOSPITALITY ACQUISITIONS PTY LTD
 :council_area: PENRITH
+:id: "3013576015"
+:action_date: "2008-12-16"
+:offence_date: "2008-12-12"

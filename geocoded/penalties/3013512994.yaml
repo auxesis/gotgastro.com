@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.634368
-:action_date: "2009-03-09"
-:offence_date: "2009-01-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512994
 :offence_description: Fail to comply with the requirements of the food safety scheme - the food premises and equipment were in an unclean condition
-:latitude: -32.678216
 :trading_name: REDGATE FARM
 :penalty_amount: $660.00
+:latitude: -32.678216
 :address: CLARENCETOWN ROAD WOODVILLE 2321
-:id: "3013512994"
 :served_to: CHARDONN PTY LTD
 :council_area: PORT STEPHENS
+:id: "3013512994"
+:action_date: "2009-03-09"
+:offence_date: "2009-01-23"

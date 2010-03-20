@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2251923
-:action_date: "2009-03-23"
-:offence_date: "2009-03-18"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501327
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.8760599
 :trading_name: CAFE HERNANDEZ
 :penalty_amount: $660.00
+:latitude: -33.8760599
 :address: 60 KINGS CROSS ROAD DARLINGHURST 2010
-:id: "7250501327"
 :served_to: CAFE HERNANDEZ PTY LTD
 :council_area: SYDNEY
+:id: "7250501327"
+:action_date: "2009-03-23"
+:offence_date: "2009-03-18"

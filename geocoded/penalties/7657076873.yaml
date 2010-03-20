@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-26"
-:offence_date: "2009-08-10"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: KAREELA HUTTE
 :penalty_amount: $330.00
 :address: SUPER TRAIL THREDBO MOUNTAIN THREDBO 2625
-:id: "7657076873"
 :served_to: STEVENS, NIGEL PETER ANDREW
 :council_area: Kosciuszko
+:id: "7657076873"
+:action_date: "2009-10-26"
+:offence_date: "2009-08-10"

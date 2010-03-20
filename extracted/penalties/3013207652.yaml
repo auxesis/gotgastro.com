@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-16"
-:offence_date: "2008-04-23"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013207652
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 3/105 TANGERINE ST FAIRFIELD EAST 2165
 :served_to: ROJAS, ARMANDO JOSE
-:id: "3013207652"
 :council_area: FAIRFIELD
+:action_date: "2008-05-16"
+:id: "3013207652"
+:offence_date: "2008-04-23"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.226475
-:action_date: "2009-03-10"
-:offence_date: "2009-03-04"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501309
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - german cockroaches observed on the premises
-:latitude: -33.885032
 :trading_name: DECK ON BENT
 :penalty_amount: $330.00
+:latitude: -33.885032
 :address: 215-GO5 BENT STREET ENTERTAINMENT QUARTER COMPLEX, MOORE PARK PADDINGTON 2021
-:id: "7250501309"
 :served_to: MANSOUR, RAMY
 :council_area: SYDNEY
+:id: "7250501309"
+:action_date: "2009-03-10"
+:offence_date: "2009-03-04"

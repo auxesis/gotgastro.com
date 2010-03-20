@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-03"
-:offence_date: "2008-05-26"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002304196
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 567 CROWN ST SURRY HILLS
 :served_to: KAWELCH PTY LTD
-:id: "3002304196"
 :council_area: SYDNEY
+:action_date: "2008-06-03"
+:id: "3002304196"
+:offence_date: "2008-05-26"

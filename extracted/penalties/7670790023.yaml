@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-27"
-:offence_date: "2008-08-21"
 :pursued_by: Botany Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790023
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 984 BOTANY RD MASCOT 2020
 :served_to: GIADA PTY LTD
-:id: "7670790023"
 :council_area: BOTANY
+:action_date: "2008-08-27"
+:id: "7670790023"
+:offence_date: "2008-08-21"

@@ -1,16 +1,16 @@
 --- 
 :longitude: -77.6363806
-:action_date: "2008-11-13"
-:offence_date: "2008-11-12"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307871
 :offence_description: Fail to maintain food premises in a clean condition - unclean floors, walls, equipment legs, pipework
-:latitude: 38.8120591
 :trading_name: SILKROAD CHINESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: 38.8120591
 :address: SHOP QG13 8 QUAY ST HAYMARKET
-:id: "3002307871"
 :served_to: SILK ROAD HOLDINGS P/L
 :council_area: SYDNEY
+:id: "3002307871"
+:action_date: "2008-11-13"
+:offence_date: "2008-11-12"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-28"
-:offence_date: "2009-04-23"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184562
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 1/1 WOOD STREET ASHFIELD 2131
 :served_to: KIM, YOUNG SOOK
-:id: "3014184562"
 :council_area: ASHFIELD
+:action_date: "2009-04-28"
+:id: "3014184562"
+:offence_date: "2009-04-23"

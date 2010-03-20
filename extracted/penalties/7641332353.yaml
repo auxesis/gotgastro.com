@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-20"
-:offence_date: "2009-10-19"
 :pursued_by: Mosman Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332353
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 928 MILITARY ROAD MOSMAN 2088
 :served_to: XIAN, WEIQUAN
-:id: "7641332353"
 :council_area: MOSMAN
+:action_date: "2009-10-20"
+:id: "7641332353"
+:offence_date: "2009-10-19"

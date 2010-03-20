@@ -1,6 +1,4 @@
 --- 
-:action_date: -00-00
-:offence_date: "2009-09-30"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644702607
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 221-229 ROCKY POINT ROAD RAMSGATE 2217
 :served_to: "THE TRUSTEE FOR MARLOW FAMILY TRUST #2"
-:id: "7644702607"
 :council_area: KOGARAH
+:action_date: 
+:id: "7644702607"
+:offence_date: "2009-09-30"

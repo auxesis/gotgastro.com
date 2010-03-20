@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-02"
-:offence_date: "2008-08-27"
 :pursued_by: Holroyd City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671477817
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 1/8-10 BRITTON ST SMITHFIELD 2164
 :served_to: TAM, MABLE MEI BO
-:id: "7671477817"
 :council_area: HOLROYD
+:action_date: "2008-09-02"
+:id: "7671477817"
+:offence_date: "2008-08-27"

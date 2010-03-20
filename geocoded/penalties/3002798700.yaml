@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.128383
-:action_date: "2009-05-01"
-:offence_date: "2009-04-30"
 :pursued_by: Hunters Hill Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002798700
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of food waste and grease on shelving and grease on storage racks
-:latitude: -33.831922
 :trading_name: XUN'S KITCHEN
 :penalty_amount: $330.00
+:latitude: -33.831922
 :address: SHOP 17, GLADESVILLE SHOPPING VILLAGE FLAGSTAFF STREET GLADESVILLE 2111
-:id: "3002798700"
 :served_to: MA, XUN
 :council_area: HUNTER'S HILL
+:id: "3002798700"
+:action_date: "2009-05-01"
+:offence_date: "2009-04-30"

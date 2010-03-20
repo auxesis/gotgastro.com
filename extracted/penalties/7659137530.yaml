@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-23"
-:offence_date: "2009-03-04"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137530
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 5/180 SOUTH CREEK ROAD WHEELER HEIGHTS 2097
 :served_to: SANG, TINA
-:id: "7659137530"
 :council_area: WARRINGAH
+:action_date: "2009-03-23"
+:id: "7659137530"
+:offence_date: "2009-03-04"

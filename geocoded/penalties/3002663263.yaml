@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.3033041
-:action_date: "2009-03-10"
-:offence_date: "2009-01-13"
 :pursued_by: Pittwater Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663263
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.6784162
 :trading_name: KONNICHIWA SUSHI BAR
 :penalty_amount: $330.00
+:latitude: -33.6784162
 :address: SH 2/1751 PITTWATER RD MONA VALE 2103
-:id: "3002663263"
 :served_to: YOUNG, ONE
 :council_area: PITTWATER
+:id: "3002663263"
+:action_date: "2009-03-10"
+:offence_date: "2009-01-13"

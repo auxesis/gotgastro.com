@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-04"
-:offence_date: "2008-07-31"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012234
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: LOT 1 4 MACKELLAR ST EMU PLAINS 2750
 :served_to: GEORGAS, SEVASTI
-:id: "7673012234"
 :council_area: PENRITH
+:action_date: "2008-08-04"
+:id: "7673012234"
+:offence_date: "2008-07-31"

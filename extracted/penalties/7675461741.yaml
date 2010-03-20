@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-17"
-:offence_date: "2009-01-27"
 :pursued_by: Leichhardt Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461741
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 4-5/189 DARLING STREET BALMAIN 2041
 :served_to: ICE FIRE PTY LTD
-:id: "7675461741"
 :council_area: LEICHHARDT
+:action_date: "2009-02-17"
+:id: "7675461741"
+:offence_date: "2009-01-27"

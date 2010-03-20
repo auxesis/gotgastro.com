@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-08"
-:offence_date: "2009-03-25"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501419
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 82-94 DARLINGHURST ROAD POTTS POINT 2011
 :served_to: PIE FACE PTY LTD
-:id: "7250501419"
 :council_area: SYDNEY
+:action_date: "2009-04-08"
+:id: "7250501419"
+:offence_date: "2009-03-25"

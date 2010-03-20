@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.038606
-:action_date: "2008-10-29"
-:offence_date: "2008-10-22"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537061
 :offence_description: Fail to process or cool potentially hazardous food under temperature or time control
-:latitude: -33.843119
 :trading_name: SINTHU RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.843119
 :address: 164 PARRAMATTA RD AUBURN
-:id: "7672537061"
 :served_to: KANTHASAMY, THAVARAJAH
 :council_area: AUBURN
+:id: "7672537061"
+:action_date: "2008-10-29"
+:offence_date: "2008-10-22"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-27"
-:offence_date: "2009-05-26"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651534
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 340 PENSHURST STREET NORTH WILLOUGHBY 2068
 :served_to: EXPRESS FOODS PTY LTD
-:id: "7671651534"
 :council_area: WILLOUGHBY
+:action_date: "2009-05-27"
+:id: "7671651534"
+:offence_date: "2009-05-26"

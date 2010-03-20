@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.210857
-:action_date: "2009-07-09"
-:offence_date: "2009-07-08"
+:longitude: 151.210885
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501758
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - cockroaches observed throughout the premises
-:latitude: -33.862198
 :trading_name: YOUNG ALFRED
 :penalty_amount: $660.00
+:latitude: -33.861881
 :address: 31 ALFRED STREET SYDNEY 2000
-:id: "7250501758"
 :served_to: EASTERN CAFE CUSTOMS HOUSE PTY LTD
 :council_area: SYDNEY
+:id: "7250501758"
+:action_date: "2009-07-09"
+:offence_date: "2009-07-08"

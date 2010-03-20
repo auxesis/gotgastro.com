@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.285794
-:action_date: "2009-05-06"
-:offence_date: "2009-05-04"
 :pursued_by: Manly Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172871
 :offence_description: Fail to take all practicable measures to ensure all people on the food premises do not smoke
-:latitude: -33.797158
 :trading_name: NORTHERN BEACHES TAKEAWAY
 :penalty_amount: $330.00
+:latitude: -33.797158
 :address: 41 SYDNEY ROAD MANLY 2095
-:id: "7641172871"
 :served_to: CHEN, ALEN
 :council_area: MANLY
+:id: "7641172871"
+:action_date: "2009-05-06"
+:offence_date: "2009-05-04"

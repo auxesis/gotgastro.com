@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-06"
-:offence_date: "2009-08-04"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547773
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 11-13 MCDONALD PLACE EVANS HEAD 2473
 :served_to: WOODBURN EVANS HEAD RSL LTD
-:id: "3003547773"
 :council_area: RICHMOND VALLEY COUNCIL
+:action_date: "2009-08-06"
+:id: "3003547773"
+:offence_date: "2009-08-04"

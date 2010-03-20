@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.720223
-:action_date: "2008-06-17"
-:offence_date: "2008-06-13"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011840
 :offence_description: Fail to maintain equipment in a clean condition
-:latitude: -33.759045
 :trading_name: KINGSWOOD CHICKEN MAN
 :penalty_amount: $330.00
+:latitude: -33.759045
 :address: 180 GREAT WESTERN HWY KINGSWOOD 2747
-:id: "7673011840"
 :served_to: HO, JOHN
 :council_area: PENRITH
+:id: "7673011840"
+:action_date: "2008-06-17"
+:offence_date: "2008-06-13"

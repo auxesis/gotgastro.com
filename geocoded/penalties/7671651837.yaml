@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.178764
-:action_date: "2009-08-11"
-:offence_date: "2009-08-10"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
-:notes: ""
+:notes: Business has been sold or otherwise disposed of
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651837
 :offence_description: Fail to maintain at or near each hand washing facility a supply of  - single use towels
-:latitude: -33.79569
 :trading_name: CUZZA CAFE
 :penalty_amount: $660.00
+:latitude: -33.79569
 :address: 15 HELP STREET CHATSWOOD 2067
-:id: "7671651837"
 :served_to: H H Q T INVESTMENT PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671651837"
+:action_date: "2009-08-11"
+:offence_date: "2009-08-10"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 153.5939767
-:action_date: "2008-12-04"
-:offence_date: "2008-10-30"
 :pursued_by: Ballina Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188702
 :offence_description: Fail to maintain food premises and equipment in a clean condition
-:latitude: -28.7953861
 :trading_name: IN THE PINK BYRON BAY GELATI COMPANY
 :penalty_amount: $330.00
+:latitude: -28.7953861
 :address: 1/76 BALLINA ST LENNOX HEAD
-:id: "7652188702"
 :served_to: LAWRENCE, BEN
 :council_area: BALLINA
+:id: "7652188702"
+:action_date: "2008-12-04"
+:offence_date: "2008-10-30"

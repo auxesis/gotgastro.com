@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-31"
-:offence_date: "2009-03-24"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242450
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 11 DOUGLAS ROAD QUAKERS HILL 2763
 :served_to: VUONG, XE UAN
-:id: "3015242450"
 :council_area: BLACKTOWN
+:action_date: "2009-03-31"
+:id: "3015242450"
+:offence_date: "2009-03-24"

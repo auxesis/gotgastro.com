@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-30"
-:offence_date: "2008-03-17"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787668
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 122 CORUNNA LANE STANMORE 2048
 :served_to: SEAFOOD SYSTEMS AUSTRALIA PTY LTD
-:id: "7670787668"
 :council_area: MARRICKVILLE
+:action_date: "2008-07-30"
+:id: "7670787668"
+:offence_date: "2008-03-17"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-11"
-:offence_date: "2009-01-27"
 :pursued_by: Pittwater Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663290
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 2 QUEENS PARADE, WEST NEWPORT NEWPORT 2106
 :served_to: BAYFIELD HOTELS MIRAGE PTY LTD
-:id: "3002663290"
 :council_area: PITTWATER
+:action_date: "2009-03-11"
+:id: "3002663290"
+:offence_date: "2009-01-27"

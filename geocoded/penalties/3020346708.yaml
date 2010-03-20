@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.056532
-:action_date: "2008-08-14"
-:offence_date: "2008-08-13"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346708
 :offence_description: Fail to maintain fittings and equipment in a clean condition - accumulation of food waste, dirt, grease and other visible matter
-:latitude: -33.834261
 :trading_name: SAN SAL BAR
 :penalty_amount: $330.00
+:latitude: -33.834261
 :address: SHOP 1C, 6 AVENUE OF EUROPE NEWINGTON 2127
-:id: "3020346708"
 :served_to: KU, HENRY
 :council_area: AUBURN
+:id: "3020346708"
+:action_date: "2008-08-14"
+:offence_date: "2008-08-13"

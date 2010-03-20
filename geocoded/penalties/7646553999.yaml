@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.125362
-:action_date: "2008-11-20"
-:offence_date: "2008-11-12"
 :pursued_by: Rockdale City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7646553999
 :offence_description: Fail to maintain food premises in a clean condition - grease and dirt on floors and walls
-:latitude: -33.931912
 :trading_name: MY CAKE SHOP
 :penalty_amount: $330.00
+:latitude: -33.931912
 :address: 6 HARTILL LAW AVE BARDWELL PARK
-:id: "7646553999"
 :served_to: LAM, JERRY
 :council_area: ROCKDALE
+:id: "7646553999"
+:action_date: "2008-11-20"
+:offence_date: "2008-11-12"

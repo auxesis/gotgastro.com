@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.032216
-:action_date: "2009-03-19"
-:offence_date: "2009-02-16"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020396702
 :offence_description: Fail to display potentially hazardous food under temperature control - Observed temperatures of chicken soup at 35C, roast beef at 52.6C and tripe at 35C
-:latitude: -33.849483
 :trading_name: DRAGON BBQ HOUSE
 :penalty_amount: $330.00
+:latitude: -33.849483
 :address: 126 SOUTH PARADE Auburn 2144
-:id: "3020396702"
 :served_to: AU, YUEN YAN
 :council_area: AUBURN
+:id: "3020396702"
+:action_date: "2009-03-19"
+:offence_date: "2009-02-16"

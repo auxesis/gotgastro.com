@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-28"
-:offence_date: "2009-09-14"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452935
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 84-90 ATCHISON STREET CROWS NEST 2065
 :served_to: D AND J FARM FRESH PTY LTD
-:id: "7678452935"
 :council_area: NORTH SYDNEY
+:action_date: "2009-09-28"
+:id: "7678452935"
+:offence_date: "2009-09-14"

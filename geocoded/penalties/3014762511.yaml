@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.316586
-:action_date: "2008-11-27"
-:offence_date: "2008-10-27"
 :pursued_by: Gosford City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762511
 :offence_description: Fail to maintain food premises in a clean condition  - unclean floors
-:latitude: -33.429517
 :trading_name: WEST GOSFORD CAKE & BREAD SHOP
 :penalty_amount: $660.00
+:latitude: -33.429517
 :address: SHOP 7 299 BRISBANE WATER DRIVE WEST GOSFORD 2250
-:id: "3014762511"
 :served_to: GOSFORD BAKE HOUSE PTY LTD
 :council_area: GOSFORD
+:id: "3014762511"
+:action_date: "2008-11-27"
+:offence_date: "2008-10-27"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-30"
-:offence_date: "2008-09-22"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650562
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 220 65 ALBERT AVE CHATSWOOD
 :served_to: AIRFOAL P/L
-:id: "7671650562"
 :council_area: WILLOUGHBY
+:action_date: "2008-09-30"
+:id: "7671650562"
+:offence_date: "2008-09-22"

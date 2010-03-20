@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.097699
-:action_date: "2008-09-30"
-:offence_date: "2008-09-29"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818161
 :offence_description: Use of cracked and damaged food storage containers and crockery within the premises
-:latitude: -33.703339
 :trading_name: TOKYO RAMEN
 :penalty_amount: $660.00
+:latitude: -33.703339
 :address: SHOP 1042  236 PACIFIC HIGHWAY  HORNSBY 2077
-:id: "3002818161"
 :served_to: HASEGAWA AND YE INTERNATIONAL PTY LTD
 :council_area: HORNSBY
+:id: "3002818161"
+:action_date: "2008-09-30"
+:offence_date: "2008-09-29"

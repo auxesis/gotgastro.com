@@ -1,6 +1,4 @@
 --- 
-:action_date: -00-00
-:offence_date: "2009-09-09"
 :pursued_by: Penrith City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576785
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 389-433 GREAT WESTERN HIGHWAY ST MARYS 2760
 :served_to: LLL CATERING PTY LTD
-:id: "3013576785"
 :council_area: PENRITH
+:action_date: 
+:id: "3013576785"
+:offence_date: "2009-09-09"

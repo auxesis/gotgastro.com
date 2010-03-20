@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.183541
-:action_date: "2009-03-30"
-:offence_date: "2009-02-24"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514094
 :offence_description: Fail to comply with a condition of licence - records were not maintained in accordance with the food safety program
-:latitude: -33.91926
 :trading_name: SUPERB SOUVLAKI FOOD SERVICES
 :penalty_amount: $660.00
+:latitude: -33.91926
 :address: 46/566 GARDENERS ROAD ALEXANDRIA 2015
-:id: "3013514094"
 :served_to: SOULIOS PTY LTD
 :council_area: SYDNEY
+:id: "3013514094"
+:action_date: "2009-03-30"
+:offence_date: "2009-02-24"

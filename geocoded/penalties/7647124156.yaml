@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.663303
-:action_date: "2009-01-16"
-:offence_date: "2009-01-15"
 :pursued_by: Armidale Dumaresq Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7647124156
 :offence_description: Fail to cool cooked potentially hazardous food within the requirements prescribed by the Food Standards Code
-:latitude: -30.512841
 :trading_name: MUN HING RESTAURANT
 :penalty_amount: $660.00
+:latitude: -30.512841
 :address: 236 BEARDY ST ARMIDALE
-:id: "7647124156"
 :served_to: CHEUNG WIN PTY LTD
 :council_area: ARMIDALE
+:id: "7647124156"
+:action_date: "2009-01-16"
+:offence_date: "2009-01-15"

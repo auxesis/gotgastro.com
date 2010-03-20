@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-06"
-:offence_date: "2009-02-06"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315032
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 64 BROOMFIELD STREET CABRAMATTA 2166
 :served_to: ZHOU, LIFEN
-:id: "3015315032"
 :council_area: FAIRFIELD
+:action_date: "2009-03-06"
+:id: "3015315032"
+:offence_date: "2009-02-06"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-27"
-:offence_date: "2009-10-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787970
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 177 PACIFIC HIGHWAY HORNSBY 2077
 :served_to: KAREER BROTHERS PTY LTD
-:id: "7670787970"
 :council_area: HORNSBY
+:action_date: "2009-10-27"
+:id: "7670787970"
+:offence_date: "2009-10-14"

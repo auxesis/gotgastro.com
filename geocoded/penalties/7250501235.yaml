@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.207685
-:action_date: "2009-03-04"
-:offence_date: "2009-02-27"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501235
 :offence_description: Fail to display food under temperature control
-:latitude: -33.866181
 :trading_name: TOP ONE KITCHEN
 :penalty_amount: $330.00
+:latitude: -33.866181
 :address: SHOP 3 THE HUNTER CONNECTION 7 HUNTER STREET SYDNEY 2000
-:id: "7250501235"
 :served_to: YE, JINGHUI
 :council_area: SYDNEY
+:id: "7250501235"
+:action_date: "2009-03-04"
+:offence_date: "2009-02-27"

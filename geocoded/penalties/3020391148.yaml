@@ -1,6 +1,5 @@
 --- 
-:action_date: "2008-10-22"
-:offence_date: "2008-10-19"
+:longitude: 151.0641667
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -8,7 +7,10 @@
 :offence_description: Fail to take all neceesary steps to prevent the likelihood of food being contaminated during processing - food being processed on the ground
 :trading_name: AKSHYA SOUTH INDIAN FOOD STALL
 :penalty_amount: $330.00
+:latitude: -33.8502778
 :address: Edwin Flack Ave Sydney Olympic Park
-:id: "3020391148"
 :served_to: MUVVA, SHILPI
 :council_area: AUBURN
+:id: "3020391148"
+:action_date: "2008-10-22"
+:offence_date: "2008-10-19"

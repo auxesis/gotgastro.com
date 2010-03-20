@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-27"
-:offence_date: "2009-02-26"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: WINSTON GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
 :address: SHOP 1  190 CAROLINE CHISHOLM DRIVE WINSTON HILLS 2154
-:id: "7653440502"
 :served_to: TSUI, TONY YAM YI
 :council_area: BAULKHAM HILLS
+:id: "7653440502"
+:action_date: "2009-02-27"
+:offence_date: "2009-02-26"

@@ -1,16 +1,16 @@
 --- 
 :longitude: -73.8463227
-:action_date: "2008-10-27"
-:offence_date: "2008-10-24"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399481
 :offence_description: Fail to maintain a temperature measuring device for potentially hazardous food
-:latitude: 40.8116721
 :trading_name: CAFE SUBLIME
 :penalty_amount: $330.00
+:latitude: 40.8116721
 :address: SHOP 226A CASTLE TOWERS 6-14 CASTLE ST CASTLE HILL 2154
-:id: "7653399481"
 :served_to: BARRY, VIVIEN
 :council_area: BAULKHAM HILLS
+:id: "7653399481"
+:action_date: "2008-10-27"
+:offence_date: "2008-10-24"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.285211
-:action_date: "2008-05-26"
-:offence_date: "2008-05-02"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282038
 :offence_description: Dog in food serving area adjacent to dining area
-:latitude: -33.635193
 :trading_name: WATTLE CAFE
 :penalty_amount: $330.00
+:latitude: -33.635193
 :address: 240 GREAT WESTERN HWY BLACKHEATH 2785
-:id: "7652282038"
 :served_to: EXNER, JASON
 :council_area: BLUE MOUNTAINS
+:id: "7652282038"
+:action_date: "2008-05-26"
+:offence_date: "2008-05-02"

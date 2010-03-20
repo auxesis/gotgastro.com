@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.6089618
-:action_date: "2008-12-28"
-:offence_date: "2008-12-16"
+:longitude: 150.613663
 :pursued_by: Blue Mountains City Council
 :offence_code: 11322 - Sell food that is unsuitable - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697180
 :offence_description: Sale of unsuitable food - Cigarette butt within a bread product sold
-:latitude: -33.7434963
 :trading_name: THE CRUSTY LOAF
 :penalty_amount: $550.00
+:latitude: -33.747186
 :address: SHOP 4 BLAXLAND ARCADE SHOP/CTR 150 GREAT WESTERN HWY BLAXLAND 2774
-:id: "3002697180"
 :served_to: ANG, SOPHA
 :council_area: BLUE MOUNTAINS
+:id: "3002697180"
+:action_date: "2008-12-28"
+:offence_date: "2008-12-16"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-06"
-:offence_date: "2009-04-01"
 :pursued_by: Wingecarribee Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014068283
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOPS 1 & 2, CORNER OF STATION STREET AND BOOLWEY STREET BOWRAL 2576
 :served_to: JACK STYLE PTY LTD
-:id: "3014068283"
 :council_area: WINGECARRIBEE
+:action_date: "2009-04-06"
+:id: "3014068283"
+:offence_date: "2009-04-01"

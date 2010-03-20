@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-29"
-:offence_date: "2008-10-22"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659074217
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 10, 1-3 MOORE ROAD HARBORD 2096
 :served_to: STRATILAS, JOHN
-:id: "7659074217"
 :council_area: WARRINGAH
+:action_date: "2008-10-29"
+:id: "7659074217"
+:offence_date: "2008-10-22"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.200646
-:action_date: "2009-04-30"
-:offence_date: "2009-04-08"
 :pursued_by: NSW Food Authority
 :offence_code: 11329 - Sell food packaged/labelled that falsely describes the food - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514296
 :offence_description: Sale of food that is packaged or labelled in a way that falsely describes the food - hot cross buns were incorrectly labelled as 'gluten-free'
-:latitude: -33.824035
 :trading_name: HELLER'S HEALTH FOODS
 :penalty_amount: $1320.00
+:latitude: -33.824035
 :address: 132 WILLOUGHBY ROAD CROWS NEST 2065
-:id: "3013514296"
 :served_to: GAOEST PTY LTD
 :council_area: NORTH SYDNEY
+:id: "3013514296"
+:action_date: "2009-04-30"
+:offence_date: "2009-04-08"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.9042272
-:action_date: "2008-10-24"
-:offence_date: "2008-10-12"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206433
 :offence_description: Fail to take all necessary steps to prevent the likelihood of food being contaminated
-:latitude: -33.8698687
 :trading_name: HIMALAYA INDIAN PAKISTANI FOOD (TEMP FOOD STALL)
 :penalty_amount: $330.00
+:latitude: -33.8698687
 :address: 430-482 SMITHFIELD RD PRAIRIEWOOD 2176
-:id: "3013206433"
 :served_to: AHMA, MUSHTAQ
 :council_area: FAIRFIELD
+:id: "3013206433"
+:action_date: "2008-10-24"
+:offence_date: "2008-10-12"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-24"
-:offence_date: "2008-08-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: TOWNSEND'S BUTCHERY
 :penalty_amount: $660.00
 :address: 60 MARSH PDE CASULA
-:id: "3013512554"
 :served_to: CARELLO PTY LTD
 :council_area: LIVERPOOL
+:id: "3013512554"
+:action_date: "2008-11-24"
+:offence_date: "2008-08-26"

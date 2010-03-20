@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-15"
-:offence_date: "2009-05-13"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631856
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 13 RAILWAY PARADE KOGARAH 2217
 :served_to: M & J VENTURES PTY LTD
-:id: "7641631856"
 :council_area: KOGARAH
+:action_date: "2009-05-15"
+:id: "7641631856"
+:offence_date: "2009-05-13"

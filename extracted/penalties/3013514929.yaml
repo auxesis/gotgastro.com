@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-26"
-:offence_date: "2009-06-18"
 :pursued_by: NSW Food Authority
 :offence_code: 11329 - Sell food packaged/labelled that falsely describes the food - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514929
@@ -10,5 +8,7 @@
 :penalty_amount: $1320.00
 :address: 8-12 SKINNER AVENUE RIVERWOOD 2210
 :served_to: D J & SONS RISTOVSKI PTY LTD
-:id: "3013514929"
 :council_area: CANTERBURY
+:action_date: "2009-08-26"
+:id: "3013514929"
+:offence_date: "2009-06-18"

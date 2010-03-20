@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-19"
-:offence_date: "2008-12-08"
 :pursued_by: Lismore City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623027969
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 45/95 DIADEM ST LISMORE 2480
 :served_to: LI, GUANG
-:id: "7623027969"
 :council_area: LISMORE
+:action_date: "2008-12-19"
+:id: "7623027969"
+:offence_date: "2008-12-08"

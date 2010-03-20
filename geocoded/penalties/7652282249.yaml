@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.5666
-:action_date: "2008-09-11"
-:offence_date: "2008-06-17"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282249
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
-:latitude: -33.699328
 :trading_name: BRICK OVEN BAKERY
 :penalty_amount: $330.00
+:latitude: -33.699328
 :address: 150 MACQUARIE RD SPRINGWOOD 2777
-:id: "7652282249"
 :served_to: PANG, THARA
 :council_area: BLUE MOUNTAINS
+:id: "7652282249"
+:action_date: "2008-09-11"
+:offence_date: "2008-06-17"

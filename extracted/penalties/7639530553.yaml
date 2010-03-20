@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-10"
-:offence_date: "2009-03-09"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530553
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: LEVEL 1 SHOP 15 55-91 SPRING ST BONDI JUNCTION 2022
 :served_to: DAO, CHI
-:id: "7639530553"
 :council_area: WAVERLEY
+:action_date: "2009-03-10"
+:id: "7639530553"
+:offence_date: "2009-03-09"

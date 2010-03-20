@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.033761
-:action_date: "2009-01-19"
-:offence_date: "2008-12-17"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537319
 :offence_description: Failure to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt and food waste on the floors and shelves
-:latitude: -33.849185
 :trading_name: JIA HE YUAN CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.849185
 :address: 71 RAWSON ROAD AUBURN 2144
-:id: "7672537319"
 :served_to: LIU, KE WEI
 :council_area: AUBURN
+:id: "7672537319"
+:action_date: "2009-01-19"
+:offence_date: "2008-12-17"

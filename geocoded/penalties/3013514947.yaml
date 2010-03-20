@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.0167526
-:action_date: "2009-08-26"
-:offence_date: "2009-08-05"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514947
 :offence_description: Fail to comply with a requirement of a Food Safety Scheme  - failed to maintain monitoring records
-:latitude: -33.8344237
 :trading_name: FAMILY BUTCHER
 :penalty_amount: $660.00
+:latitude: -33.8344237
 :address: 14 GEORGE STREET GRANVILLE 2142
-:id: "3013514947"
 :served_to: KASAP PTY LTD
 :council_area: PARRAMATTA
+:id: "3013514947"
+:action_date: "2009-08-26"
+:offence_date: "2009-08-05"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-18"
-:offence_date: "2009-09-10"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269468
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 3 WOODCROFT DRIVE WOODCROFT 2767
 :served_to: LE-DANG, KHIEM
-:id: "3029269468"
 :council_area: BLACKTOWN
+:action_date: "2009-09-18"
+:id: "3029269468"
+:offence_date: "2009-09-10"

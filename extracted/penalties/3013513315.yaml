@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-18"
-:offence_date: "2008-06-25"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513315
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2560 NUNDLE RD WOOLOMIN 2340
 :served_to: ROSE, MALCOLM JOHN
-:id: "3013513315"
 :council_area: TAMWORTH
+:action_date: "2008-08-18"
+:id: "3013513315"
+:offence_date: "2008-06-25"

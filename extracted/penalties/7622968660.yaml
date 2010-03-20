@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-08"
-:offence_date: "2008-08-06"
 :pursued_by: Hurstville City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7622968660
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 48 MORTS RD MORTDALE 2223
 :served_to: LUU, HAU
-:id: "7622968660"
 :council_area: HURSTVILLE
+:action_date: "2008-08-08"
+:id: "7622968660"
+:offence_date: "2008-08-06"

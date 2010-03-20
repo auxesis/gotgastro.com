@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.20947
-:action_date: "2008-07-16"
-:offence_date: "2008-07-14"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831105
 :offence_description: Fail to maintain fixtures and fittings in a good state of repair and working order
-:latitude: -33.840211
 :trading_name: I KUZZINA
 :penalty_amount: $330.00
+:latitude: -33.840211
 :address: 1/90 ARTHUR ST NORTH SYDNEY 2055
-:id: "3002831105"
 :served_to: WANG, XIAO PING
 :council_area: NORTH SYDNEY
+:id: "3002831105"
+:action_date: "2008-07-16"
+:offence_date: "2008-07-14"

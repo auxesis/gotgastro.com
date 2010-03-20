@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-28"
-:offence_date: "2009-08-25"
 :pursued_by: Mosman Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332308
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 155 MIDDLE HEAD ROAD MOSMAN 2088
 :served_to: LEONARDI, JOSEPH
-:id: "7641332308"
 :council_area: MOSMAN
+:action_date: "2009-08-28"
+:id: "7641332308"
+:offence_date: "2009-08-25"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-15"
-:offence_date: "2009-05-14"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530719
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 227 BONDI ROAD BONDI 2026
 :served_to: SIRIKASEMLERT, BUNG ON
-:id: "7639530719"
 :council_area: WAVERLEY
+:action_date: "2009-05-15"
+:id: "7639530719"
+:offence_date: "2009-05-14"

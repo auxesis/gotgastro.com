@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1984255
-:action_date: "2008-05-14"
-:offence_date: "2008-04-03"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785605
 :offence_description: Fail to wash hands prior to commencement of work
-:latitude: -33.9136274
 :trading_name: ZISTI & CO P/L
 :penalty_amount: $660.00
+:latitude: -33.9136274
 :address: 43-45 BEACONSFIELD ST ALEXANDRIA 2015
-:id: "7670785605"
 :served_to: ZISTI & CO P/L
 :council_area: SYDNEY
+:id: "7670785605"
+:action_date: "2008-05-14"
+:offence_date: "2008-04-03"

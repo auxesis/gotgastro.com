@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.053134
-:action_date: "2009-06-29"
-:offence_date: "2009-06-23"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016812004
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, mould and insect and rodent excreta
-:latitude: -33.779448
 :trading_name: JUSCO SUPERMARKET
 :penalty_amount: $660.00
+:latitude: -33.779448
 :address: SHOP G1/372 PENNANT HILLS ROAD CARLINGFORD 2118
-:id: "3016812004"
 :served_to: JUSCO SUPERMARKET PTY LTD
 :council_area: PARRAMATTA
+:id: "3016812004"
+:action_date: "2009-06-29"
+:offence_date: "2009-06-23"

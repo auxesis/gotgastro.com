@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-16"
-:offence_date: "2009-08-31"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269403
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1024, WESTPOINT 17 PATRICK STREET BLACKTOWN 2148
 :served_to: BASSAHOLICS ANONYMOUS PTY LTD
-:id: "3029269403"
 :council_area: BLACKTOWN
+:action_date: "2009-09-16"
+:id: "3029269403"
+:offence_date: "2009-08-31"

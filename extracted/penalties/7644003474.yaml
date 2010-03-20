@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-19"
-:offence_date: "2008-08-12"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644003474
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP K1/41-47 SHEPHERDS DR CHERRYBROOK 2126
 :served_to: PARK, CATHY
-:id: "7644003474"
 :council_area: HORNSBY
+:action_date: "2008-08-19"
+:id: "7644003474"
+:offence_date: "2008-08-12"

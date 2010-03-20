@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.997647
-:action_date: "2009-05-04"
-:offence_date: "2009-05-01"
 :pursued_by: Bankstown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621421372
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - the walls, floors, bench tops, shelves and cooking appliances were found to be unclean
-:latitude: -33.955871
 :trading_name: THE CAKE MINE
 :penalty_amount: $330.00
+:latitude: -33.955871
 :address: 180 TOWER STREET PANANIA 2213
-:id: "7621421372"
 :served_to: VU, MINH
 :council_area: BANKSTOWN
+:id: "7621421372"
+:action_date: "2009-05-04"
+:offence_date: "2009-05-01"

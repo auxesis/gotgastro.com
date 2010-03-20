@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.105922
-:action_date: "2009-10-28"
-:offence_date: "2009-10-26"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023316423
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food stored on freezer & coolroom floors, uncovered food, raw meat likely to contaminate salad
-:latitude: -33.874617
 :trading_name: MEE NOODLE HOUSE
 :penalty_amount: $660.00
+:latitude: -33.874617
 :address: SHOP 138 WESTFIELD 98A-114 BURWOOD ROAD BURWOOD 2134
-:id: "3023316423"
 :served_to: HUANG AND YEOH PTY LTD
 :council_area: BURWOOD
+:id: "3023316423"
+:action_date: "2009-10-28"
+:offence_date: "2009-10-26"

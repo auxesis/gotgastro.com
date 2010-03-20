@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.905183
-:action_date: "2009-03-25"
-:offence_date: "2009-03-24"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242340
 :offence_description: Fail to maintain food premises to the required standard of cleanliness
-:latitude: -33.770105
 :trading_name: JAPANESE CUISINE (MIDORI)
 :penalty_amount: $330.00
+:latitude: -33.770105
 :address: 17 PATRICK STREET BLACKTOWN 2148
-:id: "3015242340"
 :served_to: KIM, KWANG LING
 :council_area: BLACKTOWN
+:id: "3015242340"
+:action_date: "2009-03-25"
+:offence_date: "2009-03-24"

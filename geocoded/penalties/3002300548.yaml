@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-14"
-:offence_date: "2009-01-08"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: OPERA BAR
 :penalty_amount: $660.00
 :address: LOWER CONCOURSE LEVEL SYDNEY OPERA HOUSE BENNELONG POINT 2001
-:id: "3002300548"
 :served_to: SEA HEADLAND PTY LTD & FOOD PASSIONS PTY LTD
 :council_area: SYDNEY
+:id: "3002300548"
+:action_date: "2009-01-14"
+:offence_date: "2009-01-08"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-24"
-:offence_date: "2008-10-20"
 :pursued_by: Botany Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790041
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 353 GARDENERS RD ROSEBERY
 :served_to: ABBOUD, JACK
-:id: "7670790041"
 :council_area: BOTANY
+:action_date: "2008-10-24"
+:id: "7670790041"
+:offence_date: "2008-10-20"

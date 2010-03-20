@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-27"
-:offence_date: "2009-04-22"
 :pursued_by: Port Stephens Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020481687
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 5 HORIZONS DRIVE Salamander bay 2317
 :served_to: LE MEILLEUR PTY LTD
-:id: "3020481687"
 :council_area: PORT STEPHENS
+:action_date: "2009-04-27"
+:id: "3020481687"
+:offence_date: "2009-04-22"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-05"
-:offence_date: "2008-12-18"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512710
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: UNIT 95 FIVE ISLAND ROAD CRINGILA 2502
 :served_to: DOLPHIN WASH PTY LTD
-:id: "3013512710"
 :council_area: WOLLONGONG
+:action_date: "2009-01-05"
+:id: "3013512710"
+:offence_date: "2008-12-18"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-16"
-:offence_date: "2009-03-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514231
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 184 PARRAMATTA ROAD AUBURN 2144
 :served_to: DEPIRA PTY LTD
-:id: "3013514231"
 :council_area: AUBURN
+:action_date: "2009-04-16"
+:id: "3013514231"
+:offence_date: "2009-03-23"

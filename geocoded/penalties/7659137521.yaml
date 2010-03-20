@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.301266
-:action_date: "2009-03-23"
-:offence_date: "2009-02-26"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137521
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.733131
 :trading_name: COLLAROY SEAFOOD & HAMBURGERS
 :penalty_amount: $660.00
+:latitude: -33.733131
 :address: SHOP 2, 1087-1089 PITTWATER ROAD COLLAROY 2097
-:id: "7659137521"
 :served_to: PAULAS FINE FOODS PTY LTD
 :council_area: WARRINGAH
+:id: "7659137521"
+:action_date: "2009-03-23"
+:offence_date: "2009-02-26"

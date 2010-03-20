@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-27"
-:offence_date: "2009-05-26"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659166011
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 3 D'ALBORA MARINA AKUNA BAY 2084
 :served_to: KUUIPO HOLDINGS PTY LTD
-:id: "7659166011"
 :council_area: WARRINGAH
+:action_date: "2009-05-27"
+:id: "7659166011"
+:offence_date: "2009-05-26"

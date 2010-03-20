@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-07"
-:offence_date: "2008-08-06"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302757
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 421-429 SUSSEX ST HAYMARKET 2000
 :served_to: TRIWELL P/L
-:id: "3002302757"
 :council_area: SYDNEY
+:action_date: "2008-08-07"
+:id: "3002302757"
+:offence_date: "2008-08-06"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.127273
-:action_date: "2009-03-27"
-:offence_date: "2009-03-26"
 :pursued_by: Hunters Hill Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002798673
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of grease on storage racks and mould on the ceiling of the cool room
-:latitude: -33.832979
 :trading_name: JAIPUR INDIAN RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.832979
 :address: 197 VICTORIA ROAD GLADESVILLE 2111
-:id: "3002798673"
 :served_to: RUWAN INTERNATIONAL PTY LTD
 :council_area: HUNTER'S HILL
+:id: "3002798673"
+:action_date: "2009-03-27"
+:offence_date: "2009-03-26"

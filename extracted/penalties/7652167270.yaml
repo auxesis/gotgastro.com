@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-25"
-:offence_date: "2008-06-21"
 :pursued_by: Muswellbrook Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652167270
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 29-31 SYDNEY ST MUSWELLBROOK 2333
 :served_to: GARY & DANIEL P/L
-:id: "7652167270"
 :council_area: MUSWELLBROOK
+:action_date: "2008-06-25"
+:id: "7652167270"
+:offence_date: "2008-06-21"

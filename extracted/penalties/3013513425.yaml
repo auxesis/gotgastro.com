@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-06-16"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513425
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 158 PARK RD AUBURN
 :served_to: AL HEYOURY, HADI
-:id: "3013513425"
 :council_area: AUBURN
+:action_date: "2008-10-02"
+:id: "3013513425"
+:offence_date: "2008-06-16"

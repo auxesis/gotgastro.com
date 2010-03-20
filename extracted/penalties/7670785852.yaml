@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-23"
-:offence_date: "2008-04-17"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785852
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 20 FITZROY ST MARRICKVILLE 2204
 :served_to: FISHBOY P/L
-:id: "7670785852"
 :council_area: MARRICKVILLE
+:action_date: "2008-05-23"
+:id: "7670785852"
+:offence_date: "2008-04-17"

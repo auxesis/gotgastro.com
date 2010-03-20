@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.213382
-:action_date: "2008-12-10"
-:offence_date: "2008-12-03"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452486
 :offence_description: Fail to provide a thermometer at a premises where potentially hazardous food is sold
-:latitude: -33.846023
 :trading_name: AINOYA
 :penalty_amount: $660.00
+:latitude: -33.846023
 :address: 34 Burton Street KIRRIBILLI
-:id: "7678452486"
 :served_to: W SONG PTY LTD
 :council_area: NORTH SYDNEY
+:id: "7678452486"
+:action_date: "2008-12-10"
+:offence_date: "2008-12-03"

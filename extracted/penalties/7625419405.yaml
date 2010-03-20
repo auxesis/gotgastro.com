@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-21"
-:offence_date: "2008-05-19"
 :pursued_by: City of Canterbury Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7625419405
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 834-842 CANTERBURY RD LAKEMBA 2195
 :served_to: KENTUCKY FRIED CHICKEN P/L
-:id: "7625419405"
 :council_area: CANTERBURY
+:action_date: "2008-05-21"
+:id: "7625419405"
+:offence_date: "2008-05-19"

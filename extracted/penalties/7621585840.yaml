@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-26"
-:offence_date: "2008-09-19"
 :pursued_by: Great Lakes Council
 :offence_code: 11323 - Sell food that is unsuitable - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621585840
@@ -10,5 +8,7 @@
 :penalty_amount: $1100.00
 :address: LOT 51 DP 635345 CNR BREESE PD FORSTER 2428
 :served_to: WOOLWORTHS LTD
-:id: "7621585840"
 :council_area: GREAT LAKES
+:action_date: "2008-09-26"
+:id: "7621585840"
+:offence_date: "2008-09-19"

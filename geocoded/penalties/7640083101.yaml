@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.355781
-:action_date: "2008-10-21"
-:offence_date: "2008-07-09"
 :pursued_by: Cessnock City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7640083101
 :offence_description: Fail to protect stored food from the likelihood of contamination
-:latitude: -32.835108
 :trading_name: PIZZA HUT
 :penalty_amount: $660.00
+:latitude: -32.835108
 :address: 103-111 VINCENT ST CESSNOCK
-:id: "7640083101"
 :served_to: J A G BROKERAGE SERVICES P/L
 :council_area: CESSNOCK
+:id: "7640083101"
+:action_date: "2008-10-21"
+:offence_date: "2008-07-09"

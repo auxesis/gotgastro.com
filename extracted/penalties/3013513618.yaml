@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-26"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11867 - Store processed meat produced at unlicensed processing plant
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513618
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: 240 BEAMISH STREET Campsie 2194
 :served_to: NGUYEN VC & NHAN TT
-:id: "3013513618"
 :council_area: CANTERBURY
+:action_date: "2008-11-26"
+:id: "3013513618"
+:offence_date: "2008-09-12"

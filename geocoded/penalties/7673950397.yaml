@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.476048
-:action_date: 
-:offence_date: "2009-02-13"
 :pursued_by: Greater Taree City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673950397
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap
-:latitude: -31.904296
 :trading_name: MAIN STREET CAKES
 :penalty_amount: $330.00
+:latitude: -31.904296
 :address: 5 CRESCENT AVENUE TAREE 2430
-:id: "7673950397"
 :served_to: GRIFFIN, DARREN
 :council_area: GREATER TAREE
+:id: "7673950397"
+:action_date: 
+:offence_date: "2009-02-13"

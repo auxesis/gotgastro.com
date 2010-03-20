@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-12"
-:offence_date: "2008-09-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7645831959
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 48 PARK ST SYDNEY 2000
 :served_to: THE NEW WINDSOR HOTEL PTY LTD
-:id: "7645831959"
 :council_area: SYDNEY
+:action_date: "2008-09-12"
+:id: "7645831959"
+:offence_date: "2008-09-10"

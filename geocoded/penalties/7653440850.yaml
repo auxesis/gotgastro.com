@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.969886
-:action_date: "2009-05-25"
-:offence_date: "2009-05-21"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440850
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - dough mixer, bread bun divider, roll moulder, exhaust hood and refrigerators observed as unclean
-:latitude: -33.772657
 :trading_name: WINSTON HILLS CLASSIC BAKERY
 :penalty_amount: $660.00
+:latitude: -33.772657
 :address: SHOP 39, WINSTON HILLS SHOPPING VILLAGE 180 CAROLINE CHISHOLM DRIVE WINSTON HILLS 2153
-:id: "7653440850"
 :served_to: WINSTON HILLS CLASSIC BAKERY PTY LTD
 :council_area: BAULKHAM HILLS
+:id: "7653440850"
+:action_date: "2009-05-25"
+:offence_date: "2009-05-21"

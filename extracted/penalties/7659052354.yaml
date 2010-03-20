@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-02"
-:offence_date: "2008-12-12"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659052354
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: PITTWATER ROAD NARRABEEN 2101
 :served_to: S SIN AND P KHUN PTY LTD
-:id: "7659052354"
 :council_area: WARRINGAH
+:action_date: "2009-01-02"
+:id: "7659052354"
+:offence_date: "2008-12-12"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-01"
-:offence_date: "2008-09-27"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076763
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1 MOWAMBA PL THREDBO 2625
 :served_to: WRAY, REBECCA
-:id: "7657076763"
 :council_area: Kosciuszko
+:action_date: "2008-10-01"
+:id: "7657076763"
+:offence_date: "2008-09-27"

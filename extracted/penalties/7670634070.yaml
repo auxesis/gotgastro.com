@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-21"
-:offence_date: "2009-03-27"
 :pursued_by: Liverpool City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670634070
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 214 NORTHUMBERLAND STREET LIVERPOOL 2170
 :served_to: TARA'S INTERNATIONAL TRADING PTY LTD
-:id: "7670634070"
 :council_area: LIVERPOOL
+:action_date: "2009-04-21"
+:id: "7670634070"
+:offence_date: "2009-03-27"

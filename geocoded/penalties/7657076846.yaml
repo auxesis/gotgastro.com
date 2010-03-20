@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.413208
-:action_date: "2009-10-22"
-:offence_date: "2009-09-11"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076846
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - unclean deep fryer, benches, walls, floors, hand wash basin & toaster, an accumulation of food waste
-:latitude: -36.404839
 :trading_name: REFUEL QUALITY FAST FOOD
 :penalty_amount: $660.00
+:latitude: -36.404839
 :address: SHOP 2 PERISHER MANOR FOOD COURT KOSCIUSZKO ROAD PERISHER VALLEY 2624
-:id: "7657076846"
 :served_to: EDMEL ENTERPRISES PTY LTD
 :council_area: Kosciuszko
+:id: "7657076846"
+:action_date: "2009-10-22"
+:offence_date: "2009-09-11"

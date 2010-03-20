@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-02"
-:offence_date: "2009-06-01"
 :pursued_by: Bankstown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621421428
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: No 1 BANKSTOWN CITY PLAZA BANKSTOWN 2200
 :served_to: PAN, JIAN ZHONG
-:id: "7621421428"
 :council_area: BANKSTOWN
+:action_date: "2009-06-02"
+:id: "7621421428"
+:offence_date: "2009-06-01"

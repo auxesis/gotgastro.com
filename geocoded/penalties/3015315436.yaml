@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.933534
-:action_date: "2009-05-07"
-:offence_date: "2009-04-27"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315436
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of grease and grime
-:latitude: -33.894547
 :trading_name: MY THUAN
 :penalty_amount: $330.00
+:latitude: -33.894547
 :address: 117A JOHN STREET CABRAMATTA 2165
-:id: "3015315436"
 :served_to: DUONG, HELEN VO HONG LAM
 :council_area: FAIRFIELD
+:id: "3015315436"
+:action_date: "2009-05-07"
+:offence_date: "2009-04-27"

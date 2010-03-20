@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-10"
-:offence_date: "2009-02-05"
 :pursued_by: Hawkesbury City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013130497
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 81 GEORGE STREET WINDSOR 2756
 :served_to: TANKSTREAM HOTELS OPERATIONS LTD
-:id: "3013130497"
 :council_area: HAWKESBURY
+:action_date: "2009-02-10"
+:id: "3013130497"
+:offence_date: "2009-02-05"

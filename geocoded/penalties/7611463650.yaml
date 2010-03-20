@@ -1,16 +1,16 @@
 --- 
 :longitude: 149.719122
-:action_date: "2008-09-11"
-:offence_date: "2008-09-10"
 :pursued_by: Goulburn Mulwaree Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7611463650
 :offence_description: Fail to maintain food premises in a clean condition  - accumulation of dirt and grease
-:latitude: -34.756463
 :trading_name: THE NAKED OLIVE BISTRO
 :penalty_amount: $660.00
+:latitude: -34.756463
 :address: 258 SLOANE ST GOULBURN
-:id: "7611463650"
 :served_to: KELLY LIQUOR GROUP PTY LTD
 :council_area: Goulburn Mulwaree
+:id: "7611463650"
+:action_date: "2008-09-11"
+:offence_date: "2008-09-10"

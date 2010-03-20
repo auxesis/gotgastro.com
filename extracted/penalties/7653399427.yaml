@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-14"
-:offence_date: "2008-10-13"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399427
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 79 WESTFIELD SHOPPINGTOWN 340A NORTH ROCKS RD NORTH ROCKS 2151
 :served_to: KATSIDIS, LAZAROS
-:id: "7653399427"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-10-14"
+:id: "7653399427"
+:offence_date: "2008-10-13"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-24"
-:offence_date: "2008-06-21"
 :pursued_by: Muswellbrook Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652167252
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 17-18/60 BRIDGE ST MUSWELLBROOK 2333
 :served_to: XUN, WEN XU
-:id: "7652167252"
 :council_area: MUSWELLBROOK
+:action_date: "2008-06-24"
+:id: "7652167252"
+:offence_date: "2008-06-21"

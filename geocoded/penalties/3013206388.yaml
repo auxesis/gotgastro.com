@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.955496
-:action_date: "2008-10-17"
-:offence_date: "2008-09-29"
+:longitude: 150.955336
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206388
 :offence_description: Unlabelled food  - Packaged and bottled food displayed for sale without any label
-:latitude: -33.87273
 :trading_name: AL GHADER SUPERMARKET
 :penalty_amount: $330.00
+:latitude: -33.872669
 :address: 33 THE CRESCENT FAIRFIELD
-:id: "3013206388"
 :served_to: KINANI, RAFED HUSSEIN INBAR AL
 :council_area: FAIRFIELD
+:id: "3013206388"
+:action_date: "2008-10-17"
+:offence_date: "2008-09-29"

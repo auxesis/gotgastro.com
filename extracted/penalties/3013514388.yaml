@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-13"
-:offence_date: "2009-04-02"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514388
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 20 OXFORD STREET INGLEBURN 2565
 :served_to: VU, DARRYL
-:id: "3013514388"
 :council_area: CAMPBELLTOWN
+:action_date: "2009-05-13"
+:id: "3013514388"
+:offence_date: "2009-04-02"

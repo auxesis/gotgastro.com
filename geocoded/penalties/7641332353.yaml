@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.244704
-:action_date: "2009-10-20"
-:offence_date: "2009-10-19"
 :pursued_by: Mosman Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332353
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of visible matter
-:latitude: -33.831317
 :trading_name: MOSMAN GOURMET NOODLES
 :penalty_amount: $330.00
+:latitude: -33.831317
 :address: 928 MILITARY ROAD MOSMAN 2088
-:id: "7641332353"
 :served_to: XIAN, WEIQUAN
 :council_area: MOSMAN
+:id: "7641332353"
+:action_date: "2009-10-20"
+:offence_date: "2009-10-19"

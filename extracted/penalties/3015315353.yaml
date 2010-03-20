@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-30"
-:offence_date: "2009-04-17"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315353
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 230 CANLEY VALE ROAD CANLEY HEIGHTS 2166
 :served_to: VO, KIET THANH
-:id: "3015315353"
 :council_area: FAIRFIELD
+:action_date: "2009-04-30"
+:id: "3015315353"
+:offence_date: "2009-04-17"

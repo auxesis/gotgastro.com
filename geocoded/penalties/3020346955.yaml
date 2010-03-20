@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.0318551
-:action_date: "2008-09-12"
-:offence_date: "2008-09-05"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346955
 :offence_description: Fail to maintain a clean food premises - dirt, vermin droppings visible
-:latitude: -33.8487682
 :trading_name: PRAVO CONTINENTALS
 :penalty_amount: $330.00
+:latitude: -33.8487682
 :address: 160-162 SOUTH PDE AUBURN 2144
-:id: "3020346955"
 :served_to: AL MALIKY, ALI
 :council_area: AUBURN
+:id: "3020346955"
+:action_date: "2008-09-12"
+:offence_date: "2008-09-05"

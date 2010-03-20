@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.419269
-:action_date: "2008-08-15"
-:offence_date: "2008-08-14"
 :pursued_by: Wyong Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553374
 :offence_description: Fail to maintain all fixtures, fittings and equipment in a clean condition
-:latitude: -33.307671
 :trading_name: STARLIGHT THAI
 :penalty_amount: $330.00
+:latitude: -33.307671
 :address: 2 ANZAC RD TUGGERAH 2259
-:id: "7656553374"
 :served_to: KUNPHON, SASITHORN
 :council_area: WYONG
+:id: "7656553374"
+:action_date: "2008-08-15"
+:offence_date: "2008-08-14"

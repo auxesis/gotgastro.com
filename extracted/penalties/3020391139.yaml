@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-22"
-:offence_date: "2008-10-19"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020391139
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: Edwin Flack Ave Sydney Olympic Park
 :served_to: SHAH, CHITOU
-:id: "3020391139"
 :council_area: AUBURN
+:action_date: "2008-10-22"
+:id: "3020391139"
+:offence_date: "2008-10-19"

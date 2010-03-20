@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-07"
-:offence_date: "2009-04-01"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020396996
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 5-7 NORTHUMBERLAND ROAD Auburn 2144
 :served_to: YUEN, GARRY
-:id: "3020396996"
 :council_area: AUBURN
+:action_date: "2009-05-07"
+:id: "3020396996"
+:offence_date: "2009-04-01"

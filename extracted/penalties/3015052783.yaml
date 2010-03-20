@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-10"
-:offence_date: "2009-02-04"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015052783
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 47A, BONNYRIGG PLAZA 100 BONNYRIGG AVENUE BONNYRIGG 2177
 :served_to: NGUYEN, DINH HUNG
-:id: "3015052783"
 :council_area: FAIRFIELD
+:action_date: "2009-02-10"
+:id: "3015052783"
+:offence_date: "2009-02-04"

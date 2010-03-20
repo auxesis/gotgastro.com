@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.287873
-:action_date: "2009-05-13"
-:offence_date: "2009-05-12"
 :pursued_by: Manly Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641172909
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.797513
 :trading_name: MANLY SEASIDE KEBAB
 :penalty_amount: $330.00
+:latitude: -33.797513
 :address: 102 THE CORSO MANLY 2095
-:id: "7641172909"
 :served_to: ARSLAN, MEMET
 :council_area: MANLY
+:id: "7641172909"
+:action_date: "2009-05-13"
+:offence_date: "2009-05-12"

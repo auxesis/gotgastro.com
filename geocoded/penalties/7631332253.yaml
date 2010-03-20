@@ -1,16 +1,16 @@
 --- 
 :longitude: 149.232131
-:action_date: "2009-04-23"
-:offence_date: "2009-04-16"
 :pursued_by: Queanbeyan City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7631332253
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - The walls, floors and coolroom were observed to be in an unclean condition
-:latitude: -35.371334
 :trading_name: DIAMOND CHINESE
 :penalty_amount: $330.00
+:latitude: -35.371334
 :address: SHOP 18/34 QUEENBAR ROAD KARABAR 2620
-:id: "7631332253"
 :served_to: CHAN, BOON FAN
 :council_area: QUEANBEYAN
+:id: "7631332253"
+:action_date: "2009-04-23"
+:offence_date: "2009-04-16"

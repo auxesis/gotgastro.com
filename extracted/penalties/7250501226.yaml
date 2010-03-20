@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-02"
-:offence_date: "2009-03-02"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501226
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 212 BENT STREET MOORE PARK 2021
 :served_to: BAVARIAN HOSPITALITY GROUP PTY LTD
-:id: "7250501226"
 :council_area: SYDNEY
+:action_date: "2009-03-02"
+:id: "7250501226"
+:offence_date: "2009-03-02"

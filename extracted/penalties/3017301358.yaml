@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-14"
-:offence_date: "2009-08-01"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017301358
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 90 JOHN STREET CABRAMATTA 2166
 :served_to: C L C SUCCESS INVESTMENTS PTY LTD
-:id: "3017301358"
 :council_area: FAIRFIELD
+:action_date: "2009-08-14"
+:id: "3017301358"
+:offence_date: "2009-08-01"

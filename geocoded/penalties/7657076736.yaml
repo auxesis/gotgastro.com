@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.3097
-:action_date: "2008-10-01"
-:offence_date: "2008-09-16"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076736
 :offence_description: Fail to maintain food premises, fixtures, fittings and equipment in a good state of repair - continued use of chipped plates despite previous enforcement action
-:latitude: -36.501305
 :trading_name: RIVER INN
 :penalty_amount: $660.00
+:latitude: -36.501305
 :address: FRIDAY DR THREDBO
-:id: "7657076736"
 :served_to: M K GOODALL INVESTMENTS PTY LTD
 :council_area: Kosciuszko
+:id: "7657076736"
+:action_date: "2008-10-01"
+:offence_date: "2008-09-16"

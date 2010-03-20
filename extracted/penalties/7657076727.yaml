@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-09-17"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076727
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: TOP OF KOSCIUSZKO EXPRESS CHAIRLIFT THREDBO 2625
 :served_to: SUCCESSO PTY LTD
-:id: "7657076727"
 :council_area: Kosciuszko
+:action_date: "2008-10-02"
+:id: "7657076727"
+:offence_date: "2008-09-17"

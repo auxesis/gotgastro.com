@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-07"
-:offence_date: "2009-08-06"
 :pursued_by: Snowy River Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7634716073
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 33 KOSCIUSZKO ROAD JINDABYNE 2627
 :served_to: GOLIK PTY LTD
-:id: "7634716073"
 :council_area: SNOWY RIVER
+:action_date: "2009-08-07"
+:id: "7634716073"
+:offence_date: "2009-08-06"

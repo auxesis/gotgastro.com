@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-19"
-:offence_date: "2009-04-08"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787778
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 14 RAYMOND STREET BANKSTOWN 2200
 :served_to: DO, DUY NHUT
-:id: "7670787778"
 :council_area: BANKSTOWN
+:action_date: "2009-05-19"
+:id: "7670787778"
+:offence_date: "2009-04-08"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-19"
-:offence_date: "2009-01-19"
 :pursued_by: Armidale Dumaresq Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7647124174
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 213 BEARDY STREET ARMIDALE 2350
 :served_to: JIA WANG WU, GAVIN
-:id: "7647124174"
 :council_area: ARMIDALE
+:action_date: "2009-01-19"
+:id: "7647124174"
+:offence_date: "2009-01-19"

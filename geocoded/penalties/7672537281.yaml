@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.043226
-:action_date: "2009-01-15"
-:offence_date: "2008-12-17"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537281
 :offence_description: Fail to store the food in such a way that it is protected from the likelihood of contamination - Open containers of cooked rice stored on the floor
-:latitude: -33.859039
 :trading_name: NEW GOKUL INDIAN RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.859039
 :address: 5 OLYMPIC DRIVE LIDCOMBE 2141
-:id: "7672537281"
 :served_to: YOGESHWAR CATERING SERVICES PTY LTD
 :council_area: AUBURN
+:id: "7672537281"
+:action_date: "2009-01-15"
+:offence_date: "2008-12-17"

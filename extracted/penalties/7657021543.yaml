@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-26"
-:offence_date: "2009-06-06"
 :pursued_by: Manly Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657021543
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SOUTH STEYNE MANLY 2095
 :served_to: YOK THAI RESTAURANT PTY LTD
-:id: "7657021543"
 :council_area: MANLY
+:action_date: "2009-06-26"
+:id: "7657021543"
+:offence_date: "2009-06-06"

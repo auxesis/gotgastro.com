@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-25"
-:offence_date: "2008-11-03"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: COLES SUPERMARKET
 :penalty_amount: $660.00
 :address: SHOP 2/28 VICTOR ST CHATSWOOD
-:id: "7671650663"
 :served_to: COLES SUPERMARKET AUSTRALIA PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671650663"
+:action_date: "2008-11-25"
+:offence_date: "2008-11-03"

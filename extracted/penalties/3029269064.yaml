@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-07-24"
-:offence_date: "2009-07-24"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269064
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 5/1 HILL END ROAD DOONSIDE 2767
 :served_to: CHAN, TERESA
-:id: "3029269064"
 :council_area: BLACKTOWN
+:action_date: "2009-07-24"
+:id: "3029269064"
+:offence_date: "2009-07-24"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-25"
-:offence_date: "2009-06-23"
 :pursued_by: Orange City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003570534
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 20, ORANGE CENTRAL SUMMER STREET ORANGE 2800
 :served_to: FREEDOM BAKERS PTY LTD
-:id: "3003570534"
 :council_area: ORANGE
+:action_date: "2009-06-25"
+:id: "3003570534"
+:offence_date: "2009-06-23"

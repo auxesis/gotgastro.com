@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-06"
-:offence_date: "2008-07-30"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7658963887
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 9 26 TRAMORE PLACE KILLARNEY HEIGHTS 2087
 :served_to: WONG FAMILY TRUST, THE TRUSTEE FOR E AND  H
-:id: "7658963887"
 :council_area: WARRINGAH
+:action_date: "2008-08-06"
+:id: "7658963887"
+:offence_date: "2008-07-30"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.249954
-:action_date: "2008-11-17"
-:offence_date: "2008-11-14"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539362
 :offence_description: Failed to maintain food premises to the required standard of cleanliness - An accumulation of grease and grime was present on the kitchen floors, walls and exhaust hood
-:latitude: -33.893092
 :trading_name: RANGLA PUNJAB INDIAN
 :penalty_amount: $330.00
+:latitude: -33.893092
 :address: 22-26 BRONTE ROAD BONDI JUNCTION 2022
-:id: "7639539362"
 :served_to: KAUR, NAVNEET
 :council_area: WAVERLEY
+:id: "7639539362"
+:action_date: "2008-11-17"
+:offence_date: "2008-11-14"

@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.2070141
-:action_date: "2009-04-03"
-:offence_date: "2009-04-01"
+:longitude: 151.206965
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501400
 :offence_description: Fail to display potentially hazardous food under temperature control - doner kebab meat kept at a temperature of 30.1C and various pizzas between 35C to 45.5C
-:latitude: -33.8721276
 :trading_name: KEBAB KINGDOM
 :penalty_amount: $330.00
+:latitude: -33.872254
 :address: THE GALERIES VICTORIA FOOD COURT SHOP 9/500 GEORGE STREET SYDNEY 2000
-:id: "7250501400"
 :served_to: WU, BIN
 :council_area: SYDNEY
+:id: "7250501400"
+:action_date: "2009-04-03"
+:offence_date: "2009-04-01"

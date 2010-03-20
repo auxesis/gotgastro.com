@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.937441
-:action_date: "2009-04-06"
-:offence_date: "2009-03-19"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315270
 :offence_description: Fail to display potentially hazardous food under temperature control - pre-cooked food products were displayed at temperatures between 24.5C to 40.1C
-:latitude: -33.892043
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
+:latitude: -33.892043
 :address: FREEDOM PLAZA, PARK ROAD CABRAMATTA 2166
-:id: "3015315270"
 :served_to: SAO, TUOCH
 :council_area: FAIRFIELD
+:id: "3015315270"
+:action_date: "2009-04-06"
+:offence_date: "2009-03-19"

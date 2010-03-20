@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-28"
-:offence_date: "2008-09-09"
 :pursued_by: Mosman Municipal Council
 :offence_code: 11322 - Sell food that is unsuitable - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332189
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: 519 MILITARY RD MOSMAN
 :served_to: LEBRETON, DOMINIQUE
-:id: "7641332189"
 :council_area: MOSMAN
+:action_date: "2008-10-28"
+:id: "7641332189"
+:offence_date: "2008-09-09"

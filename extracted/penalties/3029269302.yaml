@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-04"
-:offence_date: "2009-09-02"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269302
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: WESTFIELD MOUNT DRUITT  49 NORTH PARADE MT DRUITT 2770
 :served_to: CORNERZZ PTY LTD
-:id: "3029269302"
 :council_area: BLACKTOWN
+:action_date: "2009-09-04"
+:id: "3029269302"
+:offence_date: "2009-09-02"

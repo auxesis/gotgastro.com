@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.183015
-:action_date: "2009-07-06"
-:offence_date: "2009-06-24"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651662
 :offence_description: Food sold past its use-by date - cheese products
-:latitude: -33.796959
 :trading_name: COLES SUPERMARKET
 :penalty_amount: $660.00
+:latitude: -33.796959
 :address: SHOP 2 WESTFIELD CHATSWOOD SHOPPING CENTRE 28 VICTOR STREET CHATSWOOD 2067
-:id: "7671651662"
 :served_to: COLES SUPERMARKETS AUSTRALIA PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671651662"
+:action_date: "2009-07-06"
+:offence_date: "2009-06-24"

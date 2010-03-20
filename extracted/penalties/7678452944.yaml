@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-06"
-:offence_date: "2009-09-28"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452944
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 11/12, 99 MOUNT STREET NORTH SYDNEY 2055
 :served_to: KUMAR, RAJENDER
-:id: "7678452944"
 :council_area: NORTH SYDNEY
+:action_date: "2009-10-06"
+:id: "7678452944"
+:offence_date: "2009-09-28"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-15"
-:offence_date: "2008-11-12"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: BLUE FIN SUSHI
 :penalty_amount: $660.00
 :address: SHOP 603/28 VICTOR ST CHATSWOOD
-:id: "7671650755"
 :served_to: SUSHI BLUEFIN PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671650755"
+:action_date: "2008-12-15"
+:offence_date: "2008-11-12"

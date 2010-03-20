@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-13"
-:offence_date: "2009-04-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514397
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 5/56 LAKE ROAD PORT MACQUARIE 2444
 :served_to: PORT MACQUARIE WHOLESALE MEATS PTY LTD
-:id: "3013514397"
 :council_area: Port Macquarie - Hastings
+:action_date: "2009-05-13"
+:id: "3013514397"
+:offence_date: "2009-04-23"

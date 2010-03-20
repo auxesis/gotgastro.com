@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-15"
-:offence_date: "2008-09-04"
 :pursued_by: Great Lakes Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621585831
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: BOMBA POINT VIA BULAHDELAH 2423
 :served_to: MARINER LEISURE MANAGEMENT LTD
-:id: "7621585831"
 :council_area: GREAT LAKES
+:action_date: "2008-09-15"
+:id: "7621585831"
+:offence_date: "2008-09-04"

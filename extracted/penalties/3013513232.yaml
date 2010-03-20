@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-14"
-:offence_date: "2008-01-02"
 :pursued_by: NSW Food Authority
 :offence_code: 11323 - Sell food that is unsuitable - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513232
@@ -10,5 +8,7 @@
 :penalty_amount: $1100.00
 :address: 397 PACIFIC HWY BELMONT NORTH 2280
 :served_to: NORTHERN RR P/L
-:id: "3013513232"
 :council_area: LAKE MACQUARIE
+:action_date: "2008-08-14"
+:id: "3013513232"
+:offence_date: "2008-01-02"

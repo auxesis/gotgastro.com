@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.917908
-:action_date: "2008-12-22"
-:offence_date: "2008-12-15"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440264
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of food waste, grease, and other visible matter
-:latitude: -33.680809
 :trading_name: YEE'S PALACE
 :penalty_amount: $330.00
+:latitude: -33.680809
 :address: SHOP 11 ROUSE HILL VILLAGE CENTRE ABERDOUR AVENUE ROUSE HILL 2155
-:id: "7653440264"
 :served_to: PENG, YANNI
 :council_area: BAULKHAM HILLS
+:id: "7653440264"
+:action_date: "2008-12-22"
+:offence_date: "2008-12-15"

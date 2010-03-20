@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-12"
-:offence_date: "2009-05-11"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440668
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 20 CASTLE TOWERS 6-14 CASTLE STREET CASTLE HILL 2154
 :served_to: MACSHEN PTY LTD
-:id: "7653440668"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-05-12"
+:id: "7653440668"
+:offence_date: "2009-05-11"

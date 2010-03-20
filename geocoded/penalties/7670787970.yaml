@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.097073
-:action_date: "2009-10-27"
-:offence_date: "2009-10-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787970
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - accumulation of grease & mould on food surfaces and cooking equipment, unclean food storage areas
-:latitude: -33.703068
 :trading_name: TANDOORI & CURRY CLUB
 :penalty_amount: $660.00
+:latitude: -33.703068
 :address: 177 PACIFIC HIGHWAY HORNSBY 2077
-:id: "7670787970"
 :served_to: KAREER BROTHERS PTY LTD
 :council_area: HORNSBY
+:id: "7670787970"
+:action_date: "2009-10-27"
+:offence_date: "2009-10-14"

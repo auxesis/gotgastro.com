@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.935948
-:action_date: "2009-03-12"
-:offence_date: "2009-03-03"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315097
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - Food stored was not kept covered
-:latitude: -33.8953
 :trading_name: TUONG LAI RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.8953
 :address: 5 BELVEDERE ARCADE CABRAMATTA 2166
-:id: "3015315097"
 :served_to: UT, DUONG THI
 :council_area: FAIRFIELD
+:id: "3015315097"
+:action_date: "2009-03-12"
+:offence_date: "2009-03-03"

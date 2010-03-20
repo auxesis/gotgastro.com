@@ -1,16 +1,16 @@
 --- 
 :longitude: 147.192356
-:action_date: "2008-05-15"
-:offence_date: "2008-03-20"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785697
 :offence_description: Unlicensed operation of a game meat van
-:latitude: -31.562487
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
+:latitude: -31.562487
 :address: LOT 1 LAWLER ST NYNGAN 2825
-:id: "7670785697"
 :served_to: BOYDE, JEREMY
 :council_area: BOGAN
+:id: "7670785697"
+:action_date: "2008-05-15"
+:offence_date: "2008-03-20"

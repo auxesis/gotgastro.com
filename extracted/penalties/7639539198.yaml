@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-21"
-:offence_date: "2008-08-14"
 :pursued_by: Waverley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539198
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 6010 WESTFIELD SHOPPINGTOWN 500 OXFORD ST BONDI JUNCTION 2022
 :served_to: EVERGOLDEN ENTERPRISES PTY LTD
-:id: "7639539198"
 :council_area: WAVERLEY
+:action_date: "2008-08-21"
+:id: "7639539198"
+:offence_date: "2008-08-14"

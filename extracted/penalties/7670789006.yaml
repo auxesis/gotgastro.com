@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-09-25"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670789006
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 8 BANK ST PYRMONT 2009
 :served_to: EXARHAKOS, ALEXANDROS
-:id: "7670789006"
 :council_area: SYDNEY
+:action_date: "2008-10-02"
+:id: "7670789006"
+:offence_date: "2008-09-25"

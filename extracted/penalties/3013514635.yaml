@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-16"
-:offence_date: "2009-04-18"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514635
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2 TAYLORS ROAD BADGERYS CREEK 2171
 :served_to: SALIBA, JOSEPH
-:id: "3013514635"
 :council_area: LIVERPOOL
+:action_date: "2009-06-16"
+:id: "3013514635"
+:offence_date: "2009-04-18"

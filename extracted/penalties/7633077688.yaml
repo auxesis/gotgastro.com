@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-14"
-:offence_date: "2008-11-10"
 :pursued_by: City of Canterbury Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077688
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 152 BEAMISH ST CAMPSIE
 :served_to: CHENG, KIU
-:id: "7633077688"
 :council_area: CANTERBURY
+:action_date: "2008-11-14"
+:id: "7633077688"
+:offence_date: "2008-11-10"

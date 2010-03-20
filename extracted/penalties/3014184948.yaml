@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-29"
-:offence_date: "2009-05-28"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184948
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3/1-11 HARDIE AVENUE SUMMER HILL 2130
 :served_to: ILACQUA, DOMENICO
-:id: "3014184948"
 :council_area: ASHFIELD
+:action_date: "2009-05-29"
+:id: "3014184948"
+:offence_date: "2009-05-28"

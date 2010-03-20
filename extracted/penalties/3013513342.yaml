@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-06-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513342
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 812 PUNCHBOWL RD PUNCHBOWL
 :served_to: HAMDOUSH, MAX
-:id: "3013513342"
 :council_area: CANTERBURY
+:action_date: "2008-10-02"
+:id: "3013513342"
+:offence_date: "2008-06-26"

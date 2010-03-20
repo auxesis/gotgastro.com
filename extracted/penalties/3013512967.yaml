@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-17"
-:offence_date: "2008-11-17"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512967
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 12, 297 MACQUARIE STREET LIVERPOOL 2170
 :served_to: AL HAZZAH, SABAH
-:id: "3013512967"
 :council_area: LIVERPOOL
+:action_date: "2009-02-17"
+:id: "3013512967"
+:offence_date: "2008-11-17"

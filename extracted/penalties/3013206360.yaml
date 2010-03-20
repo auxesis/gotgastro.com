@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-15"
-:offence_date: "2008-09-18"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206360
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 41 CANLEY VALE RD CANLEY VALE
 :served_to: WONG, SIU LUN
-:id: "3013206360"
 :council_area: FAIRFIELD
+:action_date: "2008-10-15"
+:id: "3013206360"
+:offence_date: "2008-09-18"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-14"
-:offence_date: "2008-10-09"
 :pursued_by: Sutherland Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3018039631
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 365 PORT HACKING ROAD CARINGBAH 2229
 :served_to: LEE, STEPHEN
-:id: "3018039631"
 :council_area: SUTHERLAND
+:action_date: "2008-10-14"
+:id: "3018039631"
+:offence_date: "2008-10-09"

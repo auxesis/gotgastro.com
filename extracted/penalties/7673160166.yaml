@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-19"
-:offence_date: "2009-08-17"
 :pursued_by: Singleton Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673160166
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: FRANCIS PHILLIP MOTOR INN 18 MAITLAND ROAD SINGLETON 2330
 :served_to: PARKLO PTY LTD
-:id: "7673160166"
 :council_area: SINGLETON
+:action_date: "2009-08-19"
+:id: "7673160166"
+:offence_date: "2009-08-17"

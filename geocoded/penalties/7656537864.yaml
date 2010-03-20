@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.73731
-:action_date: "2009-04-15"
-:offence_date: "2009-04-09"
 :pursued_by: Camden Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656537864
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -34.041773
 :trading_name: BAKER'S DELIGHT
 :penalty_amount: $660.00
+:latitude: -34.041773
 :address: SHOP 85, 326 CAMDEN VALLEY WAY NARELLAN 2567
-:id: "7656537864"
 :served_to: TRAVYSE HOLDINGS PTY LTD
 :council_area: CAMDEN
+:id: "7656537864"
+:action_date: "2009-04-15"
+:offence_date: "2009-04-09"

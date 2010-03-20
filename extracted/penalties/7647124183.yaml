@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-21"
-:offence_date: "2009-01-20"
 :pursued_by: Armidale Dumaresq Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7647124183
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 9 GIRRAWEEN SHOPPING CENTRE ARMIDALE 2350
 :served_to: WAH LI INTERNATIONAL PTY LTD
-:id: "7647124183"
 :council_area: ARMIDALE
+:action_date: "2009-01-21"
+:id: "7647124183"
+:offence_date: "2009-01-20"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.867146
-:action_date: "2008-07-28"
-:offence_date: "2008-07-28"
 :pursued_by: Liverpool City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7615835013
 :offence_description: Fail to maintain a clean food premises (heavy accumulation of dust on mechanical ventilation)
-:latitude: -33.90731
 :trading_name: BAKERS DELIGHT
 :penalty_amount: $330.00
+:latitude: -33.90731
 :address: SHOP 20 GREEN VALLEY PLAZA 189 WILSON ROAD GREEN VALLEY 2168
-:id: "7615835013"
 :served_to: MCCALL, BRAD
 :council_area: LIVERPOOL
+:id: "7615835013"
+:action_date: "2008-07-28"
+:offence_date: "2008-07-28"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.213912
-:action_date: "2009-03-06"
-:offence_date: "2009-03-02"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501290
 :offence_description: Fail to display potentially hazardous food under temperature control - Sliced tomatoes displayed at a temperature of 11.6C, grated cheese at 13.7C and tabooli at 16.8C
-:latitude: -33.877843
 :trading_name: ISTANBUL IN OXFORD
 :penalty_amount: $330.00
+:latitude: -33.877843
 :address: 38 OXFORD STREET DARLINGHURST 2010
-:id: "7250501290"
 :served_to: OZ, ADEM
 :council_area: SYDNEY
+:id: "7250501290"
+:action_date: "2009-03-06"
+:offence_date: "2009-03-02"

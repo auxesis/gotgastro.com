@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-30"
-:offence_date: "2008-05-29"
 :pursued_by: City of Canterbury Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077679
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 229 BEAMISH ST CAMPSIE 2194
 :served_to: EASYLINE (CAMPSIE) P/L
-:id: "7633077679"
 :council_area: CANTERBURY
+:action_date: "2008-05-30"
+:id: "7633077679"
+:offence_date: "2008-05-29"

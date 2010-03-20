@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-24"
-:offence_date: "2008-10-15"
 :pursued_by: Wyong Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096040
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2/62 LAKEDGE AVE BERKELEY VALE
 :served_to: CHENG, GRATIANO
-:id: "3003096040"
 :council_area: WYONG
+:action_date: "2008-10-24"
+:id: "3003096040"
+:offence_date: "2008-10-15"

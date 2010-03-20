@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-15"
-:offence_date: "2008-08-08"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553392
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1111 WESTFIELD TUGGERAH  50 WYONG RD TUGGERAH 2259
 :served_to: EXCELLERATOR PTY LTD
-:id: "7656553392"
 :council_area: WYONG
+:action_date: "2008-08-15"
+:id: "7656553392"
+:offence_date: "2008-08-08"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.204495
-:action_date: "2008-08-07"
-:offence_date: "2008-08-06"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302757
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
-:latitude: -33.879103
 :trading_name: EAST OCEAN RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.879103
 :address: 421-429 SUSSEX ST HAYMARKET 2000
-:id: "3002302757"
 :served_to: TRIWELL P/L
 :council_area: SYDNEY
+:id: "3002302757"
+:action_date: "2008-08-07"
+:offence_date: "2008-08-06"

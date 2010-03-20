@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-02"
-:offence_date: "2009-02-27"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576161
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 16-18 PARKLAWN PLACE NORTH ST MARYS 2760
 :served_to: IVA, TASESA
-:id: "3013576161"
 :council_area: PENRITH
+:action_date: "2009-03-02"
+:id: "3013576161"
+:offence_date: "2009-02-27"

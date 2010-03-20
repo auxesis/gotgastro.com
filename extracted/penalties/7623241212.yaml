@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-14"
-:offence_date: "2008-12-18"
 :pursued_by: Lithgow City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7623241212
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 192 MAIN STREET LITHGOW 2790
 :served_to: MA, ALLAN
-:id: "7623241212"
 :council_area: LITHGOW
+:action_date: "2009-01-14"
+:id: "7623241212"
+:offence_date: "2008-12-18"

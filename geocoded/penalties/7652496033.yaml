@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.287383
-:action_date: "2009-03-31"
-:offence_date: "2009-01-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11317 - Handle food in manner likely to render it unsafe - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652496033
 :offence_description: Handle food intended for sale in a manner that is likely to render the food unsafe - unpasteurised raw egg yolks used to prepare hollandaise sauce
-:latitude: -33.723257
 :trading_name: RSL LIFECARE
 :penalty_amount: $1320.00
+:latitude: -33.723257
 :address: 90 VETERANS PARADE NARRABEEN 2101
-:id: "7652496033"
 :served_to: RSL LIFECARE LTD
 :council_area: WARRINGAH
+:id: "7652496033"
+:action_date: "2009-03-31"
+:offence_date: "2009-01-23"

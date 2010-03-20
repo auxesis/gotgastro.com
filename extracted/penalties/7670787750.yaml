@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-07"
-:offence_date: "2009-03-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787750
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 123 GASCOIGNE ROAD BIRRONG 2143
 :served_to: DANG, HUE NGOC THE
-:id: "7670787750"
 :council_area: BANKSTOWN
+:action_date: "2009-04-07"
+:id: "7670787750"
+:offence_date: "2009-03-26"

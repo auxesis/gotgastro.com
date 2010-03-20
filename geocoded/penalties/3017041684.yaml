@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.989639
-:action_date: "2009-07-16"
-:offence_date: "2009-07-14"
 :pursued_by: Holroyd City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017041684
 :offence_description: Fail to display potentially hazardous food under temperature control - pate displayed for sale at 10.8C, chicken at 10C, and pork at 8C
-:latitude: -33.836742
 :trading_name: PHAT KY CAKE & BREADSHOP
 :penalty_amount: $330.00
+:latitude: -33.836742
 :address: 188 MERRYLANDS ROAD MERRYLANDS 2160
-:id: "3017041684"
 :served_to: NGUYEN, VAN THU
 :council_area: HOLROYD
+:id: "3017041684"
+:action_date: "2009-07-16"
+:offence_date: "2009-07-14"

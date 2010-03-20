@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-27"
-:offence_date: "2008-10-15"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: HARBORD MIXED BUSINESS
 :penalty_amount: $330.00
 :address: SHOP 9/119 HARBORD ROAD HARBORD
-:id: "7659074170"
 :served_to: FU, TONY
 :council_area: WARRINGAH
+:id: "7659074170"
+:action_date: "2008-10-27"
+:offence_date: "2008-10-15"

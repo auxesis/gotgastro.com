@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-11-03"
-:offence_date: "2009-11-03"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507945
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 24 LEVEL 6 MLC CENTRE FOOD COURT 19-29 MARTIN PLACE SYDNEY 2000
 :served_to: CND ENTERPRISES PTY LIMITED
-:id: "7250507945"
 :council_area: SYDNEY
+:action_date: "2009-11-03"
+:id: "7250507945"
+:offence_date: "2009-11-03"

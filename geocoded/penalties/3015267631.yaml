@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.928147
-:action_date: "2009-04-24"
-:offence_date: "2009-04-09"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267631
 :offence_description: Fail to ensure hand washing facilities are only used for the washing of hands, arms and face
-:latitude: -33.734125
 :trading_name: BAKERS WORLD
 :penalty_amount: $330.00
+:latitude: -33.734125
 :address: 60 GLENWOOD PARK DRIVE GLENWOOD 2768
-:id: "3015267631"
 :served_to: TU, SANH NGOC
 :council_area: BLACKTOWN
+:id: "3015267631"
+:action_date: "2009-04-24"
+:offence_date: "2009-04-09"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-12"
-:offence_date: "2009-07-29"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576758
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 446-452 HIGH STREET PENRITH 2750
 :served_to: LI, JIE RU
-:id: "3013576758"
 :council_area: PENRITH
+:action_date: "2009-08-12"
+:id: "3013576758"
+:offence_date: "2009-07-29"

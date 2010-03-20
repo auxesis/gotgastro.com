@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.125967
-:action_date: "2008-12-22"
-:offence_date: "2008-12-16"
 :pursued_by: Rockdale City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960163
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition - accumulation of foodwaste, dirt, grease and other visible matter
-:latitude: -33.931697
 :trading_name: LONG'S JADE GARDEN CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.931697
 :address: 5 HARTILL LAW AVE BARDWELL PARK
-:id: "3014960163"
 :served_to: LONG, YONG CHENG
 :council_area: ROCKDALE
+:id: "3014960163"
+:action_date: "2008-12-22"
+:offence_date: "2008-12-16"

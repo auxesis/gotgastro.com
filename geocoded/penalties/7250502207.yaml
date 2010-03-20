@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.208027
-:action_date: "2009-04-08"
-:offence_date: "2009-04-07"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502207
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt, dust and dried oil on kitchen floors and walls
-:latitude: -33.8865
 :trading_name: STRAWBERRY HILLS HOTEL AND BISTRO
 :penalty_amount: $660.00
+:latitude: -33.8865
 :address: 451- 455 ELIZABETH STREET  SURRY HILLS 2010
-:id: "7250502207"
 :served_to: SUPREME STAFF PTY LTD
 :council_area: SYDNEY
+:id: "7250502207"
+:action_date: "2009-04-08"
+:offence_date: "2009-04-07"

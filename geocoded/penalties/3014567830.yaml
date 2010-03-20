@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.9098489
-:action_date: "2009-01-30"
-:offence_date: "2009-01-27"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567830
 :offence_description: Failed to display potentially hazardous food under temperature control
-:latitude: -33.7705536
 :trading_name: ASIAN GROCERIES
 :penalty_amount: $330.00
+:latitude: -33.7705536
 :address: 93 MAIN STREET BLACKTOWN 2148
-:id: "3014567830"
 :served_to: KEUM, OK
 :council_area: BLACKTOWN
+:id: "3014567830"
+:action_date: "2009-01-30"
+:offence_date: "2009-01-27"

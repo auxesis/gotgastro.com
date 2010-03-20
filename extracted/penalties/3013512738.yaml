@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-05"
-:offence_date: "2008-12-10"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512738
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 8 ORMSBY PLACE WETHERILL PARK 2164
 :served_to: MING FA TRADING CO PTY LTD
-:id: "3013512738"
 :council_area: FAIRFIELD
+:action_date: "2009-01-05"
+:id: "3013512738"
+:offence_date: "2008-12-10"

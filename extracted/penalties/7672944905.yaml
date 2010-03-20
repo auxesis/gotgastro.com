@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-22"
-:offence_date: "2009-01-22"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944905
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 293 LIVERPOOL ROAD ASHFIELD 2131
 :served_to: LIANG, LI
-:id: "7672944905"
 :council_area: ASHFIELD
+:action_date: "2009-01-22"
+:id: "7672944905"
+:offence_date: "2009-01-22"

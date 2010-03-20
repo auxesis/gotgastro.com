@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.215722
-:action_date: "2008-07-16"
-:offence_date: "2008-07-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307761
 :offence_description: Fail to maintain food premises in a clean condition
-:latitude: -33.876055
 :trading_name: SUSHI ON STANLEY
 :penalty_amount: $330.00
+:latitude: -33.876055
 :address: 85 STANLEY ST DARLINGHURST 2010
-:id: "3002307761"
 :served_to: KIM, WON SIK
 :council_area: SYDNEY
+:id: "3002307761"
+:action_date: "2008-07-16"
+:offence_date: "2008-07-15"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-30"
-:offence_date: "2009-03-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514350
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: KOORNA ROAD PICTON 2571
 :served_to: WOLLONDILLY ABATTOIR PTY LTD
-:id: "3013514350"
 :council_area: WOLLONDILLY
+:action_date: "2009-04-30"
+:id: "3013514350"
+:offence_date: "2009-03-12"

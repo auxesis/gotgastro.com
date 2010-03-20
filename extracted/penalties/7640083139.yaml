@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-22"
-:offence_date: "2008-12-19"
 :pursued_by: Cessnock City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7640083139
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 46 VINCENT ST CESSNOCK 2325
 :served_to: HUANG, JOHN
-:id: "7640083139"
 :council_area: CESSNOCK
+:action_date: "2008-12-22"
+:id: "7640083139"
+:offence_date: "2008-12-19"

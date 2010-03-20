@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-07-02"
-:offence_date: "2009-07-01"
 :pursued_by: Strathfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017468989
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 12B HENLEY ROAD HOMEBUSH WEST 2140
 :served_to: QUACH, PETER
-:id: "3017468989"
 :council_area: STRATHFIELD
+:action_date: "2009-07-02"
+:id: "3017468989"
+:offence_date: "2009-07-01"

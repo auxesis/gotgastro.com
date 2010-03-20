@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-22"
-:offence_date: "2008-07-17"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831123
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 116 WILLOUGHBY RD CROWS NEST 2065
 :served_to: JUDY RAMON P/L
-:id: "3002831123"
 :council_area: NORTH SYDNEY
+:action_date: "2008-07-22"
+:id: "3002831123"
+:offence_date: "2008-07-17"

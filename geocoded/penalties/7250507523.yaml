@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.215903
-:action_date: "2009-09-01"
-:offence_date: "2009-08-26"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507523
 :offence_description: Fail to display potentially hazardous food under temperature control - pizza with toppings including meat displayed from 30.1C to 40.5C
-:latitude: -33.8802
 :trading_name: NEW YORK SLICE
 :penalty_amount: $660.00
+:latitude: -33.8802
 :address: 155 OXFORD STREET DARLINGHURST 2010
-:id: "7250507523"
 :served_to: NEW YORK SLICE TRADERS PTY LTD
 :council_area: SYDNEY
+:id: "7250507523"
+:action_date: "2009-09-01"
+:offence_date: "2009-08-26"

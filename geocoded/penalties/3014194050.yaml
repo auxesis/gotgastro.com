@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.499304
-:action_date: "2009-08-20"
-:offence_date: "2009-08-10"
+:longitude: 151.5008536
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014194050
 :offence_description: Fail to adequately contain the volume and type of garbage and recyclable matter on the food premises - garbage bins not being used, garbage on the floor of designated garbage storage area
-:latitude: -33.244331
 :trading_name: KFC
 :penalty_amount: $660.00
+:latitude: -33.2435467
 :address: STORE 1199 LAKE HAVEN SHOPPING CENTRE 43 LAKE HAVEN DRIVE LAKE HAVEN 2263
-:id: "3014194050"
 :served_to: MOONYNIGHT PTY LTD
 :council_area: WYONG
+:id: "3014194050"
+:action_date: "2009-08-20"
+:offence_date: "2009-08-10"

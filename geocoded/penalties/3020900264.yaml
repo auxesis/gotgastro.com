@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.078678
-:action_date: "2009-01-20"
-:offence_date: "2009-01-20"
 :pursued_by: City of Canterbury Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020900264
 :offence_description: Failure to maintain all fixtures, fittings and equipment to the required standard of cleanliness - There was an accumulation of dirt, grease and food waste on benches, shelves, dough machine etc
-:latitude: -33.921888
 :trading_name: AL FAYHAA BAKERY
 :penalty_amount: $330.00
+:latitude: -33.921888
 :address: 137A HALDON STREET LAKEMBA 2195
-:id: "3020900264"
 :served_to: TASIOULAS
 :council_area: CANTERBURY
+:id: "3020900264"
+:action_date: "2009-01-20"
+:offence_date: "2009-01-20"

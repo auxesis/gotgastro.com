@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-02-06"
 :pursued_by: Manly Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: CHAT THAI
 :penalty_amount: $660.00
 :address: SHOP 10 EASTERN ESPLANADE MANLY
-:id: "7641172808"
 :served_to: CHAT THAI PTY LTD
 :council_area: MANLY
+:id: "7641172808"
+:action_date: "2009-05-01"
+:offence_date: "2009-02-06"

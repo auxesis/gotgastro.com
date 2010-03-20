@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.217127
-:action_date: "2009-04-21"
-:offence_date: "2009-04-14"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137860
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of grease and grime on the floors, walls and cooking equipment
-:latitude: -33.77557
 :trading_name: FUJI JAPANESE BAKERY
 :penalty_amount: $330.00
+:latitude: -33.77557
 :address: SHOP 5, 29 TRAMORE PLACE KILLARNEY HEIGHTS 2087
-:id: "7659137860"
 :served_to: MIYAMOTO, YUKATKA
 :council_area: WARRINGAH
+:id: "7659137860"
+:action_date: "2009-04-21"
+:offence_date: "2009-04-14"

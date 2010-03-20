@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-27"
-:offence_date: "2009-01-06"
 :pursued_by: Botany Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7655823120
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 1151 BOTANY ROAD MASCOT 2020
 :served_to: PHUN, SAING LAI
-:id: "7655823120"
 :council_area: BOTANY
+:action_date: "2009-02-27"
+:id: "7655823120"
+:offence_date: "2009-01-06"

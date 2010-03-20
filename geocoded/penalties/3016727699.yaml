@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.315833
-:action_date: "2009-08-28"
-:offence_date: "2009-08-26"
 :pursued_by: Gosford City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016727699
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - chicken, beef and prawns, stored uncovered and in non-food grade containers in fridge
-:latitude: -33.524304
 :trading_name: KHONKAEN KOON THAI
 :penalty_amount: $330.00
+:latitude: -33.524304
 :address: 471 OCEAN BEACH ROAD UMINA BEACH 2257
-:id: "3016727699"
 :served_to: KHOMKLANG, THIDARAD
 :council_area: GOSFORD
+:id: "3016727699"
+:action_date: "2009-08-28"
+:offence_date: "2009-08-26"

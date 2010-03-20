@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-04"
-:offence_date: "2009-03-03"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440567
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 6-8 SEVEN HILLS ROAD BAULKHAM HILLS 2153
 :served_to: PATEL BROTHERS RESTAURANTS PTY LTD
-:id: "7653440567"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-03-04"
+:id: "7653440567"
+:offence_date: "2009-03-03"

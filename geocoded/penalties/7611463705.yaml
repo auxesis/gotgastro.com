@@ -1,16 +1,16 @@
 --- 
 :longitude: 149.717322
-:action_date: 
-:offence_date: "2009-04-08"
 :pursued_by: Goulburn Mulwaree Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7611463705
 :offence_description: Fail to take all practicable measures to protect food on display from the likelihood of contamination - cheese and bacon rolls in the front display cabinet were unprotected from flies and insects
-:latitude: -34.755037
 :trading_name: DALAT BAKERY
 :penalty_amount: $330.00
+:latitude: -34.755037
 :address: 158 AUBURN STREET GOULBURN 2580
-:id: "7611463705"
 :served_to: DO, THI LAN CHAU
 :council_area: Goulburn Mulwaree
+:id: "7611463705"
+:action_date: 
+:offence_date: "2009-04-08"

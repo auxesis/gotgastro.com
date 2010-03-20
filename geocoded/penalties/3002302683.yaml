@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.206965
-:action_date: "2008-07-04"
-:offence_date: "2008-07-03"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302683
 :offence_description: Fail to maintain easily accessible hand washing facilities
-:latitude: -33.872254
 :trading_name: KEBAB KINGDOM
 :penalty_amount: $660.00
+:latitude: -33.872254
 :address: SHOP 9 LOWER GROUND FLOOR (TGV)  500 GEORGE ST SYDNEY 2000
-:id: "3002302683"
 :served_to: K & B DEVELOPMENT CO.
 :council_area: SYDNEY
+:id: "3002302683"
+:action_date: "2008-07-04"
+:offence_date: "2008-07-03"

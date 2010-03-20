@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-07-27"
-:offence_date: "2009-07-21"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502418
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1/5 YORK STREET SYDNEY 2000
 :served_to: WAKANDA PTY LTD
-:id: "7250502418"
 :council_area: SYDNEY
+:action_date: "2009-07-27"
+:id: "7250502418"
+:offence_date: "2009-07-21"

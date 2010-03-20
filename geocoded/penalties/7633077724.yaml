@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.103624
-:action_date: "2009-04-03"
-:offence_date: "2009-04-01"
 :pursued_by: City of Canterbury Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077724
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - vermin excrement seen throughout the premises
-:latitude: -33.912567
 :trading_name: ASIAN MARKET
 :penalty_amount: $660.00
+:latitude: -33.912567
 :address: 238 BEAMISH ST CAMPSIE 2194
-:id: "7633077724"
 :served_to: AUSBAKER INTERNATIONAL PTY LTD
 :council_area: CANTERBURY
+:id: "7633077724"
+:action_date: "2009-04-03"
+:offence_date: "2009-04-01"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-28"
-:offence_date: "2009-01-15"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512884
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 5A SHOPPING WORLD TAMWORTH
 :served_to: MCINERNEY, SLADE PAUL
-:id: "3013512884"
 :council_area: TAMWORTH
+:action_date: "2009-01-28"
+:id: "3013512884"
+:offence_date: "2009-01-15"

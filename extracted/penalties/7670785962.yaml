@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-05"
-:offence_date: "2008-05-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785962
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 43-45 BEACONSFIELD ST ALEXANDRIA 2015
 :served_to: ZISTI & CO P/L
-:id: "7670785962"
 :council_area: SYDNEY
+:action_date: "2008-06-05"
+:id: "7670785962"
+:offence_date: "2008-05-14"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-07-22"
-:offence_date: "2009-06-03"
 :pursued_by: NSW Food Authority
 :offence_code: 15126 - Sell food that fails to comply with the Food Standards Code (sample of food) - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514891
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 9 STATHIS ARCADE 262 MACQUARIE STREET LIVERPOOL 2170
 :served_to: AHLE SUNNAT FEDERATION OF AUSTRALIA INC
-:id: "3013514891"
 :council_area: LIVERPOOL
+:action_date: "2009-07-22"
+:id: "3013514891"
+:offence_date: "2009-06-03"

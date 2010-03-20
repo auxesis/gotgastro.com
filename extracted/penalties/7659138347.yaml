@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-13"
-:offence_date: "2009-04-27"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659138347
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 5, 29 TRAMORE PLACE KILLARNEY HEIGHTS 2087
 :served_to: MIYAMOTO, YUKATKA
-:id: "7659138347"
 :council_area: WARRINGAH
+:action_date: "2009-05-13"
+:id: "7659138347"
+:offence_date: "2009-04-27"

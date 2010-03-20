@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1301
-:action_date: "2009-06-23"
-:offence_date: "2009-06-22"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797956
 :offence_description: Fail to provide a supply of warm running potable water to hand wash basin
-:latitude: -33.868089
 :trading_name: FIVE DOCK SEAFOOD CAFE
 :penalty_amount: $330.00
+:latitude: -33.868089
 :address: 102 GREAT NORTH ROAD FIVE DOCK 2046
-:id: "7652797956"
 :served_to: CHEN, MICHAEL
 :council_area: CANADA BAY
+:id: "7652797956"
+:action_date: "2009-06-23"
+:offence_date: "2009-06-22"

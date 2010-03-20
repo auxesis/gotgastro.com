@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-23"
-:offence_date: "2008-07-22"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797580
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 61 GREAT NORTH RD FIVE DOCK 2046
 :served_to: ANTECELLO P/L
-:id: "7652797580"
 :council_area: CANADA BAY
+:action_date: "2008-07-23"
+:id: "7652797580"
+:offence_date: "2008-07-22"

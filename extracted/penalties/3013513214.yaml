@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-28"
-:offence_date: "2008-05-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513214
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 45 PRESIDENT AVE KOGARAH 2217
 :served_to: DOLCE VITA FINE FOODS PTY LTD
-:id: "3013513214"
 :council_area: ROCKDALE
+:action_date: "2008-07-28"
+:id: "3013513214"
+:offence_date: "2008-05-26"

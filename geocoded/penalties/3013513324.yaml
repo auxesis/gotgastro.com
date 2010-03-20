@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.151057
-:action_date: "2008-08-18"
-:offence_date: "2008-06-25"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513324
 :offence_description: Fail to comply with product testing requirements as required by the NSW Dairy Manual for dairy produce factory - cream
-:latitude: -31.294253
 :trading_name: MJ & LC ROSE (PEEL VALLEY MILK)
 :penalty_amount: $330.00
+:latitude: -31.294253
 :address: 2560 NUNDLE RD WOOLOMIN 2340
-:id: "3013513324"
 :served_to: ROSE, MALCOLM JOHN
 :council_area: TAMWORTH
+:id: "3013513324"
+:action_date: "2008-08-18"
+:offence_date: "2008-06-25"

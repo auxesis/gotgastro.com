@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-10"
-:offence_date: "2009-01-09"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513690
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 14/55 NORTON STREET LEICHHARDT 2040
 :served_to: AC GOURMET POULTRY PTY LTD
-:id: "3013513690"
 :council_area: LEICHHARDT
+:action_date: "2009-03-10"
+:id: "3013513690"
+:offence_date: "2009-01-09"

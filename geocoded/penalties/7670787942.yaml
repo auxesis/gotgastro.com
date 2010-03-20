@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.932897
-:action_date: "2009-07-01"
-:offence_date: "2009-06-30"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787942
 :offence_description: Fail to comply with a condition of licence - fail to maintain sufficient records in order to identify supplier and receipt of meat
-:latitude: -33.898042
 :trading_name: XUAN PHAT FOOD CO
 :penalty_amount: $330.00
+:latitude: -33.898042
 :address: 34 BOLIVIA STREET CABRAMATTA 2166
-:id: "7670787942"
 :served_to: VUONG, JENNY
 :council_area: FAIRFIELD
+:id: "7670787942"
+:action_date: "2009-07-01"
+:offence_date: "2009-06-30"

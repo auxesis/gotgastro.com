@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.184611
-:action_date: "2009-07-10"
-:offence_date: "2009-06-12"
+:longitude: 151.1846586
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651727
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - an accumulation of food waste, dirt, grease and other visible matter on floor, walls and ceiling
-:latitude: -33.796333
 :trading_name: TIM'S BBQ KITCHEN
 :penalty_amount: $660.00
+:latitude: -33.7963939
 :address: 21 SPRING STREET CHATSWOOD 2067
-:id: "7671651727"
 :served_to: CALIBUS PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671651727"
+:action_date: "2009-07-10"
+:offence_date: "2009-06-12"

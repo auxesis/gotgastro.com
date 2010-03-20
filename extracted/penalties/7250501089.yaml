@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-02"
-:offence_date: "2009-01-30"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501089
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1/F14, 7-13 HUNTER STREET SYDNEY 2000
 :served_to: LE, VINH QUANG
-:id: "7250501089"
 :council_area: SYDNEY
+:action_date: "2009-02-02"
+:id: "7250501089"
+:offence_date: "2009-01-30"

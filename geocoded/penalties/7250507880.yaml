@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.209074
-:action_date: "2009-10-30"
-:offence_date: "2009-10-29"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507880
 :offence_description: Fail to have hand washing facilities connected to a supply of warm running potable water - no warm running water in staff toilet facilities
-:latitude: -33.885363
 :trading_name: HAO'S CAFE
 :penalty_amount: $330.00
+:latitude: -33.885363
 :address: 24 COOPER STREET SURRY HILLS 2010
-:id: "7250507880"
 :served_to: CAO, HAO
 :council_area: SYDNEY
+:id: "7250507880"
+:action_date: "2009-10-30"
+:offence_date: "2009-10-29"

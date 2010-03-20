@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-22"
-:offence_date: "2008-08-21"
 :pursued_by: Lithgow City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
 :address: 394-398 GREAT WESTERN HWY MARANGAROO 2790
-:id: "7623241185"
 :served_to: HAQBEEN, AHMAD SHAMS
 :council_area: LITHGOW
+:id: "7623241185"
+:action_date: "2008-08-22"
+:offence_date: "2008-08-21"

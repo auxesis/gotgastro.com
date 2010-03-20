@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-02"
-:offence_date: "2007-11-08"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785990
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 600 YELLOW ROCK RD RALEIGH 2454
 :served_to: WHITE, MARK EDWARD
-:id: "7670785990"
 :council_area: BELLINGEN
+:action_date: "2008-07-02"
+:id: "7670785990"
+:offence_date: "2007-11-08"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 153.283769
-:action_date: "2009-03-05"
-:offence_date: "2009-03-04"
 :pursued_by: Richmond Valley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547636
 :offence_description: Food for sale past its use-by date
-:latitude: -28.992019
 :trading_name: JITTERBUGS TAKEAWAY
 :penalty_amount: $330.00
+:latitude: -28.992019
 :address: 40 ADAMS STREET CORAKI 2471
-:id: "3003547636"
 :served_to: DOUGLAS, DENISE ANN
 :council_area: RICHMOND VALLEY COUNCIL
+:id: "3003547636"
+:action_date: "2009-03-05"
+:offence_date: "2009-03-04"

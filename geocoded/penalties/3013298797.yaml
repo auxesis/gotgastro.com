@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.912037
-:action_date: "2008-08-11"
-:offence_date: "2008-08-07"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013298797
 :offence_description: Fail to maintain at/near hand wash facility, warm running water & means of washing & drying hands
-:latitude: -33.748344
 :trading_name: KARIBU TRADING PTY LIMITED
 :penalty_amount: $660.00
+:latitude: -33.748344
 :address: 3/40 TATTERSALL RD KINGS PARK 2148
-:id: "3013298797"
 :served_to: KARIBU TRADING PTY LIMITED
 :council_area: BLACKTOWN
+:id: "3013298797"
+:action_date: "2008-08-11"
+:offence_date: "2008-08-07"

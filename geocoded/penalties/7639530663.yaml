@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.250217
-:action_date: "2009-04-30"
-:offence_date: "2009-04-29"
 :pursued_by: Waverley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530663
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, grease and grime on the walls and floors
-:latitude: -33.891739
 :trading_name: MASALA
 :penalty_amount: $660.00
+:latitude: -33.891739
 :address: LEVEL 4, WESTFIELD SHOPPING CENTRE 500 OXFORD STREET BONDI JUNCTION 2022
-:id: "7639530663"
 :served_to: SHREE SAICHARAN PTY LTD
 :council_area: WAVERLEY
+:id: "7639530663"
+:action_date: "2009-04-30"
+:offence_date: "2009-04-29"

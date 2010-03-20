@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-11"
-:offence_date: "2009-09-10"
 :pursued_by: Randwick City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650420
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2-6 BELMORE ROAD RANDWICK 2031
 :served_to: PARK, JIN HUYNH
-:id: "7621650420"
 :council_area: RANDWICK
+:action_date: "2009-09-11"
+:id: "7621650420"
+:offence_date: "2009-09-10"

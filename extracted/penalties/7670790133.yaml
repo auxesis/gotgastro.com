@@ -1,6 +1,4 @@
 --- 
-:action_date: -00-00
-:offence_date: "2009-05-20"
 :pursued_by: Botany Municipal Council
 :offence_code: 11322 - Sell food that is unsuitable - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790133
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: SHOP 8, 19A EVANS AVENUE EASTLAKES 2018
 :served_to: HOAG, THI THO
-:id: "7670790133"
 :council_area: BOTANY
+:action_date: 
+:id: "7670790133"
+:offence_date: "2009-05-20"

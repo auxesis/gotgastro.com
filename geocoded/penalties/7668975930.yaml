@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.094403
-:action_date: "2008-08-06"
-:offence_date: "2008-08-04"
 :pursued_by: Burwood Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7668975930
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.87347
 :trading_name: MATT ZZANG KOREAN FOODS
 :penalty_amount: $330.00
+:latitude: -33.87347
 :address: 26 THE BOULEVARDE STRATHFIELD 2135
-:id: "7668975930"
 :served_to: YU, OK JA
 :council_area: BURWOOD
+:id: "7668975930"
+:action_date: "2008-08-06"
+:offence_date: "2008-08-04"

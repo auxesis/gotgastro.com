@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.915397
-:action_date: "2009-05-25"
-:offence_date: "2009-05-21"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440888
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, grease and other visible matter
-:latitude: -33.682068
 :trading_name: THAI SPLENDID
 :penalty_amount: $660.00
+:latitude: -33.682068
 :address: SHOP GR 111, 10-14 MARKET LANE ROUSE HILL 2155
-:id: "7653440888"
 :served_to: TK2 INVESTMENT PTY LTD
 :council_area: BAULKHAM HILLS
+:id: "7653440888"
+:action_date: "2009-05-25"
+:offence_date: "2009-05-21"

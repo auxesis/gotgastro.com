@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.156675
-:action_date: "2009-03-11"
-:offence_date: "2009-01-14"
 :pursued_by: NSW Food Authority
 :offence_code: 15126 - Sell food that fails to comply with the Food Standards Code (sample of food) - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513829
 :offence_description: Fail to comply with the Food Standards Code - sale of thin sausages contained an excessive level of sulphur dioxide preservative
-:latitude: -33.910938
 :trading_name: THAI HUNG BUTCHERY
 :penalty_amount: $660.00
+:latitude: -33.910938
 :address: 282 MARRICKVILLE ROAD MARRICKVILLE 2204
-:id: "3013513829"
 :served_to: THAI HUNG PTY LTD
 :council_area: MARRICKVILLE
+:id: "3013513829"
+:action_date: "2009-03-11"
+:offence_date: "2009-01-14"

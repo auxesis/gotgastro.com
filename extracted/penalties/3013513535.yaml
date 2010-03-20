@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-26"
-:offence_date: "2008-09-09"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513535
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 2 GREY ST SILVERWATER
 :served_to: J R MEAT TRADE PTY LTD
-:id: "3013513535"
 :council_area: AUBURN
+:action_date: "2008-11-26"
+:id: "3013513535"
+:offence_date: "2008-09-09"

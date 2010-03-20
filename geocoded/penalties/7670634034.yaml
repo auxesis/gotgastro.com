@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.885993
-:action_date: "2009-04-03"
-:offence_date: "2009-02-19"
 :pursued_by: Liverpool City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670634034
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - live cockroaches, a dead mouse and a live mouse were observed in the food preparation area
-:latitude: -33.93073
 :trading_name: TRY MY SNACKS
 :penalty_amount: $330.00
+:latitude: -33.93073
 :address: 4B/9 LYN PARADE PRESTONS 2170
-:id: "7670634034"
 :served_to: KUMAR, RAVIN
 :council_area: LIVERPOOL
+:id: "7670634034"
+:action_date: "2009-04-03"
+:offence_date: "2009-02-19"

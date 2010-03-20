@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.207662
-:action_date: "2008-10-02"
-:offence_date: "2008-09-30"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307835
 :offence_description: Fail to display potentially hazardous food under temperature control
-:latitude: -33.889686
 :trading_name: ABDUL'S RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.889686
 :address: 563 ELIZABETH ST SURRY HILLS 2010
-:id: "3002307835"
 :served_to: ABDUL'S RESTAURANT PTY LTD
 :council_area: SYDNEY
+:id: "3002307835"
+:action_date: "2008-10-02"
+:offence_date: "2008-09-30"

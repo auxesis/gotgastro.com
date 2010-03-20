@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-05"
-:offence_date: "2009-02-04"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567885
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 4/2 MAIN STREET BLACKTOWN
 :served_to: ALMA'S CHOICE PTY LTD
-:id: "3014567885"
 :council_area: BLACKTOWN
+:action_date: "2009-02-05"
+:id: "3014567885"
+:offence_date: "2009-02-04"

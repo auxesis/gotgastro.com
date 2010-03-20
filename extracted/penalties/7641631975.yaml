@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-10"
-:offence_date: "2009-08-07"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631975
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 72 CONNELLS POINT ROAD SOUTH HURSTVILLE 2221
 :served_to: MODERN KITCHEN CATERING PTY LTD
-:id: "7641631975"
 :council_area: KOGARAH
+:action_date: "2009-08-10"
+:id: "7641631975"
+:offence_date: "2009-08-07"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-29"
-:offence_date: "2008-08-28"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944712
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 303 LIVERPOOL RD ASHFIELD
 :served_to: SPICELAND SUPERMARKETS PTY LTD
-:id: "7672944712"
 :council_area: ASHFIELD
+:action_date: "2008-08-29"
+:id: "7672944712"
+:offence_date: "2008-08-28"

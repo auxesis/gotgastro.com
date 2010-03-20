@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-06"
-:offence_date: "2009-08-04"
 :pursued_by: Richmond Valley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547782
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 17 MCDONALD PLACE EVANS HEAD 2473
 :served_to: YATES, STEVEN
-:id: "3003547782"
 :council_area: RICHMOND VALLEY COUNCIL
+:action_date: "2009-08-06"
+:id: "3003547782"
+:offence_date: "2009-08-04"

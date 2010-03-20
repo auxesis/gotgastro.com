@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.207981
-:action_date: "2008-09-15"
-:offence_date: "2008-09-04"
 :pursued_by: Great Lakes Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621585822
 :offence_description: Fail to maintain a clean food premises - accumulation of dirt and rubbish in food preparation area
-:latitude: -32.413376
 :trading_name: ECO POINT MYALL SHORES RESORT
 :penalty_amount: $660.00
+:latitude: -32.413376
 :address: BOMBA POINT VIA BULAHDELAH 2423
-:id: "7621585822"
 :served_to: MARINER LEISURE MANAGEMENT LTD
 :council_area: GREAT LAKES
+:id: "7621585822"
+:action_date: "2008-09-15"
+:offence_date: "2008-09-04"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.9527486
-:action_date: "2009-01-27"
-:offence_date: "2009-01-21"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465685
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Live and dead cockroaches were observed in the food preparation area
-:latitude: -33.8116396
 :trading_name: PIAZZETTA BELLA ITALIAN RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.8116396
 :address: 502A GREAT WESTERN HIGHWAY PENDLE HILL 2145
-:id: "3013465685"
 :served_to: POTENZELLA EXCTES PTY LTD
 :council_area: HOLROYD
+:id: "3013465685"
+:action_date: "2009-01-27"
+:offence_date: "2009-01-21"

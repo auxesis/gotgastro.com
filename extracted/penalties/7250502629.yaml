@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-09"
-:offence_date: "2009-10-02"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502629
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 78 DEVONSHIRE STREET SURRY HILLS 2010
 :served_to: TANSALA, ARUN
-:id: "7250502629"
 :council_area: SYDNEY
+:action_date: "2009-10-09"
+:id: "7250502629"
+:offence_date: "2009-10-02"

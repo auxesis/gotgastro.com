@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-27"
-:offence_date: "2008-10-24"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: WOK KING NOODLE HOUSE
 :penalty_amount: $660.00
 :address: 102 SOUTH PDE AUBURN
-:id: "7672537043"
 :served_to: WINDMILL MANAGEMENT PTY LTD
 :council_area: AUBURN
+:id: "7672537043"
+:action_date: "2008-10-27"
+:offence_date: "2008-10-24"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-21"
-:offence_date: "2008-08-22"
 :pursued_by: NSW Food Authority
 :offence_code: 15126 - Sell food that fails to comply with the Food Standards Code (sample of food) - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512848
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 10, BASS HILL PLAZA 735 HUME HIGHWAY BASS HILL 2197
 :served_to: BASS HILL BEST MEAT PTY LTD
-:id: "3013512848"
 :council_area: BANKSTOWN
+:action_date: "2009-01-21"
+:id: "3013512848"
+:offence_date: "2008-08-22"

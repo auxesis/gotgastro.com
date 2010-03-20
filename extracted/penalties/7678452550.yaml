@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-19"
-:offence_date: "2008-12-17"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452550
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 98 FALCON STREET CROWS NEST 2065
 :served_to: DELCOUR, MICHEL
-:id: "7678452550"
 :council_area: NORTH SYDNEY
+:action_date: "2008-12-19"
+:id: "7678452550"
+:offence_date: "2008-12-17"

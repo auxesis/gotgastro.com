@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.305587
-:action_date: "2008-10-01"
-:offence_date: "2008-09-16"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076745
 :offence_description: Fail to comply with the Food Standards Code - cleaning, maintenance and food handling issues
-:latitude: -36.504289
 :trading_name: BERNTI'S MOUNTAIN INN
 :penalty_amount: $330.00
+:latitude: -36.504289
 :address: 4 MOWAMBA PL THREDBO 2625
-:id: "7657076745"
 :served_to: GREGORSKI, TED
 :council_area: Kosciuszko
+:id: "7657076745"
+:action_date: "2008-10-01"
+:offence_date: "2008-09-16"

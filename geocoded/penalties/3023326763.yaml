@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.103878
-:action_date: "2009-10-15"
-:offence_date: "2009-10-14"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023326763
 :offence_description: Fail to maintain fixtures, fittings, and equipment in a good state of repair and working order having regard to their use - damaged food storage containers, cracked and chipped crockery and teapots, previous warnings given
-:latitude: -33.878674
 :trading_name: GOLDEN GLOBE SEAFOOD RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.878674
 :address: 206-208 BURWOOD ROAD BURWOOD 2134
-:id: "3023326763"
 :served_to: TERI INVESTMENT PTY LTD
 :council_area: BURWOOD
+:id: "3023326763"
+:action_date: "2009-10-15"
+:offence_date: "2009-10-14"

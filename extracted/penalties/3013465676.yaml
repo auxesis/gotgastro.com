@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-27"
-:offence_date: "2009-01-21"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465676
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 502A GREAT WESTERN HIGHWAY PENDLE HILL 2145
 :served_to: POTENZELLA EXCTES PTY LTD
-:id: "3013465676"
 :council_area: HOLROYD
+:action_date: "2009-01-27"
+:id: "3013465676"
+:offence_date: "2009-01-21"

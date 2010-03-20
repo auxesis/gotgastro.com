@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-05-01"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184654
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 301, ASHFIELD MALL 260A LIVERPOOL ROAD ASHFIELD 2131
 :served_to: QUNDA AUSTRALIA PTY LTD
-:id: "3014184654"
 :council_area: ASHFIELD
+:action_date: "2009-05-01"
+:id: "3014184654"
+:offence_date: "2009-05-01"

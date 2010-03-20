@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-10"
-:offence_date: "2008-10-10"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485270
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 62-64 WIGRAM ST HARRIS PARK
 :served_to: AROMA CUISINES PTY LTD
-:id: "7673485270"
 :council_area: PARRAMATTA
+:action_date: "2008-10-10"
+:id: "7673485270"
+:offence_date: "2008-10-10"

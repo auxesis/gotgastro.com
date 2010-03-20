@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-13"
-:offence_date: "2009-04-10"
 :pursued_by: NSW Food Authority
 :offence_code: 11015 - Handle/sell food so as to contravene the food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514360
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 1 LAWLER STREET NYNGAN 2825
 :served_to: FREW, MICHAEL JAMES
-:id: "3013514360"
 :council_area: BOGAN
+:action_date: "2009-05-13"
+:id: "3013514360"
+:offence_date: "2009-04-10"

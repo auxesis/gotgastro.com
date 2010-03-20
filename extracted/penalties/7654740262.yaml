@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-03"
-:offence_date: "2009-05-21"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654740262
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1-3, HUGHES PLACE EAST LINDFIELD 2070
 :served_to: MALWA FOOD & LIQUOR PTY LTD
-:id: "7654740262"
 :council_area: KU-RING-GAI
+:action_date: "2009-06-03"
+:id: "7654740262"
+:offence_date: "2009-05-21"

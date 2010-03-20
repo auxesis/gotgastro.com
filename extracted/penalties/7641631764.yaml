@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-02"
-:offence_date: "2009-04-01"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631764
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 6/18 GREENACRE ROAD SOUTH HURSTVILLE 2221
 :served_to: DO, ANH NGOC VAN
-:id: "7641631764"
 :council_area: KOGARAH
+:action_date: "2009-04-02"
+:id: "7641631764"
+:offence_date: "2009-04-01"

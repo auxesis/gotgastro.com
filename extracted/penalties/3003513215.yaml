@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-30"
-:offence_date: "2009-03-27"
 :pursued_by: Hurstville City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513215
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 467 KING GEORGES ROAD BEVERLY HILLS 2209
 :served_to: MARTINS, JOSE FRANCISCO COELHA
-:id: "3003513215"
 :council_area: HURSTVILLE
+:action_date: "2009-03-30"
+:id: "3003513215"
+:offence_date: "2009-03-27"

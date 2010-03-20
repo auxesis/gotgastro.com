@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-20"
-:offence_date: "2009-03-11"
 :pursued_by: Penrith City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576226
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 4 ENDEAVOUR AVENUE ST CLAIR 2759
 :served_to: RED ROOSTER FOODS PTY LTD
-:id: "3013576226"
 :council_area: PENRITH
+:action_date: "2009-03-20"
+:id: "3013576226"
+:offence_date: "2009-03-11"

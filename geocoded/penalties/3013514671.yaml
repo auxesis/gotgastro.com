@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.227663
-:action_date: "2009-06-16"
-:offence_date: "2009-05-20"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514671
 :offence_description: Sell food that fails to comply with the Food Standards Code - sale of meat described as pork mince containing illegal sulphur dioxide preservative
-:latitude: -33.924749
 :trading_name: DANIELS BUTCHERY
 :penalty_amount: $330.00
+:latitude: -33.924749
 :address: 387 ANZAC PARADE KINGSFORD 2032
-:id: "3013514671"
 :served_to: TRAN, HO DUC NHA
 :council_area: RANDWICK
+:id: "3013514671"
+:action_date: "2009-06-16"
+:offence_date: "2009-05-20"

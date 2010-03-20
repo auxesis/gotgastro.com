@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-03"
-:offence_date: "2008-12-02"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307890
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/107-109 DARLINGHURST ROAD POTTS POINT 2011
 :served_to: MSH ENTERPRISE PTY LTD
-:id: "3002307890"
 :council_area: SYDNEY
+:action_date: "2008-12-03"
+:id: "3002307890"
+:offence_date: "2008-12-02"

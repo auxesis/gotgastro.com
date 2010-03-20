@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-15"
-:offence_date: "2008-12-17"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537290
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 5 OLYMPIC DRIVE LIDCOMBE 2141
 :served_to: YOGESHWAR CATERING SERVICES PTY LTD
-:id: "7672537290"
 :council_area: AUBURN
+:action_date: "2009-01-15"
+:id: "7672537290"
+:offence_date: "2008-12-17"

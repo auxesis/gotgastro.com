@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-04-30"
 :pursued_by: Hunters Hill Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002798783
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 4-5/45 GLADESVILLE ROAD HUNTERS HILL 2110
 :served_to: OZPAC ENTERPRISES PTY LTD
-:id: "3002798783"
 :council_area: HUNTER'S HILL
+:action_date: "2009-05-01"
+:id: "3002798783"
+:offence_date: "2009-04-30"

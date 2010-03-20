@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-05-01"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501464
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 237-239A KING STREET NEWTOWN 2042
 :served_to: ZANNE INVESTMENTS PTY LTD
-:id: "7250501464"
 :council_area: SYDNEY
+:action_date: "2009-05-01"
+:id: "7250501464"
+:offence_date: "2009-05-01"

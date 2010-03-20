@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-12"
-:offence_date: "2009-04-02"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576336
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 153 QUEEN STREET ST MARYS 2760
 :served_to: SONI, EKTA
-:id: "3013576336"
 :council_area: PENRITH
+:action_date: "2009-05-12"
+:id: "3013576336"
+:offence_date: "2009-04-02"

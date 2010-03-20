@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.208887
-:action_date: "2008-08-08"
-:offence_date: "2008-08-05"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303188
 :offence_description: Fail to maintain food premises in a clean condition
-:latitude: -33.870441
 :trading_name: ENTHAISING
 :penalty_amount: $660.00
+:latitude: -33.870441
 :address: 184 PITT ST SYDNEY 2000
-:id: "3002303188"
 :served_to: LEX HOLDINGS P/L
 :council_area: SYDNEY
+:id: "3002303188"
+:action_date: "2008-08-08"
+:offence_date: "2008-08-05"

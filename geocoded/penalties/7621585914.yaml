@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-16"
-:offence_date: "2008-12-11"
 :pursued_by: Great Lakes Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: CHICKENS AT FORSTER
 :penalty_amount: $660.00
 :address: 3-17 BREESE PDE FORSTER
-:id: "7621585914"
 :served_to: CHICKENS AT FORSTER PTY LTD
 :council_area: GREAT LAKES
+:id: "7621585914"
+:action_date: "2009-01-16"
+:offence_date: "2008-12-11"

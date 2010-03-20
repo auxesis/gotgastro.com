@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.923915
-:action_date: "2009-11-11"
-:offence_date: "2009-11-03"
 :pursued_by: Liverpool City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670634171
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - cockroaches on shelving and walls located above uncovered bread
-:latitude: -33.923002
 :trading_name: VU NGUYEN BAKERY
 :penalty_amount: $330.00
+:latitude: -33.923002
 :address: 224 MACQUARIE STREET LIVERPOOL 2170
-:id: "7670634171"
 :served_to: VU, DUY TUAN
 :council_area: LIVERPOOL
+:id: "7670634171"
+:action_date: "2009-11-11"
+:offence_date: "2009-11-03"

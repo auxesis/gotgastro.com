@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.004072
-:action_date: "2009-06-22"
-:offence_date: "2009-06-16"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485472
 :offence_description: Fail to maintain at or near each hand washing facility a supply of warm running water, soap or single use towels - in pizza preparation area, kitchen and men's toilet
-:latitude: -33.811117
 :trading_name: STEPHANO'S RISTORANTE
 :penalty_amount: $660.00
+:latitude: -33.811117
 :address: 329 CHURCH STREET PARRAMATTA 2150
-:id: "7673485472"
 :served_to: STEPHANO'S INVESTMENTS PTY LTD
 :council_area: PARRAMATTA
+:id: "7673485472"
+:action_date: "2009-06-22"
+:offence_date: "2009-06-16"

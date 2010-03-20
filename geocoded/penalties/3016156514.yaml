@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.601408
-:action_date: "2009-06-12"
-:offence_date: "2009-04-28"
 :pursued_by: Shoalhaven City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016156514
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - rodent faeces observed in the food preparation area
-:latitude: -35.15647
 :trading_name: DINH HOT BREAD AND CAKE SHOP
 :penalty_amount: $330.00
+:latitude: -35.15647
 :address: SHOP 1 183 JACOBS DRIVE SUSSEX INLET 2540
-:id: "3016156514"
 :served_to: NGUYEN, DINH GIAO
 :council_area: SHOALHAVEN
+:id: "3016156514"
+:action_date: "2009-06-12"
+:offence_date: "2009-04-28"

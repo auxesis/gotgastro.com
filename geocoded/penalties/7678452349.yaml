@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.204636
-:action_date: "2008-09-15"
-:offence_date: "2008-09-12"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452349
 :offence_description: Fail to maintain a clean food premises - build up of food waste, garbage and grease on floors
-:latitude: -33.844307
 :trading_name: BLUES POINT CAFE
 :penalty_amount: $330.00
+:latitude: -33.844307
 :address: 133-135 BLUES POINT ROAD MCMAHONS POINT 2060
-:id: "7678452349"
 :served_to: COLOSI, ANTONIO
 :council_area: NORTH SYDNEY
+:id: "7678452349"
+:action_date: "2008-09-15"
+:offence_date: "2008-09-12"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-17"
-:offence_date: "2008-05-09"
 :pursued_by: Port Stephens Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3018332058
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 106 MAGNUS STREET NELSON BAY 2315
 :served_to: HEE, KIM MYUNG
-:id: "3018332058"
 :council_area: PORT STEPHENS
+:action_date: "2008-06-17"
+:id: "3018332058"
+:offence_date: "2008-05-09"

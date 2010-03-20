@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.297842
-:action_date: "2009-01-02"
-:offence_date: "2008-12-12"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659052354
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - Observed unclean food display surfaces, food slicer, sink, utensils and an infestation of insects
-:latitude: -33.71858
 :trading_name: NARRABEEN FRUIT MARKET
 :penalty_amount: $660.00
+:latitude: -33.71858
 :address: PITTWATER ROAD NARRABEEN 2101
-:id: "7659052354"
 :served_to: S SIN AND P KHUN PTY LTD
 :council_area: WARRINGAH
+:id: "7659052354"
+:action_date: "2009-01-02"
+:offence_date: "2008-12-12"

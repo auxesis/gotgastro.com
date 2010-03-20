@@ -1,6 +1,4 @@
 --- 
-:action_date: -00-00
-:offence_date: "2009-04-15"
 :pursued_by: Rockdale City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960338
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 32 FIRTH STREET ARNCLIFFE 2205
 :served_to: LIGON 109 PTY LTD
-:id: "3014960338"
 :council_area: ROCKDALE
+:action_date: 
+:id: "3014960338"
+:offence_date: "2009-04-15"

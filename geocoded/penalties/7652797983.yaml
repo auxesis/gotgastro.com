@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.085152
-:action_date: "2009-07-09"
-:offence_date: "2009-07-08"
+:longitude: 151.0851805
 :pursued_by: City of Canada Bay Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797983
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap and single use towels
-:latitude: -33.834176
 :trading_name: TOMODACHI JAPANESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.8340779
 :address: SHOP 74, RHODES SHOPPING CENTRE 1 RIDER BOULEVARD RHODES 2138
-:id: "7652797983"
 :served_to: F R B CORPORATION PTY LTD
 :council_area: CANADA BAY
+:id: "7652797983"
+:action_date: "2009-07-09"
+:offence_date: "2009-07-08"

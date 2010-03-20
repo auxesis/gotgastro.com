@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-29"
-:offence_date: "2008-09-23"
 :pursued_by: Holroyd City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671477963
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 364 GUILDFORD RD GUILDFORD 2161
 :served_to: GHAZZAOUI, ABBOUD
-:id: "7671477963"
 :council_area: HOLROYD
+:action_date: "2008-09-29"
+:id: "7671477963"
+:offence_date: "2008-09-23"

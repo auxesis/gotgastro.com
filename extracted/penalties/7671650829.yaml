@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-12"
-:offence_date: "2009-02-11"
 :pursued_by: Willoughby City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650829
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 224 VICTORIA AVE CHATSWOOD 2068
 :served_to: DAO, THI VAN ANH
-:id: "7671650829"
 :council_area: WILLOUGHBY
+:action_date: "2009-02-12"
+:id: "7671650829"
+:offence_date: "2009-02-11"

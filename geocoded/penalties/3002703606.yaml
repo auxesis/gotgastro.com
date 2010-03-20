@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.60842
-:action_date: "2009-11-18"
-:offence_date: "2009-05-01"
+:longitude: 150.608423
 :pursued_by: Blue Mountains City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002703606
 :offence_description: Fail to maintain all fixtures, fittings and equipment in a good state of repair and working order - hand wash basin not working, prior warnings given
-:latitude: -33.670986
 :trading_name: GLORIA JEANS
 :penalty_amount: $660.00
+:latitude: -33.671003
 :address: SHOP 26  14-28 WHITE CROSS RD WINMALEE 2777
-:id: "3002703606"
 :served_to: ADONAI INTERNATIONAL PTY LTD
 :council_area: BLUE MOUNTAINS
+:id: "3002703606"
+:action_date: "2009-11-18"
+:offence_date: "2009-05-01"

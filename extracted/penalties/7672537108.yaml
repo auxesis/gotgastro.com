@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-25"
-:offence_date: "2008-11-24"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537108
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 91 ASQUITH ST SILVERWATER
 :served_to: 91 ASQUITH STREET PTY LTD
-:id: "7672537108"
 :council_area: AUBURN
+:action_date: "2008-11-25"
+:id: "7672537108"
+:offence_date: "2008-11-24"

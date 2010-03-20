@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-17"
-:offence_date: "2009-09-04"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650484
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: LEVEL 2 193 MAROUBRA ROAD MAROUBRA 2035
 :served_to: CHEUNG SING PTY LTD
-:id: "7621650484"
 :council_area: RANDWICK
+:action_date: "2009-09-17"
+:id: "7621650484"
+:offence_date: "2009-09-04"

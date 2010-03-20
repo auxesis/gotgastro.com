@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-01"
-:offence_date: "2008-11-27"
 :pursued_by: Greater Taree City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673950067
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 93-99 MANNING ST TAREE 2430
 :served_to: HUNGRY JACK'S PTY LTD
-:id: "7673950067"
 :council_area: GREATER TAREE
+:action_date: "2008-12-01"
+:id: "7673950067"
+:offence_date: "2008-11-27"

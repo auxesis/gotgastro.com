@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-08"
-:offence_date: "2009-04-22"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650080
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 189 ANZAC PARADE KENSINGTON 2033
 :served_to: HUNAN RESTAURANT PTY LTD
-:id: "7621650080"
 :council_area: RANDWICK
+:action_date: "2009-05-08"
+:id: "7621650080"
+:offence_date: "2009-04-22"

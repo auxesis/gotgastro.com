@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.216827
-:action_date: "2009-05-26"
-:offence_date: "2009-05-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501601
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of dirt and garbage observed on the premises
-:latitude: -33.874082
 :trading_name: THE CAFE
 :penalty_amount: $660.00
+:latitude: -33.874082
 :address: 82-108 WILLIAM STREET WOOLLOOMOOLOO 2011
-:id: "7250501601"
 :served_to: IDM ENTERPRISES PTY LTD
 :council_area: SYDNEY
+:id: "7250501601"
+:action_date: "2009-05-26"
+:offence_date: "2009-05-15"

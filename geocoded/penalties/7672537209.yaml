@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.03147
-:action_date: "2008-12-16"
-:offence_date: "2008-11-27"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537209
 :offence_description: Failed to take all practicable measures to eradicate and prevent the harbourage of pests - The presence of live cockroaches were found in the food preparation areas
-:latitude: -33.85029
 :trading_name: ORIENTAL CHEF
 :penalty_amount: $330.00
+:latitude: -33.85029
 :address: SHOP Q31, 62-72 QUEEN STREET AUBURN 2144
-:id: "7672537209"
 :served_to: XU, WEN YUAN
 :council_area: AUBURN
+:id: "7672537209"
+:action_date: "2008-12-16"
+:offence_date: "2008-11-27"

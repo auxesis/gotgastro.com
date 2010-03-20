@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-31"
-:offence_date: "2009-08-31"
 :pursued_by: Snowy River Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7634716091
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 11 DENNISON STREET ADAMINABY 2629
 :served_to: SQUIRE, GLEN
-:id: "7634716091"
 :council_area: SNOWY RIVER
+:action_date: "2009-08-31"
+:id: "7634716091"
+:offence_date: "2009-08-31"

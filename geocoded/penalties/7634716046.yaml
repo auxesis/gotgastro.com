@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.625913
-:action_date: 
-:offence_date: "2009-06-17"
 :pursued_by: Snowy River Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7634716046
 :offence_description: Fail to provide hand washing facilities clearly designated for the sole purpose of washing hands, arms and face
-:latitude: -36.416857
 :trading_name: LAKESIDE BISTRO
 :penalty_amount: $330.00
+:latitude: -36.416857
 :address: 2 BAY STREET JINDABYNE 2627
-:id: "7634716046"
 :served_to: RITTER, CAROLYN
 :council_area: SNOWY RIVER
+:id: "7634716046"
+:action_date: 
+:offence_date: "2009-06-17"

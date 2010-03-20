@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.13785
-:action_date: "2008-08-11"
-:offence_date: "2008-08-08"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673079967
 :offence_description: Fail to maintain food premises and all fixtures, fittings and equipment in a good state of repair and working order having regard to their use - flaking paint in food preparation area
-:latitude: -33.891681
 :trading_name: SUMMER HILL HOT BREAD
 :penalty_amount: $330.00
+:latitude: -33.891681
 :address: 41 LACKEY ST SUMMER HILL 2130
-:id: "7673079967"
 :served_to: NGUYEN, DUC THINH
 :council_area: ASHFIELD
+:id: "7673079967"
+:action_date: "2008-08-11"
+:offence_date: "2008-08-08"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.604212
-:action_date: "2009-04-16"
-:offence_date: "2009-04-09"
 :pursued_by: NSW Food Authority
 :offence_code: 11325 - Use misleading/deceptive adverstising/packaging/labelling of food - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514250
 :offence_description: Labelling of food for sale was misleading and deceptive - prawns labelled as 'Aussie Prawns' were in fact produced in Thailand
-:latitude: -32.245192
 :trading_name: DW QUALITY MEATS
 :penalty_amount: $1320.00
+:latitude: -32.245192
 :address: SHOP 26A, ORANA MALL SHOPPING CENTRE DUBBO 2830
-:id: "3013514250"
 :served_to: DW QUALITY MEATS PTY LTD
 :council_area: DUBBO
+:id: "3013514250"
+:action_date: "2009-04-16"
+:offence_date: "2009-04-09"

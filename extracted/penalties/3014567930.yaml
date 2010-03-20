@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-17"
-:offence_date: "2009-02-16"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014567930
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 6A JAMES COOK DRIVE KINGS LANGLEY 2147
 :served_to: THAI, VAN KHIEN
-:id: "3014567930"
 :council_area: BLACKTOWN
+:action_date: "2009-02-17"
+:id: "3014567930"
+:offence_date: "2009-02-16"

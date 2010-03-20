@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-09"
-:offence_date: "2009-01-08"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002300520
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 18 ARGYLE STREET THE ROCKS 2000
 :served_to: BAVARIAN HOSPITALITY GROUP PTY LTD
-:id: "3002300520"
 :council_area: SYDNEY
+:action_date: "2009-01-09"
+:id: "3002300520"
+:offence_date: "2009-01-08"

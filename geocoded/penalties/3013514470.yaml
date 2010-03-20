@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.011372
-:action_date: "2009-06-10"
-:offence_date: "2009-04-02"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514470
 :offence_description: Fail to comply with the Food Standards Code - sale of 'lamb mince (coarse)' containing sulphur dioxide preservative
-:latitude: -33.834243
 :trading_name: GRANVILLE FAMILY BUTCHER
 :penalty_amount: $330.00
+:latitude: -33.834243
 :address: SHOP 1, 47 SOUTH STREET GRANVILLE 2142
-:id: "3013514470"
 :served_to: EL SAYAH, AHMAD
 :council_area: PARRAMATTA
+:id: "3013514470"
+:action_date: "2009-06-10"
+:offence_date: "2009-04-02"

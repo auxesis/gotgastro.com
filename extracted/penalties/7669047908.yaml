@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-29"
-:offence_date: "2008-09-23"
 :pursued_by: Burwood Council
 :offence_code: 11359 - Fail to comply with a prohibition order - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669047908
@@ -10,5 +8,7 @@
 :penalty_amount: $1320.00
 :address: 177 Burwood  Road BURWOOD
 :served_to: WINNER CULTURE PTY LTD
-:id: "7669047908"
 :council_area: BURWOOD
+:action_date: "2008-09-29"
+:id: "7669047908"
+:offence_date: "2008-09-23"

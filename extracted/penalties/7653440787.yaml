@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-14"
-:offence_date: "2009-04-30"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440787
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 3 SALISBURY ROAD CASTLE HILL 2154
 :served_to: BOWLING CENTRES AUSTRALIA PTY LTD
-:id: "7653440787"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-05-14"
+:id: "7653440787"
+:offence_date: "2009-04-30"

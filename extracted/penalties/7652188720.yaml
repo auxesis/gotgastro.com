@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-18"
-:offence_date: "2008-11-20"
 :pursued_by: Ballina Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188720
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 212 RIVER STREET BALLINA 2478
 :served_to: MELGAARD, CRAIG
-:id: "7652188720"
 :council_area: BALLINA
+:action_date: "2008-12-18"
+:id: "7652188720"
+:offence_date: "2008-11-20"

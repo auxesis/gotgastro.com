@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.705396
-:action_date: "2008-05-30"
-:offence_date: "2008-05-28"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011720
 :offence_description: Fail to maintain premises in clean condition
-:latitude: -33.755087
 :trading_name: LAW KEE PENRITH CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.755087
 :address: 227 HIGH ST PENRITH 2750
-:id: "7673011720"
 :served_to: LAW, KEE
 :council_area: PENRITH
+:id: "7673011720"
+:action_date: "2008-05-30"
+:offence_date: "2008-05-28"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2063027
-:action_date: "2009-08-26"
-:offence_date: "2009-07-06"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514938
 :offence_description: Sell food that fails to comply with the Food Standards Code - sale of meat described as chicken mince containing illegal sulphur dioxide preservative
-:latitude: -33.8762679
 :trading_name: DANIELS BUTCHER
 :penalty_amount: $330.00
+:latitude: -33.8762679
 :address: SHOP 22, GROUND FLOOR  596-640 GEORGE STREET SYDNEY 2000
-:id: "3013514938"
 :served_to: TRAN, HO DUC NHA
 :council_area: SYDNEY
+:id: "3013514938"
+:action_date: "2009-08-26"
+:offence_date: "2009-07-06"

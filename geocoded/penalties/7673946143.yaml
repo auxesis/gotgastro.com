@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.463871
-:action_date: "2008-05-20"
-:offence_date: "2008-05-09"
 :pursued_by: Greater Taree City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673946143
 :offence_description: Fail to take necessary steps to prevent likelihood of food being contaminated
-:latitude: -31.911714
 :trading_name: THAI TARNI RESTAURANT
 :penalty_amount: $330.00
+:latitude: -31.911714
 :address: SHOP 1 AND 2 ALBERT ST TAREE 2430
-:id: "7673946143"
 :served_to: KITYANYONG, PREECHA
 :council_area: GREATER TAREE
+:id: "7673946143"
+:action_date: "2008-05-20"
+:offence_date: "2008-05-09"

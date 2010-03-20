@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.202633
-:action_date: "2009-10-01"
-:offence_date: "2009-09-17"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507660
 :offence_description: Fail to design and construct the food premises in a way that is appropriate for the activities for which the premises  are used - the unfinished food storage area in the rear of the premises is being used for food preparation
-:latitude: -33.883471
 :trading_name: HLJ NOODLE BOX
 :penalty_amount: $660.00
+:latitude: -33.883471
 :address: SHOP 2, 849 GEORGE STREET ULTIMO 2007
-:id: "7250507660"
 :served_to: HLJ SERVICES PTY LTD
 :council_area: SYDNEY
+:id: "7250507660"
+:action_date: "2009-10-01"
+:offence_date: "2009-09-17"

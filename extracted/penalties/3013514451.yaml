@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-10"
-:offence_date: "2009-05-13"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514451
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/55 MARION STREET HARRIS PARK 2150
 :served_to: GREEN FARM MEAT PRODUCTS PTY LTD
-:id: "3013514451"
 :council_area: PARRAMATTA
+:action_date: "2009-06-10"
+:id: "3013514451"
+:offence_date: "2009-05-13"

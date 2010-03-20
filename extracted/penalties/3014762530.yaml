@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-30"
-:offence_date: "2008-12-29"
 :pursued_by: Gosford City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762530
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: GLENWORTH VALLEY ROAD GLENWORTH VALLEY 2250
 :served_to: M R G EVENTS PTY LTD
-:id: "3014762530"
 :council_area: GOSFORD
+:action_date: "2008-12-30"
+:id: "3014762530"
+:offence_date: "2008-12-29"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 153.431928
-:action_date: "2008-07-10"
-:offence_date: "2008-07-08"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654985370
 :offence_description: Fail to maintain clean premises and equipment
-:latitude: -29.117702
 :trading_name: FISH CENTRE, THE
 :penalty_amount: $660.00
+:latitude: -29.117702
 :address: 14-16 OAK ST EVANS HEAD 2473
-:id: "7654985370"
 :served_to: MID RICHMOND PLUMBERS AND SUPPLIERS P/L
 :council_area: RICHMOND VALLEY COUNCIL
+:id: "7654985370"
+:action_date: "2008-07-10"
+:offence_date: "2008-07-08"

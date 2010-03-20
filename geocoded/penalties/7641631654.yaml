@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1309391
-:action_date: "2009-01-12"
-:offence_date: "2009-01-09"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631654
 :offence_description: Failure to ensure hand washing facilities are only used for the washing of hands, arms and face
-:latitude: -33.9726039
 :trading_name: OCEAN KING HOUSE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.9726039
 :address: 247 PRINCES HIGHWAY KOGARAH 2217
-:id: "7641631654"
 :served_to: KWOK JING, ALBERT
 :council_area: KOGARAH
+:id: "7641631654"
+:action_date: "2009-01-12"
+:offence_date: "2009-01-09"

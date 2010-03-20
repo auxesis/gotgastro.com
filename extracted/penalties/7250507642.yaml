@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-25"
-:offence_date: "2009-09-23"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507642
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: MLC CENTRE LEVEL 6 SHOP 23  19-29 MARTIN PLACE SYDNEY 2000
 :served_to: HOKKA HOKKA FRANCHISE PTY LTD
-:id: "7250507642"
 :council_area: SYDNEY
+:action_date: "2009-09-25"
+:id: "7250507642"
+:offence_date: "2009-09-23"

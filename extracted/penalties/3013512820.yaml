@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-20"
-:offence_date: "2008-09-08"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512820
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 10 WALZ ST ROCKDALE
 :served_to: HAMKA, NABIH
-:id: "3013512820"
 :council_area: ROCKDALE
+:action_date: "2009-01-20"
+:id: "3013512820"
+:offence_date: "2008-09-08"

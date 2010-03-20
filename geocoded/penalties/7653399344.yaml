@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.003705
-:action_date: "2008-09-11"
-:offence_date: "2008-09-10"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399344
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.734634
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
+:latitude: -33.734634
 :address: 259B OLD NORTHERN RD CASTLE HILL 2154
-:id: "7653399344"
 :served_to: AZADY PTY LTD
 :council_area: BAULKHAM HILLS
+:id: "7653399344"
+:action_date: "2008-09-11"
+:offence_date: "2008-09-10"

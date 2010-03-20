@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.032847
-:action_date: "2009-09-09"
-:offence_date: "2009-09-02"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3033519170
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - rodent faeces on floor and shelves, accumulation of food waste and grease throughout the premises
-:latitude: -33.850481
 :trading_name: MY HOT BREAD
 :penalty_amount: $330.00
+:latitude: -33.850481
 :address: 13 AUBURN ROAD Auburn 2144
-:id: "3033519170"
 :served_to: TRAN, VAN TIEN
 :council_area: AUBURN
+:id: "3033519170"
+:action_date: "2009-09-09"
+:offence_date: "2009-09-02"

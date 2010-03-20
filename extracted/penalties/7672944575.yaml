@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-20"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944575
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 313 LIVERPOOL RD ASHFIELD
 :served_to: OZDEE SEAFOODS PTY LTD
-:id: "7672944575"
 :council_area: ASHFIELD
+:action_date: "2008-08-20"
+:id: "7672944575"
+:offence_date: "2008-08-11"

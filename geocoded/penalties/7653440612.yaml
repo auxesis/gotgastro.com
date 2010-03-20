@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.020299
-:action_date: "2009-04-23"
-:offence_date: "2009-04-22"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440612
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation of rodent faeces
-:latitude: -33.692813
 :trading_name: CRISTINA'S PIZZERIA
 :penalty_amount: $660.00
+:latitude: -33.692813
 :address: 14 KENTHURST ROAD DURAL 2158
-:id: "7653440612"
 :served_to: PIZZA TOWER DURAL PTY LTD
 :council_area: BAULKHAM HILLS
+:id: "7653440612"
+:action_date: "2009-04-23"
+:offence_date: "2009-04-22"

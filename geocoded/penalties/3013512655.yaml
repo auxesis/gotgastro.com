@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.56648
-:action_date: "2008-12-12"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512655
 :offence_description: Contravene condition of license - fail to take corrective action as previously requested by Authorised Officer
-:latitude: -34.716679
 :trading_name: NO TRADING NAME
 :penalty_amount: $330.00
+:latitude: -34.716679
 :address: UPPER RIVER RD KANGAROO VALLEY
-:id: "3013512655"
 :served_to: MCRAE, PETER DESMOND
 :council_area: SHOALHAVEN
+:id: "3013512655"
+:action_date: "2008-12-12"
+:offence_date: "2008-09-12"

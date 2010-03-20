@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-24"
-:offence_date: "2008-06-21"
 :pursued_by: Muswellbrook Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652167234
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 55 SYDNEY ST MUSWELLBROOK 2333
 :served_to: TAMWORTH DEREK & CARRIE P/L
-:id: "7652167234"
 :council_area: MUSWELLBROOK
+:action_date: "2008-06-24"
+:id: "7652167234"
+:offence_date: "2008-06-21"

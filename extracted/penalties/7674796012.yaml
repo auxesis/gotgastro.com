@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-17"
-:offence_date: "2009-09-10"
 :pursued_by: City of Lake Macquarie Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7674796012
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 1/47 THE BOULEVARDE TORONTO 2283
 :served_to: MAGIC NOODLES TORONTO PTY LTD
-:id: "7674796012"
 :council_area: LAKE MACQUARIE
+:action_date: "2009-09-17"
+:id: "7674796012"
+:offence_date: "2009-09-10"

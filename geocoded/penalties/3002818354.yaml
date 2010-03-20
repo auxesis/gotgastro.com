@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.0870015
-:action_date: "2009-02-26"
-:offence_date: "2009-02-09"
+:longitude: 151.0831309
 :pursued_by: Hornsby Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818354
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - There was an accumulation of dirt, grime, sticky residue and hair on the floor and spills on walls
-:latitude: -33.7322364
 :trading_name: MICHEL'S PATISSERIE
 :penalty_amount: $660.00
+:latitude: -33.7315817
 :address: SHOP 4/2-12 THE COMENARRA PARKWAY THORNLEIGH 2120
-:id: "3002818354"
 :served_to: CHAN PROPERTIES PTY LTD
 :council_area: HORNSBY
+:id: "3002818354"
+:action_date: "2009-02-26"
+:offence_date: "2009-02-09"

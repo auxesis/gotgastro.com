@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-30"
-:offence_date: "2009-04-17"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514305
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 6, ENNIS ROAD MILSONS POINT 2061
 :served_to: PRICE, RAYMOND
-:id: "3013514305"
 :council_area: NORTH SYDNEY
+:action_date: "2009-04-30"
+:id: "3013514305"
+:offence_date: "2009-04-17"

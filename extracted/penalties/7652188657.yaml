@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-17"
-:offence_date: "2008-03-20"
 :pursued_by: Ballina Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188657
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 1/271 RIVER ST BALLINA 2478
 :served_to: DOMINO'S PIZZA ENTERPRISES LTD
-:id: "7652188657"
 :council_area: BALLINA
+:action_date: "2008-07-17"
+:id: "7652188657"
+:offence_date: "2008-03-20"

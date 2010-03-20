@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-14"
-:offence_date: "2008-01-08"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785660
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3, ASHMONT MALL, TOBRUK ST WAGGA WAGGA 2650
 :served_to: FRENCH, NOEL HAROLD
-:id: "7670785660"
 :council_area: WAGGA WAGGA
+:action_date: "2008-05-14"
+:id: "7670785660"
+:offence_date: "2008-01-08"

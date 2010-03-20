@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-23"
-:offence_date: "2008-06-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513086
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 23 THE CENTRE FORESTVILLE  2087
 :served_to: ALDOS PRIDE PTY LTD
-:id: "3013513086"
 :council_area: WARRINGAH
+:action_date: "2008-07-23"
+:id: "3013513086"
+:offence_date: "2008-06-12"

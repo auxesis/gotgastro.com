@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-04"
-:offence_date: "2008-05-30"
 :pursued_by: Pittwater Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663153
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 8/40 AVALON PDE AVALON 2107
 :served_to: LEO, MAISIE
-:id: "3002663153"
 :council_area: PITTWATER
+:action_date: "2008-06-04"
+:id: "3002663153"
+:offence_date: "2008-05-30"

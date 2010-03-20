@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-24"
-:offence_date: "2009-03-18"
 :pursued_by: Botany Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7655823130
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: BKK SHOPPING CENTRE 19A EVANS AVENUE EASTLAKES 2018
 :served_to: Q S R PTY LTD
-:id: "7655823130"
 :council_area: BOTANY
+:action_date: "2009-03-24"
+:id: "7655823130"
+:offence_date: "2009-03-18"

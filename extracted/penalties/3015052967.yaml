@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-04"
-:offence_date: "2009-01-27"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015052967
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 117 JOHN STREET CABRAMATTA 2166
 :served_to: TUYET, THI
-:id: "3015052967"
 :council_area: FAIRFIELD
+:action_date: "2009-03-04"
+:id: "3015052967"
+:offence_date: "2009-01-27"

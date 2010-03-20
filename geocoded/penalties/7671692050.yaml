@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.194577
-:action_date: 
-:offence_date: "2009-09-10"
 :pursued_by: Botany Bay City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671692050
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
-:latitude: -33.931686
 :trading_name: STRAWBERRY CAKE SHOP
 :penalty_amount: $330.00
+:latitude: -33.931686
 :address: SHOP 6 1205-1207 BOTANY ROAD MASCOT 2020
-:id: "7671692050"
 :served_to: NGUYEN, TUAN CHINH
 :council_area: BOTANY
+:id: "7671692050"
+:action_date: 
+:offence_date: "2009-09-10"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.035213
-:action_date: "2009-04-01"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514130
 :offence_description: Fail to hold the required licence to carry on a food business or activity - slaughtering and processing chicken for sale to the general public
-:latitude: -33.921933
 :trading_name: (NO TRADING NAME)
 :penalty_amount: $330.00
+:latitude: -33.921933
 :address: 84 RESTWELL STREET BANKSTOWN 2200
-:id: "3013514130"
 :served_to: TRAN, QUOC DON NGHI
 :council_area: BANKSTOWN
+:id: "3013514130"
+:action_date: "2009-04-01"
+:offence_date: "2008-09-12"

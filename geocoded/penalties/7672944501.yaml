@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.124497
-:action_date: "2008-08-18"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944501
 :offence_description: Fail to provide a temperature measuring device on the premises
-:latitude: -33.888158
 :trading_name: NEW SHANGHAI CHINESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.888158
 :address: 273 LIVERPOOL RD ASHFIELD 2131
-:id: "7672944501"
 :served_to: F Q CHEN P/L
 :council_area: ASHFIELD
+:id: "7672944501"
+:action_date: "2008-08-18"
+:offence_date: "2008-08-11"

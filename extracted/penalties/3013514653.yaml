@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-16"
-:offence_date: "2009-06-10"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514653
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 20/28 CARRINGTON ROAD MARRICKVILLE 2204
 :served_to: ALL SEASONS AUSTRALIAN GOURMET PRODUCE PTY LTD
-:id: "3013514653"
 :council_area: MARRICKVILLE
+:action_date: "2009-06-16"
+:id: "3013514653"
+:offence_date: "2009-06-10"

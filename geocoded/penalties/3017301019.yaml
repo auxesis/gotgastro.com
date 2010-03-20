@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.935143
-:action_date: "2009-05-07"
-:offence_date: "2009-04-27"
+:longitude: 150.937469
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017301019
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - boxes of vegetables stored directly on the laneway footpath and in a gutter containing grey water
-:latitude: -33.894662
 :trading_name: ALWAYS GREENER FRUIT AND GROCERIES
 :penalty_amount: $330.00
+:latitude: -33.895421
 :address: 13-14, 101-103 JOHN STREET CABRAMATTA 2166
-:id: "3017301019"
 :served_to: NGUYEN, THI THUY TRANG
 :council_area: FAIRFIELD
+:id: "3017301019"
+:action_date: "2009-05-07"
+:offence_date: "2009-04-27"

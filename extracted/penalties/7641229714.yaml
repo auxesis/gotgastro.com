@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-10"
-:offence_date: "2008-06-10"
 :pursued_by: Manly Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641229714
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 2 SYDNEY RD MANLY 2095
 :served_to: RA, AGNUS
-:id: "7641229714"
 :council_area: MANLY
+:action_date: "2008-06-10"
+:id: "7641229714"
+:offence_date: "2008-06-10"

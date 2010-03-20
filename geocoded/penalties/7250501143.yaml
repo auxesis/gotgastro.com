@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2074822
-:action_date: "2009-02-02"
-:offence_date: "2009-01-30"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501143
 :offence_description: Failed to display potentially hazardous food under temperature control - dumplings displayed at 48 degrees C
-:latitude: -33.8655387
 :trading_name: EAT WAY
 :penalty_amount: $330.00
+:latitude: -33.8655387
 :address: SHOP 3/F14 HUNTER STREET SYDNEY 2000
-:id: "7250501143"
 :served_to: FAN, JUN
 :council_area: SYDNEY
+:id: "7250501143"
+:action_date: "2009-02-02"
+:offence_date: "2009-01-30"

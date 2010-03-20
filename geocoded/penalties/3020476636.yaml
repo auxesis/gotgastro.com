@@ -1,16 +1,16 @@
 --- 
-:longitude: 152.1434055
-:action_date: "2009-02-17"
-:offence_date: "2009-02-16"
+:longitude: 152.1445323
 :pursued_by: Port Stephens Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020476636
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
-:latitude: -32.7197354
 :trading_name: NOODLES FANTASIAN
 :penalty_amount: $330.00
+:latitude: -32.7202972
 :address: 14/6 TERAMBY ROAD Nelson bay 2315
-:id: "3020476636"
 :served_to: WEN, ZHIWEI
 :council_area: PORT STEPHENS
+:id: "3020476636"
+:action_date: "2009-02-17"
+:offence_date: "2009-02-16"

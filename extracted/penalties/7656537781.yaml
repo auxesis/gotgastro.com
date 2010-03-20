@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-27"
-:offence_date: "2009-02-23"
 :pursued_by: Camden Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656537781
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 3/11-13 MAIN STREET MT ANNAN 2567
 :served_to: C H HOLDINGS PTY LTD
-:id: "7656537781"
 :council_area: CAMDEN
+:action_date: "2009-02-27"
+:id: "7656537781"
+:offence_date: "2009-02-23"

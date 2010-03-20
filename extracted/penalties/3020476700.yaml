@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-27"
-:offence_date: "2009-02-25"
 :pursued_by: Port Stephens Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020476700
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 3C NO 2 TOWN CENTRE CIRCUIT Salamander Bay 2317
 :served_to: SALAMANDER BAY PTY LTD
-:id: "3020476700"
 :council_area: PORT STEPHENS
+:action_date: "2009-02-27"
+:id: "3020476700"
+:offence_date: "2009-02-25"

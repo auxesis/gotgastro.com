@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-18"
-:offence_date: "2008-12-16"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452522
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: Wycombe Road NEUTRAL BAY
 :served_to: D AND F INTERNATIONAL PTY LTD
-:id: "7678452522"
 :council_area: NORTH SYDNEY
+:action_date: "2008-12-18"
+:id: "7678452522"
+:offence_date: "2008-12-16"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-23"
-:offence_date: "2009-06-22"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797947
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 102 GREAT NORTH ROAD FIVE DOCK 2046
 :served_to: CHEN, MICHAEL
-:id: "7652797947"
 :council_area: CANADA BAY
+:action_date: "2009-06-23"
+:id: "7652797947"
+:offence_date: "2009-06-22"

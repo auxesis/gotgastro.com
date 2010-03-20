@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-23"
-:offence_date: "2009-02-20"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7655067741
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 10 ST JOHNS AVENUE GORDON 2072
 :served_to: BAUDRAND, ANNE
-:id: "7655067741"
 :council_area: KU-RING-GAI
+:action_date: "2009-02-23"
+:id: "7655067741"
+:offence_date: "2009-02-20"

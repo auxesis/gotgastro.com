@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.028494
-:action_date: "2008-10-21"
-:offence_date: "2008-10-20"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653399445
 :offence_description: Fail to provide, at or near each hand washing facility, a supply of single use towels or other means of effectively drying hands
-:latitude: -33.76891
 :trading_name: NORTH ROCKS CHINESE KITCHEN
 :penalty_amount: $330.00
+:latitude: -33.76891
 :address: SHOP 83 WESTFIELD SHOPPINGTOWN 340A NORTH ROCKS RD NORTH ROCKS 2151
-:id: "7653399445"
 :served_to: LAM, ANDREW
 :council_area: BAULKHAM HILLS
+:id: "7653399445"
+:action_date: "2008-10-21"
+:offence_date: "2008-10-20"

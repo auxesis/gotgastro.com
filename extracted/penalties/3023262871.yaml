@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-30"
-:offence_date: "2009-06-24"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023262871
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 45 BURWOOD ROAD BURWOOD 2134
 :served_to: KALRID PTY LIMITED
-:id: "3023262871"
 :council_area: BURWOOD
+:action_date: "2009-06-30"
+:id: "3023262871"
+:offence_date: "2009-06-24"

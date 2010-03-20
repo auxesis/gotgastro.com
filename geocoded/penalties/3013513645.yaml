@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.000913
-:action_date: "2009-03-09"
-:offence_date: "2008-10-28"
 :pursued_by: NSW Food Authority
 :offence_code: 11373 - Not comply with requirements of food safety scheme - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513645
 :offence_description: Fail to comply with the requirements of the Food Safety Scheme - floor was not maintained in an acceptable condition for effective cleaning and sanitation
-:latitude: -33.93958
 :trading_name: BELMORE BEAN FACTORY
 :penalty_amount: $660.00
+:latitude: -33.93958
 :address: 178 CARRINGTON STREET REVESBY 2212
-:id: "3013513645"
 :served_to: BELMORE BEAN FACTORY PTY LTD
 :council_area: BANKSTOWN
+:id: "3013513645"
+:action_date: "2009-03-09"
+:offence_date: "2008-10-28"

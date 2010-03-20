@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-23"
-:offence_date: "2008-12-22"
 :pursued_by: Rockdale City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014960228
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 424 FOREST ROAD BEXLEY 2207
 :served_to: CLEARWATER CORPORATION AUST PTY LTD
-:id: "3014960228"
 :council_area: ROCKDALE
+:action_date: "2008-12-23"
+:id: "3014960228"
+:offence_date: "2008-12-22"

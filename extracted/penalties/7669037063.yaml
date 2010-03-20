@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-17"
-:offence_date: "2008-09-08"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669037063
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 224 Burwood  Road BURWOOD
 :served_to: MA AND FAMILY PTY LTD
-:id: "7669037063"
 :council_area: BURWOOD
+:action_date: "2008-09-17"
+:id: "7669037063"
+:offence_date: "2008-09-08"

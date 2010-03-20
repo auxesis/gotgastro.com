@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-17"
-:offence_date: "2009-04-16"
 :pursued_by: Warringah Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659137779
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 10/17 HOWARD AVENUE DEE WHY 2099
 :served_to: LIEU, YEN PHUONG
-:id: "7659137779"
 :council_area: WARRINGAH
+:action_date: "2009-04-17"
+:id: "7659137779"
+:offence_date: "2009-04-16"

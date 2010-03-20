@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.213337
-:action_date: "2009-03-10"
-:offence_date: "2009-02-26"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501318
 :offence_description: Fail to provide a temperature measuring device at premises where potentially hazardous food is handled
-:latitude: -33.890226
 :trading_name: MATSURI
 :penalty_amount: $660.00
+:latitude: -33.890226
 :address: SHOP 2 614-618 CROWN STREET SURRY HILLS 2010
-:id: "7250501318"
 :served_to: FMAJ PTY LIMITED
 :council_area: SYDNEY
+:id: "7250501318"
+:action_date: "2009-03-10"
+:offence_date: "2009-02-26"

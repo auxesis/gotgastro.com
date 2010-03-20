@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-03"
-:offence_date: "2009-04-01"
 :pursued_by: City of Canterbury Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077724
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 238 BEAMISH ST CAMPSIE 2194
 :served_to: AUSBAKER INTERNATIONAL PTY LTD
-:id: "7633077724"
 :council_area: CANTERBURY
+:action_date: "2009-04-03"
+:id: "7633077724"
+:offence_date: "2009-04-01"

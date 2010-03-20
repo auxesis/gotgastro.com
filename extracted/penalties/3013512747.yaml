@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-05"
-:offence_date: "2008-12-10"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512747
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 71 BANKSIA DR BYRON BAY
 :served_to: BARAKA FOODS PTY LTD
-:id: "3013512747"
 :council_area: BYRON
+:action_date: "2009-01-05"
+:id: "3013512747"
+:offence_date: "2008-12-10"

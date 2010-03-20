@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-22"
-:offence_date: "2009-09-18"
 :pursued_by: Gosford City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3016727771
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 19 WYOMING SHOPPING VILLAGE 495 PACIFIC HIGHWAY WYOMING 2250
 :served_to: DANG, THI TRUC
-:id: "3016727771"
 :council_area: GOSFORD
+:action_date: "2009-09-22"
+:id: "3016727771"
+:offence_date: "2009-09-18"

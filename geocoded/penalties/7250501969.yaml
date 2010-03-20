@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.212688
-:action_date: "2009-08-27"
-:offence_date: "2009-08-25"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501969
 :offence_description: Fail to have hand washing facilities connected to a supply of warm running water - hand washing facilities adjacent to toilet had no warm running water
-:latitude: -33.891081
 :trading_name: THAI FINE HOUSE
 :penalty_amount: $330.00
+:latitude: -33.891081
 :address: 577 CROWN STREET SURRY HILLS 2010
-:id: "7250501969"
 :served_to: CHAITHAWEEP, CHIRAYUT
 :council_area: SYDNEY
+:id: "7250501969"
+:action_date: "2009-08-27"
+:offence_date: "2009-08-25"

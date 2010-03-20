@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.15262
-:action_date: "2009-09-10"
-:offence_date: "2009-03-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670789116
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.754679
 :trading_name: FUJIYA JAPANESE TEPPANYAKI RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.754679
 :address: 785 PACIFIC HIGHWAY GORDON 2072
-:id: "7670789116"
 :served_to: LIN, BING WEI
 :council_area: KU-RING-GAI
+:id: "7670789116"
+:action_date: "2009-09-10"
+:offence_date: "2009-03-26"

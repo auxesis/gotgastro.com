@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-10"
-:offence_date: "2008-12-03"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452486
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 34 Burton Street KIRRIBILLI
 :served_to: W SONG PTY LTD
-:id: "7678452486"
 :council_area: NORTH SYDNEY
+:action_date: "2008-12-10"
+:id: "7678452486"
+:offence_date: "2008-12-03"

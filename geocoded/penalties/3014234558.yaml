@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.825285
-:action_date: "2009-04-27"
-:offence_date: "2009-04-17"
 :pursued_by: Campbelltown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014234558
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests - cockroaches observed on the food premises
-:latitude: -34.065775
 :trading_name: FAMILY BAKERY
 :penalty_amount: $330.00
+:latitude: -34.065775
 :address: SHOP 66, CHAMBERLAIN STREET CAMPBELLTOWN 2560
-:id: "3014234558"
 :served_to: VUONG, VAN CHIEN
 :council_area: CAMPBELLTOWN
+:id: "3014234558"
+:action_date: "2009-04-27"
+:offence_date: "2009-04-17"

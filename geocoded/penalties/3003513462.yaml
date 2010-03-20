@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.102633
-:action_date: "2009-07-16"
-:offence_date: "2009-07-16"
 :pursued_by: Hurstville City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513462
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
-:latitude: -33.967015
 :trading_name: SUNNY BARBEQUE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.967015
 :address: SHOP 1/227 FOREST ROAD HURSTVILLE 2220
-:id: "3003513462"
 :served_to: SUNNY BARBEQUE RESTAURANT PTY LTD
 :council_area: HURSTVILLE
+:id: "3003513462"
+:action_date: "2009-07-16"
+:offence_date: "2009-07-16"

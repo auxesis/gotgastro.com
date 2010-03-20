@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-21"
-:offence_date: "2009-04-28"
 :pursued_by: Mosman Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641332225
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 67 THE ESPLANADE MOSMAN 2088
 :served_to: TSAOUCIS, PETER
-:id: "7641332225"
 :council_area: MOSMAN
+:action_date: "2009-05-21"
+:id: "7641332225"
+:offence_date: "2009-04-28"

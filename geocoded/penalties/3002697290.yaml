@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.5480362
-:action_date: "2009-03-16"
-:offence_date: "2009-03-11"
+:longitude: 150.5668002
 :pursued_by: Blue Mountains City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697290
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
-:latitude: -33.6952383
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
+:latitude: -33.6990169
 :address: 135-141 MACQUARIE ROAD SPRINGWOOD 2777
-:id: "3002697290"
 :served_to: A BURT INVESTMENTS PTY LTD
 :council_area: BLUE MOUNTAINS
+:id: "3002697290"
+:action_date: "2009-03-16"
+:offence_date: "2009-03-11"

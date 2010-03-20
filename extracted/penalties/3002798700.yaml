@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-04-30"
 :pursued_by: Hunters Hill Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002798700
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 17, GLADESVILLE SHOPPING VILLAGE FLAGSTAFF STREET GLADESVILLE 2111
 :served_to: MA, XUN
-:id: "3002798700"
 :council_area: HUNTER'S HILL
+:action_date: "2009-05-01"
+:id: "3002798700"
+:offence_date: "2009-04-30"

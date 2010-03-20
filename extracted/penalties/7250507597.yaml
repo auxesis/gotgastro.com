@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-15"
-:offence_date: "2009-09-10"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507597
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 432-450 GEORGE STREET SYDNEY 2000
 :served_to: AUSTRALIAN CREDIT AND FINANCE CORPORATION PTY LTD    T-A SUMO SALAD
-:id: "7250507597"
 :council_area: SYDNEY
+:action_date: "2009-09-15"
+:id: "7250507597"
+:offence_date: "2009-09-10"

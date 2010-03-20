@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.133363
-:action_date: "2008-11-28"
-:offence_date: "2008-11-28"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631580
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, dirt, and other visible matter observed on the premises
-:latitude: -33.963337
 :trading_name: KOGARAH BAKERY
 :penalty_amount: $330.00
+:latitude: -33.963337
 :address: SHOP 3, 9 MONTGOMERY STREET KOGARAH 2217
-:id: "7641631580"
 :served_to: KHA, TRUNG MINH
 :council_area: KOGARAH
+:id: "7641631580"
+:action_date: "2008-11-28"
+:offence_date: "2008-11-28"

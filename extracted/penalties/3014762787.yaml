@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-18"
-:offence_date: "2009-03-17"
 :pursued_by: Gosford City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014762787
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 9/17 CHURCH STREET TERRIGAL 2260
 :served_to: OUR STYLE THAI PTY LTD
-:id: "3014762787"
 :council_area: GOSFORD
+:action_date: "2009-03-18"
+:id: "3014762787"
+:offence_date: "2009-03-17"

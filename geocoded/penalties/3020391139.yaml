@@ -1,6 +1,5 @@
 --- 
-:action_date: "2008-10-22"
-:offence_date: "2008-10-19"
+:longitude: 151.0641667
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -8,7 +7,10 @@
 :offence_description: Fail to store potentially hazardous food under temperature control
 :trading_name: INDIAN CHAAT HOUSE
 :penalty_amount: $330.00
+:latitude: -33.8502778
 :address: Edwin Flack Ave Sydney Olympic Park
-:id: "3020391139"
 :served_to: SHAH, CHITOU
 :council_area: AUBURN
+:id: "3020391139"
+:action_date: "2008-10-22"
+:offence_date: "2008-10-19"

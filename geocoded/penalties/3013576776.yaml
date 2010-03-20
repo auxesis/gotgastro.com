@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.717985
-:action_date: "2009-09-09"
-:offence_date: "2009-08-05"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576776
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of food waste, grease & visible matter on floors, walls, floor skirting
-:latitude: -33.75853
 :trading_name: KINGSWOOD CAKES & PIES
 :penalty_amount: $330.00
+:latitude: -33.75853
 :address: SHOP 5 232 GREAT WESTERN HIGHWAY KINGSWOOD 2747
-:id: "3013576776"
 :served_to: NGUYEN, HOA DINH
 :council_area: PENRITH
+:id: "3013576776"
+:action_date: "2009-09-09"
+:offence_date: "2009-08-05"

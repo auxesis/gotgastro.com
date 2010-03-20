@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-07"
-:offence_date: "2009-04-27"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315463
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 13, 47 PARK RD CABRAMATTA 2166
 :served_to: BANCHONGSAWAT, PRINYA
-:id: "3015315463"
 :council_area: FAIRFIELD
+:action_date: "2009-05-07"
+:id: "3015315463"
+:offence_date: "2009-04-27"

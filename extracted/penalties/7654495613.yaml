@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-07"
-:offence_date: "2009-09-02"
 :pursued_by: Ryde City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654495613
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 18 RAILWAY PARADE EASTWOOD 2122
 :served_to: OH, YOUNG SEOK
-:id: "7654495613"
 :council_area: RYDE
+:action_date: "2009-09-07"
+:id: "7654495613"
+:offence_date: "2009-09-02"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.207685
-:action_date: "2009-02-02"
-:offence_date: "2009-01-30"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501089
 :offence_description: Fail to store potentially hazardous food under temperature control - Meat, rice and prawn rice paper rolls were out of temperature control
-:latitude: -33.866181
 :trading_name: PHO HA NOI VIETNAMESE
 :penalty_amount: $330.00
+:latitude: -33.866181
 :address: SHOP 1/F14, 7-13 HUNTER STREET SYDNEY 2000
-:id: "7250501089"
 :served_to: LE, VINH QUANG
 :council_area: SYDNEY
+:id: "7250501089"
+:action_date: "2009-02-02"
+:offence_date: "2009-01-30"

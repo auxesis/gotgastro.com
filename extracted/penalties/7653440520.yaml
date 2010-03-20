@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-27"
-:offence_date: "2009-02-26"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440520
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 10 190 CAROLINE CHISHOLM DR WINSTON HILLS
 :served_to: CHEN, JIANGNAN
-:id: "7653440520"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-02-27"
+:id: "7653440520"
+:offence_date: "2009-02-26"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-05"
-:offence_date: "2008-05-13"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: MAHOMED AMIN'S 100% HALAL
 :penalty_amount: $330.00
 :address: 17B/9 LYN PDE PRESTONS
-:id: "7670785926"
 :served_to: MAFAWALLA, MAHOMED AMIN
 :council_area: LIVERPOOL
+:id: "7670785926"
+:action_date: "2008-06-05"
+:offence_date: "2008-05-13"

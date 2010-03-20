@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.200031
-:action_date: "2009-09-28"
-:offence_date: "2009-09-14"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452926
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean upper walls and ceiling
-:latitude: -33.822706
 :trading_name: PARADISE MARKETS
 :penalty_amount: $660.00
+:latitude: -33.822706
 :address: 84-90 ATCHISON STREET CROWS NEST 2065
-:id: "7678452926"
 :served_to: D AND J FARM FRESH PTY LTD
 :council_area: NORTH SYDNEY
+:id: "7678452926"
+:action_date: "2009-09-28"
+:offence_date: "2009-09-14"

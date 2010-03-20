@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.816446
-:action_date: "2008-08-14"
-:offence_date: "2008-06-13"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513297
 :offence_description: Fail to complete monitoring records as required under the Food Safety Program
-:latitude: -31.64005
 :trading_name: WIGGLY TAIL BUTCHERY
 :penalty_amount: $660.00
+:latitude: -31.64005
 :address: 611 OCEAN DR NORTH HAVEN 2443
-:id: "3013513297"
 :served_to: KCB PTY LTD
 :council_area: Port Macquarie - Hastings
+:id: "3013513297"
+:action_date: "2008-08-14"
+:offence_date: "2008-06-13"

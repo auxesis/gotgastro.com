@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-10"
-:offence_date: "2009-09-07"
 :pursued_by: Newcastle City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644828447
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 51 BEAUMONT STREET HAMILTON 2303
 :served_to: DU AN CO PTY LTD
-:id: "7644828447"
 :council_area: NEWCASTLE CITY COUNCIL
+:action_date: "2009-09-10"
+:id: "7644828447"
+:offence_date: "2009-09-07"

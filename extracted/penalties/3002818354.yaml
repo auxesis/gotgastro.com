@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-26"
-:offence_date: "2009-02-09"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002818354
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 4/2-12 THE COMENARRA PARKWAY THORNLEIGH 2120
 :served_to: CHAN PROPERTIES PTY LTD
-:id: "3002818354"
 :council_area: HORNSBY
+:action_date: "2009-02-26"
+:id: "3002818354"
+:offence_date: "2009-02-09"

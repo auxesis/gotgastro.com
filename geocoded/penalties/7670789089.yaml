@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.661602
-:action_date: "2009-07-28"
-:offence_date: "2009-04-14"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670789089
 :offence_description: Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated
-:latitude: -33.036139
 :trading_name: BELMONT SPECIALTY CAKES
 :penalty_amount: $660.00
+:latitude: -33.036139
 :address: SHOP 5 CITI CENTRE MACQUARIE ROAD BELMONT 2280
-:id: "7670789089"
 :served_to: JACKIE TRAM PTY LTD
 :council_area: LAKE MACQUARIE
+:id: "7670789089"
+:action_date: "2009-07-28"
+:offence_date: "2009-04-14"

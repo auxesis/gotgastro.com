@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-25"
-:offence_date: "2009-05-21"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440906
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 39, WINSTON HILLS SHOPPING VILLAGE 180 CAROLINE CHISHOLM DRIVE WINSTON HILLS 2153
 :served_to: WINSTON HILLS CLASSIC BAKERY PTY LTD
-:id: "7653440906"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-05-25"
+:id: "7653440906"
+:offence_date: "2009-05-21"

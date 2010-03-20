@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-03"
-:offence_date: "2009-02-16"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242102
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 55 CAMPBELL STREET BLACKTOWN 2148
 :served_to: METIER CATERING PTY LTD
-:id: "3015242102"
 :council_area: BLACKTOWN
+:action_date: "2009-03-03"
+:id: "3015242102"
+:offence_date: "2009-02-16"

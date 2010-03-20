@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.781545
-:action_date: "2009-03-02"
-:offence_date: "2009-02-27"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576161
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - german cockroaches were observed on the premises
-:latitude: -33.757062
 :trading_name: KEA ISLAND STORE
 :penalty_amount: $330.00
+:latitude: -33.757062
 :address: 16-18 PARKLAWN PLACE NORTH ST MARYS 2760
-:id: "3013576161"
 :served_to: IVA, TASESA
 :council_area: PENRITH
+:id: "3013576161"
+:action_date: "2009-03-02"
+:offence_date: "2009-02-27"

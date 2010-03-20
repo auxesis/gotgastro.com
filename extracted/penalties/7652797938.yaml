@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-16"
-:offence_date: "2009-06-10"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797938
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 183 VICTORIA RD DRUMMOYNE 2047
 :served_to: BOWAN ISLAND BAKERY PTY LTD
-:id: "7652797938"
 :council_area: CANADA BAY
+:action_date: "2009-06-16"
+:id: "7652797938"
+:offence_date: "2009-06-10"

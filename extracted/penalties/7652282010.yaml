@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-07"
-:offence_date: "2008-05-07"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652282010
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 117-129 LEURA MALL LEURA 2780
 :served_to: MOELLER
-:id: "7652282010"
 :council_area: BLUE MOUNTAINS
+:action_date: "2008-05-07"
+:id: "7652282010"
+:offence_date: "2008-05-07"

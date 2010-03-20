@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-30"
-:offence_date: "2008-07-24"
 :pursued_by: Liverpool City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7615838369
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 6, 262 MACQUARIE ST LIVERPOOL 2170
 :served_to: EURO ASIA GLOBAL PTY LTD
-:id: "7615838369"
 :council_area: LIVERPOOL
+:action_date: "2008-07-30"
+:id: "7615838369"
+:offence_date: "2008-07-24"

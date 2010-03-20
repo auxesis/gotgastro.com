@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-30"
-:offence_date: "2009-01-12"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465721
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 246 MERRYLANDS ROAD MERRYLANDS 2160
 :served_to: PIZZA MANIACS PTY LTD
-:id: "3013465721"
 :council_area: HOLROYD
+:action_date: "2009-01-30"
+:id: "3013465721"
+:offence_date: "2009-01-12"

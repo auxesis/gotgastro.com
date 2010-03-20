@@ -1,16 +1,16 @@
 --- 
-:longitude: 151.206965
-:action_date: "2009-10-14"
-:offence_date: "2009-10-09"
+:longitude: 151.210389
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507707
 :offence_description: Fail to display potentially hazardous food under temperature control - cold display unit turned off and all food displayed above 15C
-:latitude: -33.872254
-:trading_name: ECONOMOS
+:trading_name: CIRCULAR QUAY KIOSK
 :penalty_amount: $660.00
-:address: PODIUM LEVEL 1 THE GALLERIES VICTORIA 500 GEORGE STREET SYDNEY 2000
-:id: "7250507707"
+:latitude: -33.861324
+:address: 2 ALFRED STREET SYDNEY 2000
 :served_to: NEWSKEY PTY LTD
 :council_area: SYDNEY
+:id: "7250507707"
+:action_date: "2009-10-14"
+:offence_date: "2009-10-09"

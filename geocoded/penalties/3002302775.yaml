@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.203853
-:action_date: "2008-08-07"
-:offence_date: "2008-08-06"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302775
 :offence_description: Fail to maintain a clean food premises (grease & food waste on floor, unclean ventilation hood)
-:latitude: -33.878327
 :trading_name: SUPERBOWL RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.878327
 :address: 41 DIXON ST HAYMARKET 2000
-:id: "3002302775"
 :served_to: SUPERTHREE PTY LTD
 :council_area: SYDNEY
+:id: "3002302775"
+:action_date: "2008-08-07"
+:offence_date: "2008-08-06"

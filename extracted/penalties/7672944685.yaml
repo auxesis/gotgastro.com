@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-25"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944685
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 275 LIVERPOOL RD ASHFIELD 2131
 :served_to: QIU YU PTY LTD
-:id: "7672944685"
 :council_area: ASHFIELD
+:action_date: "2008-08-25"
+:id: "7672944685"
+:offence_date: "2008-08-11"

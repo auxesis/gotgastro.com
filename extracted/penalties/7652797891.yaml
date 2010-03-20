@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-22"
-:offence_date: "2009-05-20"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797891
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 3B/45 BLACKWALL POINT ROAD CHISWICK 2046
 :served_to: GIARDINA, CHARLIE
-:id: "7652797891"
 :council_area: CANADA BAY
+:action_date: "2009-05-22"
+:id: "7652797891"
+:offence_date: "2009-05-20"

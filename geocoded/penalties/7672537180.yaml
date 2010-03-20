@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.044177
-:action_date: "2008-12-16"
-:offence_date: "2008-12-02"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672537180
 :offence_description: Fail to maintain a clean food premises - accumulation of dirt, vermin droppings, grease and food waste throughout premises
-:latitude: -33.83668
 :trading_name: CAFFE MILANO
 :penalty_amount: $330.00
+:latitude: -33.83668
 :address: 30 VORE ST SILVERWATER 2128
-:id: "7672537180"
 :served_to: CONTARINO, MARIA JENNY
 :council_area: AUBURN
+:id: "7672537180"
+:action_date: "2008-12-16"
+:offence_date: "2008-12-02"

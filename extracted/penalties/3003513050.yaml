@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-23"
-:offence_date: "2008-12-18"
 :pursued_by: Hurstville City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513050
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 9-11 CROFTS AVE HURSTVILLE
 :served_to: SUNNY SUPERIOR SEAFOOD PTY LTD
-:id: "3003513050"
 :council_area: HURSTVILLE
+:action_date: "2008-12-23"
+:id: "3003513050"
+:offence_date: "2008-12-18"

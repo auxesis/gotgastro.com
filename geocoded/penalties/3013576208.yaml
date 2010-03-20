@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.770865
-:action_date: "2009-03-02"
-:offence_date: "2009-02-26"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576208
 :offence_description: Fail to maintain easily accessible hand washing facilities on the food premises - hand wash basin was obstructed and there was no supply of water
-:latitude: -33.766825
 :trading_name: GB'S CHICKEN EXPRESS
 :penalty_amount: $330.00
+:latitude: -33.766825
 :address: SHOP 40, ST MARYS SHOPPING VILLAGE 10 CHARLES HACKETT DRIVE ST MARYS 2760
-:id: "3013576208"
 :served_to: ANH VIET, VO
 :council_area: PENRITH
+:id: "3013576208"
+:action_date: "2009-03-02"
+:offence_date: "2009-02-26"

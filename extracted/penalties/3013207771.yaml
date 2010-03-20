@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-26"
-:offence_date: "2008-05-05"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013207771
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 5-6/40 PARK RD CABRAMATTA 2166
 :served_to: QI, BAO WEN
-:id: "3013207771"
 :council_area: FAIRFIELD
+:action_date: "2008-05-26"
+:id: "3013207771"
+:offence_date: "2008-05-05"

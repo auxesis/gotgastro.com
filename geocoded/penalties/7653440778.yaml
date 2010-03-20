@@ -1,16 +1,16 @@
 --- 
-:longitude: 150.956255
-:action_date: "2009-05-13"
-:offence_date: "2009-05-12"
+:longitude: 150.956206
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440778
 :offence_description: Fail to take all practicable measures to prevent pests entering the food premises - flies were observed on the premises, no screen door or fly traps used
-:latitude: -33.671082
 :trading_name: BILLI-KART CATERING
 :penalty_amount: $330.00
+:latitude: -33.66907
 :address: SHOP 2, 169 ANNANGROVE ROAD ANNANGROVE 2156
-:id: "7653440778"
 :served_to: BAKER, ROHAN
 :council_area: BAULKHAM HILLS
+:id: "7653440778"
+:action_date: "2009-05-13"
+:offence_date: "2009-05-12"

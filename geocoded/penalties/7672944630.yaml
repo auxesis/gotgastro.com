@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.122199
-:action_date: "2008-08-25"
-:offence_date: "2008-08-13"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944630
 :offence_description: Fail to maintain a clean food premises (grease and grime)
-:latitude: -33.887371
 :trading_name: CONFUCIOUS PALACE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.887371
 :address: 355 LIVERPOOL RD ASHFIELD 2131
-:id: "7672944630"
 :served_to: ANDY STAR PTY LTD
 :council_area: ASHFIELD
+:id: "7672944630"
+:action_date: "2008-08-25"
+:offence_date: "2008-08-13"

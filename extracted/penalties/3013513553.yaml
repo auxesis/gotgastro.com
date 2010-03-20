@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-26"
-:offence_date: "2008-07-29"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513553
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 121-127 JARDINE ST FAIRY MEADOW
 :served_to: CORRADO & FRANK DISTRIBUTORS PTY LTD
-:id: "3013513553"
 :council_area: WOLLONGONG
+:action_date: "2008-11-26"
+:id: "3013513553"
+:offence_date: "2008-07-29"

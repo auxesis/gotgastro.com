@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-23"
-:offence_date: "2009-09-22"
 :pursued_by: The Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653441272
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 110 CASTLE MALL 2-16 TERMINUS STREET CASTLE HILL 2154
 :served_to: PIECE OF CAKE CASTLE HILL PTY LTD
-:id: "7653441272"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-09-23"
+:id: "7653441272"
+:offence_date: "2009-09-22"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-16"
-:offence_date: "2009-09-15"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651929
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 327 PENSHURST STREET NORTH WILLOUGHBY 2068
 :served_to: SLAKAL PTY LTD
-:id: "7671651929"
 :council_area: WILLOUGHBY
+:action_date: "2009-09-16"
+:id: "7671651929"
+:offence_date: "2009-09-15"

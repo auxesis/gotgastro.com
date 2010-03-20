@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-13"
-:offence_date: "2008-11-12"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307853
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP QG13 8 QUAY ST HAYMARKET
 :served_to: SILK ROAD HOLDINGS P/L
-:id: "3002307853"
 :council_area: SYDNEY
+:action_date: "2008-11-13"
+:id: "3002307853"
+:offence_date: "2008-11-12"

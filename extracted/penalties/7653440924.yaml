@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-17"
-:offence_date: "2009-06-10"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440924
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 17 KELLYVILLE PLAZA  90 WRIGHTS ROAD KELLYVILLE 2155
 :served_to: CANDY LONG COMPANY PTY LTD
-:id: "7653440924"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-06-17"
+:id: "7653440924"
+:offence_date: "2009-06-10"

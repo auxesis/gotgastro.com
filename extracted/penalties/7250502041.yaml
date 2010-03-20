@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-10"
-:offence_date: "2009-02-02"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502041
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 413 PITT STREET SYDNEY 2000
 :served_to: THAENSA, YAOWALAK
-:id: "7250502041"
 :council_area: SYDNEY
+:action_date: "2009-02-10"
+:id: "7250502041"
+:offence_date: "2009-02-02"

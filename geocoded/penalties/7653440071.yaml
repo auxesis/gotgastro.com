@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.016366
-:action_date: "2008-12-01"
-:offence_date: "2008-10-27"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440071
 :offence_description: Fail to maintain all fixtures, fittings and equipment in a clean condition
-:latitude: -33.690064
 :trading_name: LA POMME PATISSERIE AND HOT BREAD
 :penalty_amount: $660.00
+:latitude: -33.690064
 :address: SHOP 15, DURAL MALL KENTHURST RD DURAL 2158
-:id: "7653440071"
 :served_to: LA POMME PATISSERIE & HOT BREAD PTY LTD
 :council_area: BAULKHAM HILLS
+:id: "7653440071"
+:action_date: "2008-12-01"
+:offence_date: "2008-10-27"

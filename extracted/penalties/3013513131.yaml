@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-23"
-:offence_date: "2008-03-27"
 :pursued_by: NSW Food Authority
 :offence_code: 15111 - Sell food that is unsuitable (sample of food) - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513131
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: 1 ZOE PL MT DRUITT 2770
 :served_to: MINA, ATTIA
-:id: "3013513131"
 :council_area: BLACKTOWN
+:action_date: "2008-07-23"
+:id: "3013513131"
+:offence_date: "2008-03-27"

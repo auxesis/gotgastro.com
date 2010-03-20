@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-29"
-:offence_date: "2008-05-27"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: NOODLE ISLAND
 :penalty_amount: $660.00
 :address: SHOP G2G 155 MILLER ST NORTH SYDNEY 2055
-:id: "3002831022"
 :served_to: REMARCABLE P/L
 :council_area: NORTH SYDNEY
+:id: "3002831022"
+:action_date: "2008-05-29"
+:offence_date: "2008-05-27"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-12"
-:offence_date: "2009-05-06"
 :pursued_by: Willoughby City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: NOODLE QUEEN
 :penalty_amount: $330.00
 :address: SHOP 218 65 ALBERT AVE CHATSWOOD
-:id: "7671651314"
 :served_to: YANG, ZE JUN
 :council_area: WILLOUGHBY
+:id: "7671651314"
+:action_date: "2009-05-12"
+:offence_date: "2009-05-06"

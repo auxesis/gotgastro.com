@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-18"
-:offence_date: "2008-07-13"
 :pursued_by: Wyong Shire Council
 :offence_code: 11323 - Sell food that is unsuitable - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553264
@@ -10,5 +8,7 @@
 :penalty_amount: $1100.00
 :address: 1/62 LAKEDGE AVE BERKELEY VALE 2261
 :served_to: FELSROSS P/L
-:id: "7656553264"
 :council_area: WYONG
+:action_date: "2008-07-18"
+:id: "7656553264"
+:offence_date: "2008-07-13"

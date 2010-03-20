@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.445477
-:action_date: "2008-10-24"
-:offence_date: "2008-10-15"
 :pursued_by: Wyong Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096040
 :offence_description: Fail to maintain food premises in a clean condition
-:latitude: -33.352737
 :trading_name: CAMO'S ON THE EDGE
 :penalty_amount: $330.00
+:latitude: -33.352737
 :address: 2/62 LAKEDGE AVE BERKELEY VALE
-:id: "3003096040"
 :served_to: CHENG, GRATIANO
 :council_area: WYONG
+:id: "3003096040"
+:action_date: "2008-10-24"
+:offence_date: "2008-10-15"

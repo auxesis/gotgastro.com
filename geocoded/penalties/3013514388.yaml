@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.866038
-:action_date: "2009-05-13"
-:offence_date: "2009-04-02"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514388
 :offence_description: Fail to comply with the requirements of a food safety scheme - premises and equipment were not maintained to the required standard of cleanliness
-:latitude: -33.997992
 :trading_name: INGLEBURN BEST MEATS
 :penalty_amount: $330.00
+:latitude: -33.997992
 :address: 20 OXFORD STREET INGLEBURN 2565
-:id: "3013514388"
 :served_to: VU, DARRYL
 :council_area: CAMPBELLTOWN
+:id: "3013514388"
+:action_date: "2009-05-13"
+:offence_date: "2009-04-02"

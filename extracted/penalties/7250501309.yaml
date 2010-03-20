@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-10"
-:offence_date: "2009-03-04"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501309
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 215-GO5 BENT STREET ENTERTAINMENT QUARTER COMPLEX, MOORE PARK PADDINGTON 2021
 :served_to: MANSOUR, RAMY
-:id: "7250501309"
 :council_area: SYDNEY
+:action_date: "2009-03-10"
+:id: "7250501309"
+:offence_date: "2009-03-04"

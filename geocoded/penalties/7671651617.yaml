@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.195938
-:action_date: "2009-06-16"
-:offence_date: "2009-05-19"
 :pursued_by: Willoughby City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671651617
 :offence_description: Fail to ensure food contact surfaces of equipment are in a clean and sanitary condition - chopping blocks and dumpling storage trays observed as unclean
-:latitude: -33.792566
 :trading_name: SAKARI JAPANESE TEPPENYAKI RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.792566
 :address: 339A PENSHURST STREET NORTH WILLOUGHBY 2068
-:id: "7671651617"
 :served_to: HUANG, HE SHI
 :council_area: WILLOUGHBY
+:id: "7671651617"
+:action_date: "2009-06-16"
+:offence_date: "2009-05-19"

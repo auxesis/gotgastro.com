@@ -1,16 +1,16 @@
 --- 
 :longitude: 153.045081
-:action_date: "2008-10-16"
-:offence_date: "2008-10-14"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7654985470
 :offence_description: Fail to take all practicable measures to eradicate and prevent the harbourage of pests on the food premises  - mice droppings found and blow flies present
-:latitude: -28.864868
 :trading_name: SOPHIES RESTAURANT (THE CECIL HOTEL)
 :penalty_amount: $660.00
+:latitude: -28.864868
 :address: 100 CENTRE ST CASINO 2470
-:id: "7654985470"
 :served_to: PEVARA PTY LTD
 :council_area: RICHMOND VALLEY COUNCIL
+:id: "7654985470"
+:action_date: "2008-10-16"
+:offence_date: "2008-10-14"

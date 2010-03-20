@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-22"
-:offence_date: "2008-12-15"
 :pursued_by: Waverley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639539409
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: KIOSK FCK 05 500 OXFORD ST BONDI JUNCTION
 :served_to: THAIRIFFIC BONDI JUNCTION PTY LTD
-:id: "7639539409"
 :council_area: WAVERLEY
+:action_date: "2008-12-22"
+:id: "7639539409"
+:offence_date: "2008-12-15"

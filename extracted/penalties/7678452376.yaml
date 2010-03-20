@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-19"
-:offence_date: "2008-09-18"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452376
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: CHANDOS STREET ST LEONARDS 2065
 :served_to: KADAOGHLANIAN, MARILYN
-:id: "7678452376"
 :council_area: NORTH SYDNEY
+:action_date: "2008-09-19"
+:id: "7678452376"
+:offence_date: "2008-09-18"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-31"
-:offence_date: "2009-03-17"
 :pursued_by: Ballina Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188758
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHELLY BEACH ROAD BALLINA 2478
 :served_to: KEEMINK, ELIZABETH ANNE
-:id: "7652188758"
 :council_area: BALLINA
+:action_date: "2009-03-31"
+:id: "7652188758"
+:offence_date: "2009-03-17"

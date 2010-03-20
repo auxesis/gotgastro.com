@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.955912
-:action_date: "2009-09-15"
-:offence_date: "2009-04-03"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652496070
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - unclean floors and walls
-:latitude: -33.872385
 :trading_name: BON HENG HOT BREAD SHOP
 :penalty_amount: $330.00
+:latitude: -33.872385
 :address: 43 THE CRESCENT FAIRFIELD 2165
-:id: "7652496070"
 :served_to: YITH, DARY
 :council_area: FAIRFIELD
+:id: "7652496070"
+:action_date: "2009-09-15"
+:offence_date: "2009-04-03"

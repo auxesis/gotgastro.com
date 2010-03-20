@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.503005
-:action_date: "2009-06-11"
-:offence_date: "2009-05-19"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514552
 :offence_description: Fail to comply with a condition of licence  - fail to complete monitoring records as required by food safety program
-:latitude: -32.173673
 :trading_name: SHEPPO'S FRESH OYSTERS & SEAFOOD
 :penalty_amount: $660.00
+:latitude: -32.173673
 :address: SHOP 1/19 BEACH STREET TUNCURRY 2428
-:id: "3013514552"
 :served_to: BAI CLO PTY LTD
 :council_area: GREAT LAKES
+:id: "3013514552"
+:action_date: "2009-06-11"
+:offence_date: "2009-05-19"

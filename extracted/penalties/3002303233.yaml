@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-29"
-:offence_date: "2008-09-24"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303233
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 13 BOTANY RD WATERLOO 2017
 :served_to: HARRLEE PTY LTD
-:id: "3002303233"
 :council_area: SYDNEY
+:action_date: "2008-09-29"
+:id: "3002303233"
+:offence_date: "2008-09-24"

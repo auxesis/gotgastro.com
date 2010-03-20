@@ -1,16 +1,16 @@
 --- 
 :longitude: 115.994482
-:action_date: "2008-06-06"
-:offence_date: "2008-06-05"
 :pursued_by: Penrith City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673011821
 :offence_description: Fail to maintain a clean food premises
-:latitude: -32.112404
 :trading_name: MANNY AND MARIE'S GOURMET
 :penalty_amount: $660.00
+:latitude: -32.112404
 :address: SHOP 10 WESTFIELD PLAZA PENRITH 2750
-:id: "7673011821"
 :served_to: GOKERKUCUK HOLDING P/L
 :council_area: PENRITH
+:id: "7673011821"
+:action_date: "2008-06-06"
+:offence_date: "2008-06-05"

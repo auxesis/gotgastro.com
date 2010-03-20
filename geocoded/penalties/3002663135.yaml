@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.321829
-:action_date: "2008-05-30"
-:offence_date: "2008-05-22"
 :pursued_by: Pittwater Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663135
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
-:latitude: -33.592913
 :trading_name: SHIMMERS RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.592913
 :address: 2 BEACH RD PALM BEACH 2108
-:id: "3002663135"
 :served_to: R & A MANAGEMENT SOLUTIONS P/L
 :council_area: PITTWATER
+:id: "3002663135"
+:action_date: "2008-05-30"
+:offence_date: "2008-05-22"

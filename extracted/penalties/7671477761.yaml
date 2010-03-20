@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-01"
-:offence_date: "2008-08-20"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671477761
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: KIOSK 1 WENTWORTHVILLE SHOPPING PLAZA 326-336 GREAT WESTERN HIGHWAY WENTWORTHVILLE 2145
 :served_to: TAMS CORPORATION PTY LTD
-:id: "7671477761"
 :council_area: HOLROYD
+:action_date: "2008-09-01"
+:id: "7671477761"
+:offence_date: "2008-08-20"

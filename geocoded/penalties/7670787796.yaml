@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.006011
-:action_date: "2009-06-12"
-:offence_date: "2009-06-04"
 :pursued_by: NSW Food Authority
 :offence_code: 11322 - Sell food that is unsuitable - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787796
 :offence_description: Sale of unsuitable food - sweet and sour pork contained small metal filings
-:latitude: -33.73316
 :trading_name: CASTLE HILL DELICIOUS
 :penalty_amount: $550.00
+:latitude: -33.73316
 :address: SHOP FC 2, CASTLE MALL 4-16 TERMINUS STREET CASTLE HILL 2154
-:id: "7670787796"
 :served_to: XU, XIANG BAO
 :council_area: BAULKHAM HILLS
+:id: "7670787796"
+:action_date: "2009-06-12"
+:offence_date: "2009-06-04"

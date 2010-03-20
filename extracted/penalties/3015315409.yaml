@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-01"
-:offence_date: "2009-03-31"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015315409
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 180 CABRAMATTA RD CABRAMATTA
 :served_to: TRAN, THU QUANG
-:id: "3015315409"
 :council_area: FAIRFIELD
+:action_date: "2009-05-01"
+:id: "3015315409"
+:offence_date: "2009-03-31"

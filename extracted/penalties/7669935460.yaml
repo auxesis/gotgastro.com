@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-21"
-:offence_date: "2009-01-14"
 :pursued_by: Shoalhaven City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7669935460
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 82 PAGE AVE NORTH NOWRA
 :served_to: DILLON MANAGEMENT SERVICES PTY LTD
-:id: "7669935460"
 :council_area: SHOALHAVEN
+:action_date: "2009-01-21"
+:id: "7669935460"
+:offence_date: "2009-01-14"

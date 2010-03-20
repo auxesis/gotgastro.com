@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-03"
-:offence_date: "2009-06-01"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621650145
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 870 ANZAC PARADE KENSINGTON 2033
 :served_to: MICHAELS, CON
-:id: "7621650145"
 :council_area: RANDWICK
+:action_date: "2009-06-03"
+:id: "7621650145"
+:offence_date: "2009-06-01"

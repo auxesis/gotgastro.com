@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-06-11"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: SUMO SALAD MIRANDA
 :penalty_amount: $660.00
 :address: SHOP 202B/600 THE KINGSWAY MIRANDA
-:id: "3013513351"
 :served_to: ALTERNATE PROPERTY SOLUTIONS PTY LTD
 :council_area: SUTHERLAND
+:id: "3013513351"
+:action_date: "2008-10-02"
+:offence_date: "2008-06-11"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-25"
-:offence_date: "2008-11-20"
 :pursued_by: Gosford City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673766486
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 470 PACIFIC HIGHWAY WYOMING 2250
 :served_to: YUM RESTAURANTS AUSTRALIA PTY LTD
-:id: "7673766486"
 :council_area: GOSFORD
+:action_date: "2008-11-25"
+:id: "7673766486"
+:offence_date: "2008-11-20"

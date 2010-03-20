@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.928321
-:action_date: "2009-06-18"
-:offence_date: "2009-06-16"
 :pursued_by: Tamworth Regional Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671084228
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
-:latitude: -31.089584
 :trading_name: MARKERS CAKE SHOP
 :penalty_amount: $660.00
+:latitude: -31.089584
 :address: 277 PEEL STREET TAMWORTH 2340
-:id: "7671084228"
 :served_to: NADDA HOLDINGS PTY LTD
 :council_area: TAMWORTH
+:id: "7671084228"
+:action_date: "2009-06-18"
+:offence_date: "2009-06-16"

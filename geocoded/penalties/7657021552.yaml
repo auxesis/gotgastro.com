@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.288639
-:action_date: "2009-06-26"
-:offence_date: "2009-06-06"
 :pursued_by: Manly Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657021552
 :offence_description: Fail to have a temperature measuring device at the premises where potentially hazardous food is handled
-:latitude: -33.798103
 :trading_name: YOK THAI
 :penalty_amount: $660.00
+:latitude: -33.798103
 :address: SOUTH STEYNE MANLY 2095
-:id: "7657021552"
 :served_to: YOK THAI RESTAURANT PTY LTD
 :council_area: MANLY
+:id: "7657021552"
+:action_date: "2009-06-26"
+:offence_date: "2009-06-06"

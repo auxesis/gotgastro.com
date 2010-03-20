@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.123777
-:action_date: "2008-08-27"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944694
 :offence_description: Fail to maintain a clean food premises (build up of grime in food prep area, floors, wall, stove)
-:latitude: -33.887821
 :trading_name: TASTY HOUSE CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.887821
 :address: 297 LIVERPOOL RD ASHFIELD 2131
-:id: "7672944694"
 :served_to: NGOC, HUAGTA
 :council_area: ASHFIELD
+:id: "7672944694"
+:action_date: "2008-08-27"
+:offence_date: "2008-08-11"

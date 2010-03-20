@@ -1,16 +1,16 @@
 --- 
 :longitude: 153.045446
-:action_date: "2009-04-08"
-:offence_date: "2009-04-08"
 :pursued_by: Richmond Valley Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547645
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - condensate dripping into open packages of chicken
-:latitude: -28.86323
 :trading_name: KFC
 :penalty_amount: $660.00
+:latitude: -28.86323
 :address: 110-112 CENTRE STREET CASINO 2470
-:id: "3003547645"
 :served_to: Q S R PTY LTD
 :council_area: RICHMOND VALLEY COUNCIL
+:id: "3003547645"
+:action_date: "2009-04-08"
+:offence_date: "2009-04-08"

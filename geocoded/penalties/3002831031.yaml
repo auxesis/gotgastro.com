@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.206658
-:action_date: "2008-05-29"
-:offence_date: "2008-05-27"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002831031
 :offence_description: Smoking in dry food store
-:latitude: -33.840693
 :trading_name: RENGAYA JAPANESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.840693
 :address: 73 MILLER ST NORTH SYDNEY 2055
-:id: "3002831031"
 :served_to: I'S CORPORATION P/L
 :council_area: NORTH SYDNEY
+:id: "3002831031"
+:action_date: "2008-05-29"
+:offence_date: "2008-05-27"

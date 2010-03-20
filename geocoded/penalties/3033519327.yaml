@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.031809
-:action_date: "2009-09-15"
-:offence_date: "2009-09-11"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3033519327
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food stored in open containers in coolroom
-:latitude: -33.871158
 :trading_name: LA STAR VIETNAMESE AND CHINESE RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.871158
 :address: 5/154-156 WOODBURN ROAD BERALA 2141
-:id: "3033519327"
 :served_to: TRAN, KIEN
 :council_area: AUBURN
+:id: "3033519327"
+:action_date: "2009-09-15"
+:offence_date: "2009-09-11"

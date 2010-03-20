@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-26"
-:offence_date: "2009-02-20"
 :pursued_by: Hurstville City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003513132
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 53 ANDERSON ROAD MORTDALE 2223
 :served_to: SAFFURI, EDWARD
-:id: "3003513132"
 :council_area: HURSTVILLE
+:action_date: "2009-02-26"
+:id: "3003513132"
+:offence_date: "2009-02-20"

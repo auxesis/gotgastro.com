@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-11"
-:offence_date: "2009-02-04"
 :pursued_by: NSW Food Authority
 :offence_code: 11324 - Use misleading/deceptive advertising/packaging/labelling of food - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514570
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: UNIT 2/18-20 WEECOON STREET EDEN 2551
 :served_to: RODAHL, NAT A
-:id: "3013514570"
 :council_area: BEGA VALLEY
+:action_date: "2009-06-11"
+:id: "3013514570"
+:offence_date: "2009-02-04"

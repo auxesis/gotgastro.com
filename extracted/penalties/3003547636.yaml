@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-05"
-:offence_date: "2009-03-04"
 :pursued_by: Richmond Valley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003547636
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 40 ADAMS STREET CORAKI 2471
 :served_to: DOUGLAS, DENISE ANN
-:id: "3003547636"
 :council_area: RICHMOND VALLEY COUNCIL
+:action_date: "2009-03-05"
+:id: "3003547636"
+:offence_date: "2009-03-04"

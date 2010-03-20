@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.207685
-:action_date: "2008-09-09"
-:offence_date: "2008-09-08"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307817
 :offence_description: Fail io maintain floors so that they can be effectively cleaned
-:latitude: -33.866181
 :trading_name: 6TH AVENUE
 :penalty_amount: $330.00
+:latitude: -33.866181
 :address: SHOP F3, 7-13 HUNTER ST SYDNEY 2000
-:id: "3002307817"
 :served_to: LEE, ALVAN
 :council_area: SYDNEY
+:id: "3002307817"
+:action_date: "2008-09-09"
+:offence_date: "2008-09-08"

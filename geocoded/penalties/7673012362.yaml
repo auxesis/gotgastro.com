@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.696925
-:action_date: "2008-08-19"
-:offence_date: "2008-04-22"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673012362
 :offence_description: Fail to take all practicable measures to eradicate & prevent harbourage of pests in food premises
-:latitude: -33.753761
 :trading_name: PAN NOODLE
 :penalty_amount: $330.00
+:latitude: -33.753761
 :address: 442 HIGH ST PENRITH 2750
-:id: "7673012362"
 :served_to: XIE, PING
 :council_area: PENRITH
+:id: "7673012362"
+:action_date: "2008-08-19"
+:offence_date: "2008-04-22"

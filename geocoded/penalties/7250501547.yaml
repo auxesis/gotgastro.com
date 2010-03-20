@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.205837
-:action_date: "2009-05-20"
-:offence_date: "2009-05-18"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501547
 :offence_description: Fail to store potentially hazardous food under temperature control - unpasteurised dip spread was stored on top of counter at ambient temperatures
-:latitude: -33.879983
 :trading_name: CYRIL'S DELICATESSEN
 :penalty_amount: $330.00
+:latitude: -33.879983
 :address: 181 HAY STREET HAYMARKET 2000
-:id: "7250501547"
 :served_to: VINCENC, CYRIL AND MILA
 :council_area: SYDNEY
+:id: "7250501547"
+:action_date: "2009-05-20"
+:offence_date: "2009-05-18"

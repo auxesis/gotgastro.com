@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-05"
-:offence_date: "2009-01-30"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576134
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: NEPEAN CENTRO SHOP 43/122 STATION STREET PENRITH 2750
 :served_to: POLES, DARIO
-:id: "3013576134"
 :council_area: PENRITH
+:action_date: "2009-02-05"
+:id: "3013576134"
+:offence_date: "2009-01-30"

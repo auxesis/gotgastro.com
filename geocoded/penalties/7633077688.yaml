@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.103049
-:action_date: "2008-11-14"
-:offence_date: "2008-11-10"
 :pursued_by: City of Canterbury Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7633077688
 :offence_description: Fail to maintain a clean food premises  - dirt, grease and food waste on walls and shelves
-:latitude: -33.909339
 :trading_name: NI BBQ HOUSE
 :penalty_amount: $330.00
+:latitude: -33.909339
 :address: 152 BEAMISH ST CAMPSIE
-:id: "7633077688"
 :served_to: CHENG, KIU
 :council_area: CANTERBURY
+:id: "7633077688"
+:action_date: "2008-11-14"
+:offence_date: "2008-11-10"

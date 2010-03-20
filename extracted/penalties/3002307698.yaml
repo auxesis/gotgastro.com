@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-16"
-:offence_date: "2008-05-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307698
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 46-57 BOTANY RD WATERLOO 2017
 :served_to: NGUYEN, THIEN TRUNG
-:id: "3002307698"
 :council_area: SYDNEY
+:action_date: "2008-05-16"
+:id: "3002307698"
+:offence_date: "2008-05-15"

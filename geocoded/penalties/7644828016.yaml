@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.7100338
-:action_date: "2008-10-28"
-:offence_date: "2008-10-23"
 :pursued_by: Newcastle City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644828016
 :offence_description: Fail to maintain at or near each hand washing facility, a supply of  - warm running water and soap
-:latitude: -32.9406825
 :trading_name: TASTE OF THE ORIENT
 :penalty_amount: $660.00
+:latitude: -32.9406825
 :address: 10/89 PARK AVE KOTARA
-:id: "7644828016"
 :served_to: 118 ENTERPRISE PTY LTD
 :council_area: NEWCASTLE CITY COUNCIL
+:id: "7644828016"
+:action_date: "2008-10-28"
+:offence_date: "2008-10-23"

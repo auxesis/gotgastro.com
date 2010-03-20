@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-01"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514140
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 84 RESTWELL STREET BANKSTOWN 2200
 :served_to: TRAN, QUOC DON NGHI
-:id: "3013514140"
 :council_area: BANKSTOWN
+:action_date: "2009-04-01"
+:id: "3013514140"
+:offence_date: "2008-09-12"

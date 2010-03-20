@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-21"
-:offence_date: "2008-07-09"
 :pursued_by: Cessnock City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7640083092
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 103-111 VINCENT ST CESSNOCK
 :served_to: J A G BROKERAGE SERVICES P/L
-:id: "7640083092"
 :council_area: CESSNOCK
+:action_date: "2008-10-21"
+:id: "7640083092"
+:offence_date: "2008-07-09"

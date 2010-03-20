@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2082434
-:action_date: "2009-07-28"
-:offence_date: "2009-07-23"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502454
 :offence_description: Fail to display potentially hazardous food under temperature control - pizza and pides stored outside of temperature control
-:latitude: -33.8863269
 :trading_name: EUROPE FOOD TAKEAWAY
 :penalty_amount: $660.00
+:latitude: -33.8863269
 :address: 2/416 ELIZABETH STREET SURRY HILLS 2010
-:id: "7250502454"
 :served_to: IPEK PTY LIMITED ATF IPEK FAMILY TRUST
 :council_area: SYDNEY
+:id: "7250502454"
+:action_date: "2009-07-28"
+:offence_date: "2009-07-23"

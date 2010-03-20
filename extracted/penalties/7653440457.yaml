@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-16"
-:offence_date: "2009-02-04"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440457
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SUITE 15/9 TERMINUS STREET CASTLE HILL 2154
 :served_to: ADAC NOMINEES PTY LTD
-:id: "7653440457"
 :council_area: BAULKHAM HILLS
+:action_date: "2009-02-16"
+:id: "7653440457"
+:offence_date: "2009-02-04"

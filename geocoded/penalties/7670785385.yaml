@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.7728171
-:action_date: "2008-05-14"
-:offence_date: "2008-02-22"
 :pursued_by: NSW Food Authority
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785385
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.7657434
 :trading_name: ST MARYS INTERNATIONAL BAKEHOUSE
 :penalty_amount: $330.00
+:latitude: -33.7657434
 :address: SHOP 1 ST MARYS VILLAGE CHARLES HACKETT DR, ST MARYS 2760
-:id: "7670785385"
 :served_to: SA, PHANNO
 :council_area: PENRITH
+:id: "7670785385"
+:action_date: "2008-05-14"
+:offence_date: "2008-02-22"

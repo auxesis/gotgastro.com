@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-31"
-:offence_date: "2009-08-31"
 :pursued_by: Manly Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641229870
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 8, MANLY WHARF EAST ESPLANADE MANLY 2095
 :served_to: ASAGAO MANLY WHARF PTY LTD
-:id: "7641229870"
 :council_area: MANLY
+:action_date: "2009-08-31"
+:id: "7641229870"
+:offence_date: "2009-08-31"

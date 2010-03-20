@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.208311
-:action_date: "2009-11-03"
-:offence_date: "2009-10-23"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507972
 :offence_description: Fail to display potentially hazardous food under temperature control - cooked fish on self serve buffet at 43.1C, cooked chicken at 43.2C, tuna sushi at 17.5C
-:latitude: -33.874708
 :trading_name: YUTAKA JAPANESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.874708
 :address: GROUND FLOOR 125-129 BATHURST STREET SYDNEY 2000
-:id: "7250507972"
 :served_to: HONGYI AUSTRALIA PTY LTD
 :council_area: SYDNEY
+:id: "7250507972"
+:action_date: "2009-11-03"
+:offence_date: "2009-10-23"

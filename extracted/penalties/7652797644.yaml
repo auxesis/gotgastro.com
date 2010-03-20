@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-14"
-:offence_date: "2008-08-13"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797644
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 78, 1 RIDER BLVDE RHODES 2138
 :served_to: CHUNG, KEN
-:id: "7652797644"
 :council_area: CANADA BAY
+:action_date: "2008-08-14"
+:id: "7652797644"
+:offence_date: "2008-08-13"

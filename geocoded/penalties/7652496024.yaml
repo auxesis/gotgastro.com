@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.287383
-:action_date: "2009-03-31"
-:offence_date: "2009-01-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652496024
 :offence_description: Fail to store potentially hazardous food under temperature control - hollandaise sauce
-:latitude: -33.723257
 :trading_name: RSL LIFECARE
 :penalty_amount: $660.00
+:latitude: -33.723257
 :address: 90 VETERANS PARADE NARRABEEN 2101
-:id: "7652496024"
 :served_to: RSL LIFECARE LTD
 :council_area: WARRINGAH
+:id: "7652496024"
+:action_date: "2009-03-31"
+:offence_date: "2009-01-23"

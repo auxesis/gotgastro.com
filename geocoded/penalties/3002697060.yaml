@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.316869
-:action_date: "2008-11-28"
-:offence_date: "2008-11-25"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697060
 :offence_description: Fail to maintain at each hand washing facility a supply of paper towel or other means of effectively drying hands
-:latitude: -33.707047
 :trading_name: BURMAH SERVICE STATION
 :penalty_amount: $330.00
+:latitude: -33.707047
 :address: 199 GREAT WESTERN HWY KATOOMBA
-:id: "3002697060"
 :served_to: DIRANI, SALWA
 :council_area: BLUE MOUNTAINS
+:id: "3002697060"
+:action_date: "2008-11-28"
+:offence_date: "2008-11-25"

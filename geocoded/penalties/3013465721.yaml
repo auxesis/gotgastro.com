@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.987749
-:action_date: "2009-01-30"
-:offence_date: "2009-01-12"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013465721
 :offence_description: Failure to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Fridge and can opener found to be in an unclean state
-:latitude: -33.83639
 :trading_name: DOMINO'S PIZZA
 :penalty_amount: $660.00
+:latitude: -33.83639
 :address: 246 MERRYLANDS ROAD MERRYLANDS 2160
-:id: "3013465721"
 :served_to: PIZZA MANIACS PTY LTD
 :council_area: HOLROYD
+:id: "3013465721"
+:action_date: "2009-01-30"
+:offence_date: "2009-01-12"

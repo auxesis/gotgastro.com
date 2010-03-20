@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.438004
-:action_date: "2008-08-07"
-:offence_date: "2008-08-06"
 :pursued_by: Greater Taree City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673946345
 :offence_description: Fail to provide at or near hand wash facility a means of effectively drying hands
-:latitude: -31.922118
 :trading_name: OATES CATERING
 :penalty_amount: $660.00
+:latitude: -31.922118
 :address: 116 EDINBURGH DR TAREE 2430
-:id: "7673946345"
 :served_to: SULTO PTY LTD
 :council_area: GREATER TAREE
+:id: "7673946345"
+:action_date: "2008-08-07"
+:offence_date: "2008-08-06"

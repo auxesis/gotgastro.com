@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-15"
-:offence_date: "2009-09-11"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3033519327
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 5/154-156 WOODBURN ROAD BERALA 2141
 :served_to: TRAN, KIEN
-:id: "3033519327"
 :council_area: AUBURN
+:action_date: "2009-09-15"
+:id: "3033519327"
+:offence_date: "2009-09-11"

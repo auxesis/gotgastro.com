@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.183858
-:action_date: "2009-02-18"
-:offence_date: "2009-02-17"
 :pursued_by: Willoughby City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7671650920
 :offence_description: Fail to maintain food premises in a good state of repair - damaged flooring, prior warnings given
-:latitude: -33.797485
 :trading_name: KFC CHATSWOOD
 :penalty_amount: $660.00
+:latitude: -33.797485
 :address: SHOP 430 WESTFIELD SHOPPING CENTRE CHATSWOOD 1 ANDERSON STREET CHATSWOOD 2067
-:id: "7671650920"
 :served_to: MYKSPEN PTY LTD
 :council_area: WILLOUGHBY
+:id: "7671650920"
+:action_date: "2009-02-18"
+:offence_date: "2009-02-17"

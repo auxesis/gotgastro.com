@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-30"
-:offence_date: "2008-05-22"
 :pursued_by: Pittwater Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002663135
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 2 BEACH RD PALM BEACH 2108
 :served_to: R & A MANAGEMENT SOLUTIONS P/L
-:id: "3002663135"
 :council_area: PITTWATER
+:action_date: "2008-05-30"
+:id: "3002663135"
+:offence_date: "2008-05-22"

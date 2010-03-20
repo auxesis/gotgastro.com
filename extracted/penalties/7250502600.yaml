@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-14"
-:offence_date: "2009-09-14"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250502600
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP R1-22 MARKET CITY 2 QUAY STREET HAYMARKET 2000
 :served_to: ADANUS PTY LIMITED
-:id: "7250502600"
 :council_area: SYDNEY
+:action_date: "2009-09-14"
+:id: "7250502600"
+:offence_date: "2009-09-14"

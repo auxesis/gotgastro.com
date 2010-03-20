@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-27"
-:offence_date: "2009-08-25"
 :pursued_by: Lismore City Council
 :offence_code: 11323 - Sell food that is unsuitable - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7638664844
@@ -10,5 +8,7 @@
 :penalty_amount: $1100.00
 :address: 87 KEEN STREET LISMORE 2480
 :served_to: MAPUR PTY LTD
-:id: "7638664844"
 :council_area: LISMORE
+:action_date: "2009-08-27"
+:id: "7638664844"
+:offence_date: "2009-08-25"

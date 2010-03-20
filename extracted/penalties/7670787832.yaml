@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-12"
-:offence_date: "2009-05-21"
 :pursued_by: NSW Food Authority
 :offence_code: 11370 - Carry on food business/activity without a licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670787832
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 17/57 ALLINGHAM STREET CONDELL PARK 2200
 :served_to: ASIA PANTRY PTY LTD
-:id: "7670787832"
 :council_area: BANKSTOWN
+:action_date: "2009-06-12"
+:id: "7670787832"
+:offence_date: "2009-05-21"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-27"
-:offence_date: "2009-08-25"
 :pursued_by: Wagga Wagga City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3012639136
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 176 FITZMAURICE STREET WAGGA WAGGA 2650
 :served_to: CHRIKIM PTY LTD
-:id: "3012639136"
 :council_area: WAGGA WAGGA
+:action_date: "2009-08-27"
+:id: "3012639136"
+:offence_date: "2009-08-25"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-06"
-:offence_date: "2008-07-24"
 :pursued_by: Hornsby Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644003456
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 8 HANNAH ST BEECROFT 2119
 :served_to: GIAKOUMELOS, TOM
-:id: "7644003456"
 :council_area: HORNSBY
+:action_date: "2008-08-06"
+:id: "7644003456"
+:offence_date: "2008-07-24"

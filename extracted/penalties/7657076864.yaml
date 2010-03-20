@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-23"
-:offence_date: "2009-09-04"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076864
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: PERISHER VALLEY HOTEL PERISHER VALLEY 2624
 :served_to: PERISHER BLUE PTY LTD
-:id: "7657076864"
 :council_area: Kosciuszko
+:action_date: "2009-10-23"
+:id: "7657076864"
+:offence_date: "2009-09-04"

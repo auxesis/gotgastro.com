@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-19"
-:offence_date: "2008-06-18"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302674
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: B01/413-415 SUSSEX ST HAYMARKET 2000
 :served_to: BAI, XIAORUI
-:id: "3002302674"
 :council_area: SYDNEY
+:action_date: "2008-06-19"
+:id: "3002302674"
+:offence_date: "2008-06-18"

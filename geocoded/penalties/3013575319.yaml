@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-30"
-:offence_date: "2008-10-28"
 :pursued_by: Penrith City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -9,6 +7,8 @@
 :trading_name: CHIVERS CAKES
 :penalty_amount: $660.00
 :address: SHOP 4 80-98 BORROWDALE RD CRANEBROOK
-:id: "3013575319"
 :served_to: LUXINVEST PTY LTD
 :council_area: PENRITH
+:id: "3013575319"
+:action_date: "2008-10-30"
+:offence_date: "2008-10-28"

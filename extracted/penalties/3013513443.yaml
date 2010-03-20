@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-02"
-:offence_date: "2008-08-26"
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513443
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 4 60 UNION ST PYRMONT 2009
 :served_to: NEDELKOVSKI, DAVID
-:id: "3013513443"
 :council_area: SYDNEY
+:action_date: "2008-10-02"
+:id: "3013513443"
+:offence_date: "2008-08-26"

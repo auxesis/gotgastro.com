@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-02"
-:offence_date: "2008-03-22"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785971
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: LOT 33 WRIGHTVILLE ST COBAR 2835
 :served_to: STEWART, SCOTT NATHAN
-:id: "7670785971"
 :council_area: COBAR
+:action_date: "2008-07-02"
+:id: "7670785971"
+:offence_date: "2008-03-22"

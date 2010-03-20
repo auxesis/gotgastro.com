@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-29"
-:offence_date: "2008-08-29"
 :pursued_by: Newcastle City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7644827008
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 135 MAITLAND ST MAYFIELD 2304
 :served_to: NGUYEN, DUONG THI THUY
-:id: "7644827008"
 :council_area: NEWCASTLE CITY COUNCIL
+:action_date: "2008-08-29"
+:id: "7644827008"
+:offence_date: "2008-08-29"

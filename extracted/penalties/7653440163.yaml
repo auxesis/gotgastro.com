@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-11"
-:offence_date: "2008-12-10"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440163
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 2/35 COONARA AVE WEST PENNANT HILLS
 :served_to: SUN, JAMES
-:id: "7653440163"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-12-11"
+:id: "7653440163"
+:offence_date: "2008-12-10"

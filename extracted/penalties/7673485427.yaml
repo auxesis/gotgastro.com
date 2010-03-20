@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-18"
-:offence_date: "2009-06-16"
 :pursued_by: Parramatta City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7673485427
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 5/100B BRIENS ROAD NORTHMEAD 2152
 :served_to: YK & JM PTY LTD
-:id: "7673485427"
 :council_area: PARRAMATTA
+:action_date: "2009-06-18"
+:id: "7673485427"
+:offence_date: "2009-06-16"

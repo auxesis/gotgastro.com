@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-02"
-:offence_date: "2009-05-26"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017301192
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 16/105-107 JOHN STREET CABRAMATTA 2166
 :served_to: HWANG, RICHARD
-:id: "3017301192"
 :council_area: FAIRFIELD
+:action_date: "2009-06-02"
+:id: "3017301192"
+:offence_date: "2009-05-26"

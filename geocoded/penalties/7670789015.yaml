@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.204771
-:action_date: "2009-06-16"
-:offence_date: "2009-05-29"
 :pursued_by: NSW Food Authority
 :offence_code: 11341 - Sell food that fails to comply with the Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670789015
 :offence_description: Fail to provide labelling on packaged foods in the English language
-:latitude: -33.875538
 :trading_name: WINDSOR CONVENIENCE STORE
 :penalty_amount: $660.00
+:latitude: -33.875538
 :address: SHOP 4, 336-346 SUSSEX STREET SYDNEY 2000
-:id: "7670789015"
 :served_to: MICHA INTERNATIONAL PTY LTD
 :council_area: SYDNEY
+:id: "7670789015"
+:action_date: "2009-06-16"
+:offence_date: "2009-05-29"

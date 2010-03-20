@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.093827
-:action_date: "2009-11-03"
-:offence_date: "2009-11-03"
 :pursued_by: Strathfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653245079
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination - food left uncovered in refrigerator
-:latitude: -33.873472
 :trading_name: WON JO RESTAURANT
 :penalty_amount: $330.00
+:latitude: -33.873472
 :address: SHOP 33A THE BOULEVARDE STRATHFIELD 2135
-:id: "7653245079"
 :served_to: KIM, YOUJIN
 :council_area: STRATHFIELD
+:id: "7653245079"
+:action_date: "2009-11-03"
+:offence_date: "2009-11-03"

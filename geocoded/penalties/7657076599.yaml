@@ -1,16 +1,16 @@
 --- 
 :longitude: 148.428644
-:action_date: "2008-08-21"
-:offence_date: "2008-08-20"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076599
 :offence_description: Fail to maintain food premises, fixtures, fittings, equipment in a good state of repair and working order
-:latitude: -36.394166
 :trading_name: NIKKI'S KIOSK
 :penalty_amount: $330.00
+:latitude: -36.394166
 :address: SMIGGIN HOLES 2624
-:id: "7657076599"
 :served_to: BOHL, BREEZE
 :council_area: Kosciuszko
+:id: "7657076599"
+:action_date: "2008-08-21"
+:offence_date: "2008-08-20"

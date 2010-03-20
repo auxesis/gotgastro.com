@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-09"
-:offence_date: "2008-10-28"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513700
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 178 CARRINGTON STREET REVESBY 2212
 :served_to: BELMORE BEAN FACTORY PTY LTD
-:id: "3013513700"
 :council_area: BANKSTOWN
+:action_date: "2009-03-09"
+:id: "3013513700"
+:offence_date: "2008-10-28"

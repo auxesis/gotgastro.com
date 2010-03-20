@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-21"
-:offence_date: "2009-08-31"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670786081
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 236 THE BOULEVARDE PUNCHBOWL 2196
 :served_to: FETTAYLEH WHOLESALES MEAT SUPPLIES PTY LTD
-:id: "7670786081"
 :council_area: CANTERBURY
+:action_date: "2009-09-21"
+:id: "7670786081"
+:offence_date: "2009-08-31"

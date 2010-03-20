@@ -1,16 +1,16 @@
 --- 
 :longitude: 152.450449
-:action_date: "2009-10-02"
-:offence_date: "2009-10-01"
 :pursued_by: Greater Taree City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015966122
 :offence_description: Fail to maintain easily accessible hand washing facilities on the food premises - observed tea towels and biscuits stored in hand wash basin, inhibiting access and use
-:latitude: -31.907564
 :trading_name: TAREE WEST BAKEHOUSE
 :penalty_amount: $330.00
+:latitude: -31.907564
 :address: SHOP 4 100 COMMERCE STREET TAREE 2430
-:id: "3015966122"
 :served_to: MCLACHLAN, WAYNE MARK
 :council_area: GREATER TAREE
+:id: "3015966122"
+:action_date: "2009-10-02"
+:offence_date: "2009-10-01"

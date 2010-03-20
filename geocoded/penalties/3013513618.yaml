@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.103642
-:action_date: "2008-11-26"
-:offence_date: "2008-09-12"
 :pursued_by: NSW Food Authority
 :offence_code: 11867 - Store processed meat produced at unlicensed processing plant
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013513618
 :offence_description: Stored and displayed for sale free range chickens obtained from an unlicensed operator
-:latitude: -33.912651
 :trading_name: HIEP LOI BUTCHERY
 :penalty_amount: $550.00
+:latitude: -33.912651
 :address: 240 BEAMISH STREET Campsie 2194
-:id: "3013513618"
 :served_to: NGUYEN VC & NHAN TT
 :council_area: CANTERBURY
+:id: "3013513618"
+:action_date: "2008-11-26"
+:offence_date: "2008-09-12"

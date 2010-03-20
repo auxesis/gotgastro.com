@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-22"
-:offence_date: "2008-08-22"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346818
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: PARRAMATTA RD AUBURN 2144
 :served_to: MCDONALDS PROPERTIES AUSTRALIA
-:id: "3020346818"
 :council_area: AUBURN
+:action_date: "2008-08-22"
+:id: "3020346818"
+:offence_date: "2008-08-22"

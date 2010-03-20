@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-24"
-:offence_date: "2009-03-23"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015242313
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 111 MAIN STREET BLACKTOWN 2148
 :served_to: MIAN, KONG YAN
-:id: "3015242313"
 :council_area: BLACKTOWN
+:action_date: "2009-03-24"
+:id: "3015242313"
+:offence_date: "2009-03-23"

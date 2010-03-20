@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-27"
-:offence_date: "2009-05-21"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096443
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 12 THE ENTRANCE ROAD THE ENTRANCE 2261
 :served_to: FISHERMANS WHARF THE ENTRANCE PTY LTD
-:id: "3003096443"
 :council_area: WYONG
+:action_date: "2009-05-27"
+:id: "3003096443"
+:offence_date: "2009-05-21"

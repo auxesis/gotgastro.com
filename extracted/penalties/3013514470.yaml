@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-10"
-:offence_date: "2009-04-02"
 :pursued_by: NSW Food Authority
 :offence_code: 15125 - Sell food that fails to comply with the Food Standards Code (sample of food) - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514470
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1, 47 SOUTH STREET GRANVILLE 2142
 :served_to: EL SAYAH, AHMAD
-:id: "3013514470"
 :council_area: PARRAMATTA
+:action_date: "2009-06-10"
+:id: "3013514470"
+:offence_date: "2009-04-02"

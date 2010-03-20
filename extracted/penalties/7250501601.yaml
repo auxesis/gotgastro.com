@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-26"
-:offence_date: "2009-05-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250501601
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 82-108 WILLIAM STREET WOOLLOOMOOLOO 2011
 :served_to: IDM ENTERPRISES PTY LTD
-:id: "7250501601"
 :council_area: SYDNEY
+:action_date: "2009-05-26"
+:id: "7250501601"
+:offence_date: "2009-05-15"

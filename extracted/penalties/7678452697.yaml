@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-06-24"
-:offence_date: "2009-06-23"
 :pursued_by: North Sydney City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452697
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP G2E, 155-167 MILLER STREET NORTH SYDNEY 2055
 :served_to: NORTH SYDNEY PTY LTD
-:id: "7678452697"
 :council_area: NORTH SYDNEY
+:action_date: "2009-06-24"
+:id: "7678452697"
+:offence_date: "2009-06-23"

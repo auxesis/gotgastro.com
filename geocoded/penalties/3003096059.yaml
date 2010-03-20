@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.423868
-:action_date: "2008-10-29"
-:offence_date: "2008-10-22"
 :pursued_by: Wyong Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096059
 :offence_description: Fail to provide a temperature measuring device that is accurate and readily accessible at a premises where potentially hazardous food is sold - previous warnings given
-:latitude: -33.286117
 :trading_name: ROYAL HOTEL BISTRO
 :penalty_amount: $330.00
+:latitude: -33.286117
 :address: 40-44 PACIFIC HWY WYONG
-:id: "3003096059"
 :served_to: MCKAY, JAMES
 :council_area: WYONG
+:id: "3003096059"
+:action_date: "2008-10-29"
+:offence_date: "2008-10-22"

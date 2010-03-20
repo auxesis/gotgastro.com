@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-02"
-:offence_date: "2009-01-20"
 :pursued_by: Randwick City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621649907
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 147 AVOCA STREET RANDWICK 2031
 :served_to: ARGOS INVESTMENTS PTY LTD
-:id: "7621649907"
 :council_area: RANDWICK
+:action_date: "2009-02-02"
+:id: "7621649907"
+:offence_date: "2009-01-20"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-29"
-:offence_date: "2008-08-26"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346872
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 123 AUBURN RD AUBURN 2144
 :served_to: FAZIL, MOHAMMED
-:id: "3020346872"
 :council_area: AUBURN
+:action_date: "2008-08-29"
+:id: "3020346872"
+:offence_date: "2008-08-26"

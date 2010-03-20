@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-27"
-:offence_date: "2009-04-24"
 :pursued_by: Greater Taree City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015976031
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 2, 41 MUDFORD STREET TAREE 2430
 :served_to: GOLBY, FRANK
-:id: "3015976031"
 :council_area: GREATER TAREE
+:action_date: "2009-04-27"
+:id: "3015976031"
+:offence_date: "2009-04-24"

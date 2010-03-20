@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-30"
-:offence_date: "2009-02-24"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013514094
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 46/566 GARDENERS ROAD ALEXANDRIA 2015
 :served_to: SOULIOS PTY LTD
-:id: "3013514094"
 :council_area: SYDNEY
+:action_date: "2009-03-30"
+:id: "3013514094"
+:offence_date: "2009-02-24"

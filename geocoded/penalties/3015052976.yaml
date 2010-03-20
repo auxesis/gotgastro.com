@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.9267388
-:action_date: "2009-03-04"
-:offence_date: "2009-02-09"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015052976
 :offence_description: Fail to store potentially hazardous food under temperature control
-:latitude: -33.8840118
 :trading_name: IGA
 :penalty_amount: $660.00
+:latitude: -33.8840118
 :address: 217 CANLEY VALE RD CANLEY HEIGHTS 2166
-:id: "3015052976"
 :served_to: ZHEN JI PTY LTD
 :council_area: FAIRFIELD
+:id: "3015052976"
+:action_date: "2009-03-04"
+:offence_date: "2009-02-09"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.249248
-:action_date: "2009-05-21"
-:offence_date: "2009-05-15"
 :pursued_by: Waverley Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7639530728
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of grease and grime on the walls and floors
-:latitude: -33.893501
 :trading_name: CROWN NOODLE
 :penalty_amount: $330.00
+:latitude: -33.893501
 :address: 3/33 BRONTE ROAD BONDI JUNCTION 2022
-:id: "7639530728"
 :served_to: TAKADA, NAOKI
 :council_area: WAVERLEY
+:id: "7639530728"
+:action_date: "2009-05-21"
+:offence_date: "2009-05-15"

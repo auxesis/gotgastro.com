@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.950528
-:action_date: "2009-09-02"
-:offence_date: "2009-08-27"
 :pursued_by: Holroyd City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3017041840
 :offence_description: Fail to take all necessary steps when processing food to prevent the likelihood of contamination  - uncovered foods kept under and on top of benches, uncovered food left on the floor
-:latitude: -33.787923
 :trading_name: MASALA INN
 :penalty_amount: $660.00
+:latitude: -33.787923
 :address: 14-16 AURELIA STREET TOONGABBIE 2146
-:id: "3017041840"
 :served_to: UNIVERSAL TRADE VENTURE PTY LTD
 :council_area: HOLROYD
+:id: "3017041840"
+:action_date: "2009-09-02"
+:offence_date: "2009-08-27"

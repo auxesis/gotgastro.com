@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-10-01"
-:offence_date: "2008-09-16"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076754
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: LOT 89 MOWAMBA PL THREDBO
 :served_to: BRENSAJT P/L
-:id: "7657076754"
 :council_area: Kosciuszko
+:action_date: "2008-10-01"
+:id: "7657076754"
+:offence_date: "2008-09-16"

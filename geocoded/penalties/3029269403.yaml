@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.905183
-:action_date: "2009-09-16"
-:offence_date: "2009-08-31"
 :pursued_by: Blacktown City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3029269403
 :offence_description: Fail to store food in such a way that it is protected from the likelihood of contamination
-:latitude: -33.770105
 :trading_name: PIZZA HUT
 :penalty_amount: $660.00
+:latitude: -33.770105
 :address: SHOP 1024, WESTPOINT 17 PATRICK STREET BLACKTOWN 2148
-:id: "3029269403"
 :served_to: BASSAHOLICS ANONYMOUS PTY LTD
 :council_area: BLACKTOWN
+:id: "3029269403"
+:action_date: "2009-09-16"
+:offence_date: "2009-08-31"

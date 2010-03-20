@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.4987823
-:action_date: "2009-05-27"
-:offence_date: "2009-05-21"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096443
 :offence_description: Fail to maintain at or near each hand washing facility a supply of single use towels or other means of effectively drying hands
-:latitude: -33.3393152
 :trading_name: PELICANS - FISHERMANS WHARF THE ENTRANCE
 :penalty_amount: $660.00
+:latitude: -33.3393152
 :address: 12 THE ENTRANCE ROAD THE ENTRANCE 2261
-:id: "3003096443"
 :served_to: FISHERMANS WHARF THE ENTRANCE PTY LTD
 :council_area: WYONG
+:id: "3003096443"
+:action_date: "2009-05-27"
+:offence_date: "2009-05-21"

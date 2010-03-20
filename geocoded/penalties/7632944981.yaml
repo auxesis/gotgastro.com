@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.202272
-:action_date: "2008-05-08"
-:offence_date: "2008-05-06"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7632944981
 :offence_description: Fail to maintain a clean food premises
-:latitude: -33.827702
 :trading_name: MONSTER CURRY
 :penalty_amount: $330.00
+:latitude: -33.827702
 :address: 18 FALCON ST CROWS NEST 2065
-:id: "7632944981"
 :served_to: MEESAKUN, SOMYOT
 :council_area: NORTH SYDNEY
+:id: "7632944981"
+:action_date: "2008-05-08"
+:offence_date: "2008-05-06"

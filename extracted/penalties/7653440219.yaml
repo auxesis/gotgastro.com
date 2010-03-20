@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-22"
-:offence_date: "2008-12-18"
 :pursued_by: Baulkham Hills Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7653440219
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 26 NORWEST MARKETOWN 4 CENTURY CIRCUIT BAULKHAM HILLS 2153
 :served_to: AIM HIGH PTY LTD
-:id: "7653440219"
 :council_area: BAULKHAM HILLS
+:action_date: "2008-12-22"
+:id: "7653440219"
+:offence_date: "2008-12-18"

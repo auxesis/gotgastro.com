@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.088105
-:action_date: "2008-07-31"
-:offence_date: "2008-07-30"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797608
 :offence_description: Fail to maintain at/near hand wash facility, means of effectively washing (eg soap) and drying hands
-:latitude: -33.830764
 :trading_name: SAHARA
 :penalty_amount: $330.00
+:latitude: -33.830764
 :address: SHOP 80, RHODES SHOPPING FOOD COURT  1 RIDER BLVDE RHODES 2138
-:id: "7652797608"
 :served_to: ARIS, JOHN
 :council_area: CANADA BAY
+:id: "7652797608"
+:action_date: "2008-07-31"
+:offence_date: "2008-07-30"

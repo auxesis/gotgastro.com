@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-05-22"
-:offence_date: "2008-03-27"
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670785789
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 15/12 GARLING RD KINGS PARK 2148
 :served_to: KINGS PARK CHICKEN P/L
-:id: "7670785789"
 :council_area: BLACKTOWN
+:action_date: "2008-05-22"
+:id: "7670785789"
+:offence_date: "2008-03-27"

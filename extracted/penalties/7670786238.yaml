@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-27"
-:offence_date: "2008-11-05"
 :pursued_by: NSW Food Authority
 :offence_code: 11315 - Carry on food business/activity without a licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670786238
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 64 RANKIN STREET FORBES 2871
 :served_to: MUNDY, JESSE JACOB MATTHEW
-:id: "7670786238"
 :council_area: FORBES
+:action_date: "2009-10-27"
+:id: "7670786238"
+:offence_date: "2008-11-05"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-04"
-:offence_date: "2008-11-14"
 :pursued_by: Ballina Shire Council
 :offence_code: 11322 - Sell food that is unsuitable - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652188711
@@ -10,5 +8,7 @@
 :penalty_amount: $550.00
 :address: 167 RIVER STREET BALLINA 2478
 :served_to: TRUONG, THAO
-:id: "7652188711"
 :council_area: BALLINA
+:action_date: "2008-12-04"
+:id: "7652188711"
+:offence_date: "2008-11-14"

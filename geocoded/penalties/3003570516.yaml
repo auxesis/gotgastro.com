@@ -1,16 +1,16 @@
 --- 
 :longitude: -81.578416
-:action_date: "2009-06-25"
-:offence_date: "2009-06-23"
 :pursued_by: Orange City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003570516
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: 28.556872
 :trading_name: BAKERS DELIGHT
 :penalty_amount: $660.00
+:latitude: 28.556872
 :address: SHOP 20, ORANGE CENTRAL SUMMER STREET ORANGE 2800
-:id: "3003570516"
 :served_to: FREEDOM BAKERS PTY LTD
 :council_area: ORANGE
+:id: "3003570516"
+:action_date: "2009-06-25"
+:offence_date: "2009-06-23"

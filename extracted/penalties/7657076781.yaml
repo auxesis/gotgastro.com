@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-09-15"
-:offence_date: "2009-08-27"
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11358 - Fail to comply with a prohibition order - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076781
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SOUTH PERISHER 2624
 :served_to: STIPIS, GEORGE
-:id: "7657076781"
 :council_area: Kosciuszko
+:action_date: "2009-09-15"
+:id: "7657076781"
+:offence_date: "2009-08-27"

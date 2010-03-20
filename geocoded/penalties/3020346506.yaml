@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.043226
-:action_date: "2008-07-30"
-:offence_date: "2008-07-24"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020346506
 :offence_description: Fail to maintain a clean food premises (vermin droppings)
-:latitude: -33.859039
 :trading_name: GOKUL INDIAN RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.859039
 :address: 5 OLYMPIC DRIVE LIDCOMBE 2141
-:id: "3020346506"
 :served_to: SHREE GOKUL INDIAN RESTAURANT P/L
 :council_area: AUBURN
+:id: "3020346506"
+:action_date: "2008-07-30"
+:offence_date: "2008-07-24"

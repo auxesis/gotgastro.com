@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-29"
-:offence_date: "2009-04-28"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3015267705
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 23 MARKET STREET RIVERSTONE 2765
 :served_to: LIU, DAVID
-:id: "3015267705"
 :council_area: BLACKTOWN
+:action_date: "2009-04-29"
+:id: "3015267705"
+:offence_date: "2009-04-28"

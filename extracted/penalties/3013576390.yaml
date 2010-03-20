@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-13"
-:offence_date: "2009-05-08"
 :pursued_by: Penrith City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013576390
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 235 QUEEN STREET ST MARYS 2760
 :served_to: YOUNG, COLIN
-:id: "3013576390"
 :council_area: PENRITH
+:action_date: "2009-05-13"
+:id: "3013576390"
+:offence_date: "2009-05-08"

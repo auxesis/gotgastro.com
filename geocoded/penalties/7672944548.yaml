@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.123329
-:action_date: "2008-08-20"
-:offence_date: "2008-08-11"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7672944548
 :offence_description: Use of chipped and cracked crockery throughout the preparation area
-:latitude: -33.887653
 :trading_name: EATON CHINESE RESTAURANT
 :penalty_amount: $660.00
+:latitude: -33.887653
 :address: 313 LIVERPOOL RD ASHFIELD
-:id: "7672944548"
 :served_to: OZDEE SEAFOODS PTY LTD
 :council_area: ASHFIELD
+:id: "7672944548"
+:action_date: "2008-08-20"
+:offence_date: "2008-08-11"

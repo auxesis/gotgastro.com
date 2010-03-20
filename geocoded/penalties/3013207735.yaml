@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.955248
-:action_date: "2008-05-26"
-:offence_date: "2008-05-14"
 :pursued_by: Fairfield City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013207735
 :offence_description: Packaged food unlabelled
-:latitude: -33.868551
 :trading_name: SUMMER'S DELI FRESH
 :penalty_amount: $330.00
+:latitude: -33.868551
 :address: 1/57 SMART ST FAIRFIELD 2165
-:id: "3013207735"
 :served_to: QUINTEROS, MILUSKA TRINIDAD
 :council_area: FAIRFIELD
+:id: "3013207735"
+:action_date: "2008-05-26"
+:offence_date: "2008-05-14"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-15"
-:offence_date: "2009-10-14"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023326763
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 206-208 BURWOOD ROAD BURWOOD 2134
 :served_to: TERI INVESTMENT PTY LTD
-:id: "3023326763"
 :council_area: BURWOOD
+:action_date: "2009-10-15"
+:id: "3023326763"
+:offence_date: "2009-10-14"

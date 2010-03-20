@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-22"
-:offence_date: "2009-01-21"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631719
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 29 ROCKY POINT ROAD KOGARAH 2217
 :served_to: PENSUL HOLDINGS PTY LTD
-:id: "7641631719"
 :council_area: KOGARAH
+:action_date: "2009-01-22"
+:id: "7641631719"
+:offence_date: "2009-01-21"

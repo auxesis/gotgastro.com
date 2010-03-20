@@ -1,16 +1,16 @@
 --- 
 :longitude: 150.936176
-:action_date: "2009-09-24"
-:offence_date: "2009-09-17"
 :pursued_by: Blacktown City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3030045536
 :offence_description: Fail to provide the name and business address in Australia of the food vendor, manufacturer or packer, and the prescribed name of the food - products with no labelling
-:latitude: -33.774978
 :trading_name: SERENDIP SPICE AND VIDEOS
 :penalty_amount: $330.00
+:latitude: -33.774978
 :address: 31 BOOMERANG PLACE SEVEN HILLS 2147
-:id: "3030045536"
 :served_to: KASAN, PATHMANATHAN
 :council_area: BLACKTOWN
+:id: "3030045536"
+:action_date: "2009-09-24"
+:offence_date: "2009-09-17"

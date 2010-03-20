@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.111975
-:action_date: "2009-02-12"
-:offence_date: "2009-02-11"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7655067732
 :offence_description: Fail to maintain food premises to the required standard of cleanliness - Food waste, dirt and visible matter were observed on floors, shelves and equipment
-:latitude: -33.749177
 :trading_name: THE GOLDEN BAKE HOUSE
 :penalty_amount: $330.00
+:latitude: -33.749177
 :address: 219C KISSING POINT ROAD TURRAMURRA 2074
-:id: "7655067732"
 :served_to: VO, NGHI THI QUOC
 :council_area: KU-RING-GAI
+:id: "7655067732"
+:action_date: "2009-02-12"
+:offence_date: "2009-02-11"

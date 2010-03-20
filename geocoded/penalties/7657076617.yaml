@@ -1,16 +1,16 @@
 --- 
-:longitude: 148.428644
-:action_date: "2008-08-21"
-:offence_date: "2008-08-21"
+:longitude: 148.4291667
 :pursued_by: Department of Environment and Climate Change (NSW) - NPWS
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7657076617
 :offence_description: Fail to maintain premises, fittings and equipment in a clean condition
-:latitude: -36.394166
 :trading_name: LODGE 21
 :penalty_amount: $660.00
+:latitude: -36.3944444
 :address: SMIGGIN HOLES
-:id: "7657076617"
 :served_to: SKI LODGE 21 PTY LTD
 :council_area: Kosciuszko
+:id: "7657076617"
+:action_date: "2008-08-21"
+:offence_date: "2008-08-21"

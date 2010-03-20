@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-14"
-:offence_date: "2008-08-13"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002307799
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 19A BOUNDARY ST DARLINGHURST 2010
 :served_to: FOUR FLAVOURS PTY LTD
-:id: "3002307799"
 :council_area: SYDNEY
+:action_date: "2008-08-14"
+:id: "3002307799"
+:offence_date: "2008-08-13"

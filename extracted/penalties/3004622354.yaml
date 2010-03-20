@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-04"
-:offence_date: "2009-02-04"
 :pursued_by: Woollahra Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3004622354
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 103 NEW SOUTH HEAD ROAD VAUCLUSE 2030
 :served_to: ZHONG, XIN
-:id: "3004622354"
 :council_area: WOOLLAHRA
+:action_date: "2009-02-04"
+:id: "3004622354"
+:offence_date: "2009-02-04"

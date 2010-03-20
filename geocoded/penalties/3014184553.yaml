@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1263818
-:action_date: "2009-04-28"
-:offence_date: "2009-04-23"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184553
 :offence_description: Fail to display potentially hazardous food under temperature control - sushi for sale on counter with no temperature control
-:latitude: -33.8874476
 :trading_name: ASHFIELD KOREAN MART
 :penalty_amount: $330.00
+:latitude: -33.8874476
 :address: 1/1 WOOD ST ASHFIELD 2131
-:id: "3014184553"
 :served_to: AHN, JOON HUNG
 :council_area: ASHFIELD
+:id: "3014184553"
+:action_date: "2009-04-28"
+:offence_date: "2009-04-23"

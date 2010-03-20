@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-10-22"
-:offence_date: "2009-10-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7250507799
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: TEMPORARY FOOD STALL HYDE PARK ELIZABETH STREET SYDNEY 2000
 :served_to: THE BEVERAGE BOYS PTY LTD
-:id: "7250507799"
 :council_area: SYDNEY
+:action_date: "2009-10-22"
+:id: "7250507799"
+:offence_date: "2009-10-15"

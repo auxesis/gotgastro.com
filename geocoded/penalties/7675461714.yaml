@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.1804125
-:action_date: "2009-02-09"
-:offence_date: "2009-01-12"
 :pursued_by: Leichhardt Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7675461714
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness
-:latitude: -33.8572545
 :trading_name: DARLING PIES AND CAKES
 :penalty_amount: $330.00
+:latitude: -33.8572545
 :address: Darling Street BALMAIN
-:id: "7675461714"
 :served_to: NGUYEN, THI TRANG
 :council_area: LEICHHARDT
+:id: "7675461714"
+:action_date: "2009-02-09"
+:offence_date: "2009-01-12"

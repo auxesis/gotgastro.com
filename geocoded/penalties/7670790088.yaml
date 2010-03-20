@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.2133894
-:action_date: "2008-10-29"
-:offence_date: "2008-10-23"
 :pursued_by: Botany Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7670790088
 :offence_description: Fail to maintain food premises in a clean condition  - accumulation of food waste, mould and grease
-:latitude: -33.9252141
 :trading_name: SPICE, RICE N ICE
 :penalty_amount: $660.00
+:latitude: -33.9252141
 :address: 19A EVANS AVE EASTLAKES
-:id: "7670790088"
 :served_to: INTHAVA ENTERPRISES PTY LTD
 :council_area: BOTANY
+:id: "7670790088"
+:action_date: "2008-10-29"
+:offence_date: "2008-10-23"

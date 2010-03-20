@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-22"
-:offence_date: "2009-05-14"
 :pursued_by: Burwood Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023220100
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 122 BURWOOD ROAD BURWOOD 2134
 :served_to: GEORGES CAFE AND RESTAURANT PTY LTD
-:id: "3023220100"
 :council_area: BURWOOD
+:action_date: "2009-05-22"
+:id: "3023220100"
+:offence_date: "2009-05-14"

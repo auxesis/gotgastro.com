@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.265715
-:action_date: "2008-09-10"
-:offence_date: "2008-09-09"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659021509
 :offence_description: Fail to maintain at or near each hand washing facility a supply of soap and single use towels or other means of effectively drying hands
-:latitude: -33.76772
 :trading_name: HOKKA HOKKA
 :penalty_amount: $660.00
+:latitude: -33.76772
 :address: SHOP 508 WARRINGAH MALL 145 OLD PITTWATER ROAD BROOKVALE
-:id: "7659021509"
 :served_to: HOKKA HOKKA MANAGEMENT PTY LTD
 :council_area: WARRINGAH
+:id: "7659021509"
+:action_date: "2008-09-10"
+:offence_date: "2008-09-09"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-08-20"
-:offence_date: "2009-08-10"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014194040
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: STORE 1199 LAKE HAVEN SHOPPING CENTRE 43 LAKE HAVEN DRIVE LAKE HAVEN 2263
 :served_to: MOONYNIGHT PTY LTD
-:id: "3014194040"
 :council_area: WYONG
+:action_date: "2009-08-20"
+:id: "3014194040"
+:offence_date: "2009-08-10"

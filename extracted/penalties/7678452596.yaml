@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-02-12"
-:offence_date: "2009-02-10"
 :pursued_by: North Sydney City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7678452596
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 417 PACIFIC HIGHWAY CROWS NEST 2065
 :served_to: PETERSON, CARL
-:id: "7678452596"
 :council_area: NORTH SYDNEY
+:action_date: "2009-02-12"
+:id: "7678452596"
+:offence_date: "2009-02-10"

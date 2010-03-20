@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-12-17"
-:offence_date: "2008-11-25"
 :pursued_by: Warringah Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7659096400
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 25 THE CENTRE, STARKEY STREET FORESTVILLE 2087
 :served_to: JS366 PTY LTD
-:id: "7659096400"
 :council_area: WARRINGAH
+:action_date: "2008-12-17"
+:id: "7659096400"
+:offence_date: "2008-11-25"

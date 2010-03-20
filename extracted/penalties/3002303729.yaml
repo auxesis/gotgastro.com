@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-07-18"
-:offence_date: "2008-07-15"
 :pursued_by: City of Sydney Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002303729
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 4/43 GOULBURN ST SYDNEY 2000
 :served_to: KAY, MEHMET ALI
-:id: "3002303729"
 :council_area: SYDNEY
+:action_date: "2008-07-18"
+:id: "3002303729"
+:offence_date: "2008-07-15"

@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-05-21"
-:offence_date: "2009-05-20"
 :pursued_by: Blue Mountains City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002697381
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 1/146 GREAT WESTERN HIGHWAY BLAXLAND 2774
 :served_to: EMINOGLU, KATRINA
-:id: "3002697381"
 :council_area: BLUE MOUNTAINS
+:action_date: "2009-05-21"
+:id: "3002697381"
+:offence_date: "2009-05-20"

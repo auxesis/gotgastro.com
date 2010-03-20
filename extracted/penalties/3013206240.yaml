@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-09-16"
-:offence_date: "2008-08-20"
 :pursued_by: Fairfield City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013206240
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 34 FAIRFIELD FORUM 8-36 STATION ST FAIRFIELD 2165
 :served_to: CAS COMPUTERS PTY LTD
-:id: "3013206240"
 :council_area: FAIRFIELD
+:action_date: "2008-09-16"
+:id: "3013206240"
+:offence_date: "2008-08-20"

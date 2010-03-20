@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-11-27"
-:offence_date: "2008-11-26"
 :pursued_by: Kogarah Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7641631562
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 335 ROCKY POINT RD SANS SOUCI 2219
 :served_to: CHANDLER, P N
-:id: "7641631562"
 :council_area: KOGARAH
+:action_date: "2008-11-27"
+:id: "7641631562"
+:offence_date: "2008-11-26"

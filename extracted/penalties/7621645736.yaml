@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-06-19"
-:offence_date: "2008-06-16"
 :pursued_by: Randwick City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7621645736
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: 139-145 AVOCA ST RANDWICK 2031
 :served_to: JAHANGIR, MAZED
-:id: "7621645736"
 :council_area: RANDWICK
+:action_date: "2008-06-19"
+:id: "7621645736"
+:offence_date: "2008-06-16"

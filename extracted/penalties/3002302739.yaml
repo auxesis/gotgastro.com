@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-01"
-:offence_date: "2008-07-31"
 :pursued_by: City of Sydney Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3002302739
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: SHOP 143/20 DARLING DR SYDNEY 2000
 :served_to: TIMFORD INTERNATIONAL P/L
-:id: "3002302739"
 :council_area: SYDNEY
+:action_date: "2008-08-01"
+:id: "3002302739"
+:offence_date: "2008-07-31"

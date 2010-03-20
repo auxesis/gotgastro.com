@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-31"
-:offence_date: "2009-01-23"
 :pursued_by: NSW Food Authority
 :offence_code: 11317 - Handle food in manner likely to render it unsafe - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652496033
@@ -10,5 +8,7 @@
 :penalty_amount: $1320.00
 :address: 90 VETERANS PARADE NARRABEEN 2101
 :served_to: RSL LIFECARE LTD
-:id: "7652496033"
 :council_area: WARRINGAH
+:action_date: "2009-03-31"
+:id: "7652496033"
+:offence_date: "2009-01-23"

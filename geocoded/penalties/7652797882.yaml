@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.129201
-:action_date: "2009-05-13"
-:offence_date: "2009-05-11"
 :pursued_by: City of Canada Bay Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7652797882
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - there was an accumulation food waste and other visible matter in the cool room
-:latitude: -33.86913
 :trading_name: RIZZO'S CONTINENTAL DELICATESSEN
 :penalty_amount: $330.00
+:latitude: -33.86913
 :address: 105 GREAT NORTH ROAD FIVE DOCK 2046
-:id: "7652797882"
 :served_to: MAKKI, HALA
 :council_area: CANADA BAY
+:id: "7652797882"
+:action_date: "2009-05-13"
+:offence_date: "2009-05-11"

@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.103505
-:action_date: "2009-01-16"
-:offence_date: "2009-01-07"
 :pursued_by: Burwood Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3023100181
 :offence_description: Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness
-:latitude: -33.87664
 :trading_name: BURWOOD SEAFOOD
 :penalty_amount: $330.00
+:latitude: -33.87664
 :address: 115 BURWOOD ROAD BURWOOD 2143
-:id: "3023100181"
 :served_to: CHUNG, SHIN CHAN
 :council_area: BURWOOD
+:id: "3023100181"
+:action_date: "2009-01-16"
+:offence_date: "2009-01-07"

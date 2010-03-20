@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-03-11"
-:offence_date: "2009-03-09"
 :pursued_by: Wyong Shire Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3003096360
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 108 PACIFIC HIGHWAY WYONG 2259
 :served_to: SEA OF OPPORTUNITY PTY LTD
-:id: "3003096360"
 :council_area: WYONG
+:action_date: "2009-03-11"
+:id: "3003096360"
+:offence_date: "2009-03-09"

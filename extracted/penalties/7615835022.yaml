@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-29"
-:offence_date: "2008-08-25"
 :pursued_by: Liverpool City Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7615835022
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 1011 WESTFIELDS LIVERPOOL 25 GEORGE STREET LIVERPOOL 2170
 :served_to: YE, MING MING
-:id: "7615835022"
 :council_area: LIVERPOOL
+:action_date: "2008-08-29"
+:id: "7615835022"
+:offence_date: "2008-08-25"

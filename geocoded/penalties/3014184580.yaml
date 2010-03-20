@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.138651
-:action_date: "2009-05-01"
-:offence_date: "2009-04-22"
 :pursued_by: Ashfield Municipal Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3014184580
 :offence_description: Fail to maintain the food premises to the required standard of cleanliness - there was an accumulation of grease and grime
-:latitude: -33.890906
 :trading_name: CAFE STRADA
 :penalty_amount: $330.00
+:latitude: -33.890906
 :address: 12 LACKEY STREET SUMMER HILL 2130
-:id: "3014184580"
 :served_to: CUSCANA, DUSTIN SALVALORE
 :council_area: ASHFIELD
+:id: "3014184580"
+:action_date: "2009-05-01"
+:offence_date: "2009-04-22"

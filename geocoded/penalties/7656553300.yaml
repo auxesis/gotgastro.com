@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.4738202
-:action_date: "2008-07-18"
-:offence_date: "2008-07-07"
 :pursued_by: Wyong Shire Council
 :offence_code: 11338 - Fail to comply with Food Standards Code - Individual
 :notes: Party served no longer operates the food business
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7656553300
 :offence_description: Fail to maintain fixtures, fittings and equipment in a clean condition
-:latitude: -33.3763185
 :trading_name: DONUT KING
 :penalty_amount: $330.00
+:latitude: -33.3763185
 :address: 12 BAY VILLAGE RD BATEAU BAY 2261
-:id: "7656553300"
 :served_to: BARNABY, JOSHUA ISSAC
 :council_area: WYONG
+:id: "7656553300"
+:action_date: "2008-07-18"
+:offence_date: "2008-07-07"

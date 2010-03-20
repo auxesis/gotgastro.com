@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-04-03"
-:offence_date: "2009-02-26"
 :pursued_by: Auburn Municipal Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3020396821
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 121 AUBURN ROAD Auburn 2144
 :served_to: KAMIL KHAN PTY LTD
-:id: "3020396821"
 :council_area: AUBURN
+:action_date: "2009-04-03"
+:id: "3020396821"
+:offence_date: "2009-02-26"

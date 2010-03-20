@@ -1,6 +1,4 @@
 --- 
-:action_date: "2009-01-28"
-:offence_date: "2009-01-16"
 :pursued_by: NSW Food Authority
 :offence_code: 11016 - Contravene condition of licence - Individual
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=3013512875
@@ -10,5 +8,7 @@
 :penalty_amount: $330.00
 :address: SHOP 5A SHOPPING WORLD TAMWORTH
 :served_to: MCINERNEY, SLADE PAUL
-:id: "3013512875"
 :council_area: TAMWORTH
+:action_date: "2009-01-28"
+:id: "3013512875"
+:offence_date: "2009-01-16"

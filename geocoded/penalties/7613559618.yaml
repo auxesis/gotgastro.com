@@ -1,16 +1,16 @@
 --- 
 :longitude: 151.111872
-:action_date: "2008-09-17"
-:offence_date: "2008-09-16"
 :pursued_by: Ku-ring-gai Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7613559618
 :offence_description: Sale of food past its use-by date (sliced ham)
-:latitude: -33.748945
 :trading_name: SOUTH TURRAMURRA FOOD AND LIQUOR
 :penalty_amount: $660.00
+:latitude: -33.748945
 :address: 217B KISSING POINT RD TURRAMURRA 2074
-:id: "7613559618"
 :served_to: ROLAND PTY LTD
 :council_area: KU-RING-GAI
+:id: "7613559618"
+:action_date: "2008-09-17"
+:offence_date: "2008-09-16"

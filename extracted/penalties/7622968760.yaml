@@ -1,6 +1,4 @@
 --- 
-:action_date: "2008-08-29"
-:offence_date: "2008-08-28"
 :pursued_by: Hurstville City Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :url: http://www.foodauthority.nsw.gov.au/penalty-notices/?template=detail&data=data&itemId=7622968760
@@ -10,5 +8,7 @@
 :penalty_amount: $660.00
 :address: 215 BELMORE RD RIVERWOOD 2210
 :served_to: QSR PTY LTD
-:id: "7622968760"
 :council_area: HURSTVILLE
+:action_date: "2008-08-29"
+:id: "7622968760"
+:offence_date: "2008-08-28"
