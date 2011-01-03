@@ -1,4 +1,5 @@
 --- 
+:longitude: 152.519265
 :pursued_by: Great Lakes Council
 :offence_code: 11339 - Fail to comply with Food Standards Code - Corporation
 :notes: ""
@@ -6,6 +7,7 @@
 :offence_description: Fail to protect stored food from the likelihood of contamination - food uncovered and stored on the floor
 :trading_name: CHICKENS AT FORSTER
 :penalty_amount: $660.00
+:latitude: -32.19937
 :address: 3-17 BREESE PDE FORSTER
 :served_to: CHICKENS AT FORSTER PTY LTD
 :council_area: GREAT LAKES

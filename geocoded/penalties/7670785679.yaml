@@ -1,4 +1,5 @@
 --- 
+:longitude: 146.184739
 :pursued_by: NSW Food Authority
 :offence_code: 11372 - Not comply with requirements of food safety scheme - Individual
 :notes: ""
@@ -6,6 +7,7 @@
 :offence_description: Fail to maintain equipment in a clean and hygenic condition (as required by Food Safety Scheme)
 :trading_name: GRAEME KELLY FAMILY BUTCHER
 :penalty_amount: $330.00
+:latitude: -34.518241
 :address: 16 BENEREMBAH ST WHITTON 2706
 :served_to: KELLY, GRAEME ANTHONY
 :council_area: LEETON

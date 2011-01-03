@@ -1,4 +1,5 @@
 --- 
+:longitude: 150.9103021
 :pursued_by: NSW Food Authority
 :offence_code: 11371 - Contravene condition of licence - Corporation
 :notes: ""
@@ -6,6 +7,7 @@
 :offence_description: Fail to address corrective action requests as required by food safety program
 :trading_name: TOWNSEND'S BUTCHERY
 :penalty_amount: $660.00
+:latitude: -33.9465657
 :address: 60 MARSH PDE CASULA
 :served_to: CARELLO PTY LTD
 :council_area: LIVERPOOL
