@@ -11,7 +11,7 @@ task :build do
 end
 
 desc 'deploy site'
-task :deploy => :build do 
+task :deploy => :build do
   puts 'deploying'
   system("rsync -auv --delete -e ssh output/* p:/srv/www/gotgastro.com/root/")
 end
@@ -19,6 +19,7 @@ end
 require 'yajl'
 require 'dm-core'
 require 'dm-validations'
+require 'do_sqlite3'
 require File.join(File.dirname(__FILE__), '..', 'scraper')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'notice')
 require File.join(File.dirname(__FILE__), 'lib', 'models', 'penalty')
@@ -35,7 +36,7 @@ task :shebang => [:create_penalties, :create_prosecutions, :build] do
 end
 
 desc "create database to store penalties + prosecutions"
-task :create_database do 
+task :create_database do
   DataMapper.auto_migrate!
 end
 
@@ -51,7 +52,7 @@ task :create_penalties do
     puts("Creating #{notice[:id]}")
     p = Penalty.new(notice)
     unless p.save
-      puts "Couldn't create notice! Reason:" 
+      puts "Couldn't create notice! Reason:"
       p p.errors
       p p.attributes
       raise
@@ -86,7 +87,7 @@ def read_json(filename)
 end
 
 desc "create postcodes in database from ABS business counts data"
-task :create_postcodes do 
+task :create_postcodes do
   puts "Destroying existing postcodes."
   Postcode.all.destroy!
 
@@ -101,12 +102,12 @@ task :create_postcodes do
 end
 
 desc "upgrade database schema"
-task :upgrade_database do 
+task :upgrade_database do
   DataMapper.auto_upgrade!
 end
 
 desc "create suburbs from ABS business counts/Australia post data"
-task :create_suburbs do 
+task :create_suburbs do
   puts "Destroying existing suburbs."
   Suburb.all.destroy!
 
