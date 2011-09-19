@@ -1,0 +1,35 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.0.2)
+    data_objects (0.9.11)
+      addressable (~> 2.0)
+      extlib (~> 0.9.9)
+    dm-core (0.9.11)
+      addressable (~> 2.0.2)
+      data_objects (~> 0.9.11)
+      extlib (~> 0.9.11)
+    dm-validations (0.9.11)
+      dm-core (= 0.9.11)
+    do_sqlite3 (0.9.11)
+      data_objects (= 0.9.11)
+    extlib (0.9.15)
+    fastercsv (1.5.0)
+    nokogiri (1.2.2)
+    rubyzip (0.9.1)
+    yajl-ruby (0.6.4)
+    ym4r (0.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  data_objects (= 0.9.11)
+  dm-core (= 0.9.11)
+  dm-validations (= 0.9.11)
+  do_sqlite3 (= 0.9.11)
+  fastercsv (= 1.5.0)
+  nokogiri (= 1.2.2)
+  rubyzip (= 0.9.1)
+  yajl-ruby (= 0.6.4)
+  ym4r (= 0.6.1)
