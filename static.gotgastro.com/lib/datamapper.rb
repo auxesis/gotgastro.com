@@ -1,14 +1,13 @@
+#!/usr/bin/env ruby
+
 require 'rubygems'
-Gem.path << File.expand_path(File.join(File.dirname(__FILE__), '..', 'gems'))
+require 'bundler/setup'
+require 'extlib'
+require 'data_mapper'
+require 'pathname'
+$: << (Pathname.new(__FILE__).parent.parent + 'lib').expand_path
+require 'gastro/penalty'
 
-require 'dm-core'
-require 'dm-validations'
-
-url = "sqlite3://#{File.expand_path(File.join(File.dirname(__FILE__), 'gastro.db'))}"
-DataMapper.setup(:default, url)
-
-require 'lib/models/notice'
-require 'lib/models/penalty'
-require 'lib/models/prosecution'
-require 'lib/models/postcode'
+database_path = (Pathname.new(__FILE__).parent.parent + 'data' + 'nswfa-penalty_notices.sqlite').expand_path
+DataMapper.setup(:default, "sqlite:///#{database_path}")
 
