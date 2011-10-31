@@ -13,11 +13,13 @@ page = open(url).read
 doc = Nokogiri::HTML(page)
 doc.css("table.table-data-pen tr a").each do |link|
   next if link['href'] !~ /itemId/
-  exists = File.exists?(File.join(File.dirname(__FILE__), 'cache', 'penalties', link.text + '.html'))
+  exists = File.exists?(File.join(File.dirname(__FILE__), 'data', 'cache', 'penalties', link.text + '.html'))
   @exists[link.text] = exists
 end
 
 new_updates = @exists.find_all {|n| n.last == false }
+
+p new_updates
 
 if new_updates.size > 0
   puts "#{new_updates.size} unprocessed penalty notice#{new_updates.size > 1 ? "s" : ""}."
