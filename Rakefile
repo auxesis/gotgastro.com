@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 require 'rubygems'
 require 'rake'
@@ -15,8 +16,16 @@ task 'spec' do
 end
 
 desc "crawl, extract, geocode penalties"
-task :shebang do 
+task :shebang do
   ruby "scraper.rb --crawl --penalties"
   ruby "scraper.rb --extract --penalties"
   ruby "scraper.rb --geocode --penalties"
+end
+
+
+desc "Fetch the latest penalty notices from scraperwiki.com"
+task :fetch do
+  source      = "https://scraperwiki.com/scrapers/export_sqlite/nsw_food_authority_-_register_of_penalty_notices/"
+  destination = "nswfa-penalty_notices.sqlite"
+  system("wget --no-check-certificate -c #{source} -O #{destination}")
 end
