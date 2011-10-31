@@ -26,3 +26,17 @@ desc "Geocode the latest penalty notices"
 task :geocode do
   ruby "bin/geocode"
 end
+
+desc "Build the website"
+task :build do
+  Dir.chdir("static.gotgastro.com") do
+    system("rm -rf output/")
+    system("nanoc3 co")
+  end
+end
+
+desc "Deploy the website"
+task :deploy do
+  system("rsync -auv --delete -e ssh static.gotgastro.com/output/* p:/srv/www/gotgastro.com/root/")
+end
+
