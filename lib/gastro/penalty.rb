@@ -23,6 +23,11 @@ class Penalty
   property :longitude,    String
   property :date_scraped, String
 
+
+  def url
+    self.details_link
+  end
+
   def geocode(opts={})
     force = opts[:force]
 
