@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby 
+#!/usr/bin/env ruby
 
 require 'yajl/json_gem'
 
@@ -29,7 +29,7 @@ def inline_notices
 end
 
 def notices
-  Notice.all(:latitude => (-45.184101..-10.447478),
-             :longitude => (108.896484..157.412109),
-             :order => [:offence_date.desc])
+  Penalty.all(:latitude => (-45.184101..-10.447478),
+              :longitude => (108.896484..157.412109),
+              :order => [:date.desc])
 end
