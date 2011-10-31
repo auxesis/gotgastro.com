@@ -10,3 +10,4 @@ bin/*
 vendor/gems/*
 !vendor/gems/cache/
 cache/*
+*.sqlite
