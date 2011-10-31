@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" 
+<feed xmlns="http://www.w3.org/2005/Atom"
      xmlns:georss="http://www.georss.org/georss">
   <title>Gastro</title>
   <subtitle>NSW food authority penalty notices</subtitle>
 	<% base_url = @site.config[:base_url] -%>
   <link href="<%= base_url %>/"/>
   <link href="<%= base_url %>/notices.rss" rel="self" type="application/rss+xml" />
-  <% @notices = Notice.all(:latitude.not => nil, :order => [:action_date.desc], :limit => 20) -%>
+  <% @notices = Penalty.all(:latitude.not => nil, :order => [:action_date.desc], :limit => 20) -%>
   <updated><%= @item.mtime.strftime("%Y-%m-%dT%H:%M:%S+10:00") %></updated>
   <author>
     <name>Gastro</name>

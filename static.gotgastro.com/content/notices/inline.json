@@ -1,9 +1,9 @@
-<% 
+<%
 	attrs = %w(id latitude longitude address url trading_name offence_code offence_description action_date type)
 	filtered = notices.map {|n| n.attributes.delete_if {|k,v| attrs.include?(k.to_s) == false }}
 %>
 
-<%= 
+<%=
 	Yajl::Encoder.encode(filtered, :pretty => true)
 %>
 
