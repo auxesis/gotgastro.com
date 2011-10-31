@@ -6,7 +6,7 @@
 	<% base_url = @site.config[:base_url] -%>
   <link href="<%= base_url %>/"/>
   <link href="<%= base_url %>/notices.rss" rel="self" type="application/rss+xml" />
-  <% @notices = Penalty.all(:latitude.not => nil, :order => [:action_date.desc], :limit => 20) -%>
+  <% @notices = Penalty.all(:latitude.not => nil, :order => [:date_served.desc], :limit => 20) -%>
   <updated><%= @item.mtime.strftime("%Y-%m-%dT%H:%M:%S+10:00") %></updated>
   <author>
     <name>Gastro</name>
@@ -18,7 +18,7 @@
     <title><%= escape(n.trading_name) %></title>
     <link href="<%= escape(n.url) %>"/>
     <id><%= escape(n.url) %></id>
-    <updated><%= n.action_date.strftime("%Y-%m-%dT00:00:00-00:00") %></updated>
+    <updated><%= n.date_served + "T00:00:00-00:00" %></updated>
     <summary><%= escape(n.offence_description) %></summary>
     <content>
       <![CDATA[

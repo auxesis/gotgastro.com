@@ -32,4 +32,5 @@ def notices
   Penalty.all(:latitude => (-45.184101..-10.447478),
               :longitude => (108.896484..157.412109),
               :order => [:date.desc])
+  Penalty.all
 end

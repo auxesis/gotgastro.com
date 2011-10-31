@@ -33,9 +33,8 @@
         - @notices = Penalty.all(:latitude.not => nil, :order => [:date.desc], :limit => 10)
         - @notices.each do |n|
           %li
-            - offence_type = n.type.to_s.downcase == "prosecution" ? "prosecution" : "" # highlight prosecutions
-            %a{:href => n.url, :target => '_blank', :class => offence_type}
-              = n.action_date.to_s + ':'
+            %a{:href => n.url, :target => '_blank', :class => "penalty"}
+              = n.date_served.to_s + ':'
               = n.trading_name
       = link_to '(feed)', '/notices.rss'
 
@@ -57,8 +56,8 @@
           = link_to 'GeoRSS', '/notices.rss'
           feed. (you can paste this directly into Google Maps)
         %li
-          Check out the code at
-          = link_to('code.gotgastro.com', 'http://code.gotgastro.com/')
+          Check out the code on
+          = link_to('GitHub', 'http://github.com/auxesis/gotgastro.com')
 
 
 :javascript
