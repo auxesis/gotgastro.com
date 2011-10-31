@@ -28,6 +28,38 @@ class Penalty
     self.details_link
   end
 
+  def type
+    self.class.to_s.downcase
+  end
+
+  def trading_name
+    self.trade_name
+  end
+
+  def offence_description
+    self.notice
+  end
+
+  def offence_code
+    self.code
+  end
+
+  def penalty_amount
+    self.penalty
+  end
+
+  def served_to
+    self.party_served
+  end
+
+  def pursued_by
+    self.issued_by
+  end
+
+  def council_area
+    self.council
+  end
+
   def geocode(opts={})
     force = opts[:force]
 
