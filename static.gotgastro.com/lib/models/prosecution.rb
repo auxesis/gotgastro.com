@@ -1,2 +1,0 @@
-class Prosecution < Notice
-end
