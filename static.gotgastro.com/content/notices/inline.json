@@ -1,5 +1,5 @@
 <%
-	attrs = %w(id latitude longitude address url trade_name offence_code notice date_served)
+	attrs = %w(id latitude longitude address trade_name offence_code notice date_served details_link)
 	filtered = notices.map {|n| n.attributes.delete_if {|k,v| attrs.include?(k.to_s) == false }}
 %>
 

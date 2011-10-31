@@ -7,13 +7,13 @@ html {
   font-size: 62.5%;
 }
 
-body { 
+body {
   font-size: 2em;
   background-color: #1F2226;
 }
 
-a { 
-  text-decoration: none; 
+a {
+  text-decoration: none;
   color: #15227F;
 }
 
@@ -37,7 +37,7 @@ div#header {
 
 div#container {
   width: 850px;
-  margin: auto; 
+  margin: auto;
   clear: both;
 }
 
@@ -49,7 +49,7 @@ div#status {
 }
 
 div#map {
-  margin: 0.5em auto 0.5em auto;
+  margin: 8px auto 8px auto;
   border: 8px solid #8A2E00;
 }
 
@@ -73,7 +73,7 @@ div#info {
   width: 750px;
 }
 
-div.info { 
+div.info {
   float: left;
   background-color: white;
   padding: 1em;

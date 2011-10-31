@@ -22,7 +22,6 @@ function setupMarkers() {
 	markers = []
 
 	//console.time('markers')
-    console.log(notices);
 	notices.each(function(notice) {
 		notice = new Hash(notice);
 		var lat = notice.get('latitude');
@@ -30,11 +29,11 @@ function setupMarkers() {
 		var type = 'penalty'; //notice.get('type').toLowerCase();
 
 		content = new Element('div', { id: 'info-' + notice.get('id'), 'class': 'notice marker' });
-		title	= new Element('h4', { html: notice.get('trading_name') });
-		pdate	= new Element('p', { html: notice.get('penalty_date') });
+		title	= new Element('h4', { html: notice.get('trade_name') });
+		pdate	= new Element('p', { html: notice.get('date_served') });
 		address	= new Element('p', { html: notice.get('address') });
-		offence	= new Element('p', { html: notice.get('offence_description') + ' ', 'class': type + '-description' });
-		link    = new Element('a', { href: notice.get('url'), html: '(link)', target: '_blank' });
+		offence	= new Element('p', { html: notice.get('notice') + ' ', 'class': type + '-description' });
+		link    = new Element('a', { href: notice.get('details_link'), html: '(link)', target: '_blank' });
 
 		content.grab(title).grab(pdate).grab(address).grab(offence.grab(link));
 
