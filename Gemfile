@@ -12,6 +12,8 @@ gem "extlib"
 # web app
 gem "nanoc3"
 gem "haml"
+gem "erubis"
+gem "rainpress"
 
 group :testing do
   gem "cucumber"

@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    abstract (1.0.0)
     addressable (2.2.6)
     aruba (0.3.6)
       childprocess (>= 0.1.7)
@@ -55,6 +56,8 @@ GEM
       dm-core (~> 1.2.0)
     do_sqlite3 (0.10.7)
       data_objects (= 0.10.7)
+    erubis (2.6.5)
+      abstract (>= 1.0.0)
     extlib (0.9.15)
     ffi (1.0.9)
     geokit (1.6.0)
@@ -63,6 +66,7 @@ GEM
     haml (3.1.2)
     json (1.5.3)
     nanoc3 (3.0.2)
+    rainpress (1.0)
     rspec (2.6.0)
       rspec-core (~> 2.6.0)
       rspec-expectations (~> 2.6.0)
@@ -82,8 +86,10 @@ DEPENDENCIES
   cucumber
   data_mapper
   dm-sqlite-adapter
+  erubis
   extlib
   geokit
   haml
   nanoc3
+  rainpress
   yajl-ruby
