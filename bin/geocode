@@ -8,7 +8,7 @@ require 'extlib'
 require 'data_mapper'
 require 'open-uri'
 require 'pathname'
-$: << (Pathname.new(__FILE__).parent + 'lib').expand_path
+$: << (Pathname.new(__FILE__).parent.parent + 'lib').expand_path.to_s
 require 'gastro/penalty'
 
 DataMapper::Logger.new($stdout, :debug)
