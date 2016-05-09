@@ -1,3 +1,5 @@
+**DEPRECATED: Check out [the reboot](https://github.com/auxesis/gastro).**
+
 
 Gastro
 ======
